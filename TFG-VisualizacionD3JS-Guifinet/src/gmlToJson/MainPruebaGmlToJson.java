@@ -15,7 +15,7 @@ import org.jdom2.input.SAXBuilder;
 import org.jdom2.util.NamespaceStack;
 import org.xml.sax.helpers.NamespaceSupport;
 
-public class MainGmlToJson {
+public class MainPruebaGmlToJson {
 
 	public static void main(String[] args) {
 		jsonPorZona generen=new jsonPorZona("nodes.xml", "links.xml", 312456);

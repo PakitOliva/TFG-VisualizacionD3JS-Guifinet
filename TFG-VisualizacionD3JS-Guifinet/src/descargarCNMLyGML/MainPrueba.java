@@ -1,6 +1,6 @@
 package descargarCNMLyGML;
 
-public class Main {
+public class MainPrueba {
 
 	public static void main(String[] args) {
 		//GML de Abla

@@ -53,7 +53,7 @@ public class jsonPorZona {
 		FileWriter fichero = null;
         try
         {
-            fichero = new FileWriter("guifi-zona-"+idZona+".json");
+            fichero = new FileWriter("web/datos/guifi-zona-"+idZona+".json");
             fichero.write(texto);
             fichero.flush();
         } catch (Exception e) {

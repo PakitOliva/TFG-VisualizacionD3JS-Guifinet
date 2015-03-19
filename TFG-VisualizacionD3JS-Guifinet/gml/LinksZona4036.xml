@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.190303</gml:X><gml:Y>41.980624</gml:Y></gml:coord>
+<gml:coord><gml:X>2.426742</gml:X><gml:Y>42.011208</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="64819">
+          <NODE1_ID>6955</NODE1_ID>
+          <NODE1_NAME>TavertetDiposit</NODE1_NAME>
+          <NODE2_ID>53156</NODE2_ID>
+          <NODE2_NAME>SBGGM</NODE2_NAME>
+          <KMS>19.285</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422032,41.996639 2.190303,41.980624</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64832">
+          <NODE1_ID>23689</NODE1_ID>
+          <NODE1_NAME>TavertetBaix11b</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417751,41.995345 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64835">
+          <NODE1_ID>61934</NODE1_ID>
+          <NODE1_NAME>TavertetCastell13</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417012,41.993763 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64836">
+          <NODE1_ID>61935</NODE1_ID>
+          <NODE1_NAME>TavertetCabrera3</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.273</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418764,41.996301 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64837">
+          <NODE1_ID>61936</NODE1_ID>
+          <NODE1_NAME>TavertetCanCasals</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419652,41.995051 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64839">
+          <NODE1_ID>61939</NODE1_ID>
+          <NODE1_NAME>TavertetCalPetitPrin</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417857,41.994660 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64840">
+          <NODE1_ID>61940</NODE1_ID>
+          <NODE1_NAME>TavertetCanJufre</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419772,41.995882 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64841">
+          <NODE1_ID>61941</NODE1_ID>
+          <NODE1_NAME>TavertetEGuti</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417820,41.994684 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64842">
+          <NODE1_ID>61942</NODE1_ID>
+          <NODE1_NAME>TavertetCanFarres</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418793,41.997369 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64849">
+          <NODE1_ID>61949</NODE1_ID>
+          <NODE1_NAME>TavertetCanBaumes</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418388,41.995938 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64852">
+          <NODE1_ID>60773</NODE1_ID>
+          <NODE1_NAME>TavertetBalmes7b</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.33</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418054,41.996498 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64854">
+          <NODE1_ID>61951</NODE1_ID>
+          <NODE1_NAME>TavertetBalmes37-39</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.465</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416819,41.995091 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64855">
+          <NODE1_ID>61952</NODE1_ID>
+          <NODE1_NAME>TavertetCanPujolRiu</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419122,41.995814 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64856">
+          <NODE1_ID>61953</NODE1_ID>
+          <NODE1_NAME>TavertetAlzina</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.262</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418903,41.996992 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64863">
+          <NODE1_ID>61960</NODE1_ID>
+          <NODE1_NAME>TavertetMig22</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417822,41.994897 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64864">
+          <NODE1_ID>61961</NODE1_ID>
+          <NODE1_NAME>TavertetApartCanNogu</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417197,41.994038 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64865">
+          <NODE1_ID>61962</NODE1_ID>
+          <NODE1_NAME>TavertetCanBaro</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.274</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418911,41.995810 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64866">
+          <NODE1_ID>61963</NODE1_ID>
+          <NODE1_NAME>TavertetCanMolina</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.352</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418249,41.995198 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64867">
+          <NODE1_ID>61964</NODE1_ID>
+          <NODE1_NAME>TavertetMig24</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.406</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417739,41.994873 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64871">
+          <NODE1_ID>61968</NODE1_ID>
+          <NODE1_NAME>TavertetCanMas</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422838,41.994734 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64872">
+          <NODE1_ID>61969</NODE1_ID>
+          <NODE1_NAME>TavertetCanNogue</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419370,41.995988 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64877">
+          <NODE1_ID>61938</NODE1_ID>
+          <NODE1_NAME>TavertetEscoles3</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417895,41.994642 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64883">
+          <NODE1_ID>61882</NODE1_ID>
+          <NODE1_NAME>TavertetECodinach</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.353</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417786,41.996364 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65042">
+          <NODE1_ID>62153</NODE1_ID>
+          <NODE1_NAME>TavertetEstrella</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.261</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418962,41.996123 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65597">
+          <NODE1_ID>62594</NODE1_ID>
+          <NODE1_NAME>TavertetPlanas</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417283,41.994094 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65865">
+          <NODE1_ID>61971</NODE1_ID>
+          <NODE1_NAME>TavertetCanElias</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.261</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418913,41.996964 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67475">
+          <NODE1_ID>64035</NODE1_ID>
+          <NODE1_NAME>TavertetCabrera6</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418582,41.996329 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70890">
+          <NODE1_ID>66495</NODE1_ID>
+          <NODE1_NAME>TavertetEnricB</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422282,41.996190 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70987">
+          <NODE1_ID>66571</NODE1_ID>
+          <NODE1_NAME>TavertetCanGosc</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.259</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418948,41.997037 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74463">
+          <NODE1_ID>69560</NODE1_ID>
+          <NODE1_NAME>TavertetLaCoromina</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.225</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419646,41.995666 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74534">
+          <NODE1_ID>69634</NODE1_ID>
+          <NODE1_NAME>TaveretAlzina</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.481</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416580,41.995148 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77008">
+          <NODE1_ID>71944</NODE1_ID>
+          <NODE1_NAME>TavertetBalmes9</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.339</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417966,41.996270 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77109">
+          <NODE1_ID>72044</NODE1_ID>
+          <NODE1_NAME>TavertetLaCabanya</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419702,41.996241 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77701">
+          <NODE1_ID>72606</NODE1_ID>
+          <NODE1_NAME>TavertetCanVila</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.326</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418243,41.995844 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79135">
+          <NODE1_ID>73701</NODE1_ID>
+          <NODE1_NAME>TavertetCastell</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>2.483</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.397494,41.983814 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79136">
+          <NODE1_ID>61930</NODE1_ID>
+          <NODE1_NAME>TavertetElNoguer</NODE1_NAME>
+          <NODE2_ID>73701</NODE2_ID>
+          <NODE2_NAME>TavertetCastell</NODE2_NAME>
+          <KMS>1.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.384379,41.997371 2.397494,41.983814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79137">
+          <NODE1_ID>12670</NODE1_ID>
+          <NODE1_NAME>TavertetSubiranas</NODE1_NAME>
+          <NODE2_ID>73701</NODE2_ID>
+          <NODE2_NAME>TavertetCastell</NODE2_NAME>
+          <KMS>2.49</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.381574,42.002829 2.397494,41.983814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79138">
+          <NODE1_ID>61931</NODE1_ID>
+          <NODE1_NAME>TavertetElSunyer</NODE1_NAME>
+          <NODE2_ID>73701</NODE2_ID>
+          <NODE2_NAME>TavertetCastell</NODE2_NAME>
+          <KMS>2.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.409686,42.005380 2.397494,41.983814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79139">
+          <NODE1_ID>73702</NODE1_ID>
+          <NODE1_NAME>TvrttSnyr</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>1.263</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.410449,42.004036 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79140">
+          <NODE1_ID>61950</NODE1_ID>
+          <NODE1_NAME>TavertetCalCisteller</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419043,41.995250 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79141">
+          <NODE1_ID>61943</NODE1_ID>
+          <NODE1_NAME>TavertetAlzina2</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417322,41.994804 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79142">
+          <NODE1_ID>52357</NODE1_ID>
+          <NODE1_NAME>TavertetMasElPunti</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422889,42.006558 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79143">
+          <NODE1_ID>61972</NODE1_ID>
+          <NODE1_NAME>TavertetTorreDeLaVal</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>0.864</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.420881,42.003961 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79144">
+          <NODE1_ID>61970</NODE1_ID>
+          <NODE1_NAME>TavertetCabrera9</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418632,41.996095 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79145">
+          <NODE1_ID>61959</NODE1_ID>
+          <NODE1_NAME>TavertetCanPalat</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418930,41.995230 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79146">
+          <NODE1_ID>61944</NODE1_ID>
+          <NODE1_NAME>TavertetCanMiquel</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419129,41.996693 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79147">
+          <NODE1_ID>61933</NODE1_ID>
+          <NODE1_NAME>TavertetCabrera5-7</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418678,41.996157 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79148">
+          <NODE1_ID>61956</NODE1_ID>
+          <NODE1_NAME>TavertetCanVilageliu</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416548,41.994148 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79149">
+          <NODE1_ID>61958</NODE1_ID>
+          <NODE1_NAME>TavertetCabanyaPunti</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.423191,42.006313 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79150">
+          <NODE1_ID>62146</NODE1_ID>
+          <NODE1_NAME>TavertetBalmes5</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418218,41.996570 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79151">
+          <NODE1_ID>61947</NODE1_ID>
+          <NODE1_NAME>TavertetMonteisAux</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.33</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.425762,42.000445 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79152">
+          <NODE1_ID>61946</NODE1_ID>
+          <NODE1_NAME>TavertetMonteis</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.426742,42.000341 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79153">
+          <NODE1_ID>61957</NODE1_ID>
+          <NODE1_NAME>TavertetFavesComptad</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418638,41.996036 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79154">
+          <NODE1_ID>61967</NODE1_ID>
+          <NODE1_NAME>TavertetCanPere</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416157,41.994014 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79155">
+          <NODE1_ID>61955</NODE1_ID>
+          <NODE1_NAME>TavertetCanBassas</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417129,41.996024 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79156">
+          <NODE1_ID>28480</NODE1_ID>
+          <NODE1_NAME>EDARTavertet</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>0.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.413667,41.996878 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79157">
+          <NODE1_ID>40257</NODE1_ID>
+          <NODE1_NAME>TavertetCastell1</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417566,41.994305 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79158">
+          <NODE1_ID>61937</NODE1_ID>
+          <NODE1_NAME>TavertetBach2</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.137</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417981,41.995479 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79159">
+          <NODE1_ID>61948</NODE1_ID>
+          <NODE1_NAME>TavertetBach4</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417932,41.995434 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79160">
+          <NODE1_ID>61945</NODE1_ID>
+          <NODE1_NAME>TavertetCanJep</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418807,41.994915 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79161">
+          <NODE1_ID>61965</NODE1_ID>
+          <NODE1_NAME>TavertetAjuntament</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418490,41.996827 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79162">
+          <NODE1_ID>61966</NODE1_ID>
+          <NODE1_NAME>TavertetCanGibert</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>0.995</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418327,41.997279 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79163">
+          <NODE1_ID>61954</NODE1_ID>
+          <NODE1_NAME>TavertetElRefugi</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417203,41.995786 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79164">
+          <NODE1_ID>62593</NODE1_ID>
+          <NODE1_NAME>TavertetCanJan</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416605,41.994808 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79165">
+          <NODE1_ID>63683</NODE1_ID>
+          <NODE1_NAME>TavertetLesCases</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419201,42.002460 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79166">
+          <NODE1_ID>73704</NODE1_ID>
+          <NODE1_NAME>TvrttCnJpN</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.219</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418706,41.994955 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79167">
+          <NODE1_ID>61932</NODE1_ID>
+          <NODE1_NAME>TavertetCanMateu</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418488,41.995248 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79168">
+          <NODE1_ID>68512</NODE1_ID>
+          <NODE1_NAME>TavertetAnneMaria</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418042,41.994602 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79169">
+          <NODE1_ID>63684</NODE1_ID>
+          <NODE1_NAME>TavertetLaCareda</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.421874,42.009842 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79170">
+          <NODE1_ID>64994</NODE1_ID>
+          <NODE1_NAME>TavertetMarcel</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416729,41.995315 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79171">
+          <NODE1_ID>66661</NODE1_ID>
+          <NODE1_NAME>TavertetCalelles</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416609,41.995181 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79172">
+          <NODE1_ID>69543</NODE1_ID>
+          <NODE1_NAME>TavertetElQuinta</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417499,41.995101 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79526">
+          <NODE1_ID>73702</NODE1_ID>
+          <NODE1_NAME>TvrttSnyr</NODE1_NAME>
+          <NODE2_ID>74111</NODE2_ID>
+          <NODE2_NAME>TavertetLera</NODE2_NAME>
+          <KMS>1.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.410449,42.004036 2.417411,41.994780</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80880">
+          <NODE1_ID>6955</NODE1_ID>
+          <NODE1_NAME>TavertetDiposit</NODE1_NAME>
+          <NODE2_ID>75090</NODE2_ID>
+          <NODE2_NAME>TavertetSergi</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422032,41.996639 2.417062,41.994183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81074">
+          <NODE1_ID>75249</NODE1_ID>
+          <NODE1_NAME>TavertetCalCorder</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417630,41.995418 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81117">
+          <NODE1_ID>75271</NODE1_ID>
+          <NODE1_NAME>TavertetGuillarias2</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419175,41.995165 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121976">
+          <NODE1_ID>40741</NODE1_ID>
+          <NODE1_NAME>TavertetCalCateri</NODE1_NAME>
+          <NODE2_ID>6955</NODE2_ID>
+          <NODE2_NAME>TavertetDiposit</NODE2_NAME>
+          <KMS>0.366</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417642,41.996255 2.422032,41.996639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122395">
+          <NODE1_ID>15514</NODE1_ID>
+          <NODE1_NAME>TavertetElMone</NODE1_NAME>
+          <NODE2_ID>3117</NODE2_ID>
+          <NODE2_NAME>SMSColomXic</NODE2_NAME>
+          <KMS>2.187</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.350453,42.011208 2.326092,42.003631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122495">
+          <NODE1_ID>76476</NODE1_ID>
+          <NODE1_NAME>TavertetCanSanchez</NODE1_NAME>
+          <NODE2_ID>73702</NODE2_ID>
+          <NODE2_NAME>TvrttSnyr</NODE2_NAME>
+          <KMS>1.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422469,42.002822 2.410449,42.004036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123197">
+          <NODE1_ID>14387</NODE1_ID>
+          <NODE1_NAME>TavertetElLlobet</NODE1_NAME>
+          <NODE2_ID>3117</NODE2_ID>
+          <NODE2_NAME>SMSColomXic</NODE2_NAME>
+          <KMS>1.859</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.348523,42.003923 2.326092,42.003631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123779">
+          <NODE1_ID>37157</NODE1_ID>
+          <NODE1_NAME>TavertetMasLesBaumes</NODE1_NAME>
+          <NODE2_ID>73701</NODE2_ID>
+          <NODE2_NAME>TavertetCastell</NODE2_NAME>
+          <KMS>1.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.401296,41.994445 2.397494,41.983814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

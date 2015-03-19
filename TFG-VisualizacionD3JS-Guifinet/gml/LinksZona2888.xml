@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.950861</gml:X><gml:Y>41.799623</gml:Y></gml:coord>
+<gml:coord><gml:X>2.197142</gml:X><gml:Y>41.822612</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="10932">
+          <NODE1_ID>12778</NODE1_ID>
+          <NODE1_NAME>MoiaMontbru</NODE1_NAME>
+          <NODE2_ID>6676</NODE2_ID>
+          <NODE2_NAME>Puigsagordi</NODE2_NAME>
+          <KMS>9.6</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.084228,41.801243 2.197142,41.819532</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13161">
+          <NODE1_ID>17259</NODE1_ID>
+          <NODE1_NAME>Moiaforn26</NODE1_NAME>
+          <NODE2_ID>12779</NODE2_ID>
+          <NODE2_NAME>MoiaMontvi</NODE2_NAME>
+          <KMS>1.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096887,41.810818 2.093502,41.822612</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19210">
+          <NODE1_ID>23903</NODE1_ID>
+          <NODE1_NAME>MoiaMiniMini</NODE1_NAME>
+          <NODE2_ID>6676</NODE2_ID>
+          <NODE2_NAME>Puigsagordi</NODE2_NAME>
+          <KMS>8.515</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095055,41.812783 2.197142,41.819532</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26045">
+          <NODE1_ID>12779</NODE1_ID>
+          <NODE1_NAME>MoiaMontvi</NODE1_NAME>
+          <NODE2_ID>12778</NODE2_ID>
+          <NODE2_NAME>MoiaMontbru</NODE2_NAME>
+          <KMS>2.495</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093502,41.822612 2.084228,41.801243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32961">
+          <NODE1_ID>37637</NODE1_ID>
+          <NODE1_NAME>Moiafemid</NODE1_NAME>
+          <NODE2_ID>12778</NODE2_ID>
+          <NODE2_NAME>MoiaMontbru</NODE2_NAME>
+          <KMS>1.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.089368,41.810927 2.084228,41.801243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34284">
+          <NODE1_ID>38910</NODE1_ID>
+          <NODE1_NAME>ankau</NODE1_NAME>
+          <NODE2_ID>12778</NODE2_ID>
+          <NODE2_NAME>MoiaMontbru</NODE2_NAME>
+          <KMS>1.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.087732,41.811088 2.084228,41.801243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35054">
+          <NODE1_ID>37432</NODE1_ID>
+          <NODE1_NAME>MVrgMntsrrt29</NODE1_NAME>
+          <NODE2_ID>12778</NODE2_ID>
+          <NODE2_NAME>MoiaMontbru</NODE2_NAME>
+          <KMS>1.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.087837,41.811124 2.084228,41.801243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70547">
+          <NODE1_ID>56226</NODE1_ID>
+          <NODE1_NAME>MoiaPavello</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.784</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.098544,41.805906 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70553">
+          <NODE1_ID>66229</NODE1_ID>
+          <NODE1_NAME>MoiaEBressol</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.492</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102680,41.811311 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70555">
+          <NODE1_ID>66230</NODE1_ID>
+          <NODE1_NAME>MoiaGossera</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>1.939</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.120415,41.811581 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71209">
+          <NODE1_ID>66747</NODE1_ID>
+          <NODE1_NAME>MoiaAteneu</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096846,41.812217 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75653">
+          <NODE1_ID>70212</NODE1_ID>
+          <NODE1_NAME>MoiaVall16</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.099072,41.813203 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76518">
+          <NODE1_ID>47165</NODE1_ID>
+          <NODE1_NAME>Moia-ramonmolera11</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.625</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.098277,41.807324 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77024">
+          <NODE1_ID>71932</NODE1_ID>
+          <NODE1_NAME>MPss28</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.099198,41.814121 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77159">
+          <NODE1_ID>37430</NODE1_ID>
+          <NODE1_NAME>MCng1</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.443</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102203,41.814170 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77250">
+          <NODE1_ID>72137</NODE1_ID>
+          <NODE1_NAME>RCrespiera</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.100735,41.812437 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77476">
+          <NODE1_ID>37839</NODE1_ID>
+          <NODE1_NAME>MoiaStJosep17-19,3-3</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095690,41.812054 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79312">
+          <NODE1_ID>37430</NODE1_ID>
+          <NODE1_NAME>MCng1</NODE1_NAME>
+          <NODE2_ID>6676</NODE2_ID>
+          <NODE2_NAME>Puigsagordi</NODE2_NAME>
+          <KMS>7.911</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102203,41.814170 2.197142,41.819532</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80979">
+          <NODE1_ID>75155</NODE1_ID>
+          <NODE1_NAME>Moiatbg</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.39</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.101822,41.812540 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121405">
+          <NODE1_ID>75698</NODE1_ID>
+          <NODE1_NAME>MoiaCtraVic68</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104500,41.808564 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121430">
+          <NODE1_ID>64296</NODE1_ID>
+          <NODE1_NAME>MoiaConsTonPadrisa</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>0.438</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102305,41.813724 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121648">
+          <NODE1_ID>75899</NODE1_ID>
+          <NODE1_NAME>MoiHostalLaGrossa</NODE1_NAME>
+          <NODE2_ID>2787</NODE2_ID>
+          <NODE2_NAME>ARTCampanarVell</NODE2_NAME>
+          <KMS>7.274</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.037964,41.806096 1.950861,41.799623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123657">
+          <NODE1_ID>77102</NODE1_ID>
+          <NODE1_NAME>MoiaLaPorquera</NODE1_NAME>
+          <NODE2_ID>12777</NODE2_ID>
+          <NODE2_NAME>MoiaAj</NODE2_NAME>
+          <KMS>1.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.090629,41.802754 2.097149,41.812890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

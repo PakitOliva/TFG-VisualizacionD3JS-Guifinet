@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.117601</gml:X><gml:Y>41.877596</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.133228</gml:X><gml:Y>41.885063</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="29655">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.133228,41.879307</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29655</NODE_ID>
+      <NODE_NAME>Vbrga-RavalBaix</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37306">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.126367,41.880688</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37306</NODE_ID>
+      <NODE_NAME>Vbrga-Ajuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37497">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.127241,41.877596</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37497</NODE_ID>
+      <NODE_NAME>Vbrga-Vinyes3</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41720">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.117601,41.884845</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41720</NODE_ID>
+      <NODE_NAME>Vbrga-MasFalquet11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44802">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.121579,41.884807</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44802</NODE_ID>
+      <NODE_NAME>Vbrga-Piscina10</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56739">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.132027,41.885063</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56739</NODE_ID>
+      <NODE_NAME>Vbrga-RocaAgria9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

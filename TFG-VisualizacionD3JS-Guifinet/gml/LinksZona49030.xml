@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.548766</gml:X><gml:Y>43.349090</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.365690</gml:X><gml:Y>43.496809</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="78968">
+          <NODE1_ID>73602</NODE1_ID>
+          <NODE1_NAME>CBRNSPandenesBis</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.472109,43.414406 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78969">
+          <NODE1_ID>62863</NODE1_ID>
+          <NODE1_NAME>CBRNSPandenes</NODE1_NAME>
+          <NODE2_ID>73602</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenesBis</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.472196,43.414259 -5.472109,43.414406</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78975">
+          <NODE1_ID>62863</NODE1_ID>
+          <NODE1_NAME>CBRNSPandenes</NODE1_NAME>
+          <NODE2_ID>49213</NODE2_ID>
+          <NODE2_NAME>PILOMonCayon</NODE2_NAME>
+          <KMS>10.455</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.472196,43.414259 -5.365690,43.361130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79017">
+          <NODE1_ID>61748</NODE1_ID>
+          <NODE1_NAME>VLLVCSPando</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>10.624</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.405932,43.496809 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79242">
+          <NODE1_ID>69391</NODE1_ID>
+          <NODE1_NAME>NAVADiwoland</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>5.686</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.530123,43.385361 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79536">
+          <NODE1_ID>65230</NODE1_ID>
+          <NODE1_NAME>NAVARemedioSierra20</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>8.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.548766,43.367463 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79543">
+          <NODE1_ID>62863</NODE1_ID>
+          <NODE1_NAME>CBRNSPandenes</NODE1_NAME>
+          <NODE2_ID>73940</NODE2_ID>
+          <NODE2_NAME>NAVAOvin3</NODE2_NAME>
+          <KMS>7.377</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.472196,43.414259 -5.490773,43.349261</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122074">
+          <NODE1_ID>76052</NODE1_ID>
+          <NODE1_NAME>NAVAVillaMartinAlt25</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>5.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.527611,43.384417 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122075">
+          <NODE1_ID>62508</NODE1_ID>
+          <NODE1_NAME>NAVAGamonedo2</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>7.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.515756,43.356110 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123601">
+          <NODE1_ID>75027</NODE1_ID>
+          <NODE1_NAME>NAVACorba1</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>7.24</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.472092,43.349090 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123602">
+          <NODE1_ID>73671</NODE1_ID>
+          <NODE1_NAME>NAVABuyeres16</NODE1_NAME>
+          <NODE2_ID>62863</NODE2_ID>
+          <NODE2_NAME>CBRNSPandenes</NODE2_NAME>
+          <KMS>7.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.483510,43.349927 -5.472196,43.414259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

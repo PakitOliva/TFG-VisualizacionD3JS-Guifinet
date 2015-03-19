@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.177251</gml:X><gml:Y>38.830470</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.092901</gml:X><gml:Y>38.855018</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="22972">
+          <NODE1_ID>28204</NODE1_ID>
+          <NODE1_NAME>pegoLaplanaMir</NODE1_NAME>
+          <NODE2_ID>28203</NODE2_ID>
+          <NODE2_NAME>pegoAvAlacant28</NODE2_NAME>
+          <KMS>2.358</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.092901,38.855018 -0.115249,38.842940</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28531">
+          <NODE1_ID>33825</NODE1_ID>
+          <NODE1_NAME>pegoAvdaMatadero6</NODE1_NAME>
+          <NODE2_ID>33819</NODE2_ID>
+          <NODE2_NAME>PegoBarDaniel</NODE2_NAME>
+          <KMS>0.519</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.123307,38.841273 -0.117365,38.841797</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28532">
+          <NODE1_ID>33826</NODE1_ID>
+          <NODE1_NAME>PegoMayorazCendra7</NODE1_NAME>
+          <NODE2_ID>33819</NODE2_ID>
+          <NODE2_NAME>PegoBarDaniel</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.117717,38.841824 -0.117365,38.841797</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33574">
+          <NODE1_ID>38540</NODE1_ID>
+          <NODE1_NAME>pego.asoc</NODE1_NAME>
+          <NODE2_ID>37056</NODE2_ID>
+          <NODE2_NAME>pegoCFCervantes</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.119420,38.841566 -0.120935,38.839795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40358">
+          <NODE1_ID>43939</NODE1_ID>
+          <NODE1_NAME>Nod15</NODE1_NAME>
+          <NODE2_ID>33819</NODE2_ID>
+          <NODE2_NAME>PegoBarDaniel</NODE2_NAME>
+          <KMS>0.239</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.118876,38.843598 -0.117365,38.841797</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46644">
+          <NODE1_ID>48708</NODE1_ID>
+          <NODE1_NAME>PegoJaume74</NODE1_NAME>
+          <NODE2_ID>37092</NODE2_ID>
+          <NODE2_NAME>pegoCFConvent</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.115238,38.838061 -0.115850,38.836950</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58405">
+          <NODE1_ID>35911</NODE1_ID>
+          <NODE1_NAME>pegoAjuntament</NODE1_NAME>
+          <NODE2_ID>37093</NODE2_ID>
+          <NODE2_NAME>pegoPolSportiu</NODE2_NAME>
+          <KMS>0.459</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.116926,38.842006 -0.112993,38.844765</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58406">
+          <NODE1_ID>35911</NODE1_ID>
+          <NODE1_NAME>pegoAjuntament</NODE1_NAME>
+          <NODE2_ID>37092</NODE2_ID>
+          <NODE2_NAME>pegoCFConvent</NODE2_NAME>
+          <KMS>0.569</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.116926,38.842006 -0.115850,38.836950</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58407">
+          <NODE1_ID>35911</NODE1_ID>
+          <NODE1_NAME>pegoAjuntament</NODE1_NAME>
+          <NODE2_ID>37056</NODE2_ID>
+          <NODE2_NAME>pegoCFCervantes</NODE2_NAME>
+          <KMS>0.426</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.116926,38.842006 -0.120935,38.839795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63992">
+          <NODE1_ID>33611</NODE1_ID>
+          <NODE1_NAME>gallineraxillibre</NODE1_NAME>
+          <NODE2_ID>61025</NODE2_ID>
+          <NODE2_NAME>PegoSunsioneta</NODE2_NAME>
+          <KMS>4.957</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.177251,38.830470 -0.121225,38.839038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68325">
+          <NODE1_ID>64630</NODE1_ID>
+          <NODE1_NAME>PegoSunsioneta-bis</NODE1_NAME>
+          <NODE2_ID>61025</NODE2_ID>
+          <NODE2_NAME>PegoSunsioneta</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.121239,38.838994 -0.121225,38.839038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

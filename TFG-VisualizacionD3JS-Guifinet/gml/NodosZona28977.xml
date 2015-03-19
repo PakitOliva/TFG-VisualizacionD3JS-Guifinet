@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-86.074464</gml:X><gml:Y>11.912167</gml:Y></gml:coord>
+      <gml:coord><gml:X>-86.069260</gml:X><gml:Y>11.913529</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="28978">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-86.074464,11.912167</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28978</NODE_ID>
+      <NODE_NAME>CatAlcaldia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28985">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-86.069260,11.913529</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28985</NODE_ID>
+      <NODE_NAME>CatMirador</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

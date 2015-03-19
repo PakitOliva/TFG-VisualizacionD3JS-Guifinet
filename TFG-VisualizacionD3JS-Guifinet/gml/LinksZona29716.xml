@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.141786</gml:X><gml:Y>40.418544</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.130710</gml:X><gml:Y>40.458034</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="24461">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.544</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26643">
+          <NODE1_ID>29722</NODE1_ID>
+          <NODE1_NAME>AresClientes</NODE1_NAME>
+          <NODE2_ID>31975</NODE2_ID>
+          <NODE2_NAME>AresVioleta10</NODE2_NAME>
+          <KMS>0.536</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.137780,40.458034 -0.132093,40.455928</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27131">
+          <NODE1_ID>32486</NODE1_ID>
+          <NODE1_NAME>rd19b</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132818,40.456715 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27132">
+          <NODE1_ID>32487</NODE1_ID>
+          <NODE1_NAME>aresvioleta1</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132356,40.456177 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28120">
+          <NODE1_ID>33475</NODE1_ID>
+          <NODE1_NAME>Ares_casapepe</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131283,40.456250 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28122">
+          <NODE1_ID>33477</NODE1_ID>
+          <NODE1_NAME>Ares_edurne</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131407,40.456426 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28489">
+          <NODE1_ID>33798</NODE1_ID>
+          <NODE1_NAME>Ares_obayot</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.512</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132287,40.456115 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28495">
+          <NODE1_ID>33799</NODE1_ID>
+          <NODE1_NAME>Ares_pau</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.672</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131010,40.454883 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34011">
+          <NODE1_ID>38900</NODE1_ID>
+          <NODE1_NAME>Ares_abel</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.526</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132179,40.456009 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34012">
+          <NODE1_ID>38901</NODE1_ID>
+          <NODE1_NAME>Ares_payunt</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131932,40.456180 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35225">
+          <NODE1_ID>39815</NODE1_ID>
+          <NODE1_NAME>Ares_Eres6</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.484</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132490,40.456401 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35226">
+          <NODE1_ID>39816</NODE1_ID>
+          <NODE1_NAME>Ares_Eres6-2</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.484</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132490,40.456401 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35599">
+          <NODE1_ID>40084</NODE1_ID>
+          <NODE1_NAME>AresLesEres14</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132598,40.456393 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36423">
+          <NODE1_ID>40806</NODE1_ID>
+          <NODE1_NAME>Ares_telecentre</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132342,40.456508 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37167">
+          <NODE1_ID>41388</NODE1_ID>
+          <NODE1_NAME>Ares_vicent</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133338,40.456630 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38995">
+          <NODE1_ID>42907</NODE1_ID>
+          <NODE1_NAME>Ares_esther</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131935,40.455762 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40133">
+          <NODE1_ID>43767</NODE1_ID>
+          <NODE1_NAME>rsngl</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131471,40.456373 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40391">
+          <NODE1_ID>43960</NODE1_ID>
+          <NODE1_NAME>Ares_clara</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131788,40.456830 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40392">
+          <NODE1_ID>43961</NODE1_ID>
+          <NODE1_NAME>Ares_prbClientes2</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132635,40.456838 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41701">
+          <NODE1_ID>45060</NODE1_ID>
+          <NODE1_NAME>ares_sergi</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132667,40.456560 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45375">
+          <NODE1_ID>47812</NODE1_ID>
+          <NODE1_NAME>Ares_Nevera10</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131219,40.456685 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45580">
+          <NODE1_ID>47973</NODE1_ID>
+          <NODE1_NAME>maje</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.557</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131949,40.455718 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45581">
+          <NODE1_ID>47979</NODE1_ID>
+          <NODE1_NAME>MajeAres</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.523</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131906,40.456610 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46587">
+          <NODE1_ID>48737</NODE1_ID>
+          <NODE1_NAME>Ares_PauPitarch</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.406</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133305,40.456743 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47054">
+          <NODE1_ID>49108</NODE1_ID>
+          <NODE1_NAME>Ares_PascualT</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131872,40.456590 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47564">
+          <NODE1_ID>49435</NODE1_ID>
+          <NODE1_NAME>HotelAres</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131915,40.456617 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48460">
+          <NODE1_ID>50096</NODE1_ID>
+          <NODE1_NAME>Ares_Abelardo</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131450,40.456807 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49632">
+          <NODE1_ID>50931</NODE1_ID>
+          <NODE1_NAME>Ares_LeonEmilia</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.130710,40.455925 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50665">
+          <NODE1_ID>51828</NODE1_ID>
+          <NODE1_NAME>Ares_JAOrti</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.596</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131605,40.455464 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50688">
+          <NODE1_ID>51841</NODE1_ID>
+          <NODE1_NAME>Ares_JoseAntonioGarc</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.352</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133869,40.456970 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52140">
+          <NODE1_ID>52871</NODE1_ID>
+          <NODE1_NAME>AresCasaColl</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.533</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.141786,40.454332 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55093">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>54847</NODE2_ID>
+          <NODE2_NAME>Ares_FedericoIngrid</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.132485,40.456536</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58506">
+          <NODE1_ID>29722</NODE1_ID>
+          <NODE1_NAME>AresClientes</NODE1_NAME>
+          <NODE2_ID>57392</NODE2_ID>
+          <NODE2_NAME>Ares_EnriqueM</NODE2_NAME>
+          <KMS>0.492</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.137780,40.458034 -0.132421,40.456332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61900">
+          <NODE1_ID>59786</NODE1_ID>
+          <NODE1_NAME>Ares_PaupitarchAlmac</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133888,40.456895 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62332">
+          <NODE1_ID>32563</NODE1_ID>
+          <NODE1_NAME>LaMontalbana</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>4.391</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.135076,40.418544 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62356">
+          <NODE1_ID>60061</NODE1_ID>
+          <NODE1_NAME>AresVioleta20</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.586</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131949,40.455196 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63469">
+          <NODE1_ID>60909</NODE1_ID>
+          <NODE1_NAME>Ares_ManoloMonfortBa</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132147,40.456176 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64232">
+          <NODE1_ID>61425</NODE1_ID>
+          <NODE1_NAME>rspgs20</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133225,40.456622 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64234">
+          <NODE1_ID>61424</NODE1_ID>
+          <NODE1_NAME>arespeguesa20</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133188,40.456473 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64415">
+          <NODE1_ID>29722</NODE1_ID>
+          <NODE1_NAME>AresClientes</NODE1_NAME>
+          <NODE2_ID>61600</NODE2_ID>
+          <NODE2_NAME>Rmnj21</NODE2_NAME>
+          <KMS>0.466</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.137780,40.458034 -0.132421,40.457124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65214">
+          <NODE1_ID>62289</NODE1_ID>
+          <NODE1_NAME>Ares_IreneGasulla</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133464,40.456719 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65215">
+          <NODE1_ID>62290</NODE1_ID>
+          <NODE1_NAME>Ares_IreneGasullaMon</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>4.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.135339,40.418870 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66861">
+          <NODE1_ID>29722</NODE1_ID>
+          <NODE1_NAME>AresClientes</NODE1_NAME>
+          <NODE2_ID>45060</NODE2_ID>
+          <NODE2_NAME>ares_sergi</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.137780,40.458034 -0.132667,40.456560</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66862">
+          <NODE1_ID>32487</NODE1_ID>
+          <NODE1_NAME>aresvioleta1</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132356,40.456177 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66863">
+          <NODE1_ID>63464</NODE1_ID>
+          <NODE1_NAME>AnaMariaLLopis</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.468</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132574,40.456637 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67578">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>64114</NODE2_ID>
+          <NODE2_NAME>Ares_AngelBeltranseb</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.131609,40.456812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67612">
+          <NODE1_ID>50096</NODE1_ID>
+          <NODE1_NAME>Ares_Abelardo</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131450,40.456807 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67614">
+          <NODE1_ID>50096</NODE1_ID>
+          <NODE1_NAME>Ares_Abelardo</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.554</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131450,40.456807 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69616">
+          <NODE1_ID>65548</NODE1_ID>
+          <NODE1_NAME>Ares_OscarBayot</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.515</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132245,40.456131 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72968">
+          <NODE1_ID>68276</NODE1_ID>
+          <NODE1_NAME>Ares_ManelAlvarez</NODE1_NAME>
+          <NODE2_ID>29722</NODE2_ID>
+          <NODE2_NAME>AresClientes</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132011,40.456339 -0.137780,40.458034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72969">
+          <NODE1_ID>68277</NODE1_ID>
+          <NODE1_NAME>Ares_PacoForn</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131875,40.456347 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72981">
+          <NODE1_ID>68299</NODE1_ID>
+          <NODE1_NAME>Ares_MaricarmenBeltr</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132316,40.457000 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73820">
+          <NODE1_ID>69129</NODE1_ID>
+          <NODE1_NAME>Ares_MarirmenBeltr</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132363,40.456874 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75471">
+          <NODE1_ID>63464</NODE1_ID>
+          <NODE1_NAME>AnaMariaLLopis</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132574,40.456637 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75477">
+          <NODE1_ID>32487</NODE1_ID>
+          <NODE1_NAME>aresvioleta1</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132356,40.456177 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76419">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>71491</NODE2_ID>
+          <NODE2_NAME>Arescasaramiro</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.132260,40.456292</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76633">
+          <NODE1_ID>71660</NODE1_ID>
+          <NODE1_NAME>Ares_M.J.Garcia</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132279,40.457078 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76663">
+          <NODE1_ID>32487</NODE1_ID>
+          <NODE1_NAME>aresvioleta1</NODE1_NAME>
+          <NODE2_ID>29723</NODE2_ID>
+          <NODE2_NAME>Aresayuntamiento</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.132356,40.456177 -0.131729,40.456417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76664">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>32487</NODE2_ID>
+          <NODE2_NAME>aresvioleta1</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.132356,40.456177</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76754">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>71735</NODE2_ID>
+          <NODE2_NAME>Ares_VicenteMartinez</NODE2_NAME>
+          <KMS>0.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.131814,40.456627</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76906">
+          <NODE1_ID>29723</NODE1_ID>
+          <NODE1_NAME>Aresayuntamiento</NODE1_NAME>
+          <NODE2_ID>71852</NODE2_ID>
+          <NODE2_NAME>Ares_Suso</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.131729,40.456417 -0.132853,40.456633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

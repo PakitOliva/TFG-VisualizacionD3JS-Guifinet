@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.034886</gml:X><gml:Y>41.497840</gml:Y></gml:coord>
+<gml:coord><gml:X>2.042542</gml:X><gml:Y>41.534409</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="38063">
+          <NODE1_ID>40147</NODE1_ID>
+          <NODE1_NAME>TRSACtrn</NODE1_NAME>
+          <NODE2_ID>35694</NODE2_ID>
+          <NODE2_NAME>RbCastella2</NODE2_NAME>
+          <KMS>3.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.035809,41.528311 2.035919,41.497840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66907">
+          <NODE1_ID>22952</NODE1_ID>
+          <NODE1_NAME>TRSAEuropa</NODE1_NAME>
+          <NODE2_ID>58951</NODE2_ID>
+          <NODE2_NAME>TRSAWOficina</NODE2_NAME>
+          <KMS>0.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042542,41.534409 2.034886,41.532112</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

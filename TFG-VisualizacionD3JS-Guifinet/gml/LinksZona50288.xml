@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.075798</gml:X><gml:Y>38.736202</gml:Y></gml:coord>
+<gml:coord><gml:X>0.007533</gml:X><gml:Y>38.756614</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="48816">
+          <NODE1_ID>50294</NODE1_ID>
+          <NODE1_NAME>ParAjuntament</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.063832,38.745553 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48825">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>2.069</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50001">
+          <NODE1_ID>51257</NODE1_ID>
+          <NODE1_NAME>ParArenal1</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066486,38.748642 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50005">
+          <NODE1_ID>51259</NODE1_ID>
+          <NODE1_NAME>ParArenal</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067902,38.748526 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51564">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>52389</NODE2_ID>
+          <NODE2_NAME>ParConstitucio24</NODE2_NAME>
+          <KMS>0.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.066620,38.745233</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52038">
+          <NODE1_ID>52786</NODE1_ID>
+          <NODE1_NAME>ParCalvari43A</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.069279,38.746655 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52039">
+          <NODE1_ID>52789</NODE1_ID>
+          <NODE1_NAME>ParPou8</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064229,38.744365 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52040">
+          <NODE1_ID>52788</NODE1_ID>
+          <NODE1_NAME>ParCova23</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065934,38.745217 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52155">
+          <NODE1_ID>52881</NODE1_ID>
+          <NODE1_NAME>ParEmbut27</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065043,38.744004 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52433">
+          <NODE1_ID>53081</NODE1_ID>
+          <NODE1_NAME>ParPou3</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>2.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064217,38.744531 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52435">
+          <NODE1_ID>53083</NODE1_ID>
+          <NODE1_NAME>ParRaval22</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066032,38.746115 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52680">
+          <NODE1_ID>53229</NODE1_ID>
+          <NODE1_NAME>ParConstitucio15</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067179,38.744905 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52691">
+          <NODE1_ID>52548</NODE1_ID>
+          <NODE1_NAME>LlibVerge17</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>6.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.007533,38.743099 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52715">
+          <NODE1_ID>53254</NODE1_ID>
+          <NODE1_NAME>ParPegoBenidorm9</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067726,38.744765 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52866">
+          <NODE1_ID>53214</NODE1_ID>
+          <NODE1_NAME>ParArenal11</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.428</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067970,38.748696 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53061">
+          <NODE1_ID>53509</NODE1_ID>
+          <NODE1_NAME>Parcarrermig4</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064779,38.745194 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53782">
+          <NODE1_ID>53954</NODE1_ID>
+          <NODE1_NAME>ParTrinquet20</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065972,38.744975 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53784">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>52897</NODE2_ID>
+          <NODE2_NAME>ParPegoBenidorm25</NODE2_NAME>
+          <KMS>0.492</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.070193,38.746276</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53884">
+          <NODE1_ID>54103</NODE1_ID>
+          <NODE1_NAME>ParConstitucio2</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065875,38.745973 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53920">
+          <NODE1_ID>53953</NODE1_ID>
+          <NODE1_NAME>ParConstitucio20</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066484,38.745358 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54477">
+          <NODE1_ID>54129</NODE1_ID>
+          <NODE1_NAME>ParArenal34</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.46</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.068509,38.748677 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55195">
+          <NODE1_ID>54902</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso98</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>4.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012130,38.754183 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56409">
+          <NODE1_ID>55782</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara83</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>3.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029306,38.753679 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56494">
+          <NODE1_ID>55884</NODE1_ID>
+          <NODE1_NAME>ParQuintana18</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.062703,38.743741 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56625">
+          <NODE1_ID>55759</NODE1_ID>
+          <NODE1_NAME>ParTrinquet2</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065583,38.744856 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56695">
+          <NODE1_ID>56021</NODE1_ID>
+          <NODE1_NAME>ParMoreral4</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.377</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.063826,38.749272 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57340">
+          <NODE1_ID>56513</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso96</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>4.695</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.011598,38.754236 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57347">
+          <NODE1_ID>56515</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso89</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>4.619</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012384,38.753836 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57599">
+          <NODE1_ID>56741</NODE1_ID>
+          <NODE1_NAME>ParAlmassera5</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066580,38.744245 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57851">
+          <NODE1_ID>56915</NODE1_ID>
+          <NODE1_NAME>ParEmbut10</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065148,38.744219 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58238">
+          <NODE1_ID>57212</NODE1_ID>
+          <NODE1_NAME>ParAjuntament25</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.063110,38.745657 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58289">
+          <NODE1_ID>57016</NODE1_ID>
+          <NODE1_NAME>Partrinquet22</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066088,38.745047 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58514">
+          <NODE1_ID>57399</NODE1_ID>
+          <NODE1_NAME>ParDenia29</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064433,38.743547 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59540">
+          <NODE1_ID>58030</NODE1_ID>
+          <NODE1_NAME>ParTossal8</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.605</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.062684,38.751178 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60858">
+          <NODE1_ID>53956</NODE1_ID>
+          <NODE1_NAME>ParConstitucio16</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.171</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066428,38.745473 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61323">
+          <NODE1_ID>59369</NODE1_ID>
+          <NODE1_NAME>ParPurissima5</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064090,38.744968 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61378">
+          <NODE1_ID>59410</NODE1_ID>
+          <NODE1_NAME>ParEmbut28</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065100,38.744307 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61645">
+          <NODE1_ID>59609</NODE1_ID>
+          <NODE1_NAME>ParCampusetdelarenal</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066996,38.749722 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62861">
+          <NODE1_ID>60457</NODE1_ID>
+          <NODE1_NAME>ParConstitucio15b</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067213,38.744893 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62902">
+          <NODE1_ID>60405</NODE1_ID>
+          <NODE1_NAME>ParBarranquet6</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.779</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.068115,38.739488 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62903">
+          <NODE1_ID>60403</NODE1_ID>
+          <NODE1_NAME>ParEstepar2</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.987</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067214,38.737285 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62904">
+          <NODE1_ID>60404</NODE1_ID>
+          <NODE1_NAME>ParPegoBenidorm9b</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067741,38.744785 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63005">
+          <NODE1_ID>60577</NODE1_ID>
+          <NODE1_NAME>ParAlberca2</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.897</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.054460,38.744232 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63090">
+          <NODE1_ID>58352</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana68</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>2.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.045065,38.755989 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63296">
+          <NODE1_ID>60789</NODE1_ID>
+          <NODE1_NAME>ParDeDalt5</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064960,38.745338 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64394">
+          <NODE1_ID>61583</NODE1_ID>
+          <NODE1_NAME>ParPlasa2</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064584,38.745512 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66617">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>63242</NODE2_ID>
+          <NODE2_NAME>XaloVParaiso99</NODE2_NAME>
+          <KMS>4.634</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.012298,38.754169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67119">
+          <NODE1_ID>63673</NODE1_ID>
+          <NODE1_NAME>ParPou34</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065288,38.739146 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67737">
+          <NODE1_ID>64187</NODE1_ID>
+          <NODE1_NAME>ParDenia27</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064651,38.743671 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68258">
+          <NODE1_ID>64561</NODE1_ID>
+          <NODE1_NAME>ParAjuntament26</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.063421,38.745289 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69373">
+          <NODE1_ID>63191</NODE1_ID>
+          <NODE1_NAME>ParCampusetArenal40</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.482</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067387,38.749655 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71277">
+          <NODE1_ID>57209</NODE1_ID>
+          <NODE1_NAME>ParQuintana14</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.063217,38.743782 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71316">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>66868</NODE2_ID>
+          <NODE2_NAME>AlcaliSolana69</NODE2_NAME>
+          <KMS>2.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.044884,38.755870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71346">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>62553</NODE2_ID>
+          <NODE2_NAME>ParMoreral01</NODE2_NAME>
+          <KMS>0.5</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.064582,38.750425</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72403">
+          <NODE1_ID>65253</NODE1_ID>
+          <NODE1_NAME>ParRampudeta</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.822</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.071261,38.740708 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73023">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>68340</NODE2_ID>
+          <NODE2_NAME>ParFondo4</NODE2_NAME>
+          <KMS>0.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.057330,38.747409</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74116">
+          <NODE1_ID>69336</NODE1_ID>
+          <NODE1_NAME>ParCalvari13</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066357,38.745828 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74569">
+          <NODE1_ID>69592</NODE1_ID>
+          <NODE1_NAME>ParEra12</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066494,38.744778 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74584">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>69651</NODE2_ID>
+          <NODE2_NAME>ParDalt22</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.065815,38.745840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74835">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>69823</NODE2_ID>
+          <NODE2_NAME>ParArenal7</NODE2_NAME>
+          <KMS>0.617</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.069939,38.749545</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75891">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>70663</NODE2_ID>
+          <NODE2_NAME>ParRaval18</NODE2_NAME>
+          <KMS>0.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.065923,38.746023</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75933">
+          <NODE1_ID>70742</NODE1_ID>
+          <NODE1_NAME>ParBarranquet3</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.741</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067962,38.739811 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76397">
+          <NODE1_ID>71478</NODE1_ID>
+          <NODE1_NAME>ParMoreral9</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.062243,38.750285 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77398">
+          <NODE1_ID>72342</NODE1_ID>
+          <NODE1_NAME>ParMoreral18</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>1.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.058676,38.756614 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77743">
+          <NODE1_ID>55772</NODE1_ID>
+          <NODE1_NAME>ParCarrerdelmarge1</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065087,38.745969 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77861">
+          <NODE1_ID>72752</NODE1_ID>
+          <NODE1_NAME>ParMoreral7</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064196,38.749775 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78342">
+          <NODE1_ID>73104</NODE1_ID>
+          <NODE1_NAME>ParPla</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.546</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.070561,38.744507 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78344">
+          <NODE1_ID>73105</NODE1_ID>
+          <NODE1_NAME>ParMig15</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064154,38.745172 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79598">
+          <NODE1_ID>74187</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana71</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>2.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.044876,38.755555 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79635">
+          <NODE1_ID>74226</NODE1_ID>
+          <NODE1_NAME>ParColldeRates95</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>1.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.069756,38.736202 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79683">
+          <NODE1_ID>74250</NODE1_ID>
+          <NODE1_NAME>ParSolana1182</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>1.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.075798,38.748253 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80379">
+          <NODE1_ID>74740</NODE1_ID>
+          <NODE1_NAME>ParBarranquet5</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.774</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067703,38.739402 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80380">
+          <NODE1_ID>74259</NODE1_ID>
+          <NODE1_NAME>ParBarranquet2</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>0.701</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067778,38.740137 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121949">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>76069</NODE2_ID>
+          <NODE2_NAME>parplasa10</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.064724,38.745772</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

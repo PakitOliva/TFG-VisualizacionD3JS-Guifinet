@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.465707</gml:X><gml:Y>39.937331</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.101283</gml:X><gml:Y>40.427463</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="17915">
+          <NODE1_ID>22337</NODE1_ID>
+          <NODE1_NAME>Vistbll-Diposit</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292728,40.294496 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19575">
+          <NODE1_ID>22442</NODE1_ID>
+          <NODE1_NAME>Vistbll-Ajuntament</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292905,40.293649 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19838">
+          <NODE1_ID>20427</NODE1_ID>
+          <NODE1_NAME>PlaMestra</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>9.829</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.267148,40.294059 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20933">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>25383</NODE2_ID>
+          <NODE2_NAME>Vistbllmosqueruela</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.293798,40.294159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21370">
+          <NODE1_ID>26557</NODE1_ID>
+          <NODE1_NAME>Vistbllcastellon</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294378,40.293291 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24062">
+          <NODE1_ID>29269</NODE1_ID>
+          <NODE1_NAME>VistbllTosal</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.290515,40.293095 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24063">
+          <NODE1_ID>29270</NODE1_ID>
+          <NODE1_NAME>VistbllFrayBuenav.</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.290365,40.294143 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24386">
+          <NODE1_ID>29653</NODE1_ID>
+          <NODE1_NAME>Vistbll-MuradaA2</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.21</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294678,40.292886 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25538">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>30827</NODE2_ID>
+          <NODE2_NAME>VistbllaMalcuinat</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.292339,40.294241</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25539">
+          <NODE1_ID>22442</NODE1_ID>
+          <NODE1_NAME>Vistbll-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30828</NODE2_ID>
+          <NODE2_NAME>Vistbllarmpitarch</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292905,40.293649 -0.291588,40.293226</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25540">
+          <NODE1_ID>22442</NODE1_ID>
+          <NODE1_NAME>Vistbll-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30829</NODE2_ID>
+          <NODE2_NAME>VistbllaBrasoveanu</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292905,40.293649 -0.294077,40.293799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25784">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>27949</NODE2_ID>
+          <NODE2_NAME>Vistbllcasaforestal</NODE2_NAME>
+          <KMS>5.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.304441,40.343527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25838">
+          <NODE1_ID>22337</NODE1_ID>
+          <NODE1_NAME>Vistbll-Diposit</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.387</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292728,40.294496 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25840">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>11.783</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26115">
+          <NODE1_ID>31526</NODE1_ID>
+          <NODE1_NAME>VstbllaLacuesta2</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289958,40.292670 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26612">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>31957</NODE2_ID>
+          <NODE2_NAME>vstbll-Elvira</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.291224,40.293329</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27792">
+          <NODE1_ID>22442</NODE1_ID>
+          <NODE1_NAME>Vistbll-Ajuntament</NODE1_NAME>
+          <NODE2_ID>33132</NODE2_ID>
+          <NODE2_NAME>Vstbll-Fani</NODE2_NAME>
+          <KMS>0.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292905,40.293649 -0.290762,40.293349</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29252">
+          <NODE1_ID>34578</NODE1_ID>
+          <NODE1_NAME>VistbllaVaya</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294957,40.293488 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29253">
+          <NODE1_ID>34579</NODE1_ID>
+          <NODE1_NAME>VistbllaPenyagolosa2</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294893,40.293553 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29255">
+          <NODE1_ID>34580</NODE1_ID>
+          <NODE1_NAME>VistbellaVaya</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292951,40.293390 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29359">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>26374</NODE2_ID>
+          <NODE2_NAME>repVila</NODE2_NAME>
+          <KMS>15.155</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.274980,40.427463</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29562">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>12.202</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29924">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>42.771</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30471">
+          <NODE1_ID>22442</NODE1_ID>
+          <NODE1_NAME>Vistbll-Ajuntament</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.376</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292905,40.293649 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30481">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.389</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31468">
+          <NODE1_ID>36551</NODE1_ID>
+          <NODE1_NAME>Vtll-Odi</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.445</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291814,40.292796 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31540">
+          <NODE1_ID>36607</NODE1_ID>
+          <NODE1_NAME>VistbllaMalcuinat9</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292393,40.294126 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31549">
+          <NODE1_ID>36620</NODE1_ID>
+          <NODE1_NAME>VistbllPtdaCostes</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.639</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289802,40.293807 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31552">
+          <NODE1_ID>36626</NODE1_ID>
+          <NODE1_NAME>VstbllaMur1</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291969,40.293576 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31566">
+          <NODE1_ID>36636</NODE1_ID>
+          <NODE1_NAME>VstbllaPipi</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.646</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289587,40.293437 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31739">
+          <NODE1_ID>36838</NODE1_ID>
+          <NODE1_NAME>VstbllLoreto53</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.261</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294163,40.293005 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32715">
+          <NODE1_ID>37727</NODE1_ID>
+          <NODE1_NAME>Vistll_Roser5</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293061,40.293519 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32818">
+          <NODE1_ID>37843</NODE1_ID>
+          <NODE1_NAME>VistbllAvRamonSalv19</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.526</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291076,40.293517 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32838">
+          <NODE1_ID>37859</NODE1_ID>
+          <NODE1_NAME>VstbllLoreto50</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.141</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293852,40.293122 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33765">
+          <NODE1_ID>29652</NODE1_ID>
+          <NODE1_NAME>Vistbll-MasMonfort</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>4.675</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.350854,40.283724 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34691">
+          <NODE1_ID>39388</NODE1_ID>
+          <NODE1_NAME>Vistbll-Nou9</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294136,40.294016 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34701">
+          <NODE1_ID>39402</NODE1_ID>
+          <NODE1_NAME>Vistbll-terol14</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.187</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294930,40.294363 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34844">
+          <NODE1_ID>39523</NODE1_ID>
+          <NODE1_NAME>Vistbll-PlzHostal6</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294077,40.293557 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34846">
+          <NODE1_ID>39522</NODE1_ID>
+          <NODE1_NAME>Vistbll-Nou3</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294040,40.293762 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36273">
+          <NODE1_ID>40568</NODE1_ID>
+          <NODE1_NAME>Vistbll-Penya12BJ</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294914,40.293365 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36274">
+          <NODE1_ID>40569</NODE1_ID>
+          <NODE1_NAME>VstbllLCstRcrd</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.562</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.290397,40.292680 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36456">
+          <NODE1_ID>40812</NODE1_ID>
+          <NODE1_NAME>Vistbll_EduardEscrig</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.459</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291709,40.292991 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36531">
+          <NODE1_ID>31583</NODE1_ID>
+          <NODE1_NAME>vstbll-amado</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.66</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289593,40.293902 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36565">
+          <NODE1_ID>40882</NODE1_ID>
+          <NODE1_NAME>Vstbll-felix</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.658</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289239,40.292498 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36590">
+          <NODE1_ID>40820</NODE1_ID>
+          <NODE1_NAME>Vistbll_Nido</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293828,40.293776 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36641">
+          <NODE1_ID>40934</NODE1_ID>
+          <NODE1_NAME>Vistbll-Penya14BF</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295241,40.293267 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36744">
+          <NODE1_ID>40818</NODE1_ID>
+          <NODE1_NAME>Vistbll_Albatges</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>1.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295644,40.277324 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37004">
+          <NODE1_ID>41215</NODE1_ID>
+          <NODE1_NAME>Vistbll-DavidPerez</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.637</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289807,40.293758 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37017">
+          <NODE1_ID>41255</NODE1_ID>
+          <NODE1_NAME>Vistbll-EvaMari</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292935,40.294145 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37054">
+          <NODE1_ID>41273</NODE1_ID>
+          <NODE1_NAME>Vistbll-Alina</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294635,40.294188 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37218">
+          <NODE1_ID>41446</NODE1_ID>
+          <NODE1_NAME>Vb_Forcada</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291004,40.293329 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37283">
+          <NODE1_ID>41502</NODE1_ID>
+          <NODE1_NAME>Vistbll-SanRoc8,2,1D</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.558</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.290467,40.292764 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37411">
+          <NODE1_ID>41608</NODE1_ID>
+          <NODE1_NAME>Vistbll-Loreto20</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294442,40.292870 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37569">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>29271</NODE2_ID>
+          <NODE2_NAME>VistbllaEEdo</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.294549,40.293848</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40584">
+          <NODE1_ID>44128</NODE1_ID>
+          <NODE1_NAME>Vistbll-MuradaE1</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295075,40.292604 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40692">
+          <NODE1_ID>44172</NODE1_ID>
+          <NODE1_NAME>Vistbll-Castello23</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294340,40.293872 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41414">
+          <NODE1_ID>44537</NODE1_ID>
+          <NODE1_NAME>VistbllAvRamonSalv38</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289979,40.293158 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41523">
+          <NODE1_ID>44029</NODE1_ID>
+          <NODE1_NAME>Vist</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.290478,40.292705 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42967">
+          <NODE1_ID>45848</NODE1_ID>
+          <NODE1_NAME>Vistbll-PerSenda</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295209,40.294429 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43854">
+          <NODE1_ID>45768</NODE1_ID>
+          <NODE1_NAME>Vstbll-AvCastello</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.457</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.288056,40.291878 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44141">
+          <NODE1_ID>45768</NODE1_ID>
+          <NODE1_NAME>Vstbll-AvCastello</NODE1_NAME>
+          <NODE2_ID>35973</NODE2_ID>
+          <NODE2_NAME>Vistbll-MasCleric</NODE2_NAME>
+          <KMS>3.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.288056,40.291878 -0.252621,40.280246</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44883">
+          <NODE1_ID>47059</NODE1_ID>
+          <NODE1_NAME>Mos_RepTV</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>16.147</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465707,40.354263 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45263">
+          <NODE1_ID>47722</NODE1_ID>
+          <NODE1_NAME>Vistbll-MiM2012-Peny</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>39.32</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.344535,40.238154 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45264">
+          <NODE1_ID>47722</NODE1_ID>
+          <NODE1_NAME>Vistbll-MiM2012-Peny</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>18.726</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.344535,40.238154 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45362">
+          <NODE1_ID>46937</NODE1_ID>
+          <NODE1_NAME>Vistbll-Xaparra</NODE1_NAME>
+          <NODE2_ID>45768</NODE2_ID>
+          <NODE2_NAME>Vstbll-AvCastello</NODE2_NAME>
+          <KMS>2.695</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.261548,40.278584 -0.288056,40.291878</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45586">
+          <NODE1_ID>47557</NODE1_ID>
+          <NODE1_NAME>Vistbll-MIM2012-poli</NODE1_NAME>
+          <NODE2_ID>22337</NODE2_ID>
+          <NODE2_NAME>Vistbll-Diposit</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293836,40.292854 -0.292728,40.294496</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45587">
+          <NODE1_ID>47557</NODE1_ID>
+          <NODE1_NAME>Vistbll-MIM2012-poli</NODE1_NAME>
+          <NODE2_ID>22337</NODE2_ID>
+          <NODE2_NAME>Vistbll-Diposit</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293836,40.292854 -0.292728,40.294496</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45588">
+          <NODE1_ID>47557</NODE1_ID>
+          <NODE1_NAME>Vistbll-MIM2012-poli</NODE1_NAME>
+          <NODE2_ID>22337</NODE2_ID>
+          <NODE2_NAME>Vistbll-Diposit</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293836,40.292854 -0.292728,40.294496</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45679">
+          <NODE1_ID>47723</NODE1_ID>
+          <NODE1_NAME>Vistbll-MiM2012-Dip</NODE1_NAME>
+          <NODE2_ID>47722</NODE2_ID>
+          <NODE2_NAME>Vistbll-MiM2012-Peny</NODE2_NAME>
+          <KMS>1.812</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.356444,40.251683 -0.344535,40.238154</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45681">
+          <NODE1_ID>47724</NODE1_ID>
+          <NODE1_NAME>Vistbll-MiM2012-SJon</NODE1_NAME>
+          <NODE2_ID>47723</NODE2_ID>
+          <NODE2_NAME>Vistbll-MiM2012-Dip</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.353462,40.251593 -0.356444,40.251683</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46696">
+          <NODE1_ID>22337</NODE1_ID>
+          <NODE1_NAME>Vistbll-Diposit</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>1.015</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292728,40.294496 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46697">
+          <NODE1_ID>47811</NODE1_ID>
+          <NODE1_NAME>Vistbll-MasetNou</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.306137,40.300656 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49373">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>45025</NODE2_ID>
+          <NODE2_NAME>Vistbll-Murada3G2</NODE2_NAME>
+          <KMS>0.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.295161,40.292547</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49994">
+          <NODE1_ID>51248</NODE1_ID>
+          <NODE1_NAME>Vistbll-Alfori71</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.301730,40.299176 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50052">
+          <NODE1_ID>37774</NODE1_ID>
+          <NODE1_NAME>Forn5</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293141,40.293848 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50067">
+          <NODE1_ID>51294</NODE1_ID>
+          <NODE1_NAME>Vistbll-ForestTuber</NODE1_NAME>
+          <NODE2_ID>47811</NODE2_ID>
+          <NODE2_NAME>Vistbll-MasetNou</NODE2_NAME>
+          <KMS>0.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.309594,40.297513 -0.306137,40.300656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50120">
+          <NODE1_ID>37774</NODE1_ID>
+          <NODE1_NAME>Forn5</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293141,40.293848 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50121">
+          <NODE1_ID>37774</NODE1_ID>
+          <NODE1_NAME>Forn5</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293141,40.293848 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50144">
+          <NODE1_ID>47810</NODE1_ID>
+          <NODE1_NAME>Vistbll-ParcBombers</NODE1_NAME>
+          <NODE2_ID>51376</NODE2_ID>
+          <NODE2_NAME>Vistbll-Alfori30</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.302060,40.300198 -0.302222,40.299176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50276">
+          <NODE1_ID>51512</NODE1_ID>
+          <NODE1_NAME>Vistbll-Alfori18</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>0.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.304318,40.299106 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50311">
+          <NODE1_ID>29651</NODE1_ID>
+          <NODE1_NAME>Vistbll-MasCarrascal</NODE1_NAME>
+          <NODE2_ID>47811</NODE2_ID>
+          <NODE2_NAME>Vistbll-MasetNou</NODE2_NAME>
+          <KMS>2.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.336735,40.288628 -0.306137,40.300656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51983">
+          <NODE1_ID>52749</NODE1_ID>
+          <NODE1_NAME>Vistbll-Alfori04</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.303923,40.299524 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52419">
+          <NODE1_ID>53070</NODE1_ID>
+          <NODE1_NAME>Vistbll_Loreto50,2</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293759,40.293095 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52952">
+          <NODE1_ID>53422</NODE1_ID>
+          <NODE1_NAME>Vistbll_Borja</NODE1_NAME>
+          <NODE2_ID>45768</NODE2_ID>
+          <NODE2_NAME>Vstbll-AvCastello</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289535,40.293927 -0.288056,40.291878</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53078">
+          <NODE1_ID>37729</NODE1_ID>
+          <NODE1_NAME>Vistbll-Trigos</NODE1_NAME>
+          <NODE2_ID>47811</NODE2_ID>
+          <NODE2_NAME>Vistbll-MasetNou</NODE2_NAME>
+          <KMS>5.12</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289231,40.344913 -0.306137,40.300656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53134">
+          <NODE1_ID>36268</NODE1_ID>
+          <NODE1_NAME>Vistbll-Yeguada</NODE1_NAME>
+          <NODE2_ID>47811</NODE2_ID>
+          <NODE2_NAME>Vistbll-MasetNou</NODE2_NAME>
+          <KMS>3.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.337089,40.283888 -0.306137,40.300656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53237">
+          <NODE1_ID>51579</NODE1_ID>
+          <NODE1_NAME>Vistbll_MasAlfori</NODE1_NAME>
+          <NODE2_ID>47811</NODE2_ID>
+          <NODE2_NAME>Vistbll-MasetNou</NODE2_NAME>
+          <KMS>0.578</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.309491,40.296124 -0.306137,40.300656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53354">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>53753</NODE2_ID>
+          <NODE2_NAME>Vistbll_Cooperativa</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.291915,40.293638</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54173">
+          <NODE1_ID>51581</NODE1_ID>
+          <NODE1_NAME>Vistbll_MossenJuanE</NODE1_NAME>
+          <NODE2_ID>37729</NODE2_ID>
+          <NODE2_NAME>Vistbll-Trigos</NODE2_NAME>
+          <KMS>3.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.286277,40.311179 -0.289231,40.344913</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54380">
+          <NODE1_ID>37728</NODE1_ID>
+          <NODE1_NAME>Vistbll_Pesetes</NODE1_NAME>
+          <NODE2_ID>37729</NODE2_ID>
+          <NODE2_NAME>Vistbll-Trigos</NODE2_NAME>
+          <KMS>0.644</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.285870,40.350109 -0.289231,40.344913</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55407">
+          <NODE1_ID>51582</NODE1_ID>
+          <NODE1_NAME>Vistbll_MossenJuanC</NODE1_NAME>
+          <NODE2_ID>37729</NODE2_ID>
+          <NODE2_NAME>Vistbll-Trigos</NODE2_NAME>
+          <KMS>3.751</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.286137,40.311220 -0.289231,40.344913</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55408">
+          <NODE1_ID>55058</NODE1_ID>
+          <NODE1_NAME>Vistbll-Cuesta-Ric</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.290400,40.292596 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56553">
+          <NODE1_ID>55926</NODE1_ID>
+          <NODE1_NAME>Vistbll_Monfort_Vice</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>4.662</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.350688,40.283696 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62817">
+          <NODE1_ID>60427</NODE1_ID>
+          <NODE1_NAME>Vistbll_JMFabuel</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.635</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289818,40.293729 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62818">
+          <NODE1_ID>60428</NODE1_ID>
+          <NODE1_NAME>Vistbll_MMiralles</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289826,40.293905 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63658">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>61019</NODE2_ID>
+          <NODE2_NAME>Vistbll-Nou10</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.293906,40.293995</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64249">
+          <NODE1_ID>61454</NODE1_ID>
+          <NODE1_NAME>Vistbll_BertoJL</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289850,40.294321 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64914">
+          <NODE1_ID>62043</NODE1_ID>
+          <NODE1_NAME>Vistbll-StBert2-1C</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289641,40.293434 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65267">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>54842</NODE2_ID>
+          <NODE2_NAME>vstbllvas</NODE2_NAME>
+          <KMS>0.634</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.289823,40.293689</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65651">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>62221</NODE2_ID>
+          <NODE2_NAME>Vistbll-Helena</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.293549,40.294312</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65654">
+          <NODE1_ID>41888</NODE1_ID>
+          <NODE1_NAME>Vistbll-Dau</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291481,40.293787 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66487">
+          <NODE1_ID>63173</NODE1_ID>
+          <NODE1_NAME>Vistbll-Loreto52C</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.294863,40.292754 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69826">
+          <NODE1_ID>65616</NODE1_ID>
+          <NODE1_NAME>Vistbll-Murada4.2F</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.259</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295109,40.292589 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69827">
+          <NODE1_ID>26559</NODE1_ID>
+          <NODE1_NAME>Vistbllasensecap</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293648,40.293815 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71450">
+          <NODE1_ID>66976</NODE1_ID>
+          <NODE1_NAME>Vistbll-RSalvador16</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.291512,40.293361 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75876">
+          <NODE1_ID>70655</NODE1_ID>
+          <NODE1_NAME>Vistbll-Penya1AD</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295178,40.293285 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75877">
+          <NODE1_ID>70656</NODE1_ID>
+          <NODE1_NAME>Vistbll-Alfori44</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.302057,40.299485 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76089">
+          <NODE1_ID>70872</NODE1_ID>
+          <NODE1_NAME>Vistb_MasSalvadorRd3</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>9.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.275520,40.320114 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76157">
+          <NODE1_ID>70870</NODE1_ID>
+          <NODE1_NAME>Vistb_MasSalvadorRd1</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>9.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.275520,40.320114 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76189">
+          <NODE1_ID>70974</NODE1_ID>
+          <NODE1_NAME>Vistb_MasSalvadorRd2</NODE1_NAME>
+          <NODE2_ID>37729</NODE2_ID>
+          <NODE2_NAME>Vistbll-Trigos</NODE2_NAME>
+          <KMS>2.99</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.275520,40.320114 -0.289231,40.344913</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76565">
+          <NODE1_ID>71597</NODE1_ID>
+          <NODE1_NAME>Vistbll_SanRoque13</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293199,40.293327 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76566">
+          <NODE1_ID>71598</NODE1_ID>
+          <NODE1_NAME>Vistbll_SanRoque15</NODE1_NAME>
+          <NODE2_ID>30979</NODE2_ID>
+          <NODE2_NAME>Vistbll-Calvari</NODE2_NAME>
+          <KMS>0.349</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293186,40.293276 -0.296953,40.292025</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78430">
+          <NODE1_ID>73173</NODE1_ID>
+          <NODE1_NAME>Vistbll-CalvoSotelo9</NODE1_NAME>
+          <NODE2_ID>22442</NODE2_ID>
+          <NODE2_NAME>Vistbll-Ajuntament</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292366,40.293516 -0.292905,40.293649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78473">
+          <NODE1_ID>72908</NODE1_ID>
+          <NODE1_NAME>Vistbll-TorreMartine</NODE1_NAME>
+          <NODE2_ID>37729</NODE2_ID>
+          <NODE2_NAME>Vistbll-Trigos</NODE2_NAME>
+          <KMS>1.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.273671,40.333165 -0.289231,40.344913</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79588">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>74174</NODE2_ID>
+          <NODE2_NAME>Vistbll-Paulina</NODE2_NAME>
+          <KMS>0.558</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.290434,40.292623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80759">
+          <NODE1_ID>75013</NODE1_ID>
+          <NODE1_NAME>Vistbll-Murada3-I1</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.295197,40.292514 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121263">
+          <NODE1_ID>74678</NODE1_ID>
+          <NODE1_NAME>Vistbll-SenseCap21-2</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>0.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.293903,40.294120 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121515">
+          <NODE1_ID>37728</NODE1_ID>
+          <NODE1_NAME>Vistbll_Pesetes</NODE1_NAME>
+          <NODE2_ID>47810</NODE2_ID>
+          <NODE2_NAME>Vistbll-ParcBombers</NODE2_NAME>
+          <KMS>5.71</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.285870,40.350109 -0.302060,40.300198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123335">
+          <NODE1_ID>51585</NODE1_ID>
+          <NODE1_NAME>Vistbll_MasMestre</NODE1_NAME>
+          <NODE2_ID>37728</NODE2_ID>
+          <NODE2_NAME>Vistbll_Pesetes</NODE2_NAME>
+          <KMS>0.301</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.289141,40.351159 -0.285870,40.350109</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.434301</gml:X><gml:Y>41.528436</gml:Y></gml:coord>
+<gml:coord><gml:X>2.908840</gml:X><gml:Y>41.984831</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="26529">
+          <NODE1_ID>27748</NODE1_ID>
+          <NODE1_NAME>PdMParroquia</NODE1_NAME>
+          <NODE2_ID>27758</NODE2_ID>
+          <NODE2_NAME>PdM-marchan</NODE2_NAME>
+          <KMS>0.358</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.673343,41.618382 2.671448,41.621277</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30077">
+          <NODE1_ID>34549</NODE1_ID>
+          <NODE1_NAME>CLLSJsp41</NODE1_NAME>
+          <NODE2_ID>27748</NODE2_ID>
+          <NODE2_NAME>PdMParroquia</NODE2_NAME>
+          <KMS>1.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.660516,41.614482 2.673343,41.618382</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50550">
+          <NODE1_ID>51736</NODE1_ID>
+          <NODE1_NAME>PdM-Castella</NODE1_NAME>
+          <NODE2_ID>15642</NODE2_ID>
+          <NODE2_NAME>PdMNandes</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.680516,41.626801 2.680334,41.627286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53085">
+          <NODE1_ID>53535</NODE1_ID>
+          <NODE1_NAME>PdM-ExtreMKA</NODE1_NAME>
+          <NODE2_ID>15642</NODE2_ID>
+          <NODE2_NAME>PdMNandes</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.680107,41.627227 2.680334,41.627286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54235">
+          <NODE1_ID>54319</NODE1_ID>
+          <NODE1_NAME>PdM-Castella02</NODE1_NAME>
+          <NODE2_ID>15642</NODE2_ID>
+          <NODE2_NAME>PdMNandes</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.680533,41.626799 2.680334,41.627286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61706">
+          <NODE1_ID>46907</NODE1_ID>
+          <NODE1_NAME>MatTCM</NODE1_NAME>
+          <NODE2_ID>53915</NODE2_ID>
+          <NODE2_NAME>PdMCanCarreras</NODE2_NAME>
+          <KMS>21.847</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.434301,41.528436 2.649411,41.640726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68538">
+          <NODE1_ID>18149</NODE1_ID>
+          <NODE1_NAME>SMVElsAngels</NODE1_NAME>
+          <NODE2_ID>53915</NODE2_ID>
+          <NODE2_NAME>PdMCanCarreras</NODE2_NAME>
+          <KMS>43.88</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.908840,41.984831 2.649411,41.640726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68969">
+          <NODE1_ID>52465</NODE1_ID>
+          <NODE1_NAME>TuroCanTiril</NODE1_NAME>
+          <NODE2_ID>53915</NODE2_ID>
+          <NODE2_NAME>PdMCanCarreras</NODE2_NAME>
+          <KMS>4.099</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.617483,41.612647 2.649411,41.640726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

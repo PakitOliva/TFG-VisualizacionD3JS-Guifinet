@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-89.658849</gml:X><gml:Y>13.827674</gml:Y></gml:coord>
+      <gml:coord><gml:X>-89.555556</gml:X><gml:Y>13.995833</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="24981">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-89.583330,13.881670</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24981</NODE_ID>
+      <NODE_NAME>CMalacara</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25005">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-89.623702,13.827674</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25005</NODE_ID>
+      <NODE_NAME>RCVerde</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25006">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-89.658849,13.886894</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25006</NODE_ID>
+      <NODE_NAME>RBosquelia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25007">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-89.555556,13.995833</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25007</NODE_ID>
+      <NODE_NAME>CEJAMartinez</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

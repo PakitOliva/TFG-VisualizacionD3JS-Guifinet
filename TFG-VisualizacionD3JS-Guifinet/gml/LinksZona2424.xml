@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.442837</gml:X><gml:Y>41.502582</gml:Y></gml:coord>
+<gml:coord><gml:X>1.701829</gml:X><gml:Y>41.631310</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="10379">
+          <NODE1_ID>1801</NODE1_ID>
+          <NODE1_NAME>IgualadaSerraMarsal</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>3.275</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.628092,41.579172 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10380">
+          <NODE1_ID>14078</NODE1_ID>
+          <NODE1_NAME>MontbuiCalRojas</NODE1_NAME>
+          <NODE2_ID>14077</NODE2_ID>
+          <NODE2_NAME>MontbuiCalAlemany</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.592170,41.552900 1.591200,41.549800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10381">
+          <NODE1_ID>14077</NODE1_ID>
+          <NODE1_NAME>MontbuiCalAlemany</NODE1_NAME>
+          <NODE2_ID>14076</NODE2_ID>
+          <NODE2_NAME>IgualadaRedRec</NODE2_NAME>
+          <KMS>4.231</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.591200,41.549800 1.627890,41.576100</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10808">
+          <NODE1_ID>14737</NODE1_ID>
+          <NODE1_NAME>MontbuiBernatBosch</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603956,41.555949 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11231">
+          <NODE1_ID>14075</NODE1_ID>
+          <NODE1_NAME>MontbuiVictorQ</NODE1_NAME>
+          <NODE2_ID>14756</NODE2_ID>
+          <NODE2_NAME>MontbuiXavierLlobet</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604870,41.555400 1.603470,41.554985</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11514">
+          <NODE1_ID>15358</NODE1_ID>
+          <NODE1_NAME>MontbuiToniMula</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>0.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604669,41.555359 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11739">
+          <NODE1_ID>15625</NODE1_ID>
+          <NODE1_NAME>MontbuiGloriaNasarre</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604117,41.555230 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12319">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>15269</NODE2_ID>
+          <NODE2_NAME>MontbuiJuditLlorens</NODE2_NAME>
+          <KMS>2.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.603435,41.555220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12656">
+          <NODE1_ID>14077</NODE1_ID>
+          <NODE1_NAME>MontbuiCalAlemany</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>1.154</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.591200,41.549800 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12922">
+          <NODE1_ID>16794</NODE1_ID>
+          <NODE1_NAME>MontbuiPereQuintana</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603481,41.555339 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12923">
+          <NODE1_ID>16790</NODE1_ID>
+          <NODE1_NAME>MontbuiGonzaloBoVila</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.602193,41.557007 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12926">
+          <NODE1_ID>14900</NODE1_ID>
+          <NODE1_NAME>MontbuiJoseManuel</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.871</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.612018,41.558933 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13351">
+          <NODE1_ID>17518</NODE1_ID>
+          <NODE1_NAME>MontbuiVirginiaRiba</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603585,41.555418 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13352">
+          <NODE1_ID>17246</NODE1_ID>
+          <NODE1_NAME>MontbuiRamonCastilla</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>1.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.599262,41.553378 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13624">
+          <NODE1_ID>17869</NODE1_ID>
+          <NODE1_NAME>MontbuiJosepFigueres</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>1.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.602008,41.554977 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13625">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>17252</NODE2_ID>
+          <NODE2_NAME>MontbuiPepPujado</NODE2_NAME>
+          <KMS>2.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.603674,41.554837</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13626">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>17871</NODE2_ID>
+          <NODE2_NAME>MontbuiRosaTorres</NODE2_NAME>
+          <KMS>2.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.604326,41.557567</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13628">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>17249</NODE2_ID>
+          <NODE2_NAME>Montbui-Korporal</NODE2_NAME>
+          <KMS>2.284</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.605259,41.557364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13765">
+          <NODE1_ID>17247</NODE1_ID>
+          <NODE1_NAME>MontbuiMarcJust</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604245,41.556497 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13876">
+          <NODE1_ID>18219</NODE1_ID>
+          <NODE1_NAME>MontbuiMiquelMoreno</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603730,41.555931 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14160">
+          <NODE1_ID>18450</NODE1_ID>
+          <NODE1_NAME>MontbuiClaraEscude</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603843,41.555165 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14272">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>18554</NODE2_ID>
+          <NODE2_NAME>MontbuiGrabielAP3</NODE2_NAME>
+          <KMS>2.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.603199,41.556927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14286">
+          <NODE1_ID>15142</NODE1_ID>
+          <NODE1_NAME>MontbuiJoanVives</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603049,41.555826 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14456">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>18751</NODE2_ID>
+          <NODE2_NAME>MontbuiJordiMonti</NODE2_NAME>
+          <KMS>1.715</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.598748,41.555473</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15253">
+          <NODE1_ID>19841</NODE1_ID>
+          <NODE1_NAME>MontbuiRamonMuntada</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605171,41.556842 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15292">
+          <NODE1_ID>19883</NODE1_ID>
+          <NODE1_NAME>MontbuiEliPi</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.602241,41.556525 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15500">
+          <NODE1_ID>20060</NODE1_ID>
+          <NODE1_NAME>MontbuiRamonPujol</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>1.567</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.597116,41.553234 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15602">
+          <NODE1_ID>16083</NODE1_ID>
+          <NODE1_NAME>MontbuiProvesVictor</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603832,41.556018 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15729">
+          <NODE1_ID>19100</NODE1_ID>
+          <NODE1_NAME>IgualadaArian</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622214,41.581646 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15971">
+          <NODE1_ID>20529</NODE1_ID>
+          <NODE1_NAME>MontbuiJosepMPujol</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605109,41.556244 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15997">
+          <NODE1_ID>20551</NODE1_ID>
+          <NODE1_NAME>MontbuiLaPallissa</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.606268,41.558242 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16093">
+          <NODE1_ID>17248</NODE1_ID>
+          <NODE1_NAME>MontbuiJoanBusque</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603878,41.556844 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17819">
+          <NODE1_ID>22363</NODE1_ID>
+          <NODE1_NAME>MontbuiElsaVives</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603874,41.556025 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18395">
+          <NODE1_ID>22886</NODE1_ID>
+          <NODE1_NAME>IgualadaSantAgusti</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.611984,41.579783 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22248">
+          <NODE1_ID>27220</NODE1_ID>
+          <NODE1_NAME>StaMariaMirallesJoan</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>6.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.551358,41.502582 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22559">
+          <NODE1_ID>27795</NODE1_ID>
+          <NODE1_NAME>dnnSlgCmSntBrnbRvlDglr</NODE1_NAME>
+          <NODE2_ID>14077</NODE2_ID>
+          <NODE2_NAME>MontbuiCalAlemany</NODE2_NAME>
+          <KMS>9.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661648,41.614350 1.591200,41.549800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23013">
+          <NODE1_ID>28252</NODE1_ID>
+          <NODE1_NAME>dnCjrdSvll3</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.592741,41.598349 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23580">
+          <NODE1_ID>28777</NODE1_ID>
+          <NODE1_NAME>SntMrgrdMntbCPrgrs452n1</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>1.938</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.601249,41.556516 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23726">
+          <NODE1_ID>28897</NODE1_ID>
+          <NODE1_NAME>Igualadamontserrat</NODE1_NAME>
+          <NODE2_ID>14077</NODE2_ID>
+          <NODE2_NAME>MontbuiCalAlemany</NODE2_NAME>
+          <KMS>4.822</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.632736,41.579995 1.591200,41.549800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24219">
+          <NODE1_ID>14077</NODE1_ID>
+          <NODE1_NAME>MontbuiCalAlemany</NODE1_NAME>
+          <NODE2_ID>17250</NODE2_ID>
+          <NODE2_NAME>MontbuiAlbertRoig</NODE2_NAME>
+          <KMS>0.969</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.591200,41.549800 1.601499,41.553832</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25707">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>31040</NODE2_ID>
+          <NODE2_NAME>SntMrgrdMntbBlms11b</NODE2_NAME>
+          <KMS>2.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.602627,41.556492</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28654">
+          <NODE1_ID>17249</NODE1_ID>
+          <NODE1_NAME>Montbui-Korporal</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>0.221</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605259,41.557364 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28655">
+          <NODE1_ID>17249</NODE1_ID>
+          <NODE1_NAME>Montbui-Korporal</NODE1_NAME>
+          <NODE2_ID>14077</NODE2_ID>
+          <NODE2_NAME>MontbuiCalAlemany</NODE2_NAME>
+          <KMS>1.443</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605259,41.557364 1.591200,41.549800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31072">
+          <NODE1_ID>17251</NODE1_ID>
+          <NODE1_NAME>MontbuiFernandoBor</NODE1_NAME>
+          <NODE2_ID>17249</NODE2_ID>
+          <NODE2_NAME>Montbui-Korporal</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603242,41.556896 1.605259,41.557364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34706">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>10.487</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34722">
+          <NODE1_ID>13641</NODE1_ID>
+          <NODE1_NAME>RubioDipositSud</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>8.985</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.548257,41.631310 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36211">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>40619</NODE2_ID>
+          <NODE2_NAME>OriginalBuff</NODE2_NAME>
+          <KMS>5.897</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.630366,41.589579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36212">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>14076</NODE2_ID>
+          <NODE2_NAME>IgualadaRedRec</NODE2_NAME>
+          <KMS>4.828</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.627890,41.576100</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39978">
+          <NODE1_ID>43670</NODE1_ID>
+          <NODE1_NAME>VilanovaEquipCeramic</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.739</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.641222,41.574602 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39980">
+          <NODE1_ID>43671</NODE1_ID>
+          <NODE1_NAME>IgualadaEquipCeramic</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.621878,41.590797 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40158">
+          <NODE1_ID>43751</NODE1_ID>
+          <NODE1_NAME>IgualadaPlCastells</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.609985,41.580894 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40381">
+          <NODE1_ID>43754</NODE1_ID>
+          <NODE1_NAME>MontbuiAnselmClave</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>2.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.603915,41.557436 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40811">
+          <NODE1_ID>14075</NODE1_ID>
+          <NODE1_NAME>MontbuiVictorQ</NODE1_NAME>
+          <NODE2_ID>44246</NODE2_ID>
+          <NODE2_NAME>MontbuiRogerSantacan</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604870,41.555400 1.604167,41.555000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42746">
+          <NODE1_ID>15863</NODE1_ID>
+          <NODE1_NAME>ArgencolaCastell</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>12.327</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.442837,41.597958 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46122">
+          <NODE1_ID>32613</NODE1_ID>
+          <NODE1_NAME>MontbuiIomo</NODE1_NAME>
+          <NODE2_ID>2108</NODE2_ID>
+          <NODE2_NAME>IgualadaMarius</NODE2_NAME>
+          <KMS>1.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.608272,41.573329 1.618019,41.581713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47163">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>17249</NODE2_ID>
+          <NODE2_NAME>Montbui-Korporal</NODE2_NAME>
+          <KMS>2.284</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.605259,41.557364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48412">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>50056</NODE2_ID>
+          <NODE2_NAME>ADeC</NODE2_NAME>
+          <KMS>11.314</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.700383,41.598123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49695">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>23428</NODE2_ID>
+          <NODE2_NAME>IgualadaXipreret</NODE2_NAME>
+          <KMS>4.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.622897,41.581950</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51361">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55279">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>54262</NODE2_ID>
+          <NODE2_NAME>Srv</NODE2_NAME>
+          <KMS>7.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.660153,41.535389</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55468">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>4.111</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58193">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58580">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>57435</NODE2_ID>
+          <NODE2_NAME>IBoi1</NODE2_NAME>
+          <KMS>4.858</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.628385,41.576003</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58754">
+          <NODE1_ID>56935</NODE1_ID>
+          <NODE1_NAME>IGDCapellades29</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622774,41.585703 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59201">
+          <NODE1_ID>53608</NODE1_ID>
+          <NODE1_NAME>IGUVIRTUT12</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.606</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622692,41.578336 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61882">
+          <NODE1_ID>14075</NODE1_ID>
+          <NODE1_NAME>MontbuiVictorQ</NODE1_NAME>
+          <NODE2_ID>59773</NODE2_ID>
+          <NODE2_NAME>ILaF</NODE2_NAME>
+          <KMS>2.674</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604870,41.555400 1.610338,41.579124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64423">
+          <NODE1_ID>61578</NODE1_ID>
+          <NODE1_NAME>CarmePinedes</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.619815,41.519470 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75581">
+          <NODE1_ID>31628</NODE1_ID>
+          <NODE1_NAME>MontbuiKurast</NODE1_NAME>
+          <NODE2_ID>59773</NODE2_ID>
+          <NODE2_NAME>ILaF</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605082,41.579393 1.610338,41.579124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

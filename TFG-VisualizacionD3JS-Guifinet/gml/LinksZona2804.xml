@@ -1,0 +1,2976 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.175164</gml:X><gml:Y>41.582473</gml:Y></gml:coord>
+<gml:coord><gml:X>2.375472</gml:X><gml:Y>41.819090</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="5649">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>7602</NODE2_ID>
+          <NODE2_NAME>CNTTVCentelles</NODE2_NAME>
+          <KMS>22.281</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.199253,41.819090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5651">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.511</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6058">
+          <NODE1_ID>8432</NODE1_ID>
+          <NODE1_NAME>MARElPadro</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323540,41.645845 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6160">
+          <NODE1_ID>8778</NODE1_ID>
+          <NODE1_NAME>MARPepTarafa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310122,41.642546 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6365">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>5025</NODE2_ID>
+          <NODE2_NAME>MARManel</NODE2_NAME>
+          <KMS>1.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.324475,41.647349</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6505">
+          <NODE1_ID>9115</NODE1_ID>
+          <NODE1_NAME>MARLesMoreres</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.834</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320963,41.656771 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6536">
+          <NODE1_ID>9114</NODE1_ID>
+          <NODE1_NAME>MARCalNoiet</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.793</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320825,41.656255 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6538">
+          <NODE1_ID>9118</NODE1_ID>
+          <NODE1_NAME>MARCanCisquet</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320448,41.655924 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6539">
+          <NODE1_ID>9247</NODE1_ID>
+          <NODE1_NAME>MARCanPericas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315375,41.650913 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6541">
+          <NODE1_ID>9113</NODE1_ID>
+          <NODE1_NAME>MARCanViure</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323123,41.658259 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6542">
+          <NODE1_ID>9249</NODE1_ID>
+          <NODE1_NAME>MARCanValls</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.328014,41.655310 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6544">
+          <NODE1_ID>9251</NODE1_ID>
+          <NODE1_NAME>MARCanGirbauJosepMa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312702,41.643008 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6547">
+          <NODE1_ID>8780</NODE1_ID>
+          <NODE1_NAME>MARTorrents</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.325204,41.654829 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6568">
+          <NODE1_ID>9275</NODE1_ID>
+          <NODE1_NAME>MARCanPareraRueda</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323279,41.641832 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6684">
+          <NODE1_ID>9224</NODE1_ID>
+          <NODE1_NAME>LFDVUritg</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.424</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298535,41.635902 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6713">
+          <NODE1_ID>9278</NODE1_ID>
+          <NODE1_NAME>LFDVMontsePuig</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302126,41.643723 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7007">
+          <NODE1_ID>10018</NODE1_ID>
+          <NODE1_NAME>LFDVCasaMarina</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.877</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298421,41.643102 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7091">
+          <NODE1_ID>9279</NODE1_ID>
+          <NODE1_NAME>LFDVEulaliaForns</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.691</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300587,41.632947 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7161">
+          <NODE1_ID>10182</NODE1_ID>
+          <NODE1_NAME>MARCanPaituvi</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.583</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.331282,41.655790 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8157">
+          <NODE1_ID>11506</NODE1_ID>
+          <NODE1_NAME>MARCanPareraFarnes</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323203,41.641715 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8240">
+          <NODE1_ID>11609</NODE1_ID>
+          <NODE1_NAME>LFDVRectoriaLlerona</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.61</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300012,41.649774 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8586">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9245</NODE2_ID>
+          <NODE2_NAME>MARCaLaColoma</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.325092,41.641495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8918">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>12424</NODE2_ID>
+          <NODE2_NAME>LFDVETerricabras</NODE2_NAME>
+          <KMS>0.66</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.300496,41.633394</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8920">
+          <NODE1_ID>12425</NODE1_ID>
+          <NODE1_NAME>LFDVAssumpcioForns</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.489</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299282,41.635591 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8921">
+          <NODE1_ID>12427</NODE1_ID>
+          <NODE1_NAME>LFDVJordiFranch</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297208,41.646398 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8922">
+          <NODE1_ID>12428</NODE1_ID>
+          <NODE1_NAME>MARCalNoietEstape</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320979,41.656261 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9160">
+          <NODE1_ID>12746</NODE1_ID>
+          <NODE1_NAME>LFDVCanMinguet</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295687,41.651009 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9216">
+          <NODE1_ID>12117</NODE1_ID>
+          <NODE1_NAME>LFDVToni</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.604</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299021,41.632646 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9372">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>12972</NODE2_ID>
+          <NODE2_NAME>LFDVJaumeVentura</NODE2_NAME>
+          <KMS>1.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.299395,41.644591</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9767">
+          <NODE1_ID>13102</NODE1_ID>
+          <NODE1_NAME>LFDVTagamanent</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.438</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298406,41.634786 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9800">
+          <NODE1_ID>12832</NODE1_ID>
+          <NODE1_NAME>LFDVlleronapla</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292560,41.650786 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9802">
+          <NODE1_ID>12735</NODE1_ID>
+          <NODE1_NAME>lleronavi</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297448,41.646649 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9877">
+          <NODE1_ID>5024</NODE1_ID>
+          <NODE1_NAME>MARBarrabas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.885</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334751,41.648230 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12285">
+          <NODE1_ID>16094</NODE1_ID>
+          <NODE1_NAME>LleronaRosabv</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296769,41.654017 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12513">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9277</NODE2_ID>
+          <NODE2_NAME>LFDVCarlesMartinez</NODE2_NAME>
+          <KMS>2.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.317390,41.660698</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13067">
+          <NODE1_ID>16861</NODE1_ID>
+          <NODE1_NAME>nodejordi1975</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298535,41.632697 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14687">
+          <NODE1_ID>8775</NODE1_ID>
+          <NODE1_NAME>MARTort</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.325523,41.641093 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15460">
+          <NODE1_ID>5018</NODE1_ID>
+          <NODE1_NAME>MARCanSabater</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.564</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.337222,41.650833 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15462">
+          <NODE1_ID>5018</NODE1_ID>
+          <NODE1_NAME>MARCanSabater</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.564</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.337222,41.650833 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17065">
+          <NODE1_ID>21670</NODE1_ID>
+          <NODE1_NAME>MARCanPareraGil</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323096,41.642315 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17178">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9712</NODE2_ID>
+          <NODE2_NAME>CAMCanCot</NODE2_NAME>
+          <KMS>2.368</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.322071,41.662628</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21041">
+          <NODE1_ID>26215</NODE1_ID>
+          <NODE1_NAME>LFDVllvnt</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.99</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298830,41.628186 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21290">
+          <NODE1_ID>24121</NODE1_ID>
+          <NODE1_NAME>LFDVFrankie</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.503</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299490,41.636005 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21328">
+          <NODE1_ID>23654</NODE1_ID>
+          <NODE1_NAME>GRNBanyeta</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.946</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292334,41.618633 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21489">
+          <NODE1_ID>26691</NODE1_ID>
+          <NODE1_NAME>MARCasal</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.322159,41.645480 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22393">
+          <NODE1_ID>27634</NODE1_ID>
+          <NODE1_NAME>MARCalGeneral</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323565,41.649044 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22631">
+          <NODE1_ID>27712</NODE1_ID>
+          <NODE1_NAME>GRNRobinFrancisco</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.925</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292750,41.618806 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22828">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>28041</NODE2_ID>
+          <NODE2_NAME>LFDVGabriel</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.297258,41.635123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27033">
+          <NODE1_ID>32374</NODE1_ID>
+          <NODE1_NAME>LLRNAndols</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.579</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298363,41.639829 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28642">
+          <NODE1_ID>33924</NODE1_ID>
+          <NODE1_NAME>MARAtaram</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323270,41.642093 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28761">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>32765</NODE2_ID>
+          <NODE2_NAME>JesusSanchez</NODE2_NAME>
+          <KMS>1.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.292374,41.623714</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29792">
+          <NODE1_ID>9116</NODE1_ID>
+          <NODE1_NAME>MARCalEnrelat</NODE1_NAME>
+          <NODE2_ID>5018</NODE2_ID>
+          <NODE2_NAME>MARCanSabater</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334530,41.650316 2.337222,41.650833</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29813">
+          <NODE1_ID>35079</NODE1_ID>
+          <NODE1_NAME>GRGCanTeixidoB</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.288489,41.683081 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30856">
+          <NODE1_ID>35980</NODE1_ID>
+          <NODE1_NAME>chaiselongue02</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.426</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298980,41.648290 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30995">
+          <NODE1_ID>27099</NODE1_ID>
+          <NODE1_NAME>RDV</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.58</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.321130,41.627208 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30996">
+          <NODE1_ID>25307</NODE1_ID>
+          <NODE1_NAME>LFDVCanPauDrach</NODE1_NAME>
+          <NODE2_ID>27099</NODE2_ID>
+          <NODE2_NAME>RDV</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320570,41.624583 2.321130,41.627208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31386">
+          <NODE1_ID>36487</NODE1_ID>
+          <NODE1_NAME>CNVMateos</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.280599,41.616937 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31729">
+          <NODE1_ID>34485</NODE1_ID>
+          <NODE1_NAME>CNVRusinyol14</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.275851,41.619002 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31934">
+          <NODE1_ID>36797</NODE1_ID>
+          <NODE1_NAME>LFDVCintoVerdaguer8</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298152,41.636719 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32404">
+          <NODE1_ID>37466</NODE1_ID>
+          <NODE1_NAME>LFDVPtgTagamanent22</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299195,41.633308 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33259">
+          <NODE1_ID>38219</NODE1_ID>
+          <NODE1_NAME>LLRNBoixareu1</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296690,41.653750 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33636">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>35997</NODE2_ID>
+          <NODE2_NAME>AmetllaJSalo</NODE2_NAME>
+          <KMS>3.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.274009,41.661801</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34001">
+          <NODE1_ID>23327</NODE1_ID>
+          <NODE1_NAME>MARCanCassa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.329351,41.653888 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36061">
+          <NODE1_ID>36992</NODE1_ID>
+          <NODE1_NAME>LLRNCasaEnrani</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.392</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.284942,41.656696 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36500">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>40850</NODE2_ID>
+          <NODE2_NAME>LLRNCanLluci</NODE2_NAME>
+          <KMS>1.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.298768,41.650266</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37773">
+          <NODE1_ID>41907</NODE1_ID>
+          <NODE1_NAME>GRNMartinez</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.943</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.283709,41.610665 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38610">
+          <NODE1_ID>42600</NODE1_ID>
+          <NODE1_NAME>LFDVRueda</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.305471,41.619571 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38812">
+          <NODE1_ID>35609</NODE1_ID>
+          <NODE1_NAME>Blanc</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>4.949</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.285140,41.680252 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39297">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>43149</NODE2_ID>
+          <NODE2_NAME>LFRVStJordi1</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.295553,41.632701</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39455">
+          <NODE1_ID>3817</NODE1_ID>
+          <NODE1_NAME>MARRoca</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.317578,41.650850 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40959">
+          <NODE1_ID>43476</NODE1_ID>
+          <NODE1_NAME>MARCanPoneta</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316797,41.649914 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41059">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>44477</NODE2_ID>
+          <NODE2_NAME>CRDACanPoncia</NODE2_NAME>
+          <KMS>2.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.333246,41.664601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41443">
+          <NODE1_ID>44804</NODE1_ID>
+          <NODE1_NAME>LLRNCanColom</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290093,41.646143 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41777">
+          <NODE1_ID>27081</NODE1_ID>
+          <NODE1_NAME>LFDVPtge11Setembre10</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.592</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299820,41.633752 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42368">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>45597</NODE2_ID>
+          <NODE2_NAME>CRDACanPrat</NODE2_NAME>
+          <KMS>4.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.334048,41.684050</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43196">
+          <NODE1_ID>46291</NODE1_ID>
+          <NODE1_NAME>CNVCalArana</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.977</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.269754,41.635457 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43316">
+          <NODE1_ID>44395</NODE1_ID>
+          <NODE1_NAME>LFDVAgudes</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.54</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299933,41.635943 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43618">
+          <NODE1_ID>46337</NODE1_ID>
+          <NODE1_NAME>LFDVVergemontserrat7</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296839,41.631651 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43743">
+          <NODE1_ID>27379</NODE1_ID>
+          <NODE1_NAME>LFDVCasajoana</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300127,41.635863 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43920">
+          <NODE1_ID>46797</NODE1_ID>
+          <NODE1_NAME>CNVCasasayas</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.438</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.269878,41.623145 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44130">
+          <NODE1_ID>46198</NODE1_ID>
+          <NODE1_NAME>LLRNJimHab</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298868,41.648545 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44878">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>42805</NODE2_ID>
+          <NODE2_NAME>LFDVAvMontseny25</NODE2_NAME>
+          <KMS>0.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.312118,41.638387</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45367">
+          <NODE1_ID>47795</NODE1_ID>
+          <NODE1_NAME>LFDVMarRubn</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.997</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298744,41.628083 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46058">
+          <NODE1_ID>47159</NODE1_ID>
+          <NODE1_NAME>TerrAltaQuim</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273469,41.611922 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46895">
+          <NODE1_ID>38114</NODE1_ID>
+          <NODE1_NAME>CiSCasaBot</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.811</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334396,41.693001 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46976">
+          <NODE1_ID>10669</NODE1_ID>
+          <NODE1_NAME>LFDVSteitec</NODE1_NAME>
+          <NODE2_ID>47884</NODE2_ID>
+          <NODE2_NAME>CRDATibidabo</NODE2_NAME>
+          <KMS>5.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300520,41.633535 2.335463,41.672328</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50021">
+          <NODE1_ID>51273</NODE1_ID>
+          <NODE1_NAME>CNVCasellas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>5.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.346946,41.693906 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50037">
+          <NODE1_ID>41908</NODE1_ID>
+          <NODE1_NAME>GRNHGG</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295782,41.613155 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51039">
+          <NODE1_ID>52092</NODE1_ID>
+          <NODE1_NAME>GRNFRibes</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293257,41.613407 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51450">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>0.655</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51458">
+          <NODE1_ID>52379</NODE1_ID>
+          <NODE1_NAME>LFDVApen</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.288906,41.624714 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51853">
+          <NODE1_ID>15669</NODE1_ID>
+          <NODE1_NAME>MARRamis</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.652</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320220,41.650480 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52181">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>50093</NODE2_ID>
+          <NODE2_NAME>GRNIris</NODE2_NAME>
+          <KMS>3.884</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.290214,41.601252</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52499">
+          <NODE1_ID>53125</NODE1_ID>
+          <NODE1_NAME>LFDVMoragues</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.742</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298317,41.630531 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52539">
+          <NODE1_ID>24524</NODE1_ID>
+          <NODE1_NAME>LFDVSantPonc2</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.766</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296641,41.629660 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52712">
+          <NODE1_ID>53252</NODE1_ID>
+          <NODE1_NAME>LFDVRaul</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.338</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297230,41.635012 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52989">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>20336</NODE2_ID>
+          <NODE2_NAME>LLRNCanVicens</NODE2_NAME>
+          <KMS>1.642</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.291390,41.650838</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53073">
+          <NODE1_ID>27099</NODE1_ID>
+          <NODE1_NAME>RDV</NODE1_NAME>
+          <NODE2_ID>53520</NODE2_ID>
+          <NODE2_NAME>LFDVCanBlai</NODE2_NAME>
+          <KMS>0.594</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.321130,41.627208 2.315547,41.623883</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53306">
+          <NODE1_ID>24018</NODE1_ID>
+          <NODE1_NAME>LFDVADMarina</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.697</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289716,41.630520 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53797">
+          <NODE1_ID>54047</NODE1_ID>
+          <NODE1_NAME>LFDVRms</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.516</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290542,41.632032 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54389">
+          <NODE1_ID>54407</NODE1_ID>
+          <NODE1_NAME>LLRNCanMinguet</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.661</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295491,41.651008 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55518">
+          <NODE1_ID>54304</NODE1_ID>
+          <NODE1_NAME>LFDVOnzeSetembre43</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300413,41.633872 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56052">
+          <NODE1_ID>55524</NODE1_ID>
+          <NODE1_NAME>LFDVponc2</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.765</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296618,41.629668 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56294">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>32966</NODE2_ID>
+          <NODE2_NAME>GRNEspanya</NODE2_NAME>
+          <KMS>2.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.287635,41.611688</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56712">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>56057</NODE2_ID>
+          <NODE2_NAME>LFDVCR125</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.295770,41.630256</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57062">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>54903</NODE2_ID>
+          <NODE2_NAME>LFDVLardies</NODE2_NAME>
+          <KMS>0.678</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.297155,41.630694</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57911">
+          <NODE1_ID>56963</NODE1_ID>
+          <NODE1_NAME>LFDVSatex</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.943</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290419,41.627958 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58065">
+          <NODE1_ID>57080</NODE1_ID>
+          <NODE1_NAME>LFDVJosepMas</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.907</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289850,41.628427 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58085">
+          <NODE1_ID>57095</NODE1_ID>
+          <NODE1_NAME>MARCanXico</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316490,41.649775 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59178">
+          <NODE1_ID>57686</NODE1_ID>
+          <NODE1_NAME>LLRNNRof</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297897,41.640213 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60835">
+          <NODE1_ID>58913</NODE1_ID>
+          <NODE1_NAME>LFDVRicard</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295492,41.632678 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61016">
+          <NODE1_ID>53844</NODE1_ID>
+          <NODE1_NAME>LFDVJoanMontes</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302060,41.631324 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61085">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>58552</NODE2_ID>
+          <NODE2_NAME>LFDVEduard</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.298358,41.633362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61199">
+          <NODE1_ID>55465</NODE1_ID>
+          <NODE1_NAME>LFDVCalman</NODE1_NAME>
+          <NODE2_ID>27099</NODE2_ID>
+          <NODE2_NAME>RDV</NODE2_NAME>
+          <KMS>1.295</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308738,41.620175 2.321130,41.627208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61202">
+          <NODE1_ID>59295</NODE1_ID>
+          <NODE1_NAME>LFDVGreenIndoor</NODE1_NAME>
+          <NODE2_ID>55465</NODE2_ID>
+          <NODE2_NAME>LFDVCalman</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311581,41.621081 2.308738,41.620175</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61403">
+          <NODE1_ID>59425</NODE1_ID>
+          <NODE1_NAME>LFDVNemesio</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.778</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296937,41.629629 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61418">
+          <NODE1_ID>59440</NODE1_ID>
+          <NODE1_NAME>LFDVMaster</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295648,41.632631 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62166">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>59959</NODE2_ID>
+          <NODE2_NAME>LFDVCellecs222</NODE2_NAME>
+          <KMS>0.782</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.297417,41.629753</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62519">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>8776</NODE2_ID>
+          <NODE2_NAME>MARFontDeBaix</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.328559,41.639183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62521">
+          <NODE1_ID>28050</NODE1_ID>
+          <NODE1_NAME>MarCalErmita</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.324703,41.636161 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62982">
+          <NODE1_ID>60097</NODE1_ID>
+          <NODE1_NAME>LFDVMariaMargens10</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296491,41.654778 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63521">
+          <NODE1_ID>60955</NODE1_ID>
+          <NODE1_NAME>LFDVRijat</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.921</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290368,41.628171 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63698">
+          <NODE1_ID>60655</NODE1_ID>
+          <NODE1_NAME>LFDVCPOnzeSetembre16</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.664</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300740,41.633700 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63778">
+          <NODE1_ID>61077</NODE1_ID>
+          <NODE1_NAME>LFDVSantJordi5</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.404</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295700,41.632903 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63848">
+          <NODE1_ID>61107</NODE1_ID>
+          <NODE1_NAME>LFDVHarris</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290703,41.627253 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64103">
+          <NODE1_ID>61293</NODE1_ID>
+          <NODE1_NAME>LFDVAbel</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.761</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296920,41.629793 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64210">
+          <NODE1_ID>61397</NODE1_ID>
+          <NODE1_NAME>GRNRafaelCasanova58</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286369,41.613053 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64742">
+          <NODE1_ID>61869</NODE1_ID>
+          <NODE1_NAME>LFDVAlbert</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295754,41.632818 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64996">
+          <NODE1_ID>62110</NODE1_ID>
+          <NODE1_NAME>LFDVCanDuros</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>5.576</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312787,41.614268 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65382">
+          <NODE1_ID>60133</NODE1_ID>
+          <NODE1_NAME>LLRNBoixareu5</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297618,41.654265 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66328">
+          <NODE1_ID>63056</NODE1_ID>
+          <NODE1_NAME>LFDVBSV</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.288742,41.627037 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66486">
+          <NODE1_ID>5023</NODE1_ID>
+          <NODE1_NAME>MARAnton</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.786</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.332778,41.640833 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66893">
+          <NODE1_ID>63509</NODE1_ID>
+          <NODE1_NAME>LFDVJaume</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300988,41.632759 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67057">
+          <NODE1_ID>63292</NODE1_ID>
+          <NODE1_NAME>LLRNCELlerona</NODE1_NAME>
+          <NODE2_ID>53764</NODE2_ID>
+          <NODE2_NAME>LLRNHipica</NODE2_NAME>
+          <KMS>1.907</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300431,41.650379 2.279670,41.657625</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67099">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>63654</NODE2_ID>
+          <NODE2_NAME>LLRNPuig</NODE2_NAME>
+          <KMS>2.826</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.301853,41.660783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67308">
+          <NODE1_ID>63882</NODE1_ID>
+          <NODE1_NAME>LLRNCalAnima</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.829</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.291988,41.652562 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67322">
+          <NODE1_ID>62814</NODE1_ID>
+          <NODE1_NAME>AMLLCanViver4</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>5.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.258835,41.673391 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67486">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9276</NODE2_ID>
+          <NODE2_NAME>MARCanPareraLatorre</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.323159,41.642227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68305">
+          <NODE1_ID>64607</NODE1_ID>
+          <NODE1_NAME>MarCanAdan</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.328651,41.636441 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68306">
+          <NODE1_ID>64607</NODE1_ID>
+          <NODE1_NAME>MarCanAdan</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.328651,41.636441 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69004">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>54545</NODE2_ID>
+          <NODE2_NAME>LLRNSait</NODE2_NAME>
+          <KMS>0.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.291722,41.643574</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69005">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>55074</NODE2_ID>
+          <NODE2_NAME>AMLLDavid</NODE2_NAME>
+          <KMS>5.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.248729,41.675504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69006">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>55756</NODE2_ID>
+          <NODE2_NAME>LFDVKleem</NODE2_NAME>
+          <KMS>0.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.291508,41.642540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69007">
+          <NODE1_ID>55869</NODE1_ID>
+          <NODE1_NAME>LLRNRPladeLLerona</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.291725,41.642887 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69008">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>56725</NODE2_ID>
+          <NODE2_NAME>GRGTamayo</NODE2_NAME>
+          <KMS>3.33</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.287318,41.665759</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69009">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>59189</NODE2_ID>
+          <NODE2_NAME>GRGFerrer</NODE2_NAME>
+          <KMS>4.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.278282,41.671101</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69010">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>60337</NODE2_ID>
+          <NODE2_NAME>LLRNTerrides</NODE2_NAME>
+          <KMS>0.886</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.297818,41.643405</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69011">
+          <NODE1_ID>62379</NODE1_ID>
+          <NODE1_NAME>LLRNBEHQ</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286919,41.643968 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69013">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.558</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69014">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>58418</NODE2_ID>
+          <NODE2_NAME>LLRNRuben</NODE2_NAME>
+          <KMS>1.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.297816,41.647473</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69109">
+          <NODE1_ID>65150</NODE1_ID>
+          <NODE1_NAME>LFDVOnzeSetembre18</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.649</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300697,41.633979 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69160">
+          <NODE1_ID>65191</NODE1_ID>
+          <NODE1_NAME>CNVjoaquimblume12</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270143,41.618896 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69174">
+          <NODE1_ID>53101</NODE1_ID>
+          <NODE1_NAME>LFDVUser4</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296542,41.621998 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69295">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>65299</NODE2_ID>
+          <NODE2_NAME>GRNponent51</NODE2_NAME>
+          <KMS>2.68</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.286685,41.612543</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69469">
+          <NODE1_ID>30327</NODE1_ID>
+          <NODE1_NAME>LFDVSantAntoni51</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.539</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296413,41.631814 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69638">
+          <NODE1_ID>65555</NODE1_ID>
+          <NODE1_NAME>CRDAQuim</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>9.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.319742,41.670405 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69817">
+          <NODE1_ID>9225</NODE1_ID>
+          <NODE1_NAME>LFDVTerfor</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297827,41.635880 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70575">
+          <NODE1_ID>66246</NODE1_ID>
+          <NODE1_NAME>CRDAJep</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>9.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.321342,41.667663 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70761">
+          <NODE1_ID>11505</NODE1_ID>
+          <NODE1_NAME>MARRectoria</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323488,41.646955 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71014">
+          <NODE1_ID>66594</NODE1_ID>
+          <NODE1_NAME>AMLLWaley</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270163,41.651179 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71148">
+          <NODE1_ID>66679</NODE1_ID>
+          <NODE1_NAME>LFDVDagsa</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.808</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289182,41.629601 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71362">
+          <NODE1_ID>66897</NODE1_ID>
+          <NODE1_NAME>LFDVAntonia</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297570,41.633314 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71455">
+          <NODE1_ID>66981</NODE1_ID>
+          <NODE1_NAME>CiSDani</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313429,41.687808 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71456">
+          <NODE1_ID>54833</NODE1_ID>
+          <NODE1_NAME>LFDVMega</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296593,41.638639 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71470">
+          <NODE1_ID>49210</NODE1_ID>
+          <NODE1_NAME>LFDVPoti</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297953,41.636376 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71519">
+          <NODE1_ID>67009</NODE1_ID>
+          <NODE1_NAME>LFDVPompeuFabra3</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.489</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290907,41.622864 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71801">
+          <NODE1_ID>67226</NODE1_ID>
+          <NODE1_NAME>AMLLFrancescaRoig</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259884,41.674779 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71875">
+          <NODE1_ID>67303</NODE1_ID>
+          <NODE1_NAME>LFDVCanoves23</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.802</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298408,41.629937 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72147">
+          <NODE1_ID>67541</NODE1_ID>
+          <NODE1_NAME>LFDVPoligon10</NODE1_NAME>
+          <NODE2_ID>54468</NODE2_ID>
+          <NODE2_NAME>BiRLledoner</NODE2_NAME>
+          <KMS>11.311</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308561,41.620130 2.187161,41.665721</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72151">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>18526</NODE2_ID>
+          <NODE2_NAME>LFDVTaga58</NODE2_NAME>
+          <KMS>0.802</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.297996,41.629767</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72261">
+          <NODE1_ID>67621</NODE1_ID>
+          <NODE1_NAME>LFDVPuntServei</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.779</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295660,41.629314 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72267">
+          <NODE1_ID>48181</NODE1_ID>
+          <NODE1_NAME>LFDVMaynou</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289045,41.627914 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72290">
+          <NODE1_ID>64422</NODE1_ID>
+          <NODE1_NAME>LFDVCarlesVives</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.747</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295252,41.651802 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72332">
+          <NODE1_ID>53159</NODE1_ID>
+          <NODE1_NAME>LFDVMatamala</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294210,41.625197 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72418">
+          <NODE1_ID>34945</NODE1_ID>
+          <NODE1_NAME>CNVRusinyol55</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.323</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.276520,41.619517 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72449">
+          <NODE1_ID>8779</NODE1_ID>
+          <NODE1_NAME>MARTarafa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316294,41.643364 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72482">
+          <NODE1_ID>67792</NODE1_ID>
+          <NODE1_NAME>GRNIPTECNO</NODE1_NAME>
+          <NODE2_ID>67541</NODE2_ID>
+          <NODE2_NAME>LFDVPoligon10</NODE2_NAME>
+          <KMS>1.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302106,41.607063 2.308561,41.620130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72565">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>67871</NODE2_ID>
+          <NODE2_NAME>LLNAleix</NODE2_NAME>
+          <KMS>1.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.298891,41.648698</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72677">
+          <NODE1_ID>67958</NODE1_ID>
+          <NODE1_NAME>LFDVGerard</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297883,41.636596 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72787">
+          <NODE1_ID>68067</NODE1_ID>
+          <NODE1_NAME>LFDVJoan</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.828</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295713,41.628868 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72962">
+          <NODE1_ID>68264</NODE1_ID>
+          <NODE1_NAME>LFDVVidreBany</NODE1_NAME>
+          <NODE2_ID>67541</NODE2_ID>
+          <NODE2_NAME>LFDVPoligon10</NODE2_NAME>
+          <KMS>1.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308014,41.609915 2.308561,41.620130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73382">
+          <NODE1_ID>68753</NODE1_ID>
+          <NODE1_NAME>GRNEArmengol</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>0.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.301317,41.609252 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73384">
+          <NODE1_ID>68751</NODE1_ID>
+          <NODE1_NAME>LFDVSidorme</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>6.284</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303841,41.614381 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73385">
+          <NODE1_ID>68751</NODE1_ID>
+          <NODE1_NAME>LFDVSidorme</NODE1_NAME>
+          <NODE2_ID>27099</NODE2_ID>
+          <NODE2_NAME>RDV</NODE2_NAME>
+          <KMS>2.026</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303841,41.614381 2.321130,41.627208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73386">
+          <NODE1_ID>68702</NODE1_ID>
+          <NODE1_NAME>LLRNDeumal</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.41</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297803,41.648399 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73388">
+          <NODE1_ID>68755</NODE1_ID>
+          <NODE1_NAME>LLRNMarkus</NODE1_NAME>
+          <NODE2_ID>68702</NODE2_ID>
+          <NODE2_NAME>LLRNDeumal</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297795,41.648215 2.297803,41.648399</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73389">
+          <NODE1_ID>68756</NODE1_ID>
+          <NODE1_NAME>LLRNMarta</NODE1_NAME>
+          <NODE2_ID>68702</NODE2_ID>
+          <NODE2_NAME>LLRNDeumal</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297940,41.648683 2.297803,41.648399</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73515">
+          <NODE1_ID>68895</NODE1_ID>
+          <NODE1_NAME>LFDVRuth</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>0.39</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300272,41.630026 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73750">
+          <NODE1_ID>66318</NODE1_ID>
+          <NODE1_NAME>LFDVBopla</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>0.468</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309299,41.615376 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73806">
+          <NODE1_ID>69114</NODE1_ID>
+          <NODE1_NAME>LFDVComellas</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.728</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298994,41.631056 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73873">
+          <NODE1_ID>67495</NODE1_ID>
+          <NODE1_NAME>GRNalmogavers19</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286450,41.611978 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74031">
+          <NODE1_ID>52090</NODE1_ID>
+          <NODE1_NAME>LLRNCano</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298920,41.648544 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74033">
+          <NODE1_ID>69287</NODE1_ID>
+          <NODE1_NAME>RDVFetim</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>2.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.324585,41.626699 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74034">
+          <NODE1_ID>69287</NODE1_ID>
+          <NODE1_NAME>RDVFetim</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>2.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.324585,41.626699 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74035">
+          <NODE1_ID>69287</NODE1_ID>
+          <NODE1_NAME>RDVFetim</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>2.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.324585,41.626699 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74036">
+          <NODE1_ID>69287</NODE1_ID>
+          <NODE1_NAME>RDVFetim</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>2.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.324585,41.626699 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74126">
+          <NODE1_ID>69350</NODE1_ID>
+          <NODE1_NAME>LFDVCalier</NODE1_NAME>
+          <NODE2_ID>67541</NODE2_ID>
+          <NODE2_NAME>LFDVPoligon10</NODE2_NAME>
+          <KMS>1.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304081,41.609453 2.308561,41.620130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74280">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>9092</NODE2_ID>
+          <NODE2_NAME>MARCalEspernat</NODE2_NAME>
+          <KMS>1.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.322678,41.647203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74281">
+          <NODE1_ID>9248</NODE1_ID>
+          <NODE1_NAME>MARCanGinesta</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.963</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320295,41.645784 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74285">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>55946</NODE2_ID>
+          <NODE2_NAME>MARElMoli</NODE2_NAME>
+          <KMS>1.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.318937,41.651830</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75854">
+          <NODE1_ID>67541</NODE1_ID>
+          <NODE1_NAME>LFDVPoligon10</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>9.399</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308561,41.620130 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76295">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>59995</NODE2_ID>
+          <NODE2_NAME>LFDVTil.lers</NODE2_NAME>
+          <KMS>0.596</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.298794,41.632560</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76502">
+          <NODE1_ID>52630</NODE1_ID>
+          <NODE1_NAME>SAMSantCarles</NODE1_NAME>
+          <NODE2_ID>31822</NODE2_ID>
+          <NODE2_NAME>CRDACanCabecaNou</NODE2_NAME>
+          <KMS>8.692</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.375472,41.596749 2.340973,41.670603</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76503">
+          <NODE1_ID>54942</NODE1_ID>
+          <NODE1_NAME>CRDACanMarch</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>9.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.339238,41.675854 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76524">
+          <NODE1_ID>71570</NODE1_ID>
+          <NODE1_NAME>LLRNCanRos</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.587</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297833,41.640279 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77247">
+          <NODE1_ID>72195</NODE1_ID>
+          <NODE1_NAME>LLRNHuda</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.933</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290195,41.653360 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77432">
+          <NODE1_ID>44006</NODE1_ID>
+          <NODE1_NAME>LFDVPerception</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.792</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297398,41.629642 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77854">
+          <NODE1_ID>9190</NODE1_ID>
+          <NODE1_NAME>GRNMAltimires</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.219</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290421,41.616280 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77993">
+          <NODE1_ID>72839</NODE1_ID>
+          <NODE1_NAME>LLRNCanBarrufet</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.299726,41.645057 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78287">
+          <NODE1_ID>63694</NODE1_ID>
+          <NODE1_NAME>CNVpi26</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.47</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.281638,41.615742 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78440">
+          <NODE1_ID>68751</NODE1_ID>
+          <NODE1_NAME>LFDVSidorme</NODE1_NAME>
+          <NODE2_ID>73183</NODE2_ID>
+          <NODE2_NAME>LFDVCanReverter</NODE2_NAME>
+          <KMS>0.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303841,41.614381 2.301663,41.620713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78441">
+          <NODE1_ID>65517</NODE1_ID>
+          <NODE1_NAME>LFDVInoxCreix</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>0.91</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312837,41.619026 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78541">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>65299</NODE2_ID>
+          <NODE2_NAME>GRNponent51</NODE2_NAME>
+          <KMS>2.68</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.286685,41.612543</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78715">
+          <NODE1_ID>73400</NODE1_ID>
+          <NODE1_NAME>CRDACanCanal</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>4.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330712,41.684331 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79378">
+          <NODE1_ID>73989</NODE1_ID>
+          <NODE1_NAME>LLRNMega</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.598</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298594,41.639891 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79379">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>45191</NODE2_ID>
+          <NODE2_NAME>CiSCanBerenguer</NODE2_NAME>
+          <KMS>6.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.313384,41.688705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79880">
+          <NODE1_ID>71452</NODE1_ID>
+          <NODE1_NAME>AmetllaMajor13</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>4.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259620,41.673043 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79920">
+          <NODE1_ID>74295</NODE1_ID>
+          <NODE1_NAME>GRNmontcada5</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.878</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293045,41.619230 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79974">
+          <NODE1_ID>68702</NODE1_ID>
+          <NODE1_NAME>LLRNDeumal</NODE1_NAME>
+          <NODE2_ID>65215</NODE2_ID>
+          <NODE2_NAME>LLRNferreret1</NODE2_NAME>
+          <KMS>0.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297803,41.648399 2.297881,41.647852</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80004">
+          <NODE1_ID>74531</NODE1_ID>
+          <NODE1_NAME>GRNMerkamueble</NODE1_NAME>
+          <NODE2_ID>67541</NODE2_ID>
+          <NODE2_NAME>LFDVPoligon10</NODE2_NAME>
+          <KMS>0.77</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.305895,41.613494 2.308561,41.620130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80885">
+          <NODE1_ID>75094</NODE1_ID>
+          <NODE1_NAME>RDVCasalta</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>2.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323050,41.619593 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80886">
+          <NODE1_ID>75094</NODE1_ID>
+          <NODE1_NAME>RDVCasalta</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>2.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323050,41.619593 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80887">
+          <NODE1_ID>42543</NODE1_ID>
+          <NODE1_NAME>MARRueda</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323241,41.641704 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80888">
+          <NODE1_ID>8777</NODE1_ID>
+          <NODE1_NAME>MARMusic</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330056,41.640473 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80889">
+          <NODE1_ID>75095</NODE1_ID>
+          <NODE1_NAME>LFDVEFuerte</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294434,41.635559 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80890">
+          <NODE1_ID>75097</NODE1_ID>
+          <NODE1_NAME>LFDVInstValles</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289496,41.631725 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81002">
+          <NODE1_ID>74725</NODE1_ID>
+          <NODE1_NAME>CRDACanPuigoriolGran</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>3.781</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.343918,41.677205 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121245">
+          <NODE1_ID>75536</NODE1_ID>
+          <NODE1_NAME>LFDVCanoves92</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.301103,41.630688 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121447">
+          <NODE1_ID>75731</NODE1_ID>
+          <NODE1_NAME>LLRNSysfeed</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.291873,41.655718 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121606">
+          <NODE1_ID>75861</NODE1_ID>
+          <NODE1_NAME>CNVMainho</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.344</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.283579,41.626565 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121711">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>75930</NODE2_ID>
+          <NODE2_NAME>LFDVBielsa</NODE2_NAME>
+          <KMS>2.097</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.302191,41.631139</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121712">
+          <NODE1_ID>75931</NODE1_ID>
+          <NODE1_NAME>LFDVBonet</NODE1_NAME>
+          <NODE2_ID>75930</NODE2_ID>
+          <NODE2_NAME>LFDVBielsa</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.301680,41.631484 2.302191,41.631139</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121728">
+          <NODE1_ID>67541</NODE1_ID>
+          <NODE1_NAME>LFDVPoligon10</NODE1_NAME>
+          <NODE2_ID>75936</NODE2_ID>
+          <NODE2_NAME>BiRCastMontbui</NODE2_NAME>
+          <KMS>12.283</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308561,41.620130 2.175164,41.667218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122465">
+          <NODE1_ID>68751</NODE1_ID>
+          <NODE1_NAME>LFDVSidorme</NODE1_NAME>
+          <NODE2_ID>76450</NODE2_ID>
+          <NODE2_NAME>LFDVTpich</NODE2_NAME>
+          <KMS>0.731</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303841,41.614381 2.312067,41.616652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122466">
+          <NODE1_ID>56807</NODE1_ID>
+          <NODE1_NAME>LFDVGRLlorens</NODE1_NAME>
+          <NODE2_ID>68751</NODE2_ID>
+          <NODE2_NAME>LFDVSidorme</NODE2_NAME>
+          <KMS>0.553</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310331,41.615418 2.303841,41.614381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122467">
+          <NODE1_ID>76458</NODE1_ID>
+          <NODE1_NAME>LFDVMartBert</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.549</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289562,41.632153 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122608">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>56073</NODE2_ID>
+          <NODE2_NAME>LFDVRuben</NODE2_NAME>
+          <KMS>2.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.276648,41.655572</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122610">
+          <NODE1_ID>68878</NODE1_ID>
+          <NODE1_NAME>CiSBorja</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.976</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313518,41.687791 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122669">
+          <NODE1_ID>76581</NODE1_ID>
+          <NODE1_NAME>LLRNMariaMargens5</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296078,41.654598 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122712">
+          <NODE1_ID>46654</NODE1_ID>
+          <NODE1_NAME>FRAcancarrerosn</NODE1_NAME>
+          <NODE2_ID>67541</NODE2_ID>
+          <NODE2_NAME>LFDVPoligon10</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310927,41.623099 2.308561,41.620130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122726">
+          <NODE1_ID>76630</NODE1_ID>
+          <NODE1_NAME>LFDVSamos</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309055,41.637594 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123183">
+          <NODE1_ID>77022</NODE1_ID>
+          <NODE1_NAME>LLRNClnm1</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>1.922</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.291863,41.653396 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123371">
+          <NODE1_ID>77116</NODE1_ID>
+          <NODE1_NAME>LLRNTwinBusch</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.871</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.291776,41.643871 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123501">
+          <NODE1_ID>77188</NODE1_ID>
+          <NODE1_NAME>LLRNCosuame</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>0.891</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.291445,41.644011 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123518">
+          <NODE1_ID>76694</NODE1_ID>
+          <NODE1_NAME>LFDVBellavistaGerona</NODE1_NAME>
+          <NODE2_ID>75930</NODE2_ID>
+          <NODE2_NAME>LFDVBielsa</NODE2_NAME>
+          <KMS>1.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296202,41.619199 2.302191,41.631139</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123711">
+          <NODE1_ID>77310</NODE1_ID>
+          <NODE1_NAME>GRNBigasGrup</NODE1_NAME>
+          <NODE2_ID>67541</NODE2_ID>
+          <NODE2_NAME>LFDVPoligon10</NODE2_NAME>
+          <KMS>4.756</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.281405,41.582473 2.308561,41.620130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123748">
+          <NODE1_ID>10669</NODE1_ID>
+          <NODE1_NAME>LFDVSteitec</NODE1_NAME>
+          <NODE2_ID>76997</NODE2_ID>
+          <NODE2_NAME>LFDVavsagrera27</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300520,41.633535 2.301252,41.633977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

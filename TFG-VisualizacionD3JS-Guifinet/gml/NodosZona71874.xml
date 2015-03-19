@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.499400</gml:X><gml:Y>43.431471</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.474893</gml:X><gml:Y>43.453939</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="51954">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.485016,43.453939</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51954</NODE_ID>
+      <NODE_NAME>VLLVCSCastielluamb19</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58422">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.479892,43.443224</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58422</NODE_ID>
+      <NODE_NAME>VLLVCSDaxa7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59364">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.480703,43.444841</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59364</NODE_ID>
+      <NODE_NAME>VLLVCSDaxa1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63899">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.474893,43.445274</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63899</NODE_ID>
+      <NODE_NAME>VLLVCSFincSanGabriel</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71884">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.489642,43.453226</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71884</NODE_ID>
+      <NODE_NAME>VLLVCSCastiello10</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72335">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.499400,43.431471</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72335</NODE_ID>
+      <NODE_NAME>VLLVCSArbazal7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76441">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.489202,43.444592</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76441</NODE_ID>
+      <NODE_NAME>VLLVCSSPedroAmbas6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

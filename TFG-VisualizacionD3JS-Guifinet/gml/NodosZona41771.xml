@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.148541</gml:X><gml:Y>39.797017</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.128342</gml:X><gml:Y>39.805672</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="33898">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.133518,39.798396</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33898</NODE_ID>
+      <NODE_NAME>MonCullera5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33900">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.133518,39.798396</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33900</NODE_ID>
+      <NODE_NAME>mncfCllr5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41772">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.148541,39.805672</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41772</NODE_ID>
+      <NODE_NAME>MONdiputacio15</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59726">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.128342,39.803509</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59726</NODE_ID>
+      <NODE_NAME>MCFmareNostrum238</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60356">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.133848,39.797918</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60356</NODE_ID>
+      <NODE_NAME>MONhernan88</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70847">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.136178,39.797017</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70847</NODE_ID>
+      <NODE_NAME>McfMallorca10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75099">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.129479,39.803769</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75099</NODE_ID>
+      <NODE_NAME>McfOropesa13_2_4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.107558</gml:X><gml:Y>41.688370</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.112178</gml:X><gml:Y>41.692039</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="66462">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.112178,41.688370</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66462</NODE_ID>
+      <NODE_NAME>Gallifa-Castell</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66819">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.107558,41.692039</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66819</NODE_ID>
+      <NODE_NAME>GallifaCanBosch</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

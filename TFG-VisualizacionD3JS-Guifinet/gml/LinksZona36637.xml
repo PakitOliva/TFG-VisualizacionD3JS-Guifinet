@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.643668</gml:X><gml:Y>40.406300</gml:Y></gml:coord>
+<gml:coord><gml:X>-3.454662</gml:X><gml:Y>40.461626</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="79083">
+          <NODE1_ID>73654</NODE1_ID>
+          <NODE1_NAME>MejMadrEstCl2</NODE1_NAME>
+          <NODE2_ID>66471</NODE2_ID>
+          <NODE2_NAME>MadCalandaAp2</NODE2_NAME>
+          <KMS>16.801</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.454662,40.416506 -3.643668,40.461626</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79925">
+          <NODE1_ID>74430</NODE1_ID>
+          <NODE1_NAME>MejCedGareCli1</NODE1_NAME>
+          <NODE2_ID>66471</NODE2_ID>
+          <NODE2_NAME>MadCalandaAp2</NODE2_NAME>
+          <KMS>16.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.466605,40.409431 -3.643668,40.461626</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79927">
+          <NODE1_ID>74433</NODE1_ID>
+          <NODE1_NAME>MejAlmArmCli1</NODE1_NAME>
+          <NODE2_ID>66471</NODE2_ID>
+          <NODE2_NAME>MadCalandaAp2</NODE2_NAME>
+          <KMS>15.847</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.467597,40.413998 -3.643668,40.461626</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79929">
+          <NODE1_ID>74434</NODE1_ID>
+          <NODE1_NAME>MejMiraGatCli1</NODE1_NAME>
+          <NODE2_ID>66471</NODE2_ID>
+          <NODE2_NAME>MadCalandaAp2</NODE2_NAME>
+          <KMS>15.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.475649,40.406300 -3.643668,40.461626</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123667">
+          <NODE1_ID>77261</NODE1_ID>
+          <NODE1_NAME>MejChoPedAp1</NODE1_NAME>
+          <NODE2_ID>77178</NODE2_ID>
+          <NODE2_NAME>MejCValMarCli1</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.471251,40.412836 -3.470639,40.413882</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

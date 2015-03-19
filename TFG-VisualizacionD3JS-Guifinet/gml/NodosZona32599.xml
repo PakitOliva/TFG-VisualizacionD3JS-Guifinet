@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.384891</gml:X><gml:Y>41.507189</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.411954</gml:X><gml:Y>41.531055</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="21506">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.384891,41.524498</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21506</NODE_ID>
+      <NODE_NAME>CabRep</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29576">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.402264,41.521947</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29576</NODE_ID>
+      <NODE_NAME>CabMarCorts</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29577">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.391307,41.526646</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29577</NODE_ID>
+      <NODE_NAME>CabMarGirona2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33869">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.386742,41.517888</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33869</NODE_ID>
+      <NODE_NAME>CABMarBurriach24</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37747">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.401749,41.511230</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37747</NODE_ID>
+      <NODE_NAME>CbPlvll</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43836">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.391200,41.531055</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43836</NODE_ID>
+      <NODE_NAME>CabCanBartomeuRadio</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43837">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.393335,41.526064</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43837</NODE_ID>
+      <NODE_NAME>CabAjuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46393">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.402106,41.507189</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46393</NODE_ID>
+      <NODE_NAME>CabLosRosales</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57870">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.402852,41.526075</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57870</NODE_ID>
+      <NODE_NAME>far4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74748">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.411954,41.514097</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74748</NODE_ID>
+      <NODE_NAME>CabN2km643</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.691452</gml:X><gml:Y>39.760546</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.721183</gml:X><gml:Y>39.777979</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="60609">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.715745,39.768535</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60609</NODE_ID>
+      <NODE_NAME>SOLVictoria44</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60610">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.721183,39.768201</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60610</NODE_ID>
+      <NODE_NAME>SOLAlqueriaComte40</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60395">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.717013,39.771147</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60395</NODE_ID>
+      <NODE_NAME>SOLAsturies42_0</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63695">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.714682,39.767102</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63695</NODE_ID>
+      <NODE_NAME>SOLCanPalou6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77284">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.717798,39.767141</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77284</NODE_ID>
+      <NODE_NAME>SOLEscolapies</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72816">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.710630,39.760546</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72816</NODE_ID>
+      <NODE_NAME>SOL_PujolMarc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74489">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.716627,39.768944</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74489</NODE_ID>
+      <NODE_NAME>slnclv11</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74490">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.716627,39.768944</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74490</NODE_ID>
+      <NODE_NAME>slnclv11</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74675">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.719347,39.771608</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74675</NODE_ID>
+      <NODE_NAME>SOLcandoi10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75019">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.710622,39.777979</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75019</NODE_ID>
+      <NODE_NAME>SOLCanGaspar10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.691452,39.764813</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75557</NODE_ID>
+      <NODE_NAME>SOLOliFra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76278">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.714138,39.766179</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76278</NODE_ID>
+      <NODE_NAME>SOLlocalMES</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

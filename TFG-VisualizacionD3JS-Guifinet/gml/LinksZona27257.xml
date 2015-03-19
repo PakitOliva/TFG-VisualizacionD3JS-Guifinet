@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.734670</gml:X><gml:Y>41.641207</gml:Y></gml:coord>
+<gml:coord><gml:X>2.748874</gml:X><gml:Y>41.679150</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="2228">
+          <NODE1_ID>3653</NODE1_ID>
+          <NODE1_NAME>ncastell</NODE1_NAME>
+          <NODE2_ID>3803</NODE2_ID>
+          <NODE2_NAME>MGTnbombers</NODE2_NAME>
+          <KMS>2.913</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.734670,41.679150 2.744042,41.653878</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="2451">
+          <NODE1_ID>3653</NODE1_ID>
+          <NODE1_NAME>ncastell</NODE1_NAME>
+          <NODE2_ID>3990</NODE2_ID>
+          <NODE2_NAME>MGTnmontnegre</NODE2_NAME>
+          <KMS>3.239</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.734670,41.679150 2.741115,41.650390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="2880">
+          <NODE1_ID>4338</NODE1_ID>
+          <NODE1_NAME>MGTnverneda</NODE1_NAME>
+          <NODE2_ID>4042</NODE2_ID>
+          <NODE2_NAME>nsantramon</NODE2_NAME>
+          <KMS>1.233</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.741622,41.651213 2.748874,41.660895</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="2881">
+          <NODE1_ID>4338</NODE1_ID>
+          <NODE1_NAME>MGTnverneda</NODE1_NAME>
+          <NODE2_ID>3990</NODE2_ID>
+          <NODE2_NAME>MGTnmontnegre</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.741622,41.651213 2.741115,41.650390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="2966">
+          <NODE1_ID>4370</NODE1_ID>
+          <NODE1_NAME>MGTconejilloblanco</NODE1_NAME>
+          <NODE2_ID>3990</NODE2_ID>
+          <NODE2_NAME>MGTnmontnegre</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737519,41.647864 2.741115,41.650390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="2967">
+          <NODE1_ID>4370</NODE1_ID>
+          <NODE1_NAME>MGTconejilloblanco</NODE1_NAME>
+          <NODE2_ID>4338</NODE2_ID>
+          <NODE2_NAME>MGTnverneda</NODE2_NAME>
+          <KMS>0.505</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737519,41.647864 2.741622,41.651213</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="3640">
+          <NODE1_ID>5202</NODE1_ID>
+          <NODE1_NAME>MGTnpou</NODE1_NAME>
+          <NODE2_ID>3653</NODE2_ID>
+          <NODE2_NAME>ncastell</NODE2_NAME>
+          <KMS>3.81</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.744133,41.645590 2.734670,41.679150</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="3677">
+          <NODE1_ID>4186</NODE1_ID>
+          <NODE1_NAME>njordi</NODE1_NAME>
+          <NODE2_ID>3990</NODE2_ID>
+          <NODE2_NAME>MGTnmontnegre</NODE2_NAME>
+          <KMS>2.227</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737269,41.670234 2.741115,41.650390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31533">
+          <NODE1_ID>35185</NODE1_ID>
+          <NODE1_NAME>MGTvergeMontserrat12</NODE1_NAME>
+          <NODE2_ID>5202</NODE2_ID>
+          <NODE2_NAME>MGTnpou</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737929,41.641207 2.744133,41.645590</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

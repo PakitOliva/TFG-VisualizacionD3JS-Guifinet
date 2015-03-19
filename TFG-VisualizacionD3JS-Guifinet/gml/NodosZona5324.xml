@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.996709</gml:X><gml:Y>41.308139</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.022950</gml:X><gml:Y>41.323512</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="25802">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.013891,41.320799</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25802</NODE_ID>
+      <NODE_NAME>VLDCPareArtigas79</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32151">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.008781,41.309966</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32151</NODE_ID>
+      <NODE_NAME>VilRuben</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34530">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.010099,41.308139</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34530</NODE_ID>
+      <NODE_NAME>VLDCgava70</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43240">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.016234,41.323512</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43240</NODE_ID>
+      <NODE_NAME>ViladecansLlorenPui</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50943">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.996709,41.312270</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50943</NODE_ID>
+      <NODE_NAME>ViladecansIldeCeSu1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50945">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.000684,41.311771</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50945</NODE_ID>
+      <NODE_NAME>ViladecansAvRSLl118</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54002">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.016346,41.323326</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54002</NODE_ID>
+      <NODE_NAME>VILDtorrerroja</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54363">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.009527,41.323393</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54363</NODE_ID>
+      <NODE_NAME>Magnolia17</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71551">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.997543,41.318298</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71551</NODE_ID>
+      <NODE_NAME>VLDClotus</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73270">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.022950,41.320033</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73270</NODE_ID>
+      <NODE_NAME>VLDC-AvTorreRoja25</NODE_NAME>
+      <NODE_TYPE>mesh</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73271">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.021669,41.320380</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73271</NODE_ID>
+      <NODE_NAME>VLDC-AAVVTorreRoja</NODE_NAME>
+      <NODE_TYPE>mesh</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-44.458414</gml:X><gml:Y>-22.469087</gml:Y></gml:coord>
+<gml:coord><gml:X>-44.342100</gml:X><gml:Y>-22.301194</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="65100">
+          <NODE1_ID>62026</NODE1_ID>
+          <NODE1_NAME>FUMnebulosa</NODE1_NAME>
+          <NODE2_ID>62194</NODE2_ID>
+          <NODE2_NAME>REScorAdalberto</NODE2_NAME>
+          <KMS>22.116</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-44.342100,-22.301194 -44.458414,-22.469087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

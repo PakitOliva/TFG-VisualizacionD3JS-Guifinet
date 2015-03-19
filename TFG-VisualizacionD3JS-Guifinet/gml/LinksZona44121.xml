@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-7.094078</gml:X><gml:Y>43.361783</gml:Y></gml:coord>
+<gml:coord><gml:X>-7.036518</gml:X><gml:Y>43.392105</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="45763">
+          <NODE1_ID>47180</NODE1_ID>
+          <NODE1_NAME>TRDLeiras</NODE1_NAME>
+          <NODE2_ID>40371</NODE2_ID>
+          <NODE2_NAME>TRDValin</NODE2_NAME>
+          <KMS>5.752</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-7.036518,43.392105 -7.094078,43.361816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46386">
+          <NODE1_ID>48554</NODE1_ID>
+          <NODE1_NAME>TRDValin.bis</NODE1_NAME>
+          <NODE2_ID>40371</NODE2_ID>
+          <NODE2_NAME>TRDValin</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-7.094036,43.361783 -7.094078,43.361816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46387">
+          <NODE1_ID>48554</NODE1_ID>
+          <NODE1_NAME>TRDValin.bis</NODE1_NAME>
+          <NODE2_ID>40371</NODE2_ID>
+          <NODE2_NAME>TRDValin</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-7.094036,43.361783 -7.094078,43.361816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

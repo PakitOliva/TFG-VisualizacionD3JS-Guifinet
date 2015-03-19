@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.674999</gml:X><gml:Y>42.185369</gml:Y></gml:coord>
+<gml:coord><gml:X>2.769241</gml:X><gml:Y>42.258552</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16027">
+          <NODE1_ID>9170</NODE1_ID>
+          <NODE1_NAME>AlbMMont</NODE1_NAME>
+          <NODE2_ID>20577</NODE2_ID>
+          <NODE2_NAME>MaiaUClemen</NODE2_NAME>
+          <KMS>7.954</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.706790,42.258552 2.753963,42.196110</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16589">
+          <NODE1_ID>21188</NODE1_ID>
+          <NODE1_NAME>MaiaAGarreta</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>7.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.736046,42.198654 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16819">
+          <NODE1_ID>21385</NODE1_ID>
+          <NODE1_NAME>MaiaAOller</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.967</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.755466,42.207314 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17227">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.715</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17228">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>13209</NODE2_ID>
+          <NODE2_NAME>BesaluGeriatric</NODE2_NAME>
+          <KMS>6.361</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.695977,42.201178</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17913">
+          <NODE1_ID>22473</NODE1_ID>
+          <NODE1_NAME>MaiaCMusoll</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.9</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746335,42.222754 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18317">
+          <NODE1_ID>22967</NODE1_ID>
+          <NODE1_NAME>MaiaCCivic</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.972</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745214,42.221624 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18327">
+          <NODE1_ID>22968</NODE1_ID>
+          <NODE1_NAME>MaiaAntoni</NODE1_NAME>
+          <NODE2_ID>13158</NODE2_ID>
+          <NODE2_NAME>BesaluSibi</NODE2_NAME>
+          <KMS>2.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.677735,42.211284 2.699235,42.198943</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18712">
+          <NODE1_ID>23376</NODE1_ID>
+          <NODE1_NAME>MaiaJRoman</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.739249,42.203781 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18715">
+          <NODE1_ID>21384</NODE1_ID>
+          <NODE1_NAME>MaiaTMartinez</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.736036,42.205044 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18762">
+          <NODE1_ID>23429</NODE1_ID>
+          <NODE1_NAME>MaiaFlequer</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745351,42.221964 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18929">
+          <NODE1_ID>23645</NODE1_ID>
+          <NODE1_NAME>MaiaCMunoz</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.894</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746652,42.223593 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19030">
+          <NODE1_ID>23761</NODE1_ID>
+          <NODE1_NAME>MaiaJMach</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.93</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745584,42.220310 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19261">
+          <NODE1_ID>24111</NODE1_ID>
+          <NODE1_NAME>MaiaJPrat</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.742398,42.222240 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19740">
+          <NODE1_ID>24693</NODE1_ID>
+          <NODE1_NAME>MaiaIMalagelada</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.828</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746797,42.219808 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20005">
+          <NODE1_ID>25023</NODE1_ID>
+          <NODE1_NAME>MaiaSGrau</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>3.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745565,42.241391 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20326">
+          <NODE1_ID>25405</NODE1_ID>
+          <NODE1_NAME>maianash</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737159,42.209186 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20349">
+          <NODE1_ID>25433</NODE1_ID>
+          <NODE1_NAME>maiacoromines</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.855</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737194,42.209355 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20362">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>25468</NODE2_ID>
+          <NODE2_NAME>BesaluMtrulls</NODE2_NAME>
+          <KMS>3.782</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.726219,42.207266</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20376">
+          <NODE1_ID>25482</NODE1_ID>
+          <NODE1_NAME>MaiaJCros</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.747059,42.223975 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22374">
+          <NODE1_ID>27616</NODE1_ID>
+          <NODE1_NAME>MaiaFlequer2</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.982</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745064,42.221449 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22704">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>27880</NODE2_ID>
+          <NODE2_NAME>Maiastvicens17A</NODE2_NAME>
+          <KMS>1.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.745960,42.222413</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22778">
+          <NODE1_ID>27990</NODE1_ID>
+          <NODE1_NAME>MaiaAVinas</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.754731,42.236457 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23857">
+          <NODE1_ID>15957</NODE1_ID>
+          <NODE1_NAME>BesaluABrugada</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>8.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.674999,42.191107 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24108">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>15588</NODE2_ID>
+          <NODE2_NAME>SFERRJaumeferres</NODE2_NAME>
+          <KMS>5.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.708865,42.197192</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25002">
+          <NODE1_ID>30267</NODE1_ID>
+          <NODE1_NAME>MaiaCansans</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.738144,42.228210 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26393">
+          <NODE1_ID>25469</NODE1_ID>
+          <NODE1_NAME>SFerriolJGalzeran</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.816</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.708012,42.193274 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26635">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>31185</NODE2_ID>
+          <NODE2_NAME>MaiaCanova</NODE2_NAME>
+          <KMS>2.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.760701,42.237548</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26808">
+          <NODE1_ID>27019</NODE1_ID>
+          <NODE1_NAME>MaiaEPrat</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.921</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745826,42.221536 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27470">
+          <NODE1_ID>32819</NODE1_ID>
+          <NODE1_NAME>MaiaCGonzalez</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.888</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746523,42.222903 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28615">
+          <NODE1_ID>33904</NODE1_ID>
+          <NODE1_NAME>MaiaFFerrer</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.750053,42.222593 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28704">
+          <NODE1_ID>33977</NODE1_ID>
+          <NODE1_NAME>MaiaJPamies</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.769241,42.230074 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28882">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>34128</NODE2_ID>
+          <NODE2_NAME>MaiaLOliveras</NODE2_NAME>
+          <KMS>1.873</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.747092,42.224095</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29257">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>34584</NODE2_ID>
+          <NODE2_NAME>SFerriolMFort</NODE2_NAME>
+          <KMS>5.563</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.715415,42.189137</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29322">
+          <NODE1_ID>12286</NODE1_ID>
+          <NODE1_NAME>SFJosepFortCli</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.587</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.714893,42.189281 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29655">
+          <NODE1_ID>34956</NODE1_ID>
+          <NODE1_NAME>Seriborriol17</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>0.481</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.766302,42.215675 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29656">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>34956</NODE2_ID>
+          <NODE2_NAME>Seriborriol17</NODE2_NAME>
+          <KMS>0.481</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.766302,42.215675</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29659">
+          <NODE1_ID>34963</NODE1_ID>
+          <NODE1_NAME>MaiaMPons</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.889</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746421,42.222548 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30708">
+          <NODE1_ID>12201</NODE1_ID>
+          <NODE1_NAME>SFERRmasfont</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.744</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.711899,42.189951 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31346">
+          <NODE1_ID>36438</NODE1_ID>
+          <NODE1_NAME>BeudaAVayreda</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>3.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.747360,42.242246 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31618">
+          <NODE1_ID>36712</NODE1_ID>
+          <NODE1_NAME>SFERRPBird</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>6.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.708441,42.185369 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35352">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>39936</NODE2_ID>
+          <NODE2_NAME>MaiaPJuanola</NODE2_NAME>
+          <KMS>2.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.740590,42.223200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36887">
+          <NODE1_ID>41150</NODE1_ID>
+          <NODE1_NAME>MaiaRoser</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>3.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.749431,42.243170 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37114">
+          <NODE1_ID>41349</NODE1_ID>
+          <NODE1_NAME>MaiaMRuscalleda</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>3.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.737500,42.241463 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37286">
+          <NODE1_ID>41505</NODE1_ID>
+          <NODE1_NAME>MaiaCellera6</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.742215,42.222566 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39235">
+          <NODE1_ID>43103</NODE1_ID>
+          <NODE1_NAME>BesaluJBosch</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.709573,42.196964 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39599">
+          <NODE1_ID>22295</NODE1_ID>
+          <NODE1_NAME>MaiaMJose</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.483</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.738278,42.205084 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42572">
+          <NODE1_ID>45791</NODE1_ID>
+          <NODE1_NAME>MaiaMGonzalez</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>1.944</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745740,42.222534 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44647">
+          <NODE1_ID>47096</NODE1_ID>
+          <NODE1_NAME>BesaluDepuradora</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.710214,42.199896 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49955">
+          <NODE1_ID>51213</NODE1_ID>
+          <NODE1_NAME>MaiaLlXargay</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.635</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.738879,42.203790 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58221">
+          <NODE1_ID>57202</NODE1_ID>
+          <NODE1_NAME>MaiaERodriguez</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>3.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746947,42.242061 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59367">
+          <NODE1_ID>58005</NODE1_ID>
+          <NODE1_NAME>BeudaSBelinda</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>2.995</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.748393,42.241764 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

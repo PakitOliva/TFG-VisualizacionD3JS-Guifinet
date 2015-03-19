@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.906911</gml:X><gml:Y>42.191088</gml:Y></gml:coord>
+<gml:coord><gml:X>2.989301</gml:X><gml:Y>42.282909</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="22181">
+          <NODE1_ID>27417</NODE1_ID>
+          <NODE1_NAME>VilabertranAbadia12</NODE1_NAME>
+          <NODE2_ID>24649</NODE2_ID>
+          <NODE2_NAME>Vlf-CCLesForques</NODE2_NAME>
+          <KMS>3.932</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.978341,42.282909 2.959800,42.250303</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24260">
+          <NODE1_ID>29503</NODE1_ID>
+          <NODE1_NAME>Vlf-Colomer</NODE1_NAME>
+          <NODE2_ID>12177</NODE2_ID>
+          <NODE2_NAME>GarrigasDip</NODE2_NAME>
+          <KMS>6.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.937893,42.246515 2.954459,42.191088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26074">
+          <NODE1_ID>29258</NODE1_ID>
+          <NODE1_NAME>Vlf-Migdia12</NODE1_NAME>
+          <NODE2_ID>12177</NODE2_ID>
+          <NODE2_NAME>GarrigasDip</NODE2_NAME>
+          <KMS>6.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.939033,42.246546 2.954459,42.191088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26847">
+          <NODE1_ID>12177</NODE1_ID>
+          <NODE1_NAME>GarrigasDip</NODE1_NAME>
+          <NODE2_ID>32194</NODE2_ID>
+          <NODE2_NAME>Vlf-Jaume</NODE2_NAME>
+          <KMS>6.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.954459,42.191088 2.958844,42.247222</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30593">
+          <NODE1_ID>35744</NODE1_ID>
+          <NODE1_NAME>VilfCat25</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959352,42.250019 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31128">
+          <NODE1_ID>26058</NODE1_ID>
+          <NODE1_NAME>Vlf-Tremoleda</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.469</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959110,42.247711 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33869">
+          <NODE1_ID>38791</NODE1_ID>
+          <NODE1_NAME>Vlf-Girona8</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.276</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.958785,42.249437 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33948">
+          <NODE1_ID>25462</NODE1_ID>
+          <NODE1_NAME>Vlf-ReqNog</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.806</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.954153,42.254209 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35893">
+          <NODE1_ID>40333</NODE1_ID>
+          <NODE1_NAME>Vlf-StMontseny33</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.942126,42.252489 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60908">
+          <NODE1_ID>32013</NODE1_ID>
+          <NODE1_NAME>Vlf-EA3HIX</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959547,42.249799 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61012">
+          <NODE1_ID>43013</NODE1_ID>
+          <NODE1_NAME>FgrsLlobregat2</NODE1_NAME>
+          <NODE2_ID>59169</NODE2_ID>
+          <NODE2_NAME>Vlf-Vilamalla5</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.951202,42.262202 2.952778,42.260233</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63292">
+          <NODE1_ID>19377</NODE1_ID>
+          <NODE1_NAME>MsPCrepuscle</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>3.516</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.908287,42.238302 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63293">
+          <NODE1_ID>12177</NODE1_ID>
+          <NODE1_NAME>GarrigasDip</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>6.805</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.954459,42.191088 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63477">
+          <NODE1_ID>31880</NODE1_ID>
+          <NODE1_NAME>Vlf-Carles</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>1.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.957734,42.246613 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63609">
+          <NODE1_ID>24119</NODE1_ID>
+          <NODE1_NAME>Vlf-Piscina</NODE1_NAME>
+          <NODE2_ID>27603</NODE2_ID>
+          <NODE2_NAME>Vlf-PepVentura10</NODE2_NAME>
+          <KMS>0.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.946643,42.252074 2.953218,42.258260</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63704">
+          <NODE1_ID>24119</NODE1_ID>
+          <NODE1_NAME>Vlf-Piscina</NODE1_NAME>
+          <NODE2_ID>24154</NODE2_ID>
+          <NODE2_NAME>Vlf-CanJeroni</NODE2_NAME>
+          <KMS>1.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.946643,42.252074 2.929707,42.250521</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65309">
+          <NODE1_ID>24126</NODE1_ID>
+          <NODE1_NAME>OrdisCampanar</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>4.95</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.906911,42.218699 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65343">
+          <NODE1_ID>51400</NODE1_ID>
+          <NODE1_NAME>Vlf-PlaMajor7</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>0.962</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.937756,42.246474 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66390">
+          <NODE1_ID>24119</NODE1_ID>
+          <NODE1_NAME>Vlf-Piscina</NODE1_NAME>
+          <NODE2_ID>36804</NODE2_ID>
+          <NODE2_NAME>Vlf-LesMelies67</NODE2_NAME>
+          <KMS>0.495</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.946643,42.252074 2.948865,42.256210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69637">
+          <NODE1_ID>65563</NODE1_ID>
+          <NODE1_NAME>BrSSMigdia20</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>3.868</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.928629,42.219929 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76031">
+          <NODE1_ID>24119</NODE1_ID>
+          <NODE1_NAME>Vlf-Piscina</NODE1_NAME>
+          <NODE2_ID>31245</NODE2_ID>
+          <NODE2_NAME>Vlf-Maite</NODE2_NAME>
+          <KMS>0.989</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.946643,42.252074 2.937368,42.246439</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76609">
+          <NODE1_ID>24119</NODE1_ID>
+          <NODE1_NAME>Vlf-Piscina</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.351</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.946643,42.252074 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78747">
+          <NODE1_ID>34070</NODE1_ID>
+          <NODE1_NAME>BRSSMasTupine</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>5.586</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.926159,42.204141 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79612">
+          <NODE1_ID>70042</NODE1_ID>
+          <NODE1_NAME>SDEmElMoli</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>6.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.989301,42.208180 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79746">
+          <NODE1_ID>35851</NODE1_ID>
+          <NODE1_NAME>Vlf-PepVentura5</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.953423,42.258646 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80320">
+          <NODE1_ID>74472</NODE1_ID>
+          <NODE1_NAME>FgrsAVSalvDali134</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>1.93</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.958161,42.267197 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80895">
+          <NODE1_ID>74753</NODE1_ID>
+          <NODE1_NAME>Vlf-Verdaguer8</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.589</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.950021,42.256977 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80898">
+          <NODE1_ID>75105</NODE1_ID>
+          <NODE1_NAME>VlfntPuigMssnt8</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>1.213</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.934853,42.245547 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81176">
+          <NODE1_ID>75314</NODE1_ID>
+          <NODE1_NAME>VlfntCtdlla43</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>0.837</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.938734,42.247360 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

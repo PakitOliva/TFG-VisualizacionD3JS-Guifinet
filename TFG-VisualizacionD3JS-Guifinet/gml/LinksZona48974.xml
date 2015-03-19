@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-4.213776</gml:X><gml:Y>43.017674</gml:Y></gml:coord>
+<gml:coord><gml:X>-4.198617</gml:X><gml:Y>43.033500</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="52058">
+          <NODE1_ID>49002</NODE1_ID>
+          <NODE1_NAME>PARASanandres</NODE1_NAME>
+          <NODE2_ID>48993</NODE2_ID>
+          <NODE2_NAME>ARGUECastillo</NODE2_NAME>
+          <KMS>1.932</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.213776,43.017674 -4.203944,43.033500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54397">
+          <NODE1_ID>54416</NODE1_ID>
+          <NODE1_NAME>laprueba</NODE1_NAME>
+          <NODE2_ID>48993</NODE2_ID>
+          <NODE2_NAME>ARGUECastillo</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.202909,43.032596 -4.203944,43.033500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55412">
+          <NODE1_ID>55065</NODE1_ID>
+          <NODE1_NAME>ARGUES45</NODE1_NAME>
+          <NODE2_ID>48993</NODE2_ID>
+          <NODE2_NAME>ARGUECastillo</NODE2_NAME>
+          <KMS>0.468</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.198617,43.031937 -4.203944,43.033500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56125">
+          <NODE1_ID>55611</NODE1_ID>
+          <NODE1_NAME>ARGUE64</NODE1_NAME>
+          <NODE2_ID>48993</NODE2_ID>
+          <NODE2_NAME>ARGUECastillo</NODE2_NAME>
+          <KMS>0.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.201133,43.030894 -4.203944,43.033500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62060">
+          <NODE1_ID>59887</NODE1_ID>
+          <NODE1_NAME>ARGUE12</NODE1_NAME>
+          <NODE2_ID>48993</NODE2_ID>
+          <NODE2_NAME>ARGUECastillo</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.202695,43.032422 -4.203944,43.033500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62966">
+          <NODE1_ID>60538</NODE1_ID>
+          <NODE1_NAME>ArguePont47</NODE1_NAME>
+          <NODE2_ID>48993</NODE2_ID>
+          <NODE2_NAME>ARGUECastillo</NODE2_NAME>
+          <KMS>0.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.199342,43.032286 -4.203944,43.033500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

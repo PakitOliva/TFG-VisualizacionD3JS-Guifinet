@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.896831</gml:X><gml:Y>41.756461</gml:Y></gml:coord>
+<gml:coord><gml:X>1.971715</gml:X><gml:Y>41.821312</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="32723">
+          <NODE1_ID>30651</NODE1_ID>
+          <NODE1_NAME>SLLTorreTel</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>3.6</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901154,41.821312 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33496">
+          <NODE1_ID>37342</NODE1_ID>
+          <NODE1_NAME>CABCampanar</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.498</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910597,41.799187 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34755">
+          <NODE1_ID>39420</NODE1_ID>
+          <NODE1_NAME>CAB_Tiler29</NODE1_NAME>
+          <NODE2_ID>37342</NODE2_ID>
+          <NODE2_NAME>CABCampanar</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910397,41.799409 1.910597,41.799187</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36428">
+          <NODE1_ID>40810</NODE1_ID>
+          <NODE1_NAME>CABignasiolga</NODE1_NAME>
+          <NODE2_ID>37342</NODE2_ID>
+          <NODE2_NAME>CABCampanar</NODE2_NAME>
+          <KMS>0.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.904669,41.799435 1.910597,41.799187</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40027">
+          <NODE1_ID>43702</NODE1_ID>
+          <NODE1_NAME>CAB_SantRamon52</NODE1_NAME>
+          <NODE2_ID>37342</NODE2_ID>
+          <NODE2_NAME>CABCampanar</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910658,41.798854 1.910597,41.799187</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40422">
+          <NODE1_ID>43979</NODE1_ID>
+          <NODE1_NAME>NAV_LaPlanota13</NODE1_NAME>
+          <NODE2_ID>37342</NODE2_ID>
+          <NODE2_NAME>CABCampanar</NODE2_NAME>
+          <KMS>4.833</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.899611,41.756461 1.910597,41.799187</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43404">
+          <NODE1_ID>46421</NODE1_ID>
+          <NODE1_NAME>CAB_SantRamon11</NODE1_NAME>
+          <NODE2_ID>37342</NODE2_ID>
+          <NODE2_NAME>CABCampanar</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.908558,41.799607 1.910597,41.799187</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43585">
+          <NODE1_ID>37342</NODE1_ID>
+          <NODE1_NAME>CABCampanar</NODE1_NAME>
+          <NODE2_ID>46197</NODE2_ID>
+          <NODE2_NAME>CAB_laplaca9</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910597,41.799187 1.910956,41.799427</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57410">
+          <NODE1_ID>56629</NODE1_ID>
+          <NODE1_NAME>CAB_SANTRAMON_49</NODE1_NAME>
+          <NODE2_ID>37342</NODE2_ID>
+          <NODE2_NAME>CABCampanar</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.911187,41.799109 1.910597,41.799187</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65994">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>30651</NODE2_ID>
+          <NODE2_NAME>SLLTorreTel</NODE2_NAME>
+          <KMS>3.699</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.901154,41.821312</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66803">
+          <NODE1_ID>63382</NODE1_ID>
+          <NODE1_NAME>CABAltemus</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>0.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.908212,41.788753 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66805">
+          <NODE1_ID>39273</NODE1_ID>
+          <NODE1_NAME>cabponent5</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.908995,41.797687 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66806">
+          <NODE1_ID>37581</NODE1_ID>
+          <NODE1_NAME>CABHostalDelCamp</NODE1_NAME>
+          <NODE2_ID>59857</NODE2_ID>
+          <NODE2_NAME>CABCalSidru</NODE2_NAME>
+          <KMS>1.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.898873,41.788944 1.910334,41.796171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66844">
+          <NODE1_ID>63438</NODE1_ID>
+          <NODE1_NAME>CABElCamp</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.606</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.909918,41.800812 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66939">
+          <NODE1_ID>63414</NODE1_ID>
+          <NODE1_NAME>CAB_LOliva</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.259</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.913748,41.791086 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68209">
+          <NODE1_ID>37581</NODE1_ID>
+          <NODE1_NAME>CABHostalDelCamp</NODE1_NAME>
+          <NODE2_ID>45505</NODE2_ID>
+          <NODE2_NAME>CABMasSoler</NODE2_NAME>
+          <KMS>2.355</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.898873,41.788944 1.916401,41.805599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68920">
+          <NODE1_ID>37581</NODE1_ID>
+          <NODE1_NAME>CABHostalDelCamp</NODE1_NAME>
+          <NODE2_ID>65035</NODE2_ID>
+          <NODE2_NAME>CABReial25</NODE2_NAME>
+          <KMS>1.544</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.898873,41.788944 1.911482,41.799156</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69777">
+          <NODE1_ID>65679</NODE1_ID>
+          <NODE1_NAME>CABSantRamon8</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.908057,41.799463 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72041">
+          <NODE1_ID>67449</NODE1_ID>
+          <NODE1_NAME>CABSantRamon15</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.908679,41.799511 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73304">
+          <NODE1_ID>68255</NODE1_ID>
+          <NODE1_NAME>CAB_Promeba</NODE1_NAME>
+          <NODE2_ID>2787</NODE2_ID>
+          <NODE2_NAME>ARTCampanarVell</NODE2_NAME>
+          <KMS>4.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.896831,41.791768 1.950861,41.799623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75805">
+          <NODE1_ID>37342</NODE1_ID>
+          <NODE1_NAME>CABCampanar</NODE1_NAME>
+          <NODE2_ID>62849</NODE2_ID>
+          <NODE2_NAME>CABDepuradora</NODE2_NAME>
+          <KMS>1.163</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910597,41.799187 1.910269,41.788716</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76412">
+          <NODE1_ID>71487</NODE1_ID>
+          <NODE1_NAME>CABCasetaCamp36-52</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>0.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.904339,41.793006 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77580">
+          <NODE1_ID>72499</NODE1_ID>
+          <NODE1_NAME>SLLLaCarrera</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>2.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.914832,41.811722 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80163">
+          <NODE1_ID>74636</NODE1_ID>
+          <NODE1_NAME>CABNau12Edif4</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>0.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.903220,41.796806 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121182">
+          <NODE1_ID>75495</NODE1_ID>
+          <NODE1_NAME>CABStRamon12</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.402</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.908290,41.799413 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121903">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>2787</NODE2_ID>
+          <NODE2_NAME>ARTCampanarVell</NODE2_NAME>
+          <KMS>3.585</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.950861,41.799623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122000">
+          <NODE1_ID>42892</NODE1_ID>
+          <NODE1_NAME>CABElSoler</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910323,41.803462 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122529">
+          <NODE1_ID>37581</NODE1_ID>
+          <NODE1_NAME>CABHostalDelCamp</NODE1_NAME>
+          <NODE2_ID>62849</NODE2_ID>
+          <NODE2_NAME>CABDepuradora</NODE2_NAME>
+          <KMS>0.948</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.898873,41.788944 1.910269,41.788716</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122633">
+          <NODE1_ID>43441</NODE1_ID>
+          <NODE1_NAME>ArtsMestral78</NODE1_NAME>
+          <NODE2_ID>62849</NODE2_ID>
+          <NODE2_NAME>CABDepuradora</NODE2_NAME>
+          <KMS>5.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.971715,41.790148 1.910269,41.788716</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122904">
+          <NODE1_ID>41776</NODE1_ID>
+          <NODE1_NAME>CABLaFactoria</NODE1_NAME>
+          <NODE2_ID>62849</NODE2_ID>
+          <NODE2_NAME>CABDepuradora</NODE2_NAME>
+          <KMS>1.184</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.909365,41.799354 1.910269,41.788716</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122905">
+          <NODE1_ID>62802</NODE1_ID>
+          <NODE1_NAME>CABSantiagoRos9</NODE1_NAME>
+          <NODE2_ID>62849</NODE2_ID>
+          <NODE2_NAME>CABDepuradora</NODE2_NAME>
+          <KMS>0.801</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910146,41.795924 1.910269,41.788716</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123116">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>76952</NODE2_ID>
+          <NODE2_NAME>CAB-PN-01</NODE2_NAME>
+          <KMS>1.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.911685,41.798796</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123427">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>77140</NODE2_ID>
+          <NODE2_NAME>CAB-PN-02</NODE2_NAME>
+          <KMS>1.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.908971,41.799455</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123433">
+          <NODE1_ID>77149</NODE1_ID>
+          <NODE1_NAME>CABModIntBellisse</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.904798,41.797058 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123435">
+          <NODE1_ID>77149</NODE1_ID>
+          <NODE1_NAME>CABModIntBellisse</NODE1_NAME>
+          <NODE2_ID>37581</NODE2_ID>
+          <NODE2_NAME>CABHostalDelCamp</NODE2_NAME>
+          <KMS>1.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.904798,41.797058 1.898873,41.788944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123603">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>77245</NODE2_ID>
+          <NODE2_NAME>CABJuanjo</NODE2_NAME>
+          <KMS>1.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.909140,41.798128</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123683">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>61162</NODE2_ID>
+          <NODE2_NAME>ARTDiputacio</NODE2_NAME>
+          <KMS>2.662</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.942200,41.790535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123684">
+          <NODE1_ID>62849</NODE1_ID>
+          <NODE1_NAME>CABDepuradora</NODE1_NAME>
+          <NODE2_ID>61162</NODE2_ID>
+          <NODE2_NAME>ARTDiputacio</NODE2_NAME>
+          <KMS>2.662</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910269,41.788716 1.942200,41.790535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

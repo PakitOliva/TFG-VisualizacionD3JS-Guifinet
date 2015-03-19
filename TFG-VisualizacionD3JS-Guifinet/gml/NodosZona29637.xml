@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-86.056402</gml:X><gml:Y>11.874308</gml:Y></gml:coord>
+      <gml:coord><gml:X>-85.958555</gml:X><gml:Y>11.933110</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="28980">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-86.056402,11.886676</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28980</NODE_ID>
+      <NODE_NAME>DiriaAy</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28981">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-86.051059,11.874308</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28981</NODE_ID>
+      <NODE_NAME>DiriomoAy</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29137">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-85.958555,11.933110</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29137</NODE_ID>
+      <NODE_NAME>GranadaONG</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

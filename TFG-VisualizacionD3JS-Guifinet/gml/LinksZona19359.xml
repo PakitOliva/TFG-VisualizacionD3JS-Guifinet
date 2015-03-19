@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.012009</gml:X><gml:Y>41.318476</gml:Y></gml:coord>
+<gml:coord><gml:X>2.160519</gml:X><gml:Y>41.440192</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16631">
+          <NODE1_ID>19355</NODE1_ID>
+          <NODE1_NAME>SBoiDLCope15</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030824,41.355612 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21846">
+          <NODE1_ID>26568</NODE1_ID>
+          <NODE1_NAME>SBoiDLAntPjds12</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.039116,41.348957 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24721">
+          <NODE1_ID>29225</NODE1_ID>
+          <NODE1_NAME>SBoiDLPompeuFabra</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>4.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.041322,41.344928 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28900">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>34043</NODE2_ID>
+          <NODE2_NAME>SBDLSllnd</NODE2_NAME>
+          <KMS>3.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.034539,41.349992</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42256">
+          <NODE1_ID>44749</NODE1_ID>
+          <NODE1_NAME>SBDL_AteneuSantboia</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.043489,41.347804 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48780">
+          <NODE1_ID>50283</NODE1_ID>
+          <NODE1_NAME>SBoiDLAMachado4</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.568</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.029900,41.351199 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66609">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>63148</NODE2_ID>
+          <NODE2_NAME>SBoiCamiVell6</NODE2_NAME>
+          <KMS>3.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.030354,41.355494</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70695">
+          <NODE1_ID>43701</NODE1_ID>
+          <NODE1_NAME>BCNmtjJardiBotanic</NODE1_NAME>
+          <NODE2_ID>63224</NODE2_ID>
+          <NODE2_NAME>SBoiCalNotari</NODE2_NAME>
+          <KMS>10.246</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160519,41.361906 2.052516,41.318476</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73107">
+          <NODE1_ID>64029</NODE1_ID>
+          <NODE1_NAME>SBoiDLMFortuny10</NODE1_NAME>
+          <NODE2_ID>54710</NODE2_ID>
+          <NODE2_NAME>ElPapiolDiputacio16</NODE2_NAME>
+          <KMS>10.999</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042630,41.343880 2.012009,41.440192</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78748">
+          <NODE1_ID>64029</NODE1_ID>
+          <NODE1_NAME>SBoiDLMFortuny10</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>5.59</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042630,41.343880 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78800">
+          <NODE1_ID>62752</NODE1_ID>
+          <NODE1_NAME>Saula</NODE1_NAME>
+          <NODE2_ID>64029</NODE2_ID>
+          <NODE2_NAME>SBoiDLMFortuny10</NODE2_NAME>
+          <KMS>5.582</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.035058,41.393816 2.042630,41.343880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80235">
+          <NODE1_ID>63865</NODE1_ID>
+          <NODE1_NAME>SBoiDLCamiVell15</NODE1_NAME>
+          <NODE2_ID>64029</NODE2_ID>
+          <NODE2_NAME>SBoiDLMFortuny10</NODE2_NAME>
+          <KMS>1.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030898,41.355588 2.042630,41.343880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122578">
+          <NODE1_ID>63148</NODE1_ID>
+          <NODE1_NAME>SBoiCamiVell6</NODE1_NAME>
+          <NODE2_ID>62752</NODE2_ID>
+          <NODE2_NAME>Saula</NODE2_NAME>
+          <KMS>4.274</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030354,41.355494 2.035058,41.393816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122580">
+          <NODE1_ID>63148</NODE1_ID>
+          <NODE1_NAME>SBoiCamiVell6</NODE1_NAME>
+          <NODE2_ID>66548</NODE2_ID>
+          <NODE2_NAME>SBoiDLASalesians</NODE2_NAME>
+          <KMS>0.873</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030354,41.355494 2.035848,41.348815</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.825849</gml:X><gml:Y>42.297387</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.869685</gml:X><gml:Y>42.325451</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23888">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.868752,42.299892</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23888</NODE_ID>
+      <NODE_NAME>Plsrrca-Can_Claric</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24813">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.835908,42.321650</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24813</NODE_ID>
+      <NODE_NAME>TrradesSalut</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26668">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.866766,42.311428</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26668</NODE_ID>
+      <NODE_NAME>trrades-virosella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27778">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.846189,42.308203</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27778</NODE_ID>
+      <NODE_NAME>Trrades-Can_Gou</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29794">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.860485,42.297387</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29794</NODE_ID>
+      <NODE_NAME>Plsrrca-MasPages</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34132">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.834280,42.325451</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34132</NODE_ID>
+      <NODE_NAME>TrradesSantSalut</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34191">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.825849,42.324481</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34191</NODE_ID>
+      <NODE_NAME>TerradesStaMagdalena</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41265">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.839445,42.310619</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41265</NODE_ID>
+      <NODE_NAME>Tux</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59979">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.869685,42.299866</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59979</NODE_ID>
+      <NODE_NAME>Plsrrca-MasCreuetes</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

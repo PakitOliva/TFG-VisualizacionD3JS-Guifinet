@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.203143</gml:X><gml:Y>41.190145</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.211404</gml:X><gml:Y>41.195175</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="74602">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.208601,41.192160</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74602</NODE_ID>
+      <NODE_NAME>ElMorellAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74603">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.208400,41.191152</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74603</NODE_ID>
+      <NODE_NAME>ElMorellRadio</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75316">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.203143,41.190145</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75316</NODE_ID>
+      <NODE_NAME>MorellPavello</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75912">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.211404,41.191090</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75912</NODE_ID>
+      <NODE_NAME>ElMorellEscolaMusica</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75956">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.205050,41.191821</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75956</NODE_ID>
+      <NODE_NAME>ElMorellPal1</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75957">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.205409,41.195175</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75957</NODE_ID>
+      <NODE_NAME>ElMorellPal2</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

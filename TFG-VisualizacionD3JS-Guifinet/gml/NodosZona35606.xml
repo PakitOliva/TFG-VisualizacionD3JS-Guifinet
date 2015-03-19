@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.431503</gml:X><gml:Y>39.615193</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.393923</gml:X><gml:Y>39.668917</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="26182">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.393923,39.615193</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26182</NODE_ID>
+      <NODE_NAME>NaqueraPtorSorolla15</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39836">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.405991,39.643941</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39836</NODE_ID>
+      <NODE_NAME>NaqSM140</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49452">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.431503,39.668917</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49452</NODE_ID>
+      <NODE_NAME>NAQmamorvalles</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50784">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.430621,39.662584</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50784</NODE_ID>
+      <NODE_NAME>NaqEst</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

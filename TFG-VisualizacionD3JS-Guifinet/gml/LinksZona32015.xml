@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-6.088217</gml:X><gml:Y>42.192130</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.422045</gml:X><gml:Y>42.496297</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="63544">
+          <NODE1_ID>60964</NODE1_ID>
+          <NODE1_NAME>PDVlasescuelas</NODE1_NAME>
+          <NODE2_ID>60970</NODE2_ID>
+          <NODE2_NAME>PDViglesia</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.086378,42.192130 -6.085431,42.194756</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63547">
+          <NODE1_ID>60975</NODE1_ID>
+          <NODE1_NAME>PDVesperanza4</NODE1_NAME>
+          <NODE2_ID>60970</NODE2_ID>
+          <NODE2_NAME>PDViglesia</NODE2_NAME>
+          <KMS>0.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.085675,42.192510 -6.085431,42.194756</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63550">
+          <NODE1_ID>60976</NODE1_ID>
+          <NODE1_NAME>PDVlasescuelas1</NODE1_NAME>
+          <NODE2_ID>60970</NODE2_ID>
+          <NODE2_NAME>PDViglesia</NODE2_NAME>
+          <KMS>0.37</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.088217,42.192143 -6.085431,42.194756</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63681">
+          <NODE1_ID>61024</NODE1_ID>
+          <NODE1_NAME>PDVesperanza2</NODE1_NAME>
+          <NODE2_ID>60970</NODE2_ID>
+          <NODE2_NAME>PDViglesia</NODE2_NAME>
+          <KMS>0.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.087772,42.192387 -6.085431,42.194756</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67669">
+          <NODE1_ID>64168</NODE1_ID>
+          <NODE1_NAME>MANSILLADiezanta15Gb</NODE1_NAME>
+          <NODE2_ID>60921</NODE2_ID>
+          <NODE2_NAME>MANSILLADiezanta15GH</NODE2_NAME>
+          <KMS>0.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.422182,42.496177 -5.422045,42.496297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

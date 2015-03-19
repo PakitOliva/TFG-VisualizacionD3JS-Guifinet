@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.674711</gml:X><gml:Y>40.927993</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.626679</gml:X><gml:Y>40.976696</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="53060">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.674711,40.976696</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53060</NODE_ID>
+      <NODE_NAME>SLMlopezvivero29</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47669">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.655853,40.970571</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47669</NODE_ID>
+      <NODE_NAME>SLMCAAvdPortugal</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47670">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.626679,40.927993</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47670</NODE_ID>
+      <NODE_NAME>SLMCANavahonda</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47785">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.673323,40.968882</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47785</NODE_ID>
+      <NODE_NAME>SLMCflbrtVlllbs53</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54327">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.665324,40.963219</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54327</NODE_ID>
+      <NODE_NAME>SALrua26</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

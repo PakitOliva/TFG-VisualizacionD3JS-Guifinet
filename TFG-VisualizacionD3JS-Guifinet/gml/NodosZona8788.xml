@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.397594</gml:X><gml:Y>41.727063</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.434167</gml:X><gml:Y>41.775833</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="8785">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.401685,41.753054</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>8785</NODE_ID>
+      <NODE_NAME>FDMCaLaXica</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="20823">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.434167,41.775833</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20823</NODE_ID>
+      <NODE_NAME>Turodelhome</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31288">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398866,41.749204</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31288</NODE_ID>
+      <NODE_NAME>FDMCanGirabes</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32655">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.407857,41.748419</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32655</NODE_ID>
+      <NODE_NAME>FDMCanPeudeCa</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33622">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.397594,41.748041</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33622</NODE_ID>
+      <NODE_NAME>FDMCalTard</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36035">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404160,41.746758</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36035</NODE_ID>
+      <NODE_NAME>FOGcanilladelpont</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55001">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.433622,41.727063</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55001</NODE_ID>
+      <NODE_NAME>strrt</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

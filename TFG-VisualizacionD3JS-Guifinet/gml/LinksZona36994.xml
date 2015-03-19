@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.691280</gml:X><gml:Y>40.028669</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.608014</gml:X><gml:Y>40.170794</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="33281">
+          <NODE1_ID>35730</NODE1_ID>
+          <NODE1_NAME>PDeM-SantaBarbara</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>4.267</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.628662,40.028669 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34544">
+          <NODE1_ID>37043</NODE1_ID>
+          <NODE1_NAME>FLaR-Ayuntamiento</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609006,40.063726 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35430">
+          <NODE1_ID>40019</NODE1_ID>
+          <NODE1_NAME>FLaR-Alicante11</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608840,40.063318 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35431">
+          <NODE1_ID>40020</NODE1_ID>
+          <NODE1_NAME>FLaR-Alicante23</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608829,40.063153 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35432">
+          <NODE1_ID>39975</NODE1_ID>
+          <NODE1_NAME>FLaR-Alicante3</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608819,40.063219 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35433">
+          <NODE1_ID>40017</NODE1_ID>
+          <NODE1_NAME>FLaR-Alicante6</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608829,40.063277 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35434">
+          <NODE1_ID>40016</NODE1_ID>
+          <NODE1_NAME>FLaR-Castellon16</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609194,40.063638 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35435">
+          <NODE1_ID>40014</NODE1_ID>
+          <NODE1_NAME>FLaR-FuentePinosa17</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608668,40.063671 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35436">
+          <NODE1_ID>40013</NODE1_ID>
+          <NODE1_NAME>FLaR-Valencia13</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608679,40.063917 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35756">
+          <NODE1_ID>40279</NODE1_ID>
+          <NODE1_NAME>FLaR-Barcelona20</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609366,40.062981 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35757">
+          <NODE1_ID>40280</NODE1_ID>
+          <NODE1_NAME>FLaR-Valencia17</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608615,40.063901 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36676">
+          <NODE1_ID>40958</NODE1_ID>
+          <NODE1_NAME>FLaR-Barcelona9</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609001,40.063630 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36678">
+          <NODE1_ID>40959</NODE1_ID>
+          <NODE1_NAME>FLaR-Barcelona12</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609130,40.063285 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36679">
+          <NODE1_ID>40961</NODE1_ID>
+          <NODE1_NAME>FLaR-Barcelona38</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609537,40.062784 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36680">
+          <NODE1_ID>40962</NODE1_ID>
+          <NODE1_NAME>FLaR-Mayor10</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.026</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609258,40.063991 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36710">
+          <NODE1_ID>41001</NODE1_ID>
+          <NODE1_NAME>FLaR-Pajares36</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609097,40.062965 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37521">
+          <NODE1_ID>41707</NODE1_ID>
+          <NODE1_NAME>FLaR-Cebadar3</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608668,40.062406 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37522">
+          <NODE1_ID>41708</NODE1_ID>
+          <NODE1_NAME>FLaR-Mayor26</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609334,40.064213 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37523">
+          <NODE1_ID>41709</NODE1_ID>
+          <NODE1_NAME>FLaR-Barcelona47</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608540,40.063597 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37524">
+          <NODE1_ID>41710</NODE1_ID>
+          <NODE1_NAME>FLaR-Alicante1</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609076,40.063531 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37525">
+          <NODE1_ID>41711</NODE1_ID>
+          <NODE1_NAME>FLaR-FuenteRabal2</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608153,40.063810 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37526">
+          <NODE1_ID>41713</NODE1_ID>
+          <NODE1_NAME>FLaR-Solanar12</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.610095,40.064229 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37527">
+          <NODE1_ID>41714</NODE1_ID>
+          <NODE1_NAME>FLaR-Valencia2</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608701,40.063901 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37528">
+          <NODE1_ID>41716</NODE1_ID>
+          <NODE1_NAME>FLaR-FuenteRabal4</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608014,40.063794 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39567">
+          <NODE1_ID>43392</NODE1_ID>
+          <NODE1_NAME>FLaR-Castellon12</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609291,40.063917 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39568">
+          <NODE1_ID>37042</NODE1_ID>
+          <NODE1_NAME>FLaR-Repetidor</NODE1_NAME>
+          <NODE2_ID>43393</NODE2_ID>
+          <NODE2_NAME>FLaR-Valencia9</NODE2_NAME>
+          <KMS>0.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608958,40.063991 -0.608615,40.063884</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40867">
+          <NODE1_ID>44303</NODE1_ID>
+          <NODE1_NAME>FLaR-Consultorio</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609194,40.064040 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41998">
+          <NODE1_ID>45303</NODE1_ID>
+          <NODE1_NAME>FLaR-Valencia1</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608701,40.063917 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42408">
+          <NODE1_ID>45638</NODE1_ID>
+          <NODE1_NAME>FLaR-Eras3</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609623,40.063030 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43766">
+          <NODE1_ID>46656</NODE1_ID>
+          <NODE1_NAME>FLaR-Cubos8</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609344,40.063942 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45179">
+          <NODE1_ID>47661</NODE1_ID>
+          <NODE1_NAME>FLaR-Mayor13</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609215,40.064106 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45180">
+          <NODE1_ID>47662</NODE1_ID>
+          <NODE1_NAME>FLaR-Barcelona45</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609237,40.062751 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45181">
+          <NODE1_ID>47663</NODE1_ID>
+          <NODE1_NAME>FLaR-LaPinosa15</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608529,40.063638 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45183">
+          <NODE1_ID>47665</NODE1_ID>
+          <NODE1_NAME>FLaR-LosOlmos2</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608486,40.063974 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45184">
+          <NODE1_ID>47667</NODE1_ID>
+          <NODE1_NAME>FLaR-Mayor16</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609258,40.064155 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46185">
+          <NODE1_ID>48371</NODE1_ID>
+          <NODE1_NAME>FLaR-Blas3</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609570,40.063892 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46186">
+          <NODE1_ID>48372</NODE1_ID>
+          <NODE1_NAME>FLaR-Blas4</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609602,40.063933 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47341">
+          <NODE1_ID>49285</NODE1_ID>
+          <NODE1_NAME>FLaR-Valencia15</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608518,40.063843 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47342">
+          <NODE1_ID>49286</NODE1_ID>
+          <NODE1_NAME>FLaR-LaPlaceta13</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.610074,40.064475 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47425">
+          <NODE1_ID>49337</NODE1_ID>
+          <NODE1_NAME>FLaR-FuentePinosa20</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608561,40.063589 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48329">
+          <NODE1_ID>37042</NODE1_ID>
+          <NODE1_NAME>FLaR-Repetidor</NODE1_NAME>
+          <NODE2_ID>50000</NODE2_ID>
+          <NODE2_NAME>FLaR-Valencia27</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608958,40.063991 -0.608566,40.063867</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49447">
+          <NODE1_ID>50810</NODE1_ID>
+          <NODE1_NAME>FLaR-placetasn</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.610312,40.064669 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49453">
+          <NODE1_ID>50813</NODE1_ID>
+          <NODE1_NAME>FLaR-lacobatilla14</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608276,40.062526 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59559">
+          <NODE1_ID>58125</NODE1_ID>
+          <NODE1_NAME>FLaR-Cebadar1</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608636,40.062423 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62664">
+          <NODE1_ID>60260</NODE1_ID>
+          <NODE1_NAME>rumo01</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>13.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.691280,40.170794 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62963">
+          <NODE1_ID>37042</NODE1_ID>
+          <NODE1_NAME>FLaR-Repetidor</NODE1_NAME>
+          <NODE2_ID>60536</NODE2_ID>
+          <NODE2_NAME>FlaR-Barcelona41</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608958,40.063991 -0.608733,40.062783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65414">
+          <NODE1_ID>37042</NODE1_ID>
+          <NODE1_NAME>FLaR-Repetidor</NODE1_NAME>
+          <NODE2_ID>62429</NODE2_ID>
+          <NODE2_NAME>FLRPlct28</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608958,40.063991 -0.609773,40.063070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67685">
+          <NODE1_ID>64178</NODE1_ID>
+          <NODE1_NAME>FLaR-Valencia2-2</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608711,40.063929 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74537">
+          <NODE1_ID>69638</NODE1_ID>
+          <NODE1_NAME>FLaR-CebadarSN</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.608411,40.062355 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75268">
+          <NODE1_ID>70146</NODE1_ID>
+          <NODE1_NAME>FLaR-Mayor20</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609371,40.064056 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75825">
+          <NODE1_ID>70598</NODE1_ID>
+          <NODE1_NAME>FLaR-Blas14</NODE1_NAME>
+          <NODE2_ID>37042</NODE2_ID>
+          <NODE2_NAME>FLaR-Repetidor</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.609527,40.063801 -0.608958,40.063991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

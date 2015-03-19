@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.059792</gml:X><gml:Y>38.727059</gml:Y></gml:coord>
+<gml:coord><gml:X>0.159192</gml:X><gml:Y>38.807172</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="45736">
+          <NODE1_ID>46323</NODE1_ID>
+          <NODE1_NAME>PedrSNodoSella</NODE1_NAME>
+          <NODE2_ID>48086</NODE2_ID>
+          <NODE2_NAME>JPobreCNoves42</NODE2_NAME>
+          <KMS>1.846</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059792,38.801527 0.080102,38.796625</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46189">
+          <NODE1_ID>48382</NODE1_ID>
+          <NODE1_NAME>JPobreBisserot39A</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>1.151</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.072503,38.798598 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56283">
+          <NODE1_ID>55733</NODE1_ID>
+          <NODE1_NAME>JPobreAjuntament</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.086331,38.798873 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59741">
+          <NODE1_ID>55731</NODE1_ID>
+          <NODE1_NAME>JPobreCultura</NODE1_NAME>
+          <NODE2_ID>40049</NODE2_ID>
+          <NODE2_NAME>AJBenitatxellCumbre</NODE2_NAME>
+          <KMS>10.223</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085373,38.798755 0.159192,38.727059</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59742">
+          <NODE1_ID>55731</NODE1_ID>
+          <NODE1_NAME>JPobreCultura</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>2.243</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085373,38.798755 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59746">
+          <NODE1_ID>58261</NODE1_ID>
+          <NODE1_NAME>JPobreCultura-bis</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085380,38.798771 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59747">
+          <NODE1_ID>58261</NODE1_ID>
+          <NODE1_NAME>JPobreCultura-bis</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085380,38.798771 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59748">
+          <NODE1_ID>58261</NODE1_ID>
+          <NODE1_NAME>JPobreCultura-bis</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085380,38.798771 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62593">
+          <NODE1_ID>59381</NODE1_ID>
+          <NODE1_NAME>XbHamal1</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>2.003</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.108335,38.797122 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64126">
+          <NODE1_ID>61311</NODE1_ID>
+          <NODE1_NAME>JPobreBisserot34</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>1.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.073466,38.800096 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64604">
+          <NODE1_ID>56408</NODE1_ID>
+          <NODE1_NAME>XbLebreles2</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>2.743</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.116728,38.795834 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65301">
+          <NODE1_ID>59661</NODE1_ID>
+          <NODE1_NAME>JPobreBiblio</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.086600,38.799009 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65351">
+          <NODE1_ID>60252</NODE1_ID>
+          <NODE1_NAME>JPobreSol1</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.087054,38.798858 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66625">
+          <NODE1_ID>55731</NODE1_ID>
+          <NODE1_NAME>JPobreCultura</NODE1_NAME>
+          <NODE2_ID>63247</NODE2_ID>
+          <NODE2_NAME>JpobObispHervas6</NODE2_NAME>
+          <KMS>0.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085373,38.798755 0.086831,38.797484</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66757">
+          <NODE1_ID>46323</NODE1_ID>
+          <NODE1_NAME>PedrSNodoSella</NODE1_NAME>
+          <NODE2_ID>63207</NODE2_ID>
+          <NODE2_NAME>JPobreFresdental</NODE2_NAME>
+          <KMS>1.996</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059792,38.801527 0.082545,38.799007</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66944">
+          <NODE1_ID>46323</NODE1_ID>
+          <NODE1_NAME>PedrSNodoSella</NODE1_NAME>
+          <NODE2_ID>63328</NODE2_ID>
+          <NODE2_NAME>JPobreCNoves21</NODE2_NAME>
+          <KMS>1.931</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059792,38.801527 0.081085,38.796530</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67128">
+          <NODE1_ID>63118</NODE1_ID>
+          <NODE1_NAME>JpobRompu12</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.948</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.084629,38.790237 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67166">
+          <NODE1_ID>63718</NODE1_ID>
+          <NODE1_NAME>JPobreDalt5</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.332</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.081980,38.797376 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67167">
+          <NODE1_ID>63315</NODE1_ID>
+          <NODE1_NAME>JpobObispHervas10</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.086757,38.797541 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67841">
+          <NODE1_ID>55731</NODE1_ID>
+          <NODE1_NAME>JPobreCultura</NODE1_NAME>
+          <NODE2_ID>63686</NODE2_ID>
+          <NODE2_NAME>JpobLuna6</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085373,38.798755 0.083691,38.798392</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68481">
+          <NODE1_ID>64757</NODE1_ID>
+          <NODE1_NAME>JpobCnoves63</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.54</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.080417,38.795825 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68924">
+          <NODE1_ID>55731</NODE1_ID>
+          <NODE1_NAME>JPobreCultura</NODE1_NAME>
+          <NODE2_ID>65041</NODE2_ID>
+          <NODE2_NAME>XbAcuario10</NODE2_NAME>
+          <KMS>2.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085373,38.798755 0.108578,38.801013</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69536">
+          <NODE1_ID>65495</NODE1_ID>
+          <NODE1_NAME>JPobreGasent8</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>1.378</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.075461,38.803473 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69763">
+          <NODE1_ID>65659</NODE1_ID>
+          <NODE1_NAME>JPbrDgnl4</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.026</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085561,38.798578 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69893">
+          <NODE1_ID>65778</NODE1_ID>
+          <NODE1_NAME>JpobCmajor6</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>2.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.082959,38.799042 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70312">
+          <NODE1_ID>65671</NODE1_ID>
+          <NODE1_NAME>XbCompas6</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>2.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.110092,38.797968 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71543">
+          <NODE1_ID>66942</NODE1_ID>
+          <NODE1_NAME>JPobreCNoves40</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>1.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.080490,38.796710 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71742">
+          <NODE1_ID>67134</NODE1_ID>
+          <NODE1_NAME>XbColombia6</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>5.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.144436,38.785448 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73451">
+          <NODE1_ID>68818</NODE1_ID>
+          <NODE1_NAME>JpobrePinaret38</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.082765,38.798461 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73549">
+          <NODE1_ID>68918</NODE1_ID>
+          <NODE1_NAME>JpobCnoves13</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.082054,38.798145 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73555">
+          <NODE1_ID>68919</NODE1_ID>
+          <NODE1_NAME>JpobLuna6b71B</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.084336,38.798381 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73986">
+          <NODE1_ID>69181</NODE1_ID>
+          <NODE1_NAME>JpobCeres6</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.086416,38.797707 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73987">
+          <NODE1_ID>69184</NODE1_ID>
+          <NODE1_NAME>JpobCnoves30</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.081417,38.797376 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74672">
+          <NODE1_ID>69709</NODE1_ID>
+          <NODE1_NAME>XbMejico6</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>2.644</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.115124,38.793717 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74853">
+          <NODE1_ID>69828</NODE1_ID>
+          <NODE1_NAME>JpobLuna6b1</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>2.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085089,38.798290 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74854">
+          <NODE1_ID>69828</NODE1_ID>
+          <NODE1_NAME>JpobLuna6b1</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085089,38.798290 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76749">
+          <NODE1_ID>46323</NODE1_ID>
+          <NODE1_NAME>PedrSNodoSella</NODE1_NAME>
+          <NODE2_ID>71625</NODE2_ID>
+          <NODE2_NAME>JpobCLafaixa2</NODE2_NAME>
+          <KMS>1.823</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059792,38.801527 0.080775,38.801536</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77182">
+          <NODE1_ID>71920</NODE1_ID>
+          <NODE1_NAME>JpobAlqColomer</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>1.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.097315,38.796663 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77482">
+          <NODE1_ID>70488</NODE1_ID>
+          <NODE1_NAME>JpobDiagonal5</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085647,38.798780 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78327">
+          <NODE1_ID>73096</NODE1_ID>
+          <NODE1_NAME>JPobreCovaAmpla22</NODE1_NAME>
+          <NODE2_ID>46323</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSella</NODE2_NAME>
+          <KMS>2.809</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.091313,38.807172 0.059792,38.801527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80680">
+          <NODE1_ID>55731</NODE1_ID>
+          <NODE1_NAME>JPobreCultura</NODE1_NAME>
+          <NODE2_ID>74262</NODE2_ID>
+          <NODE2_NAME>XbNunki2</NODE2_NAME>
+          <KMS>2.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.085373,38.798755 0.112332,38.795821</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121290">
+          <NODE1_ID>68455</NODE1_ID>
+          <NODE1_NAME>JPobPinaret3813</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.082679,38.798588 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121691">
+          <NODE1_ID>74746</NODE1_ID>
+          <NODE1_NAME>XabEMeteoMontgo</NODE1_NAME>
+          <NODE2_ID>55731</NODE2_ID>
+          <NODE2_NAME>JPobreCultura</NODE2_NAME>
+          <KMS>2.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.108788,38.800614 0.085373,38.798755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121794">
+          <NODE1_ID>46323</NODE1_ID>
+          <NODE1_NAME>PedrSNodoSella</NODE1_NAME>
+          <NODE2_ID>75993</NODE2_ID>
+          <NODE2_NAME>JPobreAlqueries14</NODE2_NAME>
+          <KMS>2.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059792,38.801527 0.081628,38.789543</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

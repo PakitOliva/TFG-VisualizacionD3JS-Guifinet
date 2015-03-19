@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.405932</gml:X><gml:Y>43.496809</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.389277</gml:X><gml:Y>43.527832</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="79018">
+          <NODE1_ID>61748</NODE1_ID>
+          <NODE1_NAME>VLLVCSPando</NODE1_NAME>
+          <NODE2_ID>65880</NODE2_ID>
+          <NODE2_NAME>VLLVCSpuntal35</NODE2_NAME>
+          <KMS>3.638</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.405932,43.496809 -5.390779,43.527640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79020">
+          <NODE1_ID>61748</NODE1_ID>
+          <NODE1_NAME>VLLVCSPando</NODE1_NAME>
+          <NODE2_ID>66551</NODE2_ID>
+          <NODE2_NAME>VLLVCStrampalones</NODE2_NAME>
+          <KMS>3.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.405932,43.496809 -5.391608,43.525458</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79021">
+          <NODE1_ID>61748</NODE1_ID>
+          <NODE1_NAME>VLLVCSPando</NODE1_NAME>
+          <NODE2_ID>69268</NODE2_ID>
+          <NODE2_NAME>VLLVCSpuntalrequex30</NODE2_NAME>
+          <KMS>2.871</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.405932,43.496809 -5.401619,43.522459</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121574">
+          <NODE1_ID>75830</NODE1_ID>
+          <NODE1_NAME>VLLVCSElPuntal43</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>3.7</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.389277,43.527832 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121987">
+          <NODE1_ID>76135</NODE1_ID>
+          <NODE1_NAME>VLLVCSElPuntal32</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>3.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.390980,43.527401 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.808486</gml:X><gml:Y>42.247553</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.850775</gml:X><gml:Y>42.284889</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="48206">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.847935,42.268701</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48206</NODE_ID>
+      <NODE_NAME>CstllEsglesia4-2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25981">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.847573,42.250921</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25981</NODE_ID>
+      <NODE_NAME>CstllMarial</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27897">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.849718,42.247553</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27897</NODE_ID>
+      <NODE_NAME>CstllLaFabrega</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29218">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.848101,42.268182</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29218</NODE_ID>
+      <NODE_NAME>CstllCanVella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29454">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.820514,42.284889</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29454</NODE_ID>
+      <NODE_NAME>CstllCloella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30268">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.847605,42.269624</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30268</NODE_ID>
+      <NODE_NAME>CstllCCentre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35525">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.846982,42.268199</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35525</NODE_ID>
+      <NODE_NAME>CstllPsLlado5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37898">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.836157,42.264514</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37898</NODE_ID>
+      <NODE_NAME>CstllMas</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37899">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.847117,42.268466</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37899</NODE_ID>
+      <NODE_NAME>CstllRestaurant</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38341">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.824279,42.264374</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38341</NODE_ID>
+      <NODE_NAME>CstllCanPou</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38342">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.825512,42.263447</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38342</NODE_ID>
+      <NODE_NAME>CstllCnRos</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38344">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.831709,42.279263</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38344</NODE_ID>
+      <NODE_NAME>CstllCanRostoll</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39017">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.849643,42.267546</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39017</NODE_ID>
+      <NODE_NAME>CstllCanMontaner</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41220">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.834435,42.269600</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41220</NODE_ID>
+      <NODE_NAME>CstllCanFrare</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42528">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.850775,42.270607</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42528</NODE_ID>
+      <NODE_NAME>CstllMsCmps</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44509">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.847949,42.268648</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44509</NODE_ID>
+      <NODE_NAME>CstllEsglesia4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48316">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.808486,42.274542</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48316</NODE_ID>
+      <NODE_NAME>CstllCanVila</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54567">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.808592,42.275098</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54567</NODE_ID>
+      <NODE_NAME>CstllCanRamon</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69477">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.838531,42.266516</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69477</NODE_ID>
+      <NODE_NAME>CistellaMDDdVida</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71566">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.842715,42.261644</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71566</NODE_ID>
+      <NODE_NAME>CstllMasArnau</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

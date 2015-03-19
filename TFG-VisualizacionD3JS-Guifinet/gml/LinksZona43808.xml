@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.706191</gml:X><gml:Y>41.360939</gml:Y></gml:coord>
+<gml:coord><gml:X>1.805390</gml:X><gml:Y>41.434522</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="25149">
+          <NODE1_ID>28107</NODE1_ID>
+          <NODE1_NAME>SUB-CCCanRossell</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>3.023</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.805390,41.397766 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28460">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>33773</NODE2_ID>
+          <NODE2_NAME>SUB-JuanjoS</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.768396,41.391433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28894">
+          <NODE1_ID>34144</NODE1_ID>
+          <NODE1_NAME>SUB-XavierF</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767586,41.390699 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29051">
+          <NODE1_ID>34372</NODE1_ID>
+          <NODE1_NAME>SUB-JudithR</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>3.921</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.775531,41.423708 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29156">
+          <NODE1_ID>34513</NODE1_ID>
+          <NODE1_NAME>SUB-SintoG</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.636</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.763467,41.402012 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29968">
+          <NODE1_ID>35167</NODE1_ID>
+          <NODE1_NAME>SUB-CCsisu</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>2.538</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743382,41.397363 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30280">
+          <NODE1_ID>35470</NODE1_ID>
+          <NODE1_NAME>SUB-JosepF</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769874,41.390770 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30307">
+          <NODE1_ID>34895</NODE1_ID>
+          <NODE1_NAME>SUB-TurismeLavern</NODE1_NAME>
+          <NODE2_ID>27009</NODE2_ID>
+          <NODE2_NAME>EP-Ajuntament</NODE2_NAME>
+          <KMS>5.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.768182,41.395685 1.710606,41.418067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30902">
+          <NODE1_ID>36045</NODE1_ID>
+          <NODE1_NAME>SUB-OriolR</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.774040,41.389436 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31548">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>27009</NODE2_ID>
+          <NODE2_NAME>EP-Ajuntament</NODE2_NAME>
+          <KMS>6.048</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.710606,41.418067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32261">
+          <NODE1_ID>33644</NODE1_ID>
+          <NODE1_NAME>SUB-CasalCBatista</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>2.464</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.775326,41.410533 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34298">
+          <NODE1_ID>39099</NODE1_ID>
+          <NODE1_NAME>SUB-CanMaristany</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.776963,41.397495 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34428">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>39088</NODE2_ID>
+          <NODE2_NAME>SF-CavesBaldus</NODE2_NAME>
+          <KMS>5.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.706191,41.392827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34849">
+          <NODE1_ID>15395</NODE1_ID>
+          <NODE1_NAME>AV-Ajuntament</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>3.138</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.779356,41.360939 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36743">
+          <NODE1_ID>41024</NODE1_ID>
+          <NODE1_NAME>SUB-CentreLavern</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.773051,41.390008 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38866">
+          <NODE1_ID>42798</NODE1_ID>
+          <NODE1_NAME>SUB-RaquelS</NODE1_NAME>
+          <NODE2_ID>27009</NODE2_ID>
+          <NODE2_NAME>EP-Ajuntament</NODE2_NAME>
+          <KMS>5.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769086,41.390586 1.710606,41.418067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40038">
+          <NODE1_ID>43424</NODE1_ID>
+          <NODE1_NAME>SUB-FrancescP</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>3.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740649,41.408785 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53303">
+          <NODE1_ID>52109</NODE1_ID>
+          <NODE1_NAME>SUB-Volga</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771962,41.401905 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53325">
+          <NODE1_ID>53737</NODE1_ID>
+          <NODE1_NAME>SUB-MartaG</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771685,41.390550 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56964">
+          <NODE1_ID>51218</NODE1_ID>
+          <NODE1_NAME>AV-SalvadorV</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.765156,41.380934 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57531">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>33841</NODE2_ID>
+          <NODE2_NAME>SUB-BretH</NODE2_NAME>
+          <KMS>0.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.769024,41.390804</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66643">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>63258</NODE2_ID>
+          <NODE2_NAME>SUB-FAlcazar</NODE2_NAME>
+          <KMS>2.704</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.798427,41.401881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68509">
+          <NODE1_ID>64771</NODE1_ID>
+          <NODE1_NAME>SUB-JCapellades</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.768839,41.390523 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69532">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>64898</NODE2_ID>
+          <NODE2_NAME>SUB-JaumeCusco</NODE2_NAME>
+          <KMS>0.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.768918,41.391194</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72916">
+          <NODE1_ID>65157</NODE1_ID>
+          <NODE1_NAME>SS-GVarias</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>5.139</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.778305,41.434522 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73296">
+          <NODE1_ID>64249</NODE1_ID>
+          <NODE1_NAME>SUB-VinyesV</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.909</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.760205,41.403531 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73497">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>58894</NODE2_ID>
+          <NODE2_NAME>SUB-RicardF</NODE2_NAME>
+          <KMS>2.624</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.797523,41.401616</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74974">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>69824</NODE2_ID>
+          <NODE2_NAME>SUB-Casanovas20</NODE2_NAME>
+          <KMS>0.31</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.768720,41.390488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76002">
+          <NODE1_ID>23829</NODE1_ID>
+          <NODE1_NAME>AV-JosepP</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.766028,41.380835 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77851">
+          <NODE1_ID>72550</NODE1_ID>
+          <NODE1_NAME>SUB-AbdelazizAg</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.781169,41.381404 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78958">
+          <NODE1_ID>16395</NODE1_ID>
+          <NODE1_NAME>AV-FrancescA</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767662,41.380128 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79398">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>73999</NODE2_ID>
+          <NODE2_NAME>SUB-PedroA</NODE2_NAME>
+          <KMS>2.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.795744,41.401144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79676">
+          <NODE1_ID>74246</NODE1_ID>
+          <NODE1_NAME>AV-JordiParellada</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.991</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.766650,41.380360 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79945">
+          <NODE1_ID>16673</NODE1_ID>
+          <NODE1_NAME>AV-MontserratC</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.006</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.765060,41.380841 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121232">
+          <NODE1_ID>75519</NODE1_ID>
+          <NODE1_NAME>AV-SilviaJS</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.989</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767654,41.380092 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121562">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>58896</NODE2_ID>
+          <NODE2_NAME>SUB-LLHuguet</NODE2_NAME>
+          <KMS>2.848</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.738600,41.395495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121563">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>57199</NODE2_ID>
+          <NODE2_NAME>SUB-MarcR</NODE2_NAME>
+          <KMS>2.823</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.738906,41.395463</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121999">
+          <NODE1_ID>34071</NODE1_ID>
+          <NODE1_NAME>SUB-Escuder</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>1.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.754183,41.397598 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122030">
+          <NODE1_ID>76163</NODE1_ID>
+          <NODE1_NAME>SUB-MiquelTR</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.284</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769463,41.390657 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122335">
+          <NODE1_ID>76366</NODE1_ID>
+          <NODE1_NAME>SUB-GuillemMG</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.478</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769551,41.392618 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122439">
+          <NODE1_ID>76440</NODE1_ID>
+          <NODE1_NAME>SUB-JoanCC</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.281</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769581,41.390681 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122480">
+          <NODE1_ID>75968</NODE1_ID>
+          <NODE1_NAME>SCS-MasComtal</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>2.637</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753638,41.368925 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122797">
+          <NODE1_ID>76371</NODE1_ID>
+          <NODE1_NAME>SUB-JosepMA</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>0.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769270,41.390590 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123498">
+          <NODE1_ID>26312</NODE1_ID>
+          <NODE1_NAME>SUB-DipLavern</NODE1_NAME>
+          <NODE2_ID>50829</NODE2_ID>
+          <NODE2_NAME>SUB-OnaSubirats</NODE2_NAME>
+          <KMS>1.996</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.771384,41.388544 1.793921,41.382629</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

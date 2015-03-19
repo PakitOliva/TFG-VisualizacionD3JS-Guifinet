@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.908840</gml:X><gml:Y>41.921193</gml:Y></gml:coord>
+<gml:coord><gml:X>3.044466</gml:X><gml:Y>42.104217</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44580">
+          <NODE1_ID>4946</NODE1_ID>
+          <NODE1_NAME>BDEtotbisbal</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.038217,41.960088 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44588">
+          <NODE1_ID>46966</NODE1_ID>
+          <NODE1_NAME>BDEPompeuFabra1</NODE1_NAME>
+          <NODE2_ID>18149</NODE2_ID>
+          <NODE2_NAME>SMVElsAngels</NODE2_NAME>
+          <KMS>11.176</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040093,41.961783 2.908840,41.984831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45064">
+          <NODE1_ID>47561</NODE1_ID>
+          <NODE1_NAME>BDEStaLlucia35</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.862</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036605,41.952423 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45244">
+          <NODE1_ID>13735</NODE1_ID>
+          <NODE1_NAME>BDEIkor80</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.041369,41.959950 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45660">
+          <NODE1_ID>48037</NODE1_ID>
+          <NODE1_NAME>BDEEscut6</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.041622,41.966321 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46819">
+          <NODE1_ID>48855</NODE1_ID>
+          <NODE1_NAME>CMSSRabiosesCanFiga</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>4.617</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.018579,41.921193 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46834">
+          <NODE1_ID>48864</NODE1_ID>
+          <NODE1_NAME>BDEAteneuPi56</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.042638,41.968215 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47074">
+          <NODE1_ID>49121</NODE1_ID>
+          <NODE1_NAME>BDEPlNova19</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037502,41.958894 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47957">
+          <NODE1_ID>49753</NODE1_ID>
+          <NODE1_NAME>LesPlantades</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>3.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.996179,41.957786 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48318">
+          <NODE1_ID>49991</NODE1_ID>
+          <NODE1_NAME>BDESicilia62</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.9</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.044466,41.969201 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49366">
+          <NODE1_ID>50747</NODE1_ID>
+          <NODE1_NAME>BDEStaLlucia38</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.859</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036384,41.952473 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50948">
+          <NODE1_ID>52022</NODE1_ID>
+          <NODE1_NAME>BDESntJosep58</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.932</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036344,41.951814 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54722">
+          <NODE1_ID>54578</NODE1_ID>
+          <NODE1_NAME>BDEVinyoles11</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037412,41.956233 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55831">
+          <NODE1_ID>48082</NODE1_ID>
+          <NODE1_NAME>LOliCalEdu</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>16.072</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.021037,42.104217 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56721">
+          <NODE1_ID>56059</NODE1_ID>
+          <NODE1_NAME>BDEPgMarimonAsprer11</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037006,41.963110 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62108">
+          <NODE1_ID>59437</NODE1_ID>
+          <NODE1_NAME>BDEStaLlucia31</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.845</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036604,41.952578 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64692">
+          <NODE1_ID>61832</NODE1_ID>
+          <NODE1_NAME>BDEOnzeSetembre8</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.042910,41.963023 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67078">
+          <NODE1_ID>46966</NODE1_ID>
+          <NODE1_NAME>BDEPompeuFabra1</NODE1_NAME>
+          <NODE2_ID>63282</NODE2_ID>
+          <NODE2_NAME>BDEAbatOliva38</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040093,41.961783 3.042026,41.963850</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68422">
+          <NODE1_ID>64633</NODE1_ID>
+          <NODE1_NAME>BDEEscolesVelles</NODE1_NAME>
+          <NODE2_ID>46966</NODE2_ID>
+          <NODE2_NAME>BDEPompeuFabra1</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040429,41.959552 3.040093,41.961783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70684">
+          <NODE1_ID>66327</NODE1_ID>
+          <NODE1_NAME>CMSSBordeta23</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>1.909</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.015640,41.956708 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71898">
+          <NODE1_ID>63679</NODE1_ID>
+          <NODE1_NAME>BDEStaLlucia32</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.838</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036467,41.952661 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74358">
+          <NODE1_ID>69458</NODE1_ID>
+          <NODE1_NAME>BDEDiazCosta17</NODE1_NAME>
+          <NODE2_ID>64633</NODE2_ID>
+          <NODE2_NAME>BDEEscolesVelles</NODE2_NAME>
+          <KMS>0.363</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.043860,41.957522 3.040429,41.959552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74420">
+          <NODE1_ID>69458</NODE1_ID>
+          <NODE1_NAME>BDEDiazCosta17</NODE1_NAME>
+          <NODE2_ID>64633</NODE2_ID>
+          <NODE2_NAME>BDEEscolesVelles</NODE2_NAME>
+          <KMS>0.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.043860,41.957522 3.040429,41.959552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77559">
+          <NODE1_ID>72487</NODE1_ID>
+          <NODE1_NAME>BDEStaLlucia41</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.873</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036586,41.952324 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79723">
+          <NODE1_ID>74279</NODE1_ID>
+          <NODE1_NAME>BDEVallsColomer18</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.038145,41.959022 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122787">
+          <NODE1_ID>76685</NODE1_ID>
+          <NODE1_NAME>BDEAmple21</NODE1_NAME>
+          <NODE2_ID>64633</NODE2_ID>
+          <NODE2_NAME>BDEEscolesVelles</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.039519,41.959802 3.040429,41.959552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123706">
+          <NODE1_ID>77307</NODE1_ID>
+          <NODE1_NAME>BDEMontserrat3</NODE1_NAME>
+          <NODE2_ID>4946</NODE2_ID>
+          <NODE2_NAME>BDEtotbisbal</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037783,41.959885 3.038217,41.960088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

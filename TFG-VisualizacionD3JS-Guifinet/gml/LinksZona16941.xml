@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.691480</gml:X><gml:Y>41.209926</gml:Y></gml:coord>
+<gml:coord><gml:X>1.833429</gml:X><gml:Y>41.352988</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="48266">
+          <NODE1_ID>48645</NODE1_ID>
+          <NODE1_NAME>CNY-Picaliga</NODE1_NAME>
+          <NODE2_ID>49884</NODE2_ID>
+          <NODE2_NAME>Stgs-TorretaQuintmar</NODE2_NAME>
+          <KMS>11.938</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700142,41.287215 1.833429,41.249256</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53194">
+          <NODE1_ID>53621</NODE1_ID>
+          <NODE1_NAME>OL-ConchiM</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693418,41.287578 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54325">
+          <NODE1_ID>48645</NODE1_ID>
+          <NODE1_NAME>CNY-Picaliga</NODE1_NAME>
+          <NODE2_ID>54358</NODE2_ID>
+          <NODE2_NAME>VNG-Port</NODE2_NAME>
+          <KMS>8.927</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700142,41.287215 1.729413,41.209926</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60544">
+          <NODE1_ID>58828</NODE1_ID>
+          <NODE1_NAME>OL-MAbadia</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>1.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693705,41.296183 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60792">
+          <NODE1_ID>59010</NODE1_ID>
+          <NODE1_NAME>CNY-CalSimo</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>1.757</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721115,41.287223 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60906">
+          <NODE1_ID>59085</NODE1_ID>
+          <NODE1_NAME>OL-EBiescas</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.822</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.692353,41.291721 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61349">
+          <NODE1_ID>59390</NODE1_ID>
+          <NODE1_NAME>OL-Piscina</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.721</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693664,41.291484 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61578">
+          <NODE1_ID>48645</NODE1_ID>
+          <NODE1_NAME>CNY-Picaliga</NODE1_NAME>
+          <NODE2_ID>58743</NODE2_ID>
+          <NODE2_NAME>SP-SC</NODE2_NAME>
+          <KMS>7.919</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700142,41.287215 1.754494,41.228887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65846">
+          <NODE1_ID>52956</NODE1_ID>
+          <NODE1_NAME>CNY-Vaireda18</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>2.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.725058,41.269396 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68717">
+          <NODE1_ID>64899</NODE1_ID>
+          <NODE1_NAME>CNY-GuillemH</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>2.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.708640,41.269595 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68955">
+          <NODE1_ID>65063</NODE1_ID>
+          <NODE1_NAME>OL-LuisBenitez</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.691558,41.291716 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69896">
+          <NODE1_ID>65074</NODE1_ID>
+          <NODE1_NAME>CNY-JoseLuisMontes</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>2.845</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722131,41.267700 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70193">
+          <NODE1_ID>65993</NODE1_ID>
+          <NODE1_NAME>OL-GustavoC</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693045,41.289055 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70391">
+          <NODE1_ID>48645</NODE1_ID>
+          <NODE1_NAME>CNY-Picaliga</NODE1_NAME>
+          <NODE2_ID>46383</NODE2_ID>
+          <NODE2_NAME>VF-BaltadeCela</NODE2_NAME>
+          <KMS>7.306</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700142,41.287215 1.701850,41.352988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71421">
+          <NODE1_ID>57746</NODE1_ID>
+          <NODE1_NAME>CNY-MarH</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>1.734</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720845,41.287151 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71698">
+          <NODE1_ID>48645</NODE1_ID>
+          <NODE1_NAME>CNY-Picaliga</NODE1_NAME>
+          <NODE2_ID>58408</NODE2_ID>
+          <NODE2_NAME>OL-EMestre</NODE2_NAME>
+          <KMS>0.632</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700142,41.287215 1.693638,41.290101</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71699">
+          <NODE1_ID>66389</NODE1_ID>
+          <NODE1_NAME>ROQ-Termofinger</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>7.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.756316,41.236848 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72630">
+          <NODE1_ID>67925</NODE1_ID>
+          <NODE1_NAME>OL-PepiI</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.7</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693228,41.290752 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76775">
+          <NODE1_ID>71748</NODE1_ID>
+          <NODE1_NAME>CNY-JohnCh</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>3.543</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735628,41.269862 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77883">
+          <NODE1_ID>69357</NODE1_ID>
+          <NODE1_NAME>OL-JoanAicart</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.694836,41.292982 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78677">
+          <NODE1_ID>61987</NODE1_ID>
+          <NODE1_NAME>CNY-XavierL</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>1.973</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700149,41.269453 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79127">
+          <NODE1_ID>73686</NODE1_ID>
+          <NODE1_NAME>OL-FranciscoCasado</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.724</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.692937,41.290820 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79258">
+          <NODE1_ID>73905</NODE1_ID>
+          <NODE1_NAME>OL-AngelG</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.742</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.692045,41.289920 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79602">
+          <NODE1_ID>74192</NODE1_ID>
+          <NODE1_NAME>CNY-SiraC</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>2.722</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.724641,41.271119 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81056">
+          <NODE1_ID>75243</NODE1_ID>
+          <NODE1_NAME>OL-FranciscaMR</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.486</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.696316,41.290510 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81092">
+          <NODE1_ID>75257</NODE1_ID>
+          <NODE1_NAME>CNY-CalSimo(2)</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>1.762</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721172,41.287210 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81243">
+          <NODE1_ID>75373</NODE1_ID>
+          <NODE1_NAME>VNG-Nicolas</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>6.719</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.736072,41.233129 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121700">
+          <NODE1_ID>62805</NODE1_ID>
+          <NODE1_NAME>OL-PabloA</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.622</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693501,41.289722 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121918">
+          <NODE1_ID>76091</NODE1_ID>
+          <NODE1_NAME>CNY-IvanRG</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>3.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732091,41.268889 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122032">
+          <NODE1_ID>76166</NODE1_ID>
+          <NODE1_NAME>OL-JosefinaSA</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.781</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.691480,41.289810 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122139">
+          <NODE1_ID>71396</NODE1_ID>
+          <NODE1_NAME>OL-FatimaB</NODE1_NAME>
+          <NODE2_ID>48645</NODE2_ID>
+          <NODE2_NAME>CNY-Picaliga</NODE2_NAME>
+          <KMS>0.646</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.695996,41.292118 1.700142,41.287215</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

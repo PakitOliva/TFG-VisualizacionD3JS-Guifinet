@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.255797</gml:X><gml:Y>40.645937</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.246103</gml:X><gml:Y>40.647200</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="57747">
+          <NODE1_ID>56618</NODE1_ID>
+          <NODE1_NAME>TdllRepTV</NODE1_NAME>
+          <NODE2_ID>56617</NODE2_ID>
+          <NODE2_NAME>TdllAjunt</NODE2_NAME>
+          <KMS>0.768</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.255797,40.646798 -0.246769,40.646054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58262">
+          <NODE1_ID>57235</NODE1_ID>
+          <NODE1_NAME>Tod_Audiovisionprove</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.716</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.247375,40.646148 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60488">
+          <NODE1_ID>58753</NODE1_ID>
+          <NODE1_NAME>TdllArco19</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.798</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246425,40.645958 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60509">
+          <NODE1_ID>58772</NODE1_ID>
+          <NODE1_NAME>TdllEras27</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.811</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246276,40.645937 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63145">
+          <NODE1_ID>60672</NODE1_ID>
+          <NODE1_NAME>Tod_NydiaGarciaMarin</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246460,40.647105 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64352">
+          <NODE1_ID>56618</NODE1_ID>
+          <NODE1_NAME>TdllRepTV</NODE1_NAME>
+          <NODE2_ID>61546</NODE2_ID>
+          <NODE2_NAME>TdllCastillo16</NODE2_NAME>
+          <KMS>0.821</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.255797,40.646798 -0.246103,40.647149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64607">
+          <NODE1_ID>56618</NODE1_ID>
+          <NODE1_NAME>TdllRepTV</NODE1_NAME>
+          <NODE2_ID>61735</NODE2_ID>
+          <NODE2_NAME>TdllSanCristobal5Nur</NODE2_NAME>
+          <KMS>0.75</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.255797,40.646798 -0.246935,40.646886</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68675">
+          <NODE1_ID>64876</NODE1_ID>
+          <NODE1_NAME>TdllMArmengot</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.751</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246919,40.646790 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73545">
+          <NODE1_ID>68915</NODE1_ID>
+          <NODE1_NAME>Tdll_LolaA</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.719</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.247305,40.646980 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77954">
+          <NODE1_ID>72818</NODE1_ID>
+          <NODE1_NAME>TdllForn24</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246555,40.647126 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80009">
+          <NODE1_ID>74535</NODE1_ID>
+          <NODE1_NAME>TdllForn28</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246555,40.647200 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122396">
+          <NODE1_ID>76408</NODE1_ID>
+          <NODE1_NAME>Tdll_Proba1</NODE1_NAME>
+          <NODE2_ID>56618</NODE2_ID>
+          <NODE2_NAME>TdllRepTV</NODE2_NAME>
+          <KMS>0.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.246629,40.646369 -0.255797,40.646798</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

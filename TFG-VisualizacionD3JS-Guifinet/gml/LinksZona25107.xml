@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.898663</gml:X><gml:Y>41.775428</gml:Y></gml:coord>
+<gml:coord><gml:X>3.030806</gml:X><gml:Y>41.885496</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="40720">
+          <NODE1_ID>44137</NODE1_ID>
+          <NODE1_NAME>ROnyRepetidor</NODE1_NAME>
+          <NODE2_ID>28951</NODE2_ID>
+          <NODE2_NAME>SCriDAjuntament</NODE2_NAME>
+          <KMS>4.247</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.985706,41.847403 2.999981,41.810684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49056">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>8.064</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49553">
+          <NODE1_ID>47872</NODE1_ID>
+          <NODE1_NAME>LLAGaya</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>6.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.903443,41.840033 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55179">
+          <NODE1_ID>52891</NODE1_ID>
+          <NODE1_NAME>SCriDAvEspanya213</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>1.959</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.971712,41.861604 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57148">
+          <NODE1_ID>35090</NODE1_ID>
+          <NODE1_NAME>LLADiposit</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>7.576</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.898663,41.827025 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58902">
+          <NODE1_ID>57652</NODE1_ID>
+          <NODE1_NAME>ScriDCanSabater2</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>4.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998630,41.885496 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59059">
+          <NODE1_ID>52476</NODE1_ID>
+          <NODE1_NAME>SCriDCanigo76</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>4.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.989958,41.806979 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61664">
+          <NODE1_ID>57651</NODE1_ID>
+          <NODE1_NAME>SCriDCansabater</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>4.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997881,41.884030 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62925">
+          <NODE1_ID>60506</NODE1_ID>
+          <NODE1_NAME>SCriDMasDAlmau</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>4.609</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.969133,41.807803 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64193">
+          <NODE1_ID>57651</NODE1_ID>
+          <NODE1_NAME>SCriDCansabater</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>4.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997881,41.884030 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67722">
+          <NODE1_ID>36555</NODE1_ID>
+          <NODE1_NAME>LLATramuntana5</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>7.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.900377,41.829574 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68836">
+          <NODE1_ID>44137</NODE1_ID>
+          <NODE1_NAME>ROnyRepetidor</NODE1_NAME>
+          <NODE2_ID>64979</NODE2_ID>
+          <NODE2_NAME>SCriDRoquesAltes99</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.985706,41.847403 2.986203,41.847282</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71825">
+          <NODE1_ID>44137</NODE1_ID>
+          <NODE1_NAME>ROnyRepetidor</NODE1_NAME>
+          <NODE2_ID>62503</NODE2_ID>
+          <NODE2_NAME>SCriDVallRepFarola</NODE2_NAME>
+          <KMS>2.234</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.985706,41.847403 3.005719,41.860850</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72219">
+          <NODE1_ID>67579</NODE1_ID>
+          <NODE1_NAME>SCriDCanigo246</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>5.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.982919,41.802363 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74074">
+          <NODE1_ID>69307</NODE1_ID>
+          <NODE1_NAME>SCriDAvRomanyaB26</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>2.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966397,41.860671 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78940">
+          <NODE1_ID>37930</NODE1_ID>
+          <NODE1_NAME>SFG-Guadalajara18</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>7.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.030806,41.789036 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79525">
+          <NODE1_ID>74109</NODE1_ID>
+          <NODE1_NAME>ROnyHortaGuito4</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>0.502</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.983491,41.851605 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79751">
+          <NODE1_ID>74294</NODE1_ID>
+          <NODE1_NAME>SCriDDrCasals12_2-1</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>3.987</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.999349,41.812985 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79798">
+          <NODE1_ID>74326</NODE1_ID>
+          <NODE1_NAME>SCriDSalvadorDali11</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>3.765</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.001853,41.815730 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

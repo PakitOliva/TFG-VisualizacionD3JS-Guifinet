@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.908840</gml:X><gml:Y>41.746413</gml:Y></gml:coord>
+<gml:coord><gml:X>3.131706</gml:X><gml:Y>41.984831</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="27301">
+          <NODE1_ID>32536</NODE1_ID>
+          <NODE1_NAME>SFG-JoanI</NODE1_NAME>
+          <NODE2_ID>21649</NODE2_ID>
+          <NODE2_NAME>SFG-Guadalajara21</NODE2_NAME>
+          <KMS>1.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036668,41.781025 3.031195,41.789377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30186">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>18149</NODE2_ID>
+          <NODE2_NAME>SMVElsAngels</NODE2_NAME>
+          <KMS>24.418</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 2.908840,41.984831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33387">
+          <NODE1_ID>33711</NODE1_ID>
+          <NODE1_NAME>SFG-BarMoll</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037379,41.780775 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36016">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>39327</NODE2_ID>
+          <NODE2_NAME>SFG-Girona37</NODE2_NAME>
+          <KMS>2.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.030784,41.783581</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36047">
+          <NODE1_ID>36002</NODE1_ID>
+          <NODE1_NAME>SFG-Garrofers10</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.541</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.027495,41.782481 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36116">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>38792</NODE2_ID>
+          <NODE2_NAME>SFG-Mall70</NODE2_NAME>
+          <KMS>2.38</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.025041,41.783301</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36351">
+          <NODE1_ID>40746</NODE1_ID>
+          <NODE1_NAME>SFG-BuenosAires13</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.553</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040740,41.779892 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37398">
+          <NODE1_ID>37235</NODE1_ID>
+          <NODE1_NAME>SFG-Huget90</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.546</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024459,41.787487 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37604">
+          <NODE1_ID>26213</NODE1_ID>
+          <NODE1_NAME>SFG-Pecher129</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>1.847</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.019094,41.781505 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41276">
+          <NODE1_ID>40454</NODE1_ID>
+          <NODE1_NAME>SFG-Salvament</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.114</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.035373,41.780022 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43891">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>43607</NODE2_ID>
+          <NODE2_NAME>CsTAroNouRoquissar</NODE2_NAME>
+          <KMS>5.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.026964,41.815168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44849">
+          <NODE1_ID>31428</NODE1_ID>
+          <NODE1_NAME>SFG-Castanyer11</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.141</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.000678,41.794627 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46605">
+          <NODE1_ID>48748</NODE1_ID>
+          <NODE1_NAME>SCriDRocaMalvet1</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>7.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.001032,41.838724 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46731">
+          <NODE1_ID>36309</NODE1_ID>
+          <NODE1_NAME>SFG-Kiosc</NODE1_NAME>
+          <NODE2_ID>40454</NODE2_ID>
+          <NODE2_NAME>SFG-Salvament</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.032865,41.780964 3.035373,41.780022</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47914">
+          <NODE1_ID>49186</NODE1_ID>
+          <NODE1_NAME>SCriDMoliRoca6</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.001656,41.837190 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49022">
+          <NODE1_ID>50461</NODE1_ID>
+          <NODE1_NAME>SFG-Girasols531</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.535</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.032044,41.828610 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49056">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>8.064</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49057">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>21649</NODE2_ID>
+          <NODE2_NAME>SFG-Guadalajara21</NODE2_NAME>
+          <KMS>3.134</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.031195,41.789377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49384">
+          <NODE1_ID>50748</NODE1_ID>
+          <NODE1_NAME>SFG-PMar30</NODE1_NAME>
+          <NODE2_ID>40454</NODE2_ID>
+          <NODE2_NAME>SFG-Salvament</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.031097,41.781310 3.035373,41.780022</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49613">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>50921</NODE2_ID>
+          <NODE2_NAME>SFG-Creu74</NODE2_NAME>
+          <KMS>2.794</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.030140,41.783741</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50122">
+          <NODE1_ID>51340</NODE1_ID>
+          <NODE1_NAME>SFG-Lleida81</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.01</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.026085,41.792916 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51344">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>34747</NODE2_ID>
+          <NODE2_NAME>SFG-StDomenec106</NODE2_NAME>
+          <KMS>2.704</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.028999,41.783730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51367">
+          <NODE1_ID>37498</NODE1_ID>
+          <NODE1_NAME>SFG-Eres66</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.916</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.031073,41.785017 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51604">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>52186</NODE2_ID>
+          <NODE2_NAME>CDeLSCanBota</NODE2_NAME>
+          <KMS>12.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 2.932341,41.873205</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52203">
+          <NODE1_ID>52921</NODE1_ID>
+          <NODE1_NAME>SFG-PlacaSantsebasti</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.568</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024078,41.788303 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54414">
+          <NODE1_ID>54435</NODE1_ID>
+          <NODE1_NAME>SFG-Canigo26</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.921</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.023751,41.793648 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54608">
+          <NODE1_ID>54542</NODE1_ID>
+          <NODE1_NAME>SFG-JGarreta6</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.526</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.028268,41.779682 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54942">
+          <NODE1_ID>54771</NODE1_ID>
+          <NODE1_NAME>SFG-Merla86</NODE1_NAME>
+          <NODE2_ID>40454</NODE2_ID>
+          <NODE2_NAME>SFG-Salvament</NODE2_NAME>
+          <KMS>3.287</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.996624,41.785894 3.035373,41.780022</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55137">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>54519</NODE2_ID>
+          <NODE2_NAME>SFG-ClubPetanca</NODE2_NAME>
+          <KMS>3.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.021736,41.797385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55139">
+          <NODE1_ID>54867</NODE1_ID>
+          <NODE1_NAME>SFG-Pecher135</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>1.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.019005,41.781492 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56085">
+          <NODE1_ID>55568</NODE1_ID>
+          <NODE1_NAME>SCriDHortensia60</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>5.496</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.011810,41.823885 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57500">
+          <NODE1_ID>26361</NODE1_ID>
+          <NODE1_NAME>SFG-RemusiRufi16</NODE1_NAME>
+          <NODE2_ID>21649</NODE2_ID>
+          <NODE2_NAME>SFG-Guadalajara21</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.031883,41.789225 3.031195,41.789377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58861">
+          <NODE1_ID>57630</NODE1_ID>
+          <NODE1_NAME>TssMRestsalions</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>4.352</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.963252,41.746413 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58920">
+          <NODE1_ID>57631</NODE1_ID>
+          <NODE1_NAME>PdAGeranis516</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.026664,41.827842 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59166">
+          <NODE1_ID>20053</NODE1_ID>
+          <NODE1_NAME>PdATel-Sat</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>7.902</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.070266,41.822022 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59394">
+          <NODE1_ID>57991</NODE1_ID>
+          <NODE1_NAME>SFG-SantPere45</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.028937,41.781430 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60114">
+          <NODE1_ID>58504</NODE1_ID>
+          <NODE1_NAME>PdATalaia712</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.028354,41.830747 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60434">
+          <NODE1_ID>38664</NODE1_ID>
+          <NODE1_NAME>SFG-Forca3</NODE1_NAME>
+          <NODE2_ID>40454</NODE2_ID>
+          <NODE2_NAME>SFG-Salvament</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.033745,41.780689 3.035373,41.780022</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61657">
+          <NODE1_ID>40314</NODE1_ID>
+          <NODE1_NAME>PdALleida17</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>7.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.066816,41.814535 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65106">
+          <NODE1_ID>62201</NODE1_ID>
+          <NODE1_NAME>SFG-Palamos58</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036151,41.782845 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65180">
+          <NODE1_ID>62263</NODE1_ID>
+          <NODE1_NAME>SFG-AvCatalunya52</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.652</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.023721,41.789966 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65246">
+          <NODE1_ID>38462</NODE1_ID>
+          <NODE1_NAME>SFG-Madrid5</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.566</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024276,41.788049 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65247">
+          <NODE1_ID>37622</NODE1_ID>
+          <NODE1_NAME>SFG-ParatgeBujonis35</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.016069,41.791103 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65248">
+          <NODE1_ID>41414</NODE1_ID>
+          <NODE1_NAME>SFG-Pecher28</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.023224,41.782186 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65249">
+          <NODE1_ID>45423</NODE1_ID>
+          <NODE1_NAME>SFG-JoanCamiso78</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.944</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024474,41.793380 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65250">
+          <NODE1_ID>25738</NODE1_ID>
+          <NODE1_NAME>SAGGoleta52</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>4.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036011,41.798666 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65260">
+          <NODE1_ID>34751</NODE1_ID>
+          <NODE1_NAME>SCriDVoltaArb222S</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.784</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997953,41.836508 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65384">
+          <NODE1_ID>20161</NODE1_ID>
+          <NODE1_NAME>PALIgnasi</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>14.392</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.131706,41.858183 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66296">
+          <NODE1_ID>26806</NODE1_ID>
+          <NODE1_NAME>SFG-Canigo30</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024555,41.793793 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68318">
+          <NODE1_ID>44262</NODE1_ID>
+          <NODE1_NAME>SCriDLugues116</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>5.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.014810,41.820475 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68431">
+          <NODE1_ID>40715</NODE1_ID>
+          <NODE1_NAME>PALPuigCargol</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>14.359</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.092281,41.883985 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68502">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>50419</NODE2_ID>
+          <NODE2_NAME>CsTAroCanSemi100</NODE2_NAME>
+          <KMS>6.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.037537,41.822352</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69435">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>65413</NODE2_ID>
+          <NODE2_NAME>SFG-Eres80</NODE2_NAME>
+          <KMS>2.898</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.030583,41.785492</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69803">
+          <NODE1_ID>58452</NODE1_ID>
+          <NODE1_NAME>SFG-JaumeGras33</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024637,41.787940 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70088">
+          <NODE1_ID>65914</NODE1_ID>
+          <NODE1_NAME>SFG-Castanyer?</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.999227,41.794326 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71396">
+          <NODE1_ID>28294</NODE1_ID>
+          <NODE1_NAME>SFG-Repetidor</NODE1_NAME>
+          <NODE2_ID>66542</NODE2_ID>
+          <NODE2_NAME>SCriDTerral145</NODE2_NAME>
+          <KMS>7.287</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.998419,41.775428 3.002532,41.840966</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72061">
+          <NODE1_ID>57231</NODE1_ID>
+          <NODE1_NAME>SFG-PavelloMunicipal</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.024277,41.780673 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72794">
+          <NODE1_ID>40913</NODE1_ID>
+          <NODE1_NAME>SFG-Llevant10</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.038618,41.780857 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72810">
+          <NODE1_ID>68084</NODE1_ID>
+          <NODE1_NAME>penyes</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>1.721</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.019113,41.775441 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72879">
+          <NODE1_ID>68180</NODE1_ID>
+          <NODE1_NAME>SFG-CtraDelButano</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.029236,41.795176 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74729">
+          <NODE1_ID>69746</NODE1_ID>
+          <NODE1_NAME>PdALleida17-2</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>7.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.066760,41.814420 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74984">
+          <NODE1_ID>69938</NODE1_ID>
+          <NODE1_NAME>PdATalaia727</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.027635,41.829646 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75807">
+          <NODE1_ID>70587</NODE1_ID>
+          <NODE1_NAME>SFG-StaEscolastica</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.992030,41.793501 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78141">
+          <NODE1_ID>62106</NODE1_ID>
+          <NODE1_NAME>SFG-Albacete5</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.029518,41.790289 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78380">
+          <NODE1_ID>73141</NODE1_ID>
+          <NODE1_NAME>SFG-AvEuropa68</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.030173,41.791988 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78940">
+          <NODE1_ID>37930</NODE1_ID>
+          <NODE1_NAME>SFG-Guadalajara18</NODE1_NAME>
+          <NODE2_ID>44137</NODE2_ID>
+          <NODE2_NAME>ROnyRepetidor</NODE2_NAME>
+          <KMS>7.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.030806,41.789036 2.985706,41.847403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78941">
+          <NODE1_ID>37930</NODE1_ID>
+          <NODE1_NAME>SFG-Guadalajara18</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.030806,41.789036 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78942">
+          <NODE1_ID>37930</NODE1_ID>
+          <NODE1_NAME>SFG-Guadalajara18</NODE1_NAME>
+          <NODE2_ID>28951</NODE2_ID>
+          <NODE2_NAME>SCriDAjuntament</NODE2_NAME>
+          <KMS>3.513</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.030806,41.789036 2.999981,41.810684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81291">
+          <NODE1_ID>75402</NODE1_ID>
+          <NODE1_NAME>SFG-StaMagdalena85</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.516</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.026007,41.784751 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121816">
+          <NODE1_ID>26475</NODE1_ID>
+          <NODE1_NAME>SFG-Cabanyes22</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>2.926</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.029284,41.788083 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123032">
+          <NODE1_ID>4855</NODE1_ID>
+          <NODE1_NAME>PdADiposit</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>6.815</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047162,41.824771 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123058">
+          <NODE1_ID>21649</NODE1_ID>
+          <NODE1_NAME>SFG-Guadalajara21</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>3.134</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.031195,41.789377 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

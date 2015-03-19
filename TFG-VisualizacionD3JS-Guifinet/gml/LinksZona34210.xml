@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.885904</gml:X><gml:Y>40.311697</gml:Y></gml:coord>
+<gml:coord><gml:X>-3.848302</gml:X><gml:Y>40.328818</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="55400">
+          <NODE1_ID>51590</NODE1_ID>
+          <NODE1_NAME>MOSParis</NODE1_NAME>
+          <NODE2_ID>36289</NODE2_ID>
+          <NODE2_NAME>MOScarlosV29</NODE2_NAME>
+          <KMS>1.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.862773,40.314685 -3.851132,40.318240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57283">
+          <NODE1_ID>55984</NODE1_ID>
+          <NODE1_NAME>MOScaminoHumanes27</NODE1_NAME>
+          <NODE2_ID>51590</NODE2_ID>
+          <NODE2_NAME>MOSParis</NODE2_NAME>
+          <KMS>0.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.858532,40.315613 -3.862773,40.314685</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57284">
+          <NODE1_ID>56468</NODE1_ID>
+          <NODE1_NAME>MOSRioJarama11</NODE1_NAME>
+          <NODE2_ID>51590</NODE2_ID>
+          <NODE2_NAME>MOSParis</NODE2_NAME>
+          <KMS>0.796</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.871404,40.317478 -3.862773,40.314685</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57290">
+          <NODE1_ID>56280</NODE1_ID>
+          <NODE1_NAME>MOSTuria2</NODE1_NAME>
+          <NODE2_ID>56468</NODE2_ID>
+          <NODE2_NAME>MOSRioJarama11</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.873005,40.316487 -3.871404,40.317478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57292">
+          <NODE1_ID>56330</NODE1_ID>
+          <NODE1_NAME>MOSOnu38</NODE1_NAME>
+          <NODE2_ID>36289</NODE2_ID>
+          <NODE2_NAME>MOScarlosV29</NODE2_NAME>
+          <KMS>0.405</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.848302,40.321174 -3.851132,40.318240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57558">
+          <NODE1_ID>55987</NODE1_ID>
+          <NODE1_NAME>MOSAndromeda64</NODE1_NAME>
+          <NODE2_ID>51590</NODE2_ID>
+          <NODE2_NAME>MOSParis</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.862278,40.311697 -3.862773,40.314685</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57568">
+          <NODE1_ID>56469</NODE1_ID>
+          <NODE1_NAME>MOSGranada18</NODE1_NAME>
+          <NODE2_ID>56388</NODE2_ID>
+          <NODE2_NAME>MOSJoaquinBlume11</NODE2_NAME>
+          <KMS>0.952</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.875245,40.326178 -3.885904,40.328818</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57974">
+          <NODE1_ID>56772</NODE1_ID>
+          <NODE1_NAME>MOSAvila6</NODE1_NAME>
+          <NODE2_ID>56790</NODE2_ID>
+          <NODE2_NAME>MOSCaceres2</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.859630,40.324860 -3.859135,40.325451</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.888611</gml:X><gml:Y>41.911472</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.925542</gml:X><gml:Y>41.918537</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="25681">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.888917,41.913444</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25681</NODE_ID>
+      <NODE_NAME>DipGalera</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25682">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.888611,41.911472</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25682</NODE_ID>
+      <NODE_NAME>EscGalera</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31958">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.925542,41.918537</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31958</NODE_ID>
+      <NODE_NAME>GaiaEscudero</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

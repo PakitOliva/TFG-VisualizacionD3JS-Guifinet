@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.437956</gml:X><gml:Y>38.385823</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.410632</gml:X><gml:Y>38.404814</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23128">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.434217,38.396618</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23128</NODE_ID>
+      <NODE_NAME>SanJuanJaime1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36320">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.437956,38.404814</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36320</NODE_ID>
+      <NODE_NAME>SANJLosAlamos1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75860">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.410632,38.385823</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75860</NODE_ID>
+      <NODE_NAME>SanJBenavente58</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

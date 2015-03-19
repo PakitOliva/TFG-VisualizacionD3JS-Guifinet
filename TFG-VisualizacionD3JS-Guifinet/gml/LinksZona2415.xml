@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.661650</gml:X><gml:Y>41.404117</gml:Y></gml:coord>
+<gml:coord><gml:X>1.831917</gml:X><gml:Y>41.467168</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="11110">
+          <NODE1_ID>1550</NODE1_ID>
+          <NODE1_NAME>OriolHome</NODE1_NAME>
+          <NODE2_ID>15041</NODE2_ID>
+          <NODE2_NAME>CotsLaVit</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.727821,41.451762 1.728415,41.450671</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51200">
+          <NODE1_ID>52202</NODE1_ID>
+          <NODE1_NAME>TLV-OrlandoV</NODE1_NAME>
+          <NODE2_ID>27009</NODE2_ID>
+          <NODE2_NAME>EP-Ajuntament</NODE2_NAME>
+          <KMS>1.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705949,41.434120 1.710606,41.418067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55084">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>53783</NODE2_ID>
+          <NODE2_NAME>TLV-CalPlanas</NODE2_NAME>
+          <KMS>6.495</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.733661,41.445143</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78336">
+          <NODE1_ID>33943</NODE1_ID>
+          <NODE1_NAME>TLV-Dip.CanRossell</NODE1_NAME>
+          <NODE2_ID>27009</NODE2_ID>
+          <NODE2_NAME>EP-Ajuntament</NODE2_NAME>
+          <KMS>2.963</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.745421,41.423087 1.710606,41.418067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78850">
+          <NODE1_ID>28137</NODE1_ID>
+          <NODE1_NAME>SUB-Castell</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>8.587</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.818012,41.415738 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79112">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>2.674</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79199">
+          <NODE1_ID>34526</NODE1_ID>
+          <NODE1_NAME>TLV-DipositPoligon</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>1.491</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732717,41.440664 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79227">
+          <NODE1_ID>66739</NODE1_ID>
+          <NODE1_NAME>TLV-Poliesportiu</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.888</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729384,41.448259 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79343">
+          <NODE1_ID>68939</NODE1_ID>
+          <NODE1_NAME>SUB-Montfrauto</NODE1_NAME>
+          <NODE2_ID>33943</NODE2_ID>
+          <NODE2_NAME>TLV-Dip.CanRossell</NODE2_NAME>
+          <KMS>2.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.759497,41.404117 1.745421,41.423087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79733">
+          <NODE1_ID>74285</NODE1_ID>
+          <NODE1_NAME>TRV-MarcM</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730157,41.444305 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79843">
+          <NODE1_ID>74349</NODE1_ID>
+          <NODE1_NAME>TRV-JordiR</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728750,41.451230 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79882">
+          <NODE1_ID>28137</NODE1_ID>
+          <NODE1_NAME>SUB-Castell</NODE1_NAME>
+          <NODE2_ID>33943</NODE2_ID>
+          <NODE2_NAME>TLV-Dip.CanRossell</NODE2_NAME>
+          <KMS>6.123</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.818012,41.415738 1.745421,41.423087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79888">
+          <NODE1_ID>74389</NODE1_ID>
+          <NODE1_NAME>TRV-JoanPerona</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>0.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728410,41.451470 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79939">
+          <NODE1_ID>74467</NODE1_ID>
+          <NODE1_NAME>TRV-LourdesA</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.644</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731650,41.446410 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79940">
+          <NODE1_ID>74468</NODE1_ID>
+          <NODE1_NAME>TRV-MAngelsH</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.644</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731650,41.446410 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80137">
+          <NODE1_ID>74621</NODE1_ID>
+          <NODE1_NAME>TRV-OlgaR</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.5</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730210,41.443800 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80157">
+          <NODE1_ID>34526</NODE1_ID>
+          <NODE1_NAME>TLV-DipositPoligon</NODE1_NAME>
+          <NODE2_ID>74633</NODE2_ID>
+          <NODE2_NAME>TRV-JoanCornella</NODE2_NAME>
+          <KMS>0.944</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732717,41.440664 1.726447,41.447731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80208">
+          <NODE1_ID>74611</NODE1_ID>
+          <NODE1_NAME>TRV-XaviJ</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728044,41.443682 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80209">
+          <NODE1_ID>74659</NODE1_ID>
+          <NODE1_NAME>TRV-MarcMM</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731350,41.444320 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80210">
+          <NODE1_ID>74660</NODE1_ID>
+          <NODE1_NAME>TRV-JoaquimF</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>0.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.727950,41.452110 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80214">
+          <NODE1_ID>74663</NODE1_ID>
+          <NODE1_NAME>TRV-MontseSP</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.402</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729508,41.443360 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80215">
+          <NODE1_ID>74664</NODE1_ID>
+          <NODE1_NAME>TRV-JosepEM</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.726953,41.447079 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80218">
+          <NODE1_ID>74640</NODE1_ID>
+          <NODE1_NAME>SS-JuveyCamps</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>6.693</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.812712,41.443491 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80219">
+          <NODE1_ID>74666</NODE1_ID>
+          <NODE1_NAME>TRV-TissunionE</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742266,41.441998 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80220">
+          <NODE1_ID>74668</NODE1_ID>
+          <NODE1_NAME>TRV-NuriaFE</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730460,41.444380 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80560">
+          <NODE1_ID>74879</NODE1_ID>
+          <NODE1_NAME>TRV-JoanCarlesTL</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>1.225</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728740,41.451280 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80893">
+          <NODE1_ID>34526</NODE1_ID>
+          <NODE1_NAME>TLV-DipositPoligon</NODE1_NAME>
+          <NODE2_ID>75101</NODE2_ID>
+          <NODE2_NAME>TRV-RamonRB</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732717,41.440664 1.730113,41.444223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80894">
+          <NODE1_ID>75102</NODE1_ID>
+          <NODE1_NAME>TRV-CoraPQ</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.475</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731406,41.444822 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80918">
+          <NODE1_ID>75118</NODE1_ID>
+          <NODE1_NAME>TRV-JosepJB</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730900,41.444030 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80924">
+          <NODE1_ID>75120</NODE1_ID>
+          <NODE1_NAME>TRV-CeliaPO</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730180,41.444450 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80938">
+          <NODE1_ID>75135</NODE1_ID>
+          <NODE1_NAME>TRV-AssumpcioGA</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>0.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728800,41.451860 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81000">
+          <NODE1_ID>75167</NODE1_ID>
+          <NODE1_NAME>TRV-OriolRC</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.727812,41.451884 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81001">
+          <NODE1_ID>53736</NODE1_ID>
+          <NODE1_NAME>TLV-Naveran</NODE1_NAME>
+          <NODE2_ID>27009</NODE2_ID>
+          <NODE2_NAME>EP-Ajuntament</NODE2_NAME>
+          <KMS>1.844</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705112,41.434144 1.710606,41.418067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81057">
+          <NODE1_ID>75244</NODE1_ID>
+          <NODE1_NAME>TRV-MRosaMN</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>1.633</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.716614,41.448986 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81097">
+          <NODE1_ID>75259</NODE1_ID>
+          <NODE1_NAME>TRV-ManelSC</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730669,41.443752 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81125">
+          <NODE1_ID>75280</NODE1_ID>
+          <NODE1_NAME>TRV-JosepMR</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.423</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730311,41.444512 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81151">
+          <NODE1_ID>75292</NODE1_ID>
+          <NODE1_NAME>TRV-AntoniBP</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.963</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.726745,41.448084 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81165">
+          <NODE1_ID>75298</NODE1_ID>
+          <NODE1_NAME>TRV-AutoPlanxaT</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735107,41.438701 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81205">
+          <NODE1_ID>75348</NODE1_ID>
+          <NODE1_NAME>EP-MiguelAG</NODE1_NAME>
+          <NODE2_ID>33943</NODE2_ID>
+          <NODE2_NAME>TLV-Dip.CanRossell</NODE2_NAME>
+          <KMS>0.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744443,41.415301 1.745421,41.423087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81206">
+          <NODE1_ID>75349</NODE1_ID>
+          <NODE1_NAME>TRV-JoanAntoniGS</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728917,41.442501 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81210">
+          <NODE1_ID>75353</NODE1_ID>
+          <NODE1_NAME>TRV-JordiRS</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731001,41.443604 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81268">
+          <NODE1_ID>75383</NODE1_ID>
+          <NODE1_NAME>TRV-JosepMariaTP</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.37</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731506,41.443867 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81284">
+          <NODE1_ID>75395</NODE1_ID>
+          <NODE1_NAME>TRV-FabiaBD</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.445</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731644,41.444591 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121155">
+          <NODE1_ID>75479</NODE1_ID>
+          <NODE1_NAME>TRV-JordiPJ</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>1.219</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728860,41.451250 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121191">
+          <NODE1_ID>75501</NODE1_ID>
+          <NODE1_NAME>TRV-JuliaGM</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.497</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.727786,41.443169 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121193">
+          <NODE1_ID>75502</NODE1_ID>
+          <NODE1_NAME>TRV-FerranRC</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>1.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.731318,41.444860 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121230">
+          <NODE1_ID>75297</NODE1_ID>
+          <NODE1_NAME>TRV-AntoniMR</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>1.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729700,41.444556 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121231">
+          <NODE1_ID>75518</NODE1_ID>
+          <NODE1_NAME>TRV-FidelSI</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>0.888</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.724097,41.446449 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121303">
+          <NODE1_ID>34526</NODE1_ID>
+          <NODE1_NAME>TLV-DipositPoligon</NODE1_NAME>
+          <NODE2_ID>75579</NODE2_ID>
+          <NODE2_NAME>TRV-JordiMT</NODE2_NAME>
+          <KMS>0.677</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732717,41.440664 1.731156,41.446648</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121350">
+          <NODE1_ID>75669</NODE1_ID>
+          <NODE1_NAME>TRV-CarlaCF</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729016,41.449710 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121395">
+          <NODE1_ID>66740</NODE1_ID>
+          <NODE1_NAME>TLV-Diposit</NODE1_NAME>
+          <NODE2_ID>74638</NODE2_ID>
+          <NODE2_NAME>TLV-CFont</NODE2_NAME>
+          <KMS>1.43</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728520,41.453715 1.729885,41.440880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121440">
+          <NODE1_ID>74638</NODE1_ID>
+          <NODE1_NAME>TLV-CFont</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729885,41.440880 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121444">
+          <NODE1_ID>74638</NODE1_ID>
+          <NODE1_NAME>TLV-CFont</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729885,41.440880 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121534">
+          <NODE1_ID>75805</NODE1_ID>
+          <NODE1_NAME>TRV-AntoniCR</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732800,41.444718 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121572">
+          <NODE1_ID>73885</NODE1_ID>
+          <NODE1_NAME>Sub-ResidenciaFS</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>8.848</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.820566,41.414364 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121775">
+          <NODE1_ID>75983</NODE1_ID>
+          <NODE1_NAME>TRV-DolorsGA</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.533</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728890,41.443472 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121776">
+          <NODE1_ID>34526</NODE1_ID>
+          <NODE1_NAME>TLV-DipositPoligon</NODE1_NAME>
+          <NODE2_ID>75984</NODE2_ID>
+          <NODE2_NAME>TRV-JorgeBN</NODE2_NAME>
+          <KMS>0.441</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732717,41.440664 1.728842,41.443355</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121777">
+          <NODE1_ID>75582</NODE1_ID>
+          <NODE1_NAME>TRV-PereJV</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730925,41.446645 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121919">
+          <NODE1_ID>66739</NODE1_ID>
+          <NODE1_NAME>TLV-Poliesportiu</NODE1_NAME>
+          <NODE2_ID>75351</NODE2_ID>
+          <NODE2_NAME>TRV-GemmaCG</NODE2_NAME>
+          <KMS>0.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729384,41.448259 1.730623,41.446878</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122092">
+          <NODE1_ID>76196</NODE1_ID>
+          <NODE1_NAME>TRV-JoseMS</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.503</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728097,41.443834 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122327">
+          <NODE1_ID>76360</NODE1_ID>
+          <NODE1_NAME>TRV-RafaelFC</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730290,41.444760 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122400">
+          <NODE1_ID>76410</NODE1_ID>
+          <NODE1_NAME>TRV-JoanCS</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729250,41.442614 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122602">
+          <NODE1_ID>66739</NODE1_ID>
+          <NODE1_NAME>TLV-Poliesportiu</NODE1_NAME>
+          <NODE2_ID>76547</NODE2_ID>
+          <NODE2_NAME>TRV-JosepMariaVA</NODE2_NAME>
+          <KMS>0.768</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729384,41.448259 1.728780,41.441362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122743">
+          <NODE1_ID>76648</NODE1_ID>
+          <NODE1_NAME>TRV-MarcAR</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728737,41.450595 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122801">
+          <NODE1_ID>75268</NODE1_ID>
+          <NODE1_NAME>TRV-RamonSM</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.729060,41.442910 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123146">
+          <NODE1_ID>76980</NODE1_ID>
+          <NODE1_NAME>TLV-PaperCarbo</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730781,41.446393 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123250">
+          <NODE1_ID>77061</NODE1_ID>
+          <NODE1_NAME>TRV-RaquelBC</NODE1_NAME>
+          <NODE2_ID>66739</NODE2_ID>
+          <NODE2_NAME>TLV-Poliesportiu</NODE2_NAME>
+          <KMS>0.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730704,41.443743 1.729384,41.448259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123521">
+          <NODE1_ID>34526</NODE1_ID>
+          <NODE1_NAME>TLV-DipositPoligon</NODE1_NAME>
+          <NODE2_ID>35518</NODE2_ID>
+          <NODE2_NAME>SUB-EvaMA</NODE2_NAME>
+          <KMS>8.627</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.732717,41.440664 1.831917,41.419222</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-2.725607</gml:X><gml:Y>43.417876</gml:Y></gml:coord>
+      <gml:coord><gml:X>-2.722752</gml:X><gml:Y>43.420991</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="45416">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.725607,43.417876</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45416</NODE_ID>
+      <NODE_NAME>BRMondarraburu5</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45522">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.722752,43.420991</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45522</NODE_ID>
+      <NODE_NAME>BRMAurrekoetxea5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45462">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.723267,43.420370</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45462</NODE_ID>
+      <NODE_NAME>BRMIntxausti3</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

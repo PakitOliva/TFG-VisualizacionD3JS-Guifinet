@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.213584</gml:X><gml:Y>41.627015</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.230520</gml:X><gml:Y>41.636198</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="27853">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.217216,41.636198</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27853</NODE_ID>
+      <NODE_NAME>LesPinedes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44064">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.230520,41.627015</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44064</NODE_ID>
+      <NODE_NAME>LLICcadernera14</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49641">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.216902,41.629263</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49641</NODE_ID>
+      <NODE_NAME>LlicaMuntArsenio</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62614">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.213584,41.629270</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62614</NODE_ID>
+      <NODE_NAME>LlicaMuntFarMigjorn4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

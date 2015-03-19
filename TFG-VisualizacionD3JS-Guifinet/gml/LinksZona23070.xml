@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.870457</gml:X><gml:Y>40.467290</gml:Y></gml:coord>
+<gml:coord><gml:X>-3.697667</gml:X><gml:Y>40.478201</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="49110">
+          <NODE1_ID>32453</NODE1_ID>
+          <NODE1_NAME>MADVentilla1</NODE1_NAME>
+          <NODE2_ID>44048</NODE2_ID>
+          <NODE2_NAME>MAJElTejonOgryNET</NODE2_NAME>
+          <KMS>12.948</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.697667,40.469650 -3.849942,40.478201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50842">
+          <NODE1_ID>23068</NODE1_ID>
+          <NODE1_NAME>MAJislaFilipina3Gabi</NODE1_NAME>
+          <NODE2_ID>44048</NODE2_ID>
+          <NODE2_NAME>MAJElTejonOgryNET</NODE2_NAME>
+          <KMS>1.791</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.870457,40.474371 -3.849942,40.478201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55286">
+          <NODE1_ID>50647</NODE1_ID>
+          <NODE1_NAME>MADPlzCorcubion</NODE1_NAME>
+          <NODE2_ID>44048</NODE2_ID>
+          <NODE2_NAME>MAJElTejonOgryNET</NODE2_NAME>
+          <KMS>12.019</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.708229,40.476244 -3.849942,40.478201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55600">
+          <NODE1_ID>23068</NODE1_ID>
+          <NODE1_NAME>MAJislaFilipina3Gabi</NODE1_NAME>
+          <NODE2_ID>50647</NODE2_ID>
+          <NODE2_NAME>MADPlzCorcubion</NODE2_NAME>
+          <KMS>13.758</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.870457,40.474371 -3.708229,40.476244</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56340">
+          <NODE1_ID>38631</NODE1_ID>
+          <NODE1_NAME>MADLoto10</NODE1_NAME>
+          <NODE2_ID>44048</NODE2_ID>
+          <NODE2_NAME>MAJElTejonOgryNET</NODE2_NAME>
+          <KMS>12.947</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.697937,40.467290 -3.849942,40.478201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68045">
+          <NODE1_ID>23068</NODE1_ID>
+          <NODE1_NAME>MAJislaFilipina3Gabi</NODE1_NAME>
+          <NODE2_ID>32453</NODE2_ID>
+          <NODE2_NAME>MADVentilla1</NODE2_NAME>
+          <KMS>14.662</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.870457,40.474371 -3.697667,40.469650</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

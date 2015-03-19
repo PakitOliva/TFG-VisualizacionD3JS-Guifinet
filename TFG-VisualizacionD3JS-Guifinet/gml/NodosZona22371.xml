@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.695528</gml:X><gml:Y>41.510736</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.707832</gml:X><gml:Y>41.522361</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="22372">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.705118,41.518297</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22372</NODE_ID>
+      <NODE_NAME>VallbonaRoserS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24030">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.707093,41.519295</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24030</NODE_ID>
+      <NODE_NAME>VallbonaSoler</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28445">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.695528,41.522361</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28445</NODE_ID>
+      <NODE_NAME>VallbonaBombament</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33940">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.702540,41.510736</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33940</NODE_ID>
+      <NODE_NAME>VallbonaCalafou</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51269">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.707832,41.520989</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51269</NODE_ID>
+      <NODE_NAME>vallbona_adf</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68788">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.705969,41.515499</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68788</NODE_ID>
+      <NODE_NAME>Vallplanas</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

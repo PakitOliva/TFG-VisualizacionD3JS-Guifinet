@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>0.563167</gml:X><gml:Y>41.580203</gml:Y></gml:coord>
+      <gml:coord><gml:X>0.651842</gml:X><gml:Y>41.689146</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="32745">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.610570,41.674954</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32745</NODE_ID>
+      <NODE_NAME>TRRFRamonLlDarkEagle</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32883">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.614481,41.673383</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32883</NODE_ID>
+      <NODE_NAME>TRRFAforesDarkEagle</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32886">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.606783,41.665338</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32886</NODE_ID>
+      <NODE_NAME>TRRFPinyanaDarkEagle</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37345">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.563167,41.689146</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37345</NODE_ID>
+      <NODE_NAME>Pla</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37347">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.651842,41.580203</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37347</NODE_ID>
+      <NODE_NAME>Cadepsa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37350">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.585761,41.680556</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37350</NODE_ID>
+      <NODE_NAME>TrrSld</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45872">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.611570,41.662102</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45872</NODE_ID>
+      <NODE_NAME>TRRFPati</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56527">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.604793,41.673914</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56527</NODE_ID>
+      <NODE_NAME>TRRFIXEYA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57190">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.606775,41.673176</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57190</NODE_ID>
+      <NODE_NAME>TfraAjuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

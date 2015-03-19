@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.231555</gml:X><gml:Y>41.525230</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.240386</gml:X><gml:Y>41.536214</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="45711">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.237976,41.525230</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45711</NODE_ID>
+      <NODE_NAME>JAGshouse</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36248">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.236859,41.530539</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36248</NODE_ID>
+      <NODE_NAME>martorelles1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44623">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.240386,41.535805</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44623</NODE_ID>
+      <NODE_NAME>MARTCanFenosa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51697">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.237139,41.536214</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51697</NODE_ID>
+      <NODE_NAME>MARTUsis</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77070">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.231555,41.532537</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77070</NODE_ID>
+      <NODE_NAME>MARTManaut</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.486626</gml:X><gml:Y>36.731056</gml:Y></gml:coord>
+      <gml:coord><gml:X>-4.476970</gml:X><gml:Y>36.740940</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="38891">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.479516,36.738005</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38891</NODE_ID>
+      <NODE_NAME>MLGscrtrSntMrn3</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41592">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.480275,36.735292</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41592</NODE_ID>
+      <NODE_NAME>MLGForja</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46041">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.476970,36.731056</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46041</NODE_ID>
+      <NODE_NAME>PtoTorre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70014">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.486626,36.740940</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70014</NODE_ID>
+      <NODE_NAME>MLGLeonora42</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

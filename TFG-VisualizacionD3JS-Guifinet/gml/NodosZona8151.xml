@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.234940</gml:X><gml:Y>42.113481</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.292272</gml:X><gml:Y>42.128164</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="60491">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.258450,42.127284</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60491</NODE_ID>
+      <NODE_NAME>SMBsrFntsg</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="8989">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.258131,42.127068</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>8989</NODE_ID>
+      <NODE_NAME>SMBesoraNColl</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="8154">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.258294,42.126814</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>8154</NODE_ID>
+      <NODE_NAME>SMBesoraAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9505">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257273,42.128005</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9505</NODE_ID>
+      <NODE_NAME>SMBesoraJMCasademunt</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9660">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.241947,42.114096</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9660</NODE_ID>
+      <NODE_NAME>SMBesoraElSerrat</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9737">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.252617,42.116212</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9737</NODE_ID>
+      <NODE_NAME>SMBMasElPrat</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="10052">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.270313,42.116848</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>10052</NODE_ID>
+      <NODE_NAME>SMBElGraell</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="10376">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.259795,42.127074</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>10376</NODE_ID>
+      <NODE_NAME>SMBRColl</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="10687">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.271141,42.121071</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>10687</NODE_ID>
+      <NODE_NAME>SMBElNoguer</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="11531">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.261072,42.127089</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11531</NODE_ID>
+      <NODE_NAME>SMBesoraJaume</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="12264">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257639,42.126186</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>12264</NODE_ID>
+      <NODE_NAME>SMBesoraJordi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="12377">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257845,42.127022</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>12377</NODE_ID>
+      <NODE_NAME>SMBesoraRosaMaria</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="13027">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.259622,42.127169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>13027</NODE_ID>
+      <NODE_NAME>SMBJErra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="13031">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.243239,42.113481</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>13031</NODE_ID>
+      <NODE_NAME>SMBLesqueix</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="14780">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.260828,42.127602</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14780</NODE_ID>
+      <NODE_NAME>SMBesoraJaumeC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="15069">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.261343,42.127360</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15069</NODE_ID>
+      <NODE_NAME>SMBVicencS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="15351">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.248507,42.118832</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15351</NODE_ID>
+      <NODE_NAME>SMBLaVila</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="15781">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.235000,42.114444</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15781</NODE_ID>
+      <NODE_NAME>SMBElsPujals</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16043">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.234940,42.114345</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16043</NODE_ID>
+      <NODE_NAME>SMBElPujals</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16202">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.256752,42.128001</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16202</NODE_ID>
+      <NODE_NAME>SMBCanCollet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16300">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.275428,42.122379</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16300</NODE_ID>
+      <NODE_NAME>SMBMasRosell</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18177">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.292272,42.121492</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18177</NODE_ID>
+      <NODE_NAME>SMBElXicoi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18510">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.249703,42.118601</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18510</NODE_ID>
+      <NODE_NAME>SMBElTrull</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19215">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.260884,42.127100</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19215</NODE_ID>
+      <NODE_NAME>SMBDColl</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22491">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.256459,42.127985</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22491</NODE_ID>
+      <NODE_NAME>SMBCanBasoret</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24250">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.259836,42.127353</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24250</NODE_ID>
+      <NODE_NAME>SMBMRipoll</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24428">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257465,42.127723</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24428</NODE_ID>
+      <NODE_NAME>SMBJasmina</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27254">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.258141,42.127413</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27254</NODE_ID>
+      <NODE_NAME>SMBYRoman</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28554">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257947,42.127983</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28554</NODE_ID>
+      <NODE_NAME>SMBAngelinaB</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32700">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.255684,42.124024</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32700</NODE_ID>
+      <NODE_NAME>SMBesoraEDARSMBesora</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32814">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257737,42.127010</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32814</NODE_ID>
+      <NODE_NAME>SMBesoraDavidRoure</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32864">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257960,42.127673</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32864</NODE_ID>
+      <NODE_NAME>SMBJaumeB</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33954">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257812,42.128140</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33954</NODE_ID>
+      <NODE_NAME>SMBECastells</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34975">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.258012,42.128144</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34975</NODE_ID>
+      <NODE_NAME>SMBJosepTP</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36439">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.255063,42.123117</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36439</NODE_ID>
+      <NODE_NAME>SMBCanQuel</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36833">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.256268,42.127182</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36833</NODE_ID>
+      <NODE_NAME>SMBCalCisquet2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37635">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.258098,42.128164</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37635</NODE_ID>
+      <NODE_NAME>SMBTonaM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42714">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.283971,42.122313</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42714</NODE_ID>
+      <NODE_NAME>SMBMasClarella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44330">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.237370,42.113541</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44330</NODE_ID>
+      <NODE_NAME>SMBCasaNovaDelSerrat</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54657">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257814,42.126994</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54657</NODE_ID>
+      <NODE_NAME>SMBJVidal</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61666">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257127,42.127828</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61666</NODE_ID>
+      <NODE_NAME>SMBRMDiaz</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61985">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257688,42.127925</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61985</NODE_ID>
+      <NODE_NAME>SMBLaurafont</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62463">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257889,42.127445</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62463</NODE_ID>
+      <NODE_NAME>SMBYDali</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66045">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257850,42.126995</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66045</NODE_ID>
+      <NODE_NAME>SMBBenjamiM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69765">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.261063,42.127557</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69765</NODE_ID>
+      <NODE_NAME>SMBElisabetA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73272">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.257114,42.121668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73272</NODE_ID>
+      <NODE_NAME>SMBGCanRafel</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75085">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.270582,42.116988</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75085</NODE_ID>
+      <NODE_NAME>SMBElGraellII</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76431">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.256827,42.127948</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76431</NODE_ID>
+      <NODE_NAME>SMBTeresa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

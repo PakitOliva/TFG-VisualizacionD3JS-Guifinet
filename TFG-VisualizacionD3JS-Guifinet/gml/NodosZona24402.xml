@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.989301</gml:X><gml:Y>42.192278</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.032486</gml:X><gml:Y>42.209532</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="24825">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.994134,42.208794</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24825</NODE_ID>
+      <NODE_NAME>SDEmCnou16</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24403">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.994072,42.208891</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24403</NODE_ID>
+      <NODE_NAME>SDEmCnou18</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25027">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.991393,42.209251</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25027</NODE_ID>
+      <NODE_NAME>SDEmGroc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25123">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.991049,42.209324</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25123</NODE_ID>
+      <NODE_NAME>SDEmRosa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25136">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.991028,42.206471</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25136</NODE_ID>
+      <NODE_NAME>SDEmDip</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43858">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.004997,42.209532</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43858</NODE_ID>
+      <NODE_NAME>Srebaseiatur</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56400">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.992397,42.209245</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56400</NODE_ID>
+      <NODE_NAME>srnaATPKp1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70042">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.989301,42.208180</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70042</NODE_ID>
+      <NODE_NAME>SDEmElMoli</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74756">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.032486,42.192278</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74756</NODE_ID>
+      <NODE_NAME>VcolumExt1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

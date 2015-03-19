@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.574567</gml:X><gml:Y>40.708493</gml:Y></gml:coord>
+<gml:coord><gml:X>0.733987</gml:X><gml:Y>40.815607</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="47670">
+          <NODE1_ID>44031</NODE1_ID>
+          <NODE1_NAME>LgallAlbrt</NODE1_NAME>
+          <NODE2_ID>33178</NODE2_ID>
+          <NODE2_NAME>DeltComRegants</NODE2_NAME>
+          <KMS>7.931</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.654633,40.762181 0.733987,40.724001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49571">
+          <NODE1_ID>33178</NODE1_ID>
+          <NODE1_NAME>DeltComRegants</NODE1_NAME>
+          <NODE2_ID>50880</NODE2_ID>
+          <NODE2_NAME>CamEsglesia</NODE2_NAME>
+          <KMS>7.627</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.733987,40.724001 0.669471,40.772056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54304">
+          <NODE1_ID>43710</NODE1_ID>
+          <NODE1_NAME>Sereta</NODE1_NAME>
+          <NODE2_ID>50880</NODE2_ID>
+          <NODE2_NAME>CamEsglesia</NODE2_NAME>
+          <KMS>5.91</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.615059,40.805553 0.669471,40.772056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56009">
+          <NODE1_ID>55514</NODE1_ID>
+          <NODE1_NAME>ManDelta3</NODE1_NAME>
+          <NODE2_ID>49154</NODE2_ID>
+          <NODE2_NAME>AmpAvCatalunya</NODE2_NAME>
+          <KMS>8.716</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.646753,40.764578 0.574567,40.708493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57271">
+          <NODE1_ID>56146</NODE1_ID>
+          <NODE1_NAME>LligalloSJoan86</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>7.494</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.649875,40.760746 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57852">
+          <NODE1_ID>56146</NODE1_ID>
+          <NODE1_NAME>LligalloSJoan86</NODE1_NAME>
+          <NODE2_ID>56916</NODE2_ID>
+          <NODE2_NAME>LligallosSJoan82RMF</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.649875,40.760746 0.650032,40.760576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58508">
+          <NODE1_ID>56917</NODE1_ID>
+          <NODE1_NAME>LligallosSJoan90RMF</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.649764,40.760891 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70574">
+          <NODE1_ID>66240</NODE1_ID>
+          <NODE1_NAME>CamarlesRepetidor</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>5.134</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.669152,40.772372 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70708">
+          <NODE1_ID>66347</NODE1_ID>
+          <NODE1_NAME>CamarlesDivuitDGM-TD</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>0.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.671490,40.770960 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70785">
+          <NODE1_ID>66418</NODE1_ID>
+          <NODE1_NAME>CamarlesFilatoDGM</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>5.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.646663,40.815607 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71016">
+          <NODE1_ID>66596</NODE1_ID>
+          <NODE1_NAME>AmpollaCentre</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>5.32</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707068,40.810640 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72174">
+          <NODE1_ID>67470</NODE1_ID>
+          <NODE1_NAME>LlgllsAvCatalun35DGM</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650119,40.758799 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73406">
+          <NODE1_ID>66240</NODE1_ID>
+          <NODE1_NAME>CamarlesRepetidor</NODE1_NAME>
+          <NODE2_ID>68715</NODE2_ID>
+          <NODE2_NAME>PadelCamarlesDGM</NODE2_NAME>
+          <KMS>1.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.669152,40.772372 0.653518,40.768580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75126">
+          <NODE1_ID>70031</NODE1_ID>
+          <NODE1_NAME>CamarlesEcologicDGM</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>2.474</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.641957,40.780682 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75300">
+          <NODE1_ID>69971</NODE1_ID>
+          <NODE1_NAME>CamarlesDeltaParcDS</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>1.856</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.647931,40.768025 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75437">
+          <NODE1_ID>69802</NODE1_ID>
+          <NODE1_NAME>CamarlesMirDelOAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>3.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679220,40.789530 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76094">
+          <NODE1_ID>70896</NODE1_ID>
+          <NODE1_NAME>43894Bel28-1-2TD</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.669950,40.771400 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80344">
+          <NODE1_ID>74720</NODE1_ID>
+          <NODE1_NAME>Camarles43N14DS</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.670855,40.772899 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80392">
+          <NODE1_ID>74763</NODE1_ID>
+          <NODE1_NAME>LligalloSantJoan67</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650501,40.759321 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121550">
+          <NODE1_ID>75806</NODE1_ID>
+          <NODE1_NAME>LligalloSantJoan61DS</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650414,40.759480 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121630">
+          <NODE1_ID>75207</NODE1_ID>
+          <NODE1_NAME>CamarlesRacoPeretOAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>4.605</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.674810,40.777190 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122201">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>76259</NODE2_ID>
+          <NODE2_NAME>CamarlesAmitechDGM</NODE2_NAME>
+          <KMS>3.663</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.652673,40.767974</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122818">
+          <NODE1_ID>76704</NODE1_ID>
+          <NODE1_NAME>LligallloMonstia4RFM</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650122,40.761468 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122819">
+          <NODE1_ID>76706</NODE1_ID>
+          <NODE1_NAME>LligalloBergueda6RFM</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650019,40.759335 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122924">
+          <NODE1_ID>76817</NODE1_ID>
+          <NODE1_NAME>CamarlesDiseminatIRM</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>0.915</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679981,40.772775 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

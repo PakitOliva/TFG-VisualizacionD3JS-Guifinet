@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-58.444366</gml:X><gml:Y>-34.629531</gml:Y></gml:coord>
+      <gml:coord><gml:X>-58.163931</gml:X><gml:Y>-34.271981</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="32561">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.439788,-34.612776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32561</NODE_ID>
+      <NODE_NAME>l0b001</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32858">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.431494,-34.612200</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32858</NODE_ID>
+      <NODE_NAME>NodoBogota</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39164">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.163931,-34.271981</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39164</NODE_ID>
+      <NODE_NAME>HVBA</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45736">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.389539,-34.615283</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45736</NODE_ID>
+      <NODE_NAME>NodoKK</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67002">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.370422,-34.629531</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67002</NODE_ID>
+      <NODE_NAME>NodoGarrote</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67003">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.389955,-34.617675</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67003</NODE_ID>
+      <NODE_NAME>NodoQuito</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67004">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.388388,-34.623001</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67004</NODE_ID>
+      <NODE_NAME>NodoChelo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67006">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-58.444366,-34.554525</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67006</NODE_ID>
+      <NODE_NAME>NodoChicos</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

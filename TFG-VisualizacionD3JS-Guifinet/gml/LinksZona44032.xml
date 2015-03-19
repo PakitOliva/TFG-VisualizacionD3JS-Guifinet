@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.649764</gml:X><gml:Y>40.721962</gml:Y></gml:coord>
+<gml:coord><gml:X>0.733987</gml:X><gml:Y>40.762181</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="47670">
+          <NODE1_ID>44031</NODE1_ID>
+          <NODE1_NAME>LgallAlbrt</NODE1_NAME>
+          <NODE2_ID>33178</NODE2_ID>
+          <NODE2_NAME>DeltComRegants</NODE2_NAME>
+          <KMS>7.931</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.654633,40.762181 0.733987,40.724001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57271">
+          <NODE1_ID>56146</NODE1_ID>
+          <NODE1_NAME>LligalloSJoan86</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>7.494</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.649875,40.760746 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57852">
+          <NODE1_ID>56146</NODE1_ID>
+          <NODE1_NAME>LligalloSJoan86</NODE1_NAME>
+          <NODE2_ID>56916</NODE2_ID>
+          <NODE2_NAME>LligallosSJoan82RMF</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.649875,40.760746 0.650032,40.760576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58508">
+          <NODE1_ID>56917</NODE1_ID>
+          <NODE1_NAME>LligallosSJoan90RMF</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.649764,40.760891 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72174">
+          <NODE1_ID>67470</NODE1_ID>
+          <NODE1_NAME>LlgllsAvCatalun35DGM</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650119,40.758799 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80392">
+          <NODE1_ID>74763</NODE1_ID>
+          <NODE1_NAME>LligalloSantJoan67</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650501,40.759321 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121550">
+          <NODE1_ID>75806</NODE1_ID>
+          <NODE1_NAME>LligalloSantJoan61DS</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650414,40.759480 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122818">
+          <NODE1_ID>76704</NODE1_ID>
+          <NODE1_NAME>LligallloMonstia4RFM</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650122,40.761468 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122819">
+          <NODE1_ID>76706</NODE1_ID>
+          <NODE1_NAME>LligalloBergueda6RFM</NODE1_NAME>
+          <NODE2_ID>56146</NODE2_ID>
+          <NODE2_NAME>LligalloSJoan86</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.650019,40.759335 0.649875,40.760746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

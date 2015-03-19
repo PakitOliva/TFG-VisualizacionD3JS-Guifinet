@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.697546</gml:X><gml:Y>42.345073</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.758464</gml:X><gml:Y>42.422736</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="11419">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.752290,42.345073</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11419</NODE_ID>
+      <NODE_NAME>MdCAlbertBarfull</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18493">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.742720,42.392143</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18493</NODE_ID>
+      <NODE_NAME>MdeC-sisi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23637">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.741212,42.388125</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23637</NODE_ID>
+      <NODE_NAME>MDeC-Saba</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23769">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.758464,42.384048</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23769</NODE_ID>
+      <NODE_NAME>Mac-Vallejo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27959">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.728601,42.367435</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27959</NODE_ID>
+      <NODE_NAME>MdeC-Granja</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29344">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.697546,42.394738</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29344</NODE_ID>
+      <NODE_NAME>MdeC-MasCros</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29346">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.716584,42.384793</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29346</NODE_ID>
+      <NODE_NAME>MdeC-CanGaspar</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40067">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.758126,42.384780</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40067</NODE_ID>
+      <NODE_NAME>MdeC-Darnius</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41171">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.747692,42.386119</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41171</NODE_ID>
+      <NODE_NAME>MdeCCampanar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52687">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.751233,42.386540</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52687</NODE_ID>
+      <NODE_NAME>MdeC-StSebastia25</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59241">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.730269,42.422736</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59241</NODE_ID>
+      <NODE_NAME>MDeC-Salines</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

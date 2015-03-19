@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>3.117601</gml:X><gml:Y>41.850927</gml:Y></gml:coord>
+<gml:coord><gml:X>3.132027</gml:X><gml:Y>41.885063</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="56602">
+          <NODE1_ID>41720</NODE1_ID>
+          <NODE1_NAME>Vbrga-MasFalquet11</NODE1_NAME>
+          <NODE2_ID>20161</NODE2_ID>
+          <NODE2_NAME>PALIgnasi</NODE2_NAME>
+          <KMS>3.184</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.117601,41.884845 3.131706,41.858183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58340">
+          <NODE1_ID>56739</NODE1_ID>
+          <NODE1_NAME>Vbrga-RocaAgria9</NODE1_NAME>
+          <NODE2_ID>34641</NODE2_ID>
+          <NODE2_NAME>PALEstanyol</NODE2_NAME>
+          <KMS>3.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.132027,41.885063 3.128349,41.850927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

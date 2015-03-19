@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.510872</gml:X><gml:Y>39.559641</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.396638</gml:X><gml:Y>39.577392</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="39520">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.411952,39.559641</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39520</NODE_ID>
+      <NODE_NAME>Mncd1375</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48691">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.410008,39.560491</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48691</NODE_ID>
+      <NODE_NAME>MNCDllomacolbi4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50844">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.396638,39.561865</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50844</NODE_ID>
+      <NODE_NAME>MNCDllomacolbi42</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53521">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.510872,39.577392</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53521</NODE_ID>
+      <NODE_NAME>SADBMagre3</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68095">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.412610,39.562385</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68095</NODE_ID>
+      <NODE_NAME>MNCD137</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

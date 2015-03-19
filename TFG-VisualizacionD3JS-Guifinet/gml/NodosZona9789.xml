@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.742213</gml:X><gml:Y>41.580187</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.784997</gml:X><gml:Y>41.627629</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="18262">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.745930,41.611699</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18262</NODE_ID>
+      <NODE_NAME>TorresStPauGuardia</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19200">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.784997,41.606575</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19200</NODE_ID>
+      <NODE_NAME>RFGAM-Agulles</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29818">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.746070,41.611817</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29818</NODE_ID>
+      <NODE_NAME>Amired1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56378">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742213,41.627629</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56378</NODE_ID>
+      <NODE_NAME>SPGCalSantMiquel</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74838">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.766925,41.580187</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74838</NODE_ID>
+      <NODE_NAME>canolle</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

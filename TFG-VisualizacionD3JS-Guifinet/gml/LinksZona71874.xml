@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.524387</gml:X><gml:Y>43.428633</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.387764</gml:X><gml:Y>43.496809</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="67958">
+          <NODE1_ID>63424</NODE1_ID>
+          <NODE1_NAME>VLLVCSLuaria</NODE1_NAME>
+          <NODE2_ID>51954</NODE2_ID>
+          <NODE2_NAME>VLLVCSCastielluamb19</NODE2_NAME>
+          <KMS>4.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.524387,43.428633 -5.485016,43.453939</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77393">
+          <NODE1_ID>72335</NODE1_ID>
+          <NODE1_NAME>VLLVCSArbazal7</NODE1_NAME>
+          <NODE2_ID>63424</NODE2_ID>
+          <NODE2_NAME>VLLVCSLuaria</NODE2_NAME>
+          <KMS>2.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.499400,43.431471 -5.524387,43.428633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79031">
+          <NODE1_ID>63899</NODE1_ID>
+          <NODE1_NAME>VLLVCSFincSanGabriel</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>7.995</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.474893,43.445274 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79032">
+          <NODE1_ID>58422</NODE1_ID>
+          <NODE1_NAME>VLLVCSDaxa7</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>8.441</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.479892,43.443224 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79397">
+          <NODE1_ID>59364</NODE1_ID>
+          <NODE1_NAME>VLLVCSDaxa1</NODE1_NAME>
+          <NODE2_ID>48333</NODE2_ID>
+          <NODE2_NAME>VLLVCSBrece5</NODE2_NAME>
+          <KMS>7.53</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.480703,43.444841 -5.387764,43.447700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

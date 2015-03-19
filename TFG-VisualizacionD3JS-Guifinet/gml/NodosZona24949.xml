@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-89.913972</gml:X><gml:Y>13.855653</gml:Y></gml:coord>
+      <gml:coord><gml:X>-89.849444</gml:X><gml:Y>13.918611</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="24980">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-89.913972,13.855653</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24980</NODE_ID>
+      <NODE_NAME>CBonete</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24996">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-89.849444,13.918611</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24996</NODE_ID>
+      <NODE_NAME>CEIMendez</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.732717</gml:X><gml:Y>41.388544</gml:Y></gml:coord>
+<gml:coord><gml:X>1.820566</gml:X><gml:Y>41.447022</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="36027">
+          <NODE1_ID>28137</NODE1_ID>
+          <NODE1_NAME>SUB-Castell</NODE1_NAME>
+          <NODE2_ID>39846</NODE2_ID>
+          <NODE2_NAME>SS-CarrerMartorell</NODE2_NAME>
+          <KMS>2.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.818012,41.415738 1.790503,41.426139</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37003">
+          <NODE1_ID>41178</NODE1_ID>
+          <NODE1_NAME>SSAJoseph32</NODE1_NAME>
+          <NODE2_ID>28137</NODE2_ID>
+          <NODE2_NAME>SUB-Castell</NODE2_NAME>
+          <KMS>2.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.788146,41.427396 1.818012,41.415738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67852">
+          <NODE1_ID>64278</NODE1_ID>
+          <NODE1_NAME>SS-Trini</NODE1_NAME>
+          <NODE2_ID>28137</NODE2_ID>
+          <NODE2_NAME>SUB-Castell</NODE2_NAME>
+          <KMS>3.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787429,41.430454 1.818012,41.415738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70228">
+          <NODE1_ID>65157</NODE1_ID>
+          <NODE1_NAME>SS-GVarias</NODE1_NAME>
+          <NODE2_ID>28137</NODE2_ID>
+          <NODE2_NAME>SUB-Castell</NODE2_NAME>
+          <KMS>3.92</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.778305,41.434522 1.818012,41.415738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70817">
+          <NODE1_ID>64037</NODE1_ID>
+          <NODE1_NAME>SS-GrafiquesLlopart</NODE1_NAME>
+          <NODE2_ID>65157</NODE2_ID>
+          <NODE2_NAME>SS-GVarias</NODE2_NAME>
+          <KMS>0.301</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780857,41.436432 1.778305,41.434522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72916">
+          <NODE1_ID>65157</NODE1_ID>
+          <NODE1_NAME>SS-GVarias</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>5.139</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.778305,41.434522 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80218">
+          <NODE1_ID>74640</NODE1_ID>
+          <NODE1_NAME>SS-JuveyCamps</NODE1_NAME>
+          <NODE2_ID>34526</NODE2_ID>
+          <NODE2_NAME>TLV-DipositPoligon</NODE2_NAME>
+          <KMS>6.693</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.812712,41.443491 1.732717,41.440664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122424">
+          <NODE1_ID>71017</NODE1_ID>
+          <NODE1_NAME>SS-GlobalImage</NODE1_NAME>
+          <NODE2_ID>73885</NODE2_ID>
+          <NODE2_NAME>Sub-ResidenciaFS</NODE2_NAME>
+          <KMS>3.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.785043,41.422894 1.820566,41.414364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122425">
+          <NODE1_ID>75159</NODE1_ID>
+          <NODE1_NAME>SS-GTecnoAgr</NODE1_NAME>
+          <NODE2_ID>73885</NODE2_ID>
+          <NODE2_NAME>Sub-ResidenciaFS</NODE2_NAME>
+          <KMS>4.761</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.783674,41.447022 1.820566,41.414364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

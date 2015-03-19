@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.998419</gml:X><gml:Y>41.775428</gml:Y></gml:coord>
+<gml:coord><gml:X>3.014810</gml:X><gml:Y>41.824029</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="53217">
+          <NODE1_ID>28951</NODE1_ID>
+          <NODE1_NAME>SCriDAjuntament</NODE1_NAME>
+          <NODE2_ID>53623</NODE2_ID>
+          <NODE2_NAME>SCriDIuques107</NODE2_NAME>
+          <KMS>1.68</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.999981,41.810684 3.014604,41.821126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56085">
+          <NODE1_ID>55568</NODE1_ID>
+          <NODE1_NAME>SCriDHortensia60</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>5.496</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.011810,41.823885 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57125">
+          <NODE1_ID>56049</NODE1_ID>
+          <NODE1_NAME>SCriDHortensia82</NODE1_NAME>
+          <NODE2_ID>28951</NODE2_ID>
+          <NODE2_NAME>SCriDAjuntament</NODE2_NAME>
+          <KMS>1.828</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.012850,41.824029 2.999981,41.810684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64160">
+          <NODE1_ID>28951</NODE1_ID>
+          <NODE1_NAME>SCriDAjuntament</NODE1_NAME>
+          <NODE2_ID>61340</NODE2_ID>
+          <NODE2_NAME>SCriDLugues117</NODE2_NAME>
+          <KMS>1.66</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.999981,41.810684 3.014767,41.820731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64161">
+          <NODE1_ID>28951</NODE1_ID>
+          <NODE1_NAME>SCriDAjuntament</NODE1_NAME>
+          <NODE2_ID>61341</NODE2_ID>
+          <NODE2_NAME>SCriDLugues118</NODE2_NAME>
+          <KMS>1.654</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.999981,41.810684 3.014552,41.820827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66427">
+          <NODE1_ID>45651</NODE1_ID>
+          <NODE1_NAME>SCriDLugues125</NODE1_NAME>
+          <NODE2_ID>28951</NODE2_ID>
+          <NODE2_NAME>SCriDAjuntament</NODE2_NAME>
+          <KMS>1.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.012979,41.821686 2.999981,41.810684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68318">
+          <NODE1_ID>44262</NODE1_ID>
+          <NODE1_NAME>SCriDLugues116</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>5.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.014810,41.820475 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

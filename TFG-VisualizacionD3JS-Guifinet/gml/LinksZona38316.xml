@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.423760</gml:X><gml:Y>40.418672</gml:Y></gml:coord>
+<gml:coord><gml:X>0.722487</gml:X><gml:Y>40.721962</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="48349">
+          <NODE1_ID>38530</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacsAqui</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>7.953</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679924,40.635398 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48350">
+          <NODE1_ID>38333</NODE1_ID>
+          <NODE1_NAME>RapitaTorre</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.585549,40.622318 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48351">
+          <NODE1_ID>38333</NODE1_ID>
+          <NODE1_NAME>RapitaTorre</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>26.445</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.585549,40.622318 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50923">
+          <NODE1_ID>38333</NODE1_ID>
+          <NODE1_NAME>RapitaTorre</NODE1_NAME>
+          <NODE2_ID>48694</NODE2_ID>
+          <NODE2_NAME>VNRPiruli</NODE2_NAME>
+          <KMS>19.177</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.585549,40.622318 0.477633,40.470511</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52027">
+          <NODE1_ID>23567</NODE1_ID>
+          <NODE1_NAME>AlcSerramar</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>3.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.567920,40.597623 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55194">
+          <NODE1_ID>38317</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacs</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>15.855</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.587347,40.622976 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58125">
+          <NODE1_ID>55905</NODE1_ID>
+          <NODE1_NAME>RapitaPau23</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.591328,40.619087 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62306">
+          <NODE1_ID>57808</NODE1_ID>
+          <NODE1_NAME>RapBisbAznar40OM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.808</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.596303,40.620457 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62708">
+          <NODE1_ID>60284</NODE1_ID>
+          <NODE1_NAME>RapitaDrFerran43</NODE1_NAME>
+          <NODE2_ID>38530</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacsAqui</NODE2_NAME>
+          <KMS>7.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.588588,40.621449 0.679924,40.635398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62726">
+          <NODE1_ID>60370</NODE1_ID>
+          <NODE1_NAME>RptSantJaume4</NODE1_NAME>
+          <NODE2_ID>38530</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacsAqui</NODE2_NAME>
+          <KMS>8.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.588200,40.615186 0.679924,40.635398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64660">
+          <NODE1_ID>61804</NODE1_ID>
+          <NODE1_NAME>RapitaTerraAlta8DGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.587042,40.616851 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65722">
+          <NODE1_ID>62671</NODE1_ID>
+          <NODE1_NAME>RptCalderoBarca51DGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.544</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.589418,40.618339 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68091">
+          <NODE1_ID>64405</NODE1_ID>
+          <NODE1_NAME>RapitaGorria26</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.679</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.591700,40.617843 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68187">
+          <NODE1_ID>64020</NODE1_ID>
+          <NODE1_NAME>RapitaVistaAlegre32</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.801</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.592862,40.617116 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68780">
+          <NODE1_ID>64935</NODE1_ID>
+          <NODE1_NAME>RapitaMarqValterra76</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.591356,40.622372 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69353">
+          <NODE1_ID>38317</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacs</NODE1_NAME>
+          <NODE2_ID>65353</NODE2_ID>
+          <NODE2_NAME>RapitaRiberaEbre9STB</NODE2_NAME>
+          <KMS>0.66</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.587347,40.622976 0.587270,40.617030</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71367">
+          <NODE1_ID>38317</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacs</NODE1_NAME>
+          <NODE2_ID>66903</NODE2_ID>
+          <NODE2_NAME>RaptMoliIsidreTD</NODE2_NAME>
+          <KMS>0.698</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.587347,40.622976 0.594640,40.625920</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71514">
+          <NODE1_ID>38317</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacs</NODE1_NAME>
+          <NODE2_ID>66931</NODE2_ID>
+          <NODE2_NAME>RptRmnBrngr11TD</NODE2_NAME>
+          <KMS>0.701</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.587347,40.622976 0.594580,40.626060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71544">
+          <NODE1_ID>67047</NODE1_ID>
+          <NODE1_NAME>RapitaSIOAM</NODE1_NAME>
+          <NODE2_ID>38530</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacsAqui</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679578,40.634850 0.679924,40.635398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71622">
+          <NODE1_ID>67119</NODE1_ID>
+          <NODE1_NAME>RapitaConstancia64</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.588258,40.621416 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72060">
+          <NODE1_ID>67463</NODE1_ID>
+          <NODE1_NAME>RapitaStIsidre49</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.578</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.590251,40.618263 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74911">
+          <NODE1_ID>69864</NODE1_ID>
+          <NODE1_NAME>RapitaColeSagFamilia</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.518</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.592677,40.620681 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75505">
+          <NODE1_ID>70350</NODE1_ID>
+          <NODE1_NAME>43540vallterra20TD</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.589180,40.619490 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75692">
+          <NODE1_ID>70503</NODE1_ID>
+          <NODE1_NAME>43540CarlesIII55TD</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.577</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.593630,40.620950 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76357">
+          <NODE1_ID>38530</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacsAqui</NODE1_NAME>
+          <NODE2_ID>71450</NODE2_ID>
+          <NODE2_NAME>RapitaIRTAABC</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679924,40.635398 0.680307,40.635003</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76361">
+          <NODE1_ID>38530</NODE1_ID>
+          <NODE1_NAME>RapitaINSAlfacsAqui</NODE1_NAME>
+          <NODE2_ID>71454</NODE2_ID>
+          <NODE2_NAME>RapitaEncanyisadaABC</NODE2_NAME>
+          <KMS>2.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679924,40.635398 0.650951,40.632608</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78762">
+          <NODE1_ID>62771</NODE1_ID>
+          <NODE1_NAME>RaptAvCatalunya34DGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.674</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.585746,40.617030 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122785">
+          <NODE1_ID>76681</NODE1_ID>
+          <NODE1_NAME>RapitaMadridDGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.829</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.587710,40.615515 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122786">
+          <NODE1_ID>76683</NODE1_ID>
+          <NODE1_NAME>RapitaPauDGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.636</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.592350,40.618704 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123175">
+          <NODE1_ID>77007</NODE1_ID>
+          <NODE1_NAME>RapitaConstitucioDGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>0.828</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.592511,40.616643 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123767">
+          <NODE1_ID>77246</NODE1_ID>
+          <NODE1_NAME>RapitaStIsidre186DGM</NODE1_NAME>
+          <NODE2_ID>38317</NODE2_ID>
+          <NODE2_NAME>RapitaINSAlfacs</NODE2_NAME>
+          <KMS>1.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.585752,40.613151 0.587347,40.622976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

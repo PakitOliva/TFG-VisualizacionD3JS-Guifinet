@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-2.749259</gml:X><gml:Y>43.192663</gml:Y></gml:coord>
+      <gml:coord><gml:X>-2.681737</gml:X><gml:Y>43.240566</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="56430">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.733605,43.218619</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56430</NODE_ID>
+      <NODE_NAME>MRBTnafarroa</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56432">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.711408,43.226336</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56432</NODE_ID>
+      <NODE_NAME>MRBTetxano</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56434">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.699600,43.208711</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56434</NODE_ID>
+      <NODE_NAME>MRBTdudea</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56436">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.700845,43.204641</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56436</NODE_ID>
+      <NODE_NAME>MRBTmikeldeuna</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56437">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.696349,43.194931</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56437</NODE_ID>
+      <NODE_NAME>MRBTeuba</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60531">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.749259,43.240566</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60531</NODE_ID>
+      <NODE_NAME>MRBTBoroa</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60532">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.681737,43.192841</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60532</NODE_ID>
+      <NODE_NAME>MRBTSaratzu</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71633">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.710667,43.224967</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71633</NODE_ID>
+      <NODE_NAME>MRBTetxanoUra</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75454">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.725196,43.220990</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75454</NODE_ID>
+      <NODE_NAME>MRBUrritxe</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75455">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.695269,43.192663</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75455</NODE_ID>
+      <NODE_NAME>MRBEubakoParkea</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

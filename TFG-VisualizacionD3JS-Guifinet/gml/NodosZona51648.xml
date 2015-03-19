@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.954808</gml:X><gml:Y>40.417718</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.910637</gml:X><gml:Y>40.449869</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="51650">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.944776,40.437352</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51650</NODE_ID>
+      <NODE_NAME>VEGAelmolino</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51652">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.954808,40.449869</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51652</NODE_ID>
+      <NODE_NAME>VEGAcamp</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50286">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.910637,40.417718</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50286</NODE_ID>
+      <NODE_NAME>VEGAalto</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39707">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.912576,40.423944</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39707</NODE_ID>
+      <NODE_NAME>VEGAelperchel</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40899">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.922473,40.426026</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40899</NODE_ID>
+      <NODE_NAME>VEGAelsabinar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40900">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.927945,40.431971</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40900</NODE_ID>
+      <NODE_NAME>VEGAlacuevaB</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51651">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.947770,40.445027</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51651</NODE_ID>
+      <NODE_NAME>VEGAeustaquios</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.199253</gml:X><gml:Y>41.738297</gml:Y></gml:coord>
+<gml:coord><gml:X>2.259718</gml:X><gml:Y>41.819090</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="19516">
+          <NODE1_ID>24436</NODE1_ID>
+          <NODE1_NAME>Aiguafreda-ReyesC</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>3.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.253506,41.765819 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22177">
+          <NODE1_ID>27413</NODE1_ID>
+          <NODE1_NAME>AiguafredaCanBellit</NODE1_NAME>
+          <NODE2_ID>8809</NODE2_ID>
+          <NODE2_NAME>SMCAjuntament</NODE2_NAME>
+          <KMS>0.741</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.250321,41.770520 2.251011,41.763870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22239">
+          <NODE1_ID>27469</NODE1_ID>
+          <NODE1_NAME>AiguafredaJoanD</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>3.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.256001,41.766181 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29249">
+          <NODE1_ID>34559</NODE1_ID>
+          <NODE1_NAME>AiguafredaFarigola41</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>3.968</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.253265,41.773080 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36702">
+          <NODE1_ID>39399</NODE1_ID>
+          <NODE1_NAME>AiguafredaNuria37</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>3.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.251880,41.769544 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46636">
+          <NODE1_ID>23336</NODE1_ID>
+          <NODE1_NAME>aiguafredaxevi</NODE1_NAME>
+          <NODE2_ID>8809</NODE2_ID>
+          <NODE2_NAME>SMCAjuntament</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259718,41.765686 2.251011,41.763870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55157">
+          <NODE1_ID>23336</NODE1_ID>
+          <NODE1_NAME>aiguafredaxevi</NODE1_NAME>
+          <NODE2_ID>8809</NODE2_ID>
+          <NODE2_NAME>SMCAjuntament</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259718,41.765686 2.251011,41.763870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69432">
+          <NODE1_ID>8809</NODE1_ID>
+          <NODE1_NAME>SMCAjuntament</NODE1_NAME>
+          <NODE2_ID>65405</NODE2_ID>
+          <NODE2_NAME>AiguafredaPauCasals2</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.251011,41.763870 2.251786,41.766618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122638">
+          <NODE1_ID>70827</NODE1_ID>
+          <NODE1_NAME>AiguafredaLlobeta24</NODE1_NAME>
+          <NODE2_ID>7602</NODE2_ID>
+          <NODE2_NAME>CNTTVCentelles</NODE2_NAME>
+          <KMS>6.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.249824,41.777219 2.199253,41.819090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

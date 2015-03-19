@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.667685</gml:X><gml:Y>40.718970</gml:Y></gml:coord>
+<gml:coord><gml:X>0.738959</gml:X><gml:Y>40.824505</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="42228">
+          <NODE1_ID>45514</NODE1_ID>
+          <NODE1_NAME>AmpPa</NODE1_NAME>
+          <NODE2_ID>33178</NODE2_ID>
+          <NODE2_NAME>DeltComRegants</NODE2_NAME>
+          <KMS>9.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.667685,40.790649 0.733987,40.724001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71016">
+          <NODE1_ID>66596</NODE1_ID>
+          <NODE1_NAME>AmpollaCentre</NODE1_NAME>
+          <NODE2_ID>66240</NODE2_ID>
+          <NODE2_NAME>CamarlesRepetidor</NODE2_NAME>
+          <KMS>5.32</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707068,40.810640 0.669152,40.772372</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71156">
+          <NODE1_ID>66690</NODE1_ID>
+          <NODE1_NAME>AmpollaRiberadEbre4</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>1.389</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.697850,40.800280 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71559">
+          <NODE1_ID>63784</NODE1_ID>
+          <NODE1_NAME>CAE2</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.221</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706062,40.812474 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73367">
+          <NODE1_ID>68738</NODE1_ID>
+          <NODE1_NAME>LAmpSalomoTD</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.708600,40.813530 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73850">
+          <NODE1_ID>67525</NODE1_ID>
+          <NODE1_NAME>DeltebreHotelRull</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>10.313</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.726608,40.718970 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74459">
+          <NODE1_ID>69556</NODE1_ID>
+          <NODE1_NAME>LAmpLlevant20TD</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>2.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.728580,40.820820 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74873">
+          <NODE1_ID>68856</NODE1_ID>
+          <NODE1_NAME>AmpollaAvCaproig41DG</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>2.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.730248,40.823138 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74900">
+          <NODE1_ID>69860</NODE1_ID>
+          <NODE1_NAME>LAmpCastello20DGM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.703083,40.808221 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74902">
+          <NODE1_ID>69861</NODE1_ID>
+          <NODE1_NAME>LAmpRondaMar34DGM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706243,40.810119 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75024">
+          <NODE1_ID>68295</NODE1_ID>
+          <NODE1_NAME>AldeaRustCAUOAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>2.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.686227,40.798045 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75437">
+          <NODE1_ID>69802</NODE1_ID>
+          <NODE1_NAME>CamarlesMirDelOAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>3.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.679220,40.789530 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75504">
+          <NODE1_ID>70349</NODE1_ID>
+          <NODE1_NAME>43895RiberaEbre12TD</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>1.241</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.695368,40.803870 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76085">
+          <NODE1_ID>70866</NODE1_ID>
+          <NODE1_NAME>AmpollaTeycoJPB</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>3.347</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.682375,40.787052 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76491">
+          <NODE1_ID>71542</NODE1_ID>
+          <NODE1_NAME>43895Muntanya5TD</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706120,40.814820 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76495">
+          <NODE1_ID>71545</NODE1_ID>
+          <NODE1_NAME>43895Muntanya6TD</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.482</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706675,40.814970 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76685">
+          <NODE1_ID>66596</NODE1_ID>
+          <NODE1_NAME>AmpollaCentre</NODE1_NAME>
+          <NODE2_ID>71680</NODE2_ID>
+          <NODE2_NAME>LAmpN340Km1096RMB</NODE2_NAME>
+          <KMS>0.953</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707068,40.810640 0.697370,40.806246</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77989">
+          <NODE1_ID>72688</NODE1_ID>
+          <NODE1_NAME>AmpollaViena6DGM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>3.355</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.681522,40.787492 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78096">
+          <NODE1_ID>72937</NODE1_ID>
+          <NODE1_NAME>AmpollaAvAmpolla7DGM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>1.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.698901,40.802987 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78985">
+          <NODE1_ID>73414</NODE1_ID>
+          <NODE1_NAME>Ampolla1618OAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>1.552</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.694070,40.800750 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80872">
+          <NODE1_ID>74492</NODE1_ID>
+          <NODE1_NAME>AmpollaCarrNumeroDGM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707903,40.812126 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81201">
+          <NODE1_ID>75345</NODE1_ID>
+          <NODE1_NAME>AmpollaFuronerDGM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>1.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.683885,40.808165 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121584">
+          <NODE1_ID>75845</NODE1_ID>
+          <NODE1_NAME>AmpRondaMar50.4RMB</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705835,40.809665 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121630">
+          <NODE1_ID>75207</NODE1_ID>
+          <NODE1_NAME>CamarlesRacoPeretOAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>4.605</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.674810,40.777190 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122086">
+          <NODE1_ID>76182</NODE1_ID>
+          <NODE1_NAME>AmpollaPGonzalezIsla</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>0.349</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.710651,40.812208 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122745">
+          <NODE1_ID>76652</NODE1_ID>
+          <NODE1_NAME>AmpollaArenalPlatja</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>1.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.699358,40.799171 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123202">
+          <NODE1_ID>77035</NODE1_ID>
+          <NODE1_NAME>AmpollaCapRoig50ABC</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>2.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.731437,40.822732 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123520">
+          <NODE1_ID>77195</NODE1_ID>
+          <NODE1_NAME>AmpollaHotelCapRSipT</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>3.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.738959,40.824505 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

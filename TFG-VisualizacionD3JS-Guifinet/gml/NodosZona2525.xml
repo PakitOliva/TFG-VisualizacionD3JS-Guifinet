@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.575718</gml:X><gml:Y>41.587166</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.583654</gml:X><gml:Y>41.601833</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="15549">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.582648,41.588576</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15549</NODE_ID>
+      <NODE_NAME>CanetAmple</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23291">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.583654,41.589031</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23291</NODE_ID>
+      <NODE_NAME>CanetRomani</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.582570,41.589031</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40023</NODE_ID>
+      <NODE_NAME>CanetFont16</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43865">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.578099,41.590574</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43865</NODE_ID>
+      <NODE_NAME>CanetMarc35</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54001">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.577688,41.590241</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54001</NODE_ID>
+      <NODE_NAME>CanetSanMiquel53</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52279">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.575718,41.590069</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52279</NODE_ID>
+      <NODE_NAME>CanetCuba</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56594">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.578135,41.593034</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56594</NODE_ID>
+      <NODE_NAME>CanetDrAngles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57688">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.579029,41.594022</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57688</NODE_ID>
+      <NODE_NAME>canetrossello5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66153">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.578965,41.601833</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66153</NODE_ID>
+      <NODE_NAME>CanetFlorentina</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66818">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.576793,41.589690</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66818</NODE_ID>
+      <NODE_NAME>CntSntJqm4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71954">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.579929,41.587166</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71954</NODE_ID>
+      <NODE_NAME>CanetMiramar10</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72136">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.580707,41.590921</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72136</NODE_ID>
+      <NODE_NAME>CanetMasRamonet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72175">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.578772,41.596135</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72175</NODE_ID>
+      <NODE_NAME>CanetPauCasals</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.630381</gml:X><gml:Y>41.465843</gml:Y></gml:coord>
+<gml:coord><gml:X>1.814607</gml:X><gml:Y>41.598296</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="12299">
+          <NODE1_ID>16184</NODE1_ID>
+          <NODE1_NAME>BedorcJaumeTorres</NODE1_NAME>
+          <NODE2_ID>16185</NODE2_ID>
+          <NODE2_NAME>BedorcFernando</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.723005,41.496241 1.722917,41.496603</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14010">
+          <NODE1_ID>16185</NODE1_ID>
+          <NODE1_NAME>BedorcFernando</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.294</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722917,41.496603 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14308">
+          <NODE1_ID>3370</NODE1_ID>
+          <NODE1_NAME>ElBedorcAssVeins</NODE1_NAME>
+          <NODE2_ID>4611</NODE2_ID>
+          <NODE2_NAME>ElBedorcCanFerrer</NODE2_NAME>
+          <KMS>0.938</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720111,41.498209 1.710262,41.502278</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15307">
+          <NODE1_ID>19894</NODE1_ID>
+          <NODE1_NAME>ElBedorcAmbulatori</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721337,41.497056 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15727">
+          <NODE1_ID>1803</NODE1_ID>
+          <NODE1_NAME>ElBedorcTorreRoser</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.714425,41.501700 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15728">
+          <NODE1_ID>12622</NODE1_ID>
+          <NODE1_NAME>ElBedorcJavi</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720626,41.496814 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15966">
+          <NODE1_ID>4611</NODE1_ID>
+          <NODE1_NAME>ElBedorcCanFerrer</NODE1_NAME>
+          <NODE2_ID>18845</NODE2_ID>
+          <NODE2_NAME>CabreraCornella630</NODE2_NAME>
+          <KMS>1.254</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.710262,41.502278 1.695379,41.500790</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17782">
+          <NODE1_ID>9298</NODE1_ID>
+          <NODE1_NAME>ElBedorcLluisRoca</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720452,41.498047 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18037">
+          <NODE1_ID>22459</NODE1_ID>
+          <NODE1_NAME>PieraJordiM</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.647</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743441,41.517853 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18263">
+          <NODE1_ID>22726</NODE1_ID>
+          <NODE1_NAME>PieraVllbncElisabetR</NODE1_NAME>
+          <NODE2_ID>11947</NODE2_ID>
+          <NODE2_NAME>PieraPoliesportiu</NODE2_NAME>
+          <KMS>2.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.719672,41.531336 1.744750,41.522556</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18563">
+          <NODE1_ID>23191</NODE1_ID>
+          <NODE1_NAME>PieraCanMata</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>1.92</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.733136,41.509397 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18665">
+          <NODE1_ID>13575</NODE1_ID>
+          <NODE1_NAME>HostaletsCampanar</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>3.101</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769296,41.534956 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21406">
+          <NODE1_ID>18355</NODE1_ID>
+          <NODE1_NAME>PieraDipBoscAliga</NODE1_NAME>
+          <NODE2_ID>15758</NODE2_ID>
+          <NODE2_NAME>HostaletsCeramiques</NODE2_NAME>
+          <KMS>3.891</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746064,41.547189 1.791949,41.540957</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21696">
+          <NODE1_ID>26906</NODE1_ID>
+          <NODE1_NAME>HstltsPrlCnRvr10</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>1.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.754483,41.551331 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21743">
+          <NODE1_ID>26936</NODE1_ID>
+          <NODE1_NAME>BedorcCanPique</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.799</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.724537,41.491826 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22536">
+          <NODE1_ID>27775</NODE1_ID>
+          <NODE1_NAME>PieraJoseM</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>1.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.761600,41.513597 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22986">
+          <NODE1_ID>28223</NODE1_ID>
+          <NODE1_NAME>PrTrrPptlBdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722193,41.496685 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22987">
+          <NODE1_ID>28224</NODE1_ID>
+          <NODE1_NAME>PrMnnrp15</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722387,41.496576 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22988">
+          <NODE1_ID>28225</NODE1_ID>
+          <NODE1_NAME>PrPrlld13</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721249,41.497328 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22989">
+          <NODE1_ID>28226</NODE1_ID>
+          <NODE1_NAME>PrMjr13bs</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722364,41.497425 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22990">
+          <NODE1_ID>28227</NODE1_ID>
+          <NODE1_NAME>PrMnnrp36</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722622,41.497328 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22991">
+          <NODE1_ID>28228</NODE1_ID>
+          <NODE1_NAME>PrLCm31lBdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720938,41.497540 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22992">
+          <NODE1_ID>28229</NODE1_ID>
+          <NODE1_NAME>PrPrlld7lBdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722741,41.497862 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22993">
+          <NODE1_ID>28230</NODE1_ID>
+          <NODE1_NAME>PrLPlc17lBdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721952,41.497659 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22994">
+          <NODE1_ID>28231</NODE1_ID>
+          <NODE1_NAME>PrSntJnSn</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722483,41.497026 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22995">
+          <NODE1_ID>28232</NODE1_ID>
+          <NODE1_NAME>PrMnnrp12lBdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722483,41.497155 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22996">
+          <NODE1_ID>28234</NODE1_ID>
+          <NODE1_NAME>PrPrs7CnMs</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>2.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.773982,41.518494 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22997">
+          <NODE1_ID>28235</NODE1_ID>
+          <NODE1_NAME>Prbdsss61012</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744627,41.518044 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22998">
+          <NODE1_ID>28236</NODE1_ID>
+          <NODE1_NAME>PrPrlld13bdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722655,41.497990 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22999">
+          <NODE1_ID>28237</NODE1_ID>
+          <NODE1_NAME>PrCldrnDLBrc23</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.652</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742706,41.518411 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23000">
+          <NODE1_ID>28238</NODE1_ID>
+          <NODE1_NAME>PrJmFnts11</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744080,41.518218 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23001">
+          <NODE1_ID>28239</NODE1_ID>
+          <NODE1_NAME>PrvrsMntsrrt3638</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.61</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752920,41.526572 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23002">
+          <NODE1_ID>28240</NODE1_ID>
+          <NODE1_NAME>PrDptc18</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746001,41.519844 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23003">
+          <NODE1_ID>28241</NODE1_ID>
+          <NODE1_NAME>PrGrn57Dptc66</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.754551,41.522202 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23004">
+          <NODE1_ID>28242</NODE1_ID>
+          <NODE1_NAME>PrLPrd1bscDLgl</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>2.59</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.751804,41.545204 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23005">
+          <NODE1_ID>28243</NODE1_ID>
+          <NODE1_NAME>PrPrt58</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.484</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.754439,41.523304 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23006">
+          <NODE1_ID>28244</NODE1_ID>
+          <NODE1_NAME>PrSntCrstfl5231</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753983,41.520936 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23007">
+          <NODE1_ID>28245</NODE1_ID>
+          <NODE1_NAME>PrCrnt15bscDLlg</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>2.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.751113,41.544645 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23008">
+          <NODE1_ID>28246</NODE1_ID>
+          <NODE1_NAME>PrDptcn21</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.749177,41.521836 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23009">
+          <NODE1_ID>28247</NODE1_ID>
+          <NODE1_NAME>PrTrmp20cnMt</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>2.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728835,41.510525 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23010">
+          <NODE1_ID>28249</NODE1_ID>
+          <NODE1_NAME>PrCrtPrSntSdrnDnKm48</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.716132,41.497283 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23011">
+          <NODE1_ID>28250</NODE1_ID>
+          <NODE1_NAME>PrMjr5lBdrc</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721909,41.496759 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23012">
+          <NODE1_ID>28251</NODE1_ID>
+          <NODE1_NAME>PrSntjn37</NODE1_NAME>
+          <NODE2_ID>3370</NODE2_ID>
+          <NODE2_NAME>ElBedorcAssVeins</NODE2_NAME>
+          <KMS>0.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720819,41.496878 1.720111,41.498209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23208">
+          <NODE1_ID>28423</NODE1_ID>
+          <NODE1_NAME>HstltsPrlcnMrt80</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>1.694</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746354,41.569786 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23211">
+          <NODE1_ID>28426</NODE1_ID>
+          <NODE1_NAME>PrSntJsp29</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.751576,41.525767 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23609">
+          <NODE1_ID>28801</NODE1_ID>
+          <NODE1_NAME>HstltsPrlrbBsMrt53</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>1.448</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.748945,41.567003 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25401">
+          <NODE1_ID>30682</NODE1_ID>
+          <NODE1_NAME>HstltsPrlBscsCMrPr49</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>1.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.750023,41.566953 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25708">
+          <NODE1_ID>26936</NODE1_ID>
+          <NODE1_NAME>BedorcCanPique</NODE1_NAME>
+          <NODE2_ID>31041</NODE2_ID>
+          <NODE2_NAME>PrDLn2</NODE2_NAME>
+          <KMS>0.683</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.724537,41.491826 1.724473,41.497971</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25709">
+          <NODE1_ID>23191</NODE1_ID>
+          <NODE1_NAME>PieraCanMata</NODE1_NAME>
+          <NODE2_ID>31042</NODE2_ID>
+          <NODE2_NAME>PrDLsFlrs56cnClrmnt</NODE2_NAME>
+          <KMS>0.596</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.733136,41.509397 1.739563,41.507054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25908">
+          <NODE1_ID>16645</NODE1_ID>
+          <NODE1_NAME>PieraSanahuja</NODE1_NAME>
+          <NODE2_ID>31264</NODE2_ID>
+          <NODE2_NAME>PieraCasalJovesGrans</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.748908,41.521983 1.751295,41.521905</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28557">
+          <NODE1_ID>33573</NODE1_ID>
+          <NODE1_NAME>CanAguileraPzIglesia</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744785,41.554341 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29726">
+          <NODE1_ID>18355</NODE1_ID>
+          <NODE1_NAME>PieraDipBoscAliga</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>2.81</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746064,41.547189 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29730">
+          <NODE1_ID>35020</NODE1_ID>
+          <NODE1_NAME>PieraCanBonastre</NODE1_NAME>
+          <NODE2_ID>18355</NODE2_ID>
+          <NODE2_NAME>PieraDipBoscAliga</NODE2_NAME>
+          <KMS>5.081</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.773158,41.506225 1.746064,41.547189</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29736">
+          <NODE1_ID>16645</NODE1_ID>
+          <NODE1_NAME>PieraSanahuja</NODE1_NAME>
+          <NODE2_ID>7881</NODE2_ID>
+          <NODE2_NAME>CplldsMasTeixidor</NODE2_NAME>
+          <KMS>5.673</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.748908,41.521983 1.681318,41.527343</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29905">
+          <NODE1_ID>35146</NODE1_ID>
+          <NODE1_NAME>HstltsPrlPrcl70CnMrt</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>1.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752923,41.549151 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30921">
+          <NODE1_ID>11947</NODE1_ID>
+          <NODE1_NAME>PieraPoliesportiu</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.353</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744750,41.522556 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31014">
+          <NODE1_ID>11944</NODE1_ID>
+          <NODE1_NAME>PieraCampFutbol</NODE1_NAME>
+          <NODE2_ID>11947</NODE2_ID>
+          <NODE2_NAME>PieraPoliesportiu</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743296,41.522399 1.744750,41.522556</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31153">
+          <NODE1_ID>36269</NODE1_ID>
+          <NODE1_NAME>Prrp2CnMs</NODE1_NAME>
+          <NODE2_ID>13575</NODE2_ID>
+          <NODE2_NAME>HostaletsCampanar</NODE2_NAME>
+          <KMS>1.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769228,41.520724 1.769296,41.534956</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31154">
+          <NODE1_ID>36270</NODE1_ID>
+          <NODE1_NAME>PrSntJrd15</NODE1_NAME>
+          <NODE2_ID>13575</NODE2_ID>
+          <NODE2_NAME>HostaletsCampanar</NODE2_NAME>
+          <KMS>2.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.761820,41.514596 1.769296,41.534956</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31161">
+          <NODE1_ID>15758</NODE1_ID>
+          <NODE1_NAME>HostaletsCeramiques</NODE1_NAME>
+          <NODE2_ID>31044</NODE2_ID>
+          <NODE2_NAME>PrSntJrd69</NODE2_NAME>
+          <KMS>3.696</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.791949,41.540957 1.761892,41.516515</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34899">
+          <NODE1_ID>32336</NODE1_ID>
+          <NODE1_NAME>CorralDelMas</NODE1_NAME>
+          <NODE2_ID>35020</NODE2_ID>
+          <NODE2_NAME>PieraCanBonastre</NODE2_NAME>
+          <KMS>0.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.776717,41.505978 1.773158,41.506225</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35334">
+          <NODE1_ID>39920</NODE1_ID>
+          <NODE1_NAME>FOMENT</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>0.61</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743425,41.518346 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39955">
+          <NODE1_ID>43650</NODE1_ID>
+          <NODE1_NAME>PieraCanAguileraDavi</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744283,41.554410 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41989">
+          <NODE1_ID>35020</NODE1_ID>
+          <NODE1_NAME>PieraCanBonastre</NODE1_NAME>
+          <NODE2_ID>45295</NODE2_ID>
+          <NODE2_NAME>PieraCanCanals</NODE2_NAME>
+          <KMS>4.111</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.773158,41.506225 1.778667,41.469440</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43458">
+          <NODE1_ID>3370</NODE1_ID>
+          <NODE1_NAME>ElBedorcAssVeins</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>3.571</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720111,41.498209 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43461">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>4.229</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43688">
+          <NODE1_ID>46102</NODE1_ID>
+          <NODE1_NAME>PIEriera6</NODE1_NAME>
+          <NODE2_ID>45295</NODE2_ID>
+          <NODE2_NAME>PieraCanCanals</NODE2_NAME>
+          <KMS>0.432</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780646,41.465843 1.778667,41.469440</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44028">
+          <NODE1_ID>46705</NODE1_ID>
+          <NODE1_NAME>CanAguileraPlEsglesi</NODE1_NAME>
+          <NODE2_ID>23188</NODE2_ID>
+          <NODE2_NAME>PieraCanAguileraDip</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744688,41.554344 1.743060,41.554737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51354">
+          <NODE1_ID>30013</NODE1_ID>
+          <NODE1_NAME>CTC-HUB</NODE1_NAME>
+          <NODE2_ID>51084</NODE2_ID>
+          <NODE2_NAME>PieraCanMarti</NODE2_NAME>
+          <KMS>10.518</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.814607,41.500680 1.737943,41.575854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51355">
+          <NODE1_ID>23188</NODE1_ID>
+          <NODE1_NAME>PieraCanAguileraDip</NODE1_NAME>
+          <NODE2_ID>51084</NODE2_ID>
+          <NODE2_NAME>PieraCanMarti</NODE2_NAME>
+          <KMS>2.384</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743060,41.554737 1.737943,41.575854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51359">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>51084</NODE2_ID>
+          <NODE2_NAME>PieraCanMarti</NODE2_NAME>
+          <KMS>9.056</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.737943,41.575854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51365">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>51084</NODE2_ID>
+          <NODE2_NAME>PieraCanMarti</NODE2_NAME>
+          <KMS>5.348</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.737943,41.575854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53189">
+          <NODE1_ID>50895</NODE1_ID>
+          <NODE1_NAME>PIEoreneta31</NODE1_NAME>
+          <NODE2_ID>35020</NODE2_ID>
+          <NODE2_NAME>PieraCanBonastre</NODE2_NAME>
+          <KMS>0.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.778085,41.504436 1.773158,41.506225</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54191">
+          <NODE1_ID>54291</NODE1_ID>
+          <NODE1_NAME>gusnuraman</NODE1_NAME>
+          <NODE2_ID>45295</NODE2_ID>
+          <NODE2_NAME>PieraCanCanals</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.782242,41.474548 1.778667,41.469440</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63762">
+          <NODE1_ID>18355</NODE1_ID>
+          <NODE1_NAME>PieraDipBoscAliga</NODE1_NAME>
+          <NODE2_ID>30013</NODE2_ID>
+          <NODE2_NAME>CTC-HUB</NODE2_NAME>
+          <KMS>7.708</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746064,41.547189 1.814607,41.500680</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63763">
+          <NODE1_ID>18355</NODE1_ID>
+          <NODE1_NAME>PieraDipBoscAliga</NODE1_NAME>
+          <NODE2_ID>30013</NODE2_ID>
+          <NODE2_NAME>CTC-HUB</NODE2_NAME>
+          <KMS>7.708</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746064,41.547189 1.814607,41.500680</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63764">
+          <NODE1_ID>18355</NODE1_ID>
+          <NODE1_NAME>PieraDipBoscAliga</NODE1_NAME>
+          <NODE2_ID>30013</NODE2_ID>
+          <NODE2_NAME>CTC-HUB</NODE2_NAME>
+          <KMS>7.708</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746064,41.547189 1.814607,41.500680</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63765">
+          <NODE1_ID>18355</NODE1_ID>
+          <NODE1_NAME>PieraDipBoscAliga</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>2.81</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746064,41.547189 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64199">
+          <NODE1_ID>61387</NODE1_ID>
+          <NODE1_NAME>PrCnbnstrbthvn</NODE1_NAME>
+          <NODE2_ID>35020</NODE2_ID>
+          <NODE2_NAME>PieraCanBonastre</NODE2_NAME>
+          <KMS>0.709</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.778460,41.501233 1.773158,41.506225</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65898">
+          <NODE1_ID>35020</NODE1_ID>
+          <NODE1_NAME>PieraCanBonastre</NODE1_NAME>
+          <NODE2_ID>47610</NODE2_ID>
+          <NODE2_NAME>CanCanalsAlfatel</NODE2_NAME>
+          <KMS>4.009</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.773158,41.506225 1.774498,41.470140</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67323">
+          <NODE1_ID>63902</NODE1_ID>
+          <NODE1_NAME>PieraDavid</NODE1_NAME>
+          <NODE2_ID>50056</NODE2_ID>
+          <NODE2_NAME>ADeC</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701797,41.598296 1.700383,41.598123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67324">
+          <NODE1_ID>63902</NODE1_ID>
+          <NODE1_NAME>PieraDavid</NODE1_NAME>
+          <NODE2_ID>50056</NODE2_ID>
+          <NODE2_NAME>ADeC</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701797,41.598296 1.700383,41.598123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67325">
+          <NODE1_ID>63902</NODE1_ID>
+          <NODE1_NAME>PieraDavid</NODE1_NAME>
+          <NODE2_ID>50056</NODE2_ID>
+          <NODE2_NAME>ADeC</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701797,41.598296 1.700383,41.598123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74794">
+          <NODE1_ID>32336</NODE1_ID>
+          <NODE1_NAME>CorralDelMas</NODE1_NAME>
+          <NODE2_ID>35020</NODE2_ID>
+          <NODE2_NAME>PieraCanBonastre</NODE2_NAME>
+          <KMS>0.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.776717,41.505978 1.773158,41.506225</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76593">
+          <NODE1_ID>71622</NODE1_ID>
+          <NODE1_NAME>Prrsmntsrrt3cnclrmnt</NODE1_NAME>
+          <NODE2_ID>11947</NODE2_ID>
+          <NODE2_NAME>PieraPoliesportiu</NODE2_NAME>
+          <KMS>1.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753493,41.506122 1.744750,41.522556</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77744">
+          <NODE1_ID>72641</NODE1_ID>
+          <NODE1_NAME>CClRoure2</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>1.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.746123,41.510954 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121237">
+          <NODE1_ID>73917</NODE1_ID>
+          <NODE1_NAME>piera</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>1.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.751947,41.506218 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121244">
+          <NODE1_ID>75435</NODE1_ID>
+          <NODE1_NAME>PCnMtSntg19</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>3.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.727298,41.510804 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121434">
+          <NODE1_ID>75712</NODE1_ID>
+          <NODE1_NAME>pieramozard10</NODE1_NAME>
+          <NODE2_ID>35020</NODE2_ID>
+          <NODE2_NAME>PieraCanBonastre</NODE2_NAME>
+          <KMS>0.687</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780423,41.503311 1.773158,41.506225</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123652">
+          <NODE1_ID>51084</NODE1_ID>
+          <NODE1_NAME>PieraCanMarti</NODE1_NAME>
+          <NODE2_ID>77130</NODE2_ID>
+          <NODE2_NAME>CM35Beg</NODE2_NAME>
+          <KMS>3.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737943,41.575854 1.753761,41.550274</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

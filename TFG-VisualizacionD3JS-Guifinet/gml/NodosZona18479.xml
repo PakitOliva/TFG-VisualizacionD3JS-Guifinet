@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.143104</gml:X><gml:Y>41.965936</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.196920</gml:X><gml:Y>42.000271</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="63529">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146073,41.970306</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63529</NODE_ID>
+      <NODE_NAME>PLSAbeurador1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53316">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146172,41.972456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53316</NODE_ID>
+      <NODE_NAME>PLSLaFont10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38142">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143321,41.973092</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38142</NODE_ID>
+      <NODE_NAME>PLSMasPuig</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47989">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.150743,41.968690</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47989</NODE_ID>
+      <NODE_NAME>PLSTrasam9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30019">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147348,41.969239</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30019</NODE_ID>
+      <NODE_NAME>PLSPlCat</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43070">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.175108,41.974297</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43070</NODE_ID>
+      <NODE_NAME>PLSMasTomasi438</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31267">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143839,41.971802</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31267</NODE_ID>
+      <NODE_NAME>PLSEsglesia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31268">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174649,41.973150</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31268</NODE_ID>
+      <NODE_NAME>PLSMasTomasi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33529">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145223,41.971081</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33529</NODE_ID>
+      <NODE_NAME>PLSAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34084">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143356,41.971209</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34084</NODE_ID>
+      <NODE_NAME>PLSMuralla12</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35323">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143104,41.971519</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35323</NODE_ID>
+      <NODE_NAME>PLSMuralla22</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35324">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.148806,41.969245</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35324</NODE_ID>
+      <NODE_NAME>PLSCaputxa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35336">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146435,41.972473</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35336</NODE_ID>
+      <NODE_NAME>PLSFont24</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36894">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145915,41.970416</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36894</NODE_ID>
+      <NODE_NAME>PLSFondo2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37592">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146794,41.968274</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37592</NODE_ID>
+      <NODE_NAME>PLSPaulCompanyo11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40657">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.150668,41.972068</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40657</NODE_ID>
+      <NODE_NAME>PLSVinya8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38090">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143368,41.971064</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38090</NODE_ID>
+      <NODE_NAME>PLSMuralla19</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38092">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143573,41.971196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38092</NODE_ID>
+      <NODE_NAME>PLSJoaquimPi19</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38113">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147774,41.969197</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38113</NODE_ID>
+      <NODE_NAME>PLSEnricFort7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38119">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147212,41.968262</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38119</NODE_ID>
+      <NODE_NAME>PLSPereCollRigau25</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39156">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174373,41.973812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39156</NODE_ID>
+      <NODE_NAME>PLSMasTomasi324</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39851">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.169566,41.978706</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39851</NODE_ID>
+      <NODE_NAME>PLSMasTomasi190</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40153">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.155222,41.980342</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40153</NODE_ID>
+      <NODE_NAME>PLSLlevadora13</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40631">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.158374,41.978506</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40631</NODE_ID>
+      <NODE_NAME>PLSLlevadora3</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40887">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.156209,41.978536</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40887</NODE_ID>
+      <NODE_NAME>PLSLlevadora21</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40888">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.157593,41.977789</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40888</NODE_ID>
+      <NODE_NAME>PLSGaratgeRiera2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40908">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.149782,41.967792</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40908</NODE_ID>
+      <NODE_NAME>PLSPericay27</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41251">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.157405,41.978901</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41251</NODE_ID>
+      <NODE_NAME>PLSLlevadora6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41410">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147355,41.969959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41410</NODE_ID>
+      <NODE_NAME>PLSAbeurador43</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41451">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147642,41.969165</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41451</NODE_ID>
+      <NODE_NAME>PLSEnricFort2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41996">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174236,41.974231</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41996</NODE_ID>
+      <NODE_NAME>PLSMasTomasi441</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41997">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.173726,41.974425</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41997</NODE_ID>
+      <NODE_NAME>PLSMasTomasi499</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42917">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.172210,41.975752</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42917</NODE_ID>
+      <NODE_NAME>PLSMasTomasi527</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43111">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.148997,41.969046</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43111</NODE_ID>
+      <NODE_NAME>PLSSntJsp11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43827">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.151875,41.965936</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43827</NODE_ID>
+      <NODE_NAME>PLSMasPericay</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43950">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.173697,41.974982</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43950</NODE_ID>
+      <NODE_NAME>PLSMasTomasi455A</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44205">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.175102,41.997129</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44205</NODE_ID>
+      <NODE_NAME>PLSCanPereni</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44353">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.172495,41.975504</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44353</NODE_ID>
+      <NODE_NAME>PLSMasTomasi524A</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44423">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.152094,41.972406</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44423</NODE_ID>
+      <NODE_NAME>PLSVinya17</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44619">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145911,41.970173</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44619</NODE_ID>
+      <NODE_NAME>PLSLaVila</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44677">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.196920,41.976517</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44677</NODE_ID>
+      <NODE_NAME>PLSMostela139</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44920">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174381,41.973665</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44920</NODE_ID>
+      <NODE_NAME>PLSMasTomasi352</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45081">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.162432,41.971391</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45081</NODE_ID>
+      <NODE_NAME>PLSBarrioPuigRoig19</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45140">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.159473,41.978732</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45140</NODE_ID>
+      <NODE_NAME>PLSMediterrania101</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45121">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143131,41.970337</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45121</NODE_ID>
+      <NODE_NAME>PLSLaMina7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45396">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.144383,41.970951</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45396</NODE_ID>
+      <NODE_NAME>PLSJoaquimPi9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.150160,41.968561</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51023</NODE_ID>
+      <NODE_NAME>PLSPereCollRigau2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46066">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146797,41.969738</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46066</NODE_ID>
+      <NODE_NAME>PLSAbeurador37</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46711">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143334,41.970514</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46711</NODE_ID>
+      <NODE_NAME>PLSLaMina11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47095">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.150300,41.969504</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47095</NODE_ID>
+      <NODE_NAME>PLSCarmany22</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47158">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.169808,41.984148</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47158</NODE_ID>
+      <NODE_NAME>PLSPins69</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47169">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.187427,41.985861</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47169</NODE_ID>
+      <NODE_NAME>PLSCrtaPlatjaPalsKm4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47307">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174016,41.974722</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47307</NODE_ID>
+      <NODE_NAME>PLSMasTomasi508B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47335">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.189498,41.987250</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47335</NODE_ID>
+      <NODE_NAME>PLSRodors21</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48149">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143545,41.971297</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48149</NODE_ID>
+      <NODE_NAME>PLSJoaquimPi21</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48966">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174452,41.974109</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48966</NODE_ID>
+      <NODE_NAME>PLSMsTms295</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52726">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143897,41.971222</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52726</NODE_ID>
+      <NODE_NAME>PLSPlaceres19</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59856">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.173592,41.973257</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59856</NODE_ID>
+      <NODE_NAME>PLSmastomasi355</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74423">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.144123,41.970978</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74423</NODE_ID>
+      <NODE_NAME>PLSJoaquimPi10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49430">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.144496,41.971351</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49430</NODE_ID>
+      <NODE_NAME>PLSMajor6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49655">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146172,41.972456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49655</NODE_ID>
+      <NODE_NAME>PLSLaFont21</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.149091,41.971566</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50280</NODE_ID>
+      <NODE_NAME>PLSEnginyerAlgarra15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50501">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.170682,41.983933</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50501</NODE_ID>
+      <NODE_NAME>PLSAmetllers41</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50603">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.179361,41.997444</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50603</NODE_ID>
+      <NODE_NAME>PLSBernaga8</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50816">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146073,41.970306</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50816</NODE_ID>
+      <NODE_NAME>PLSAbeurador7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50817">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145626,41.971526</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50817</NODE_ID>
+      <NODE_NAME>PLSRaval29</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50976">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.163978,41.977892</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50976</NODE_ID>
+      <NODE_NAME>PLSCarles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51124">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.169552,41.980116</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51124</NODE_ID>
+      <NODE_NAME>PLSMasTomasi176</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51361">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.170089,41.983487</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51361</NODE_ID>
+      <NODE_NAME>PLSPins</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52019">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.152277,41.969817</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52019</NODE_ID>
+      <NODE_NAME>PLSQuermany24</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61775">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.149278,41.969880</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61775</NODE_ID>
+      <NODE_NAME>PLSCrmny7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52439">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.175100,41.975151</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52439</NODE_ID>
+      <NODE_NAME>PLSMasTomasi469</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52443">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.173281,41.974423</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52443</NODE_ID>
+      <NODE_NAME>PLSMasTomasi523</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52579">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.170304,41.984298</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52579</NODE_ID>
+      <NODE_NAME>PLSPins22</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52938">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145175,41.970632</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52938</NODE_ID>
+      <NODE_NAME>PLSAbeurador6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59315">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.175078,41.975388</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59315</NODE_ID>
+      <NODE_NAME>PLSMasTomasi480</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54348">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.159473,41.978732</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54348</NODE_ID>
+      <NODE_NAME>PLSAvMediterrania101</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54520">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143692,41.971111</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54520</NODE_ID>
+      <NODE_NAME>PLSJoaquimPi11-15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55892">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146797,41.969738</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55892</NODE_ID>
+      <NODE_NAME>PLSAbeurador31</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57549">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146172,41.972456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57549</NODE_ID>
+      <NODE_NAME>PLSLaFont28</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58503">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146990,42.000196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58503</NODE_ID>
+      <NODE_NAME>PLSBarriMoli1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58545">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.148508,41.969724</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58545</NODE_ID>
+      <NODE_NAME>PLSSamaria52</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59753">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146918,41.968840</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59753</NODE_ID>
+      <NODE_NAME>PLSBiblioteca</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59754">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174618,41.973198</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59754</NODE_ID>
+      <NODE_NAME>PLSDiposit</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60421">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.194851,41.983049</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60421</NODE_ID>
+      <NODE_NAME>PLSDelTeixo2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66265">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146383,41.972664</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66265</NODE_ID>
+      <NODE_NAME>PLSFont32</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61106">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.149310,41.969676</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61106</NODE_ID>
+      <NODE_NAME>PLSCarmany6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61635">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145149,41.970634</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61635</NODE_ID>
+      <NODE_NAME>PLSAbeurador6A</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62595">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.170527,41.984293</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62595</NODE_ID>
+      <NODE_NAME>PLSAmetllers43</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62958">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143113,41.971625</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62958</NODE_ID>
+      <NODE_NAME>PLSMuralla35</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62961">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.179963,41.997747</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62961</NODE_ID>
+      <NODE_NAME>PLSBernaga15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63046">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145901,41.972558</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63046</NODE_ID>
+      <NODE_NAME>PLSFont17</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64209">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.156338,41.979204</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64209</NODE_ID>
+      <NODE_NAME>PLSLlevadora18</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73433">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.172930,41.974001</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73433</NODE_ID>
+      <NODE_NAME>PLSMasTomasi502</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67818">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.143356,41.971209</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67818</NODE_ID>
+      <NODE_NAME>PLSMuralla17</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68717">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174512,41.974606</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68717</NODE_ID>
+      <NODE_NAME>PLSMasTomasi495</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68567">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.175612,41.975746</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68567</NODE_ID>
+      <NODE_NAME>PLSMasTomasi491</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70126">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.195157,42.000271</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70126</NODE_ID>
+      <NODE_NAME>PLSPrtPls</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70583">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.195359,41.985660</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70583</NODE_ID>
+      <NODE_NAME>PLSGrau14</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72042">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174292,41.974602</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72042</NODE_ID>
+      <NODE_NAME>PLSMasTomasi497</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72268">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.148814,41.970201</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72268</NODE_ID>
+      <NODE_NAME>PLSngnyrlgrr23</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72522">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.174891,41.974612</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72522</NODE_ID>
+      <NODE_NAME>PLSMasTomasi494B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73011">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.170493,41.973573</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73011</NODE_ID>
+      <NODE_NAME>PLSMasTomasi123B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73639">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.173010,41.974232</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73639</NODE_ID>
+      <NODE_NAME>PLSMsTms503</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73641">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.168011,41.979544</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73641</NODE_ID>
+      <NODE_NAME>PLSMTDltms191</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74568">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.193932,41.983654</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74568</NODE_ID>
+      <NODE_NAME>PLSVGolfBeach</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.165805,41.979694</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75023</NODE_ID>
+      <NODE_NAME>PLSMasTomasi258</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75693">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.193709,41.987776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75693</NODE_ID>
+      <NODE_NAME>PLSCNG</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75967">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147277,41.969946</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75967</NODE_ID>
+      <NODE_NAME>PLSAbeurador41</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

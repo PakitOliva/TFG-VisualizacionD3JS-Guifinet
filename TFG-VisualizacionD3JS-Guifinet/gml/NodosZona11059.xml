@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.851223</gml:X><gml:Y>41.491695</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.882248</gml:X><gml:Y>41.536651</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="16870">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.880114,41.507334</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16870</NODE_ID>
+      <NODE_NAME>CAmt_XaviAn</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="20801">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.873925,41.491695</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20801</NODE_ID>
+      <NODE_NAME>BLLSESAVDABrepos34</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27693">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.882248,41.506965</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27693</NODE_ID>
+      <NODE_NAME>canamat</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40030">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.861268,41.536651</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40030</NODE_ID>
+      <NODE_NAME>LLvnt14</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48543">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.851223,41.502427</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48543</NODE_ID>
+      <NODE_NAME>garbi84</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57952">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.879465,41.503255</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57952</NODE_ID>
+      <NODE_NAME>Daninode</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

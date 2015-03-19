@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.708546</gml:X><gml:Y>41.999138</gml:Y></gml:coord>
+<gml:coord><gml:X>1.802251</gml:X><gml:Y>42.071540</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="30716">
+          <NODE1_ID>35854</NODE1_ID>
+          <NODE1_NAME>ESPCalMacia</NODE1_NAME>
+          <NODE2_ID>28591</NODE2_ID>
+          <NODE2_NAME>MTMJTorredelfoc</NODE2_NAME>
+          <KMS>5.82</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.765751,42.056900 1.728948,42.012265</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35813">
+          <NODE1_ID>40302</NODE1_ID>
+          <NODE1_NAME>ESPElMas</NODE1_NAME>
+          <NODE2_ID>22966</NODE2_ID>
+          <NODE2_NAME>AVSerrapinyana</NODE2_NAME>
+          <KMS>2.576</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.796824,42.048702 1.802251,42.071540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47055">
+          <NODE1_ID>48402</NODE1_ID>
+          <NODE1_NAME>ESPEsglaiola</NODE1_NAME>
+          <NODE2_ID>33231</NODE2_ID>
+          <NODE2_NAME>MTCSTS2</NODE2_NAME>
+          <KMS>2.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.795569,42.019374 1.792231,41.999138</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48382">
+          <NODE1_ID>28440</NODE1_ID>
+          <NODE1_NAME>MTCStPonsDip</NODE1_NAME>
+          <NODE2_ID>48400</NODE2_ID>
+          <NODE2_NAME>ESPMercadal</NODE2_NAME>
+          <KMS>6.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.774831,42.031771 1.708546,42.061401</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

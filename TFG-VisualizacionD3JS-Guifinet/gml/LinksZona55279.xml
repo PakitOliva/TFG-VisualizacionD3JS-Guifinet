@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.108987</gml:X><gml:Y>43.124765</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.050200</gml:X><gml:Y>43.204111</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="64570">
+          <NODE1_ID>55117</NODE1_ID>
+          <NODE1_NAME>IRURAgarre</NODE1_NAME>
+          <NODE2_ID>61720</NODE2_ID>
+          <NODE2_NAME>HRNLUdaletxea</NODE2_NAME>
+          <KMS>1.918</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.067219,43.166292 -2.084774,43.154761</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65022">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>61792</NODE2_ID>
+          <NODE2_NAME>HRNLAisni</NODE2_NAME>
+          <KMS>0.801</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.075787,43.151814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65130">
+          <NODE1_ID>62229</NODE1_ID>
+          <NODE1_NAME>HRNLAisni-bis</NODE1_NAME>
+          <NODE2_ID>61792</NODE2_ID>
+          <NODE2_NAME>HRNLAisni</NODE2_NAME>
+          <KMS>0.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.075751,43.151685 -2.075787,43.151814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65138">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>62232</NODE2_ID>
+          <NODE2_NAME>TOLOUrkizu</NODE2_NAME>
+          <KMS>2.716</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.108987,43.137925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65141">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>62235</NODE2_ID>
+          <NODE2_NAME>TOLOMontezkue</NODE2_NAME>
+          <KMS>1.404</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.084913,43.142127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65146">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>55112</NODE2_ID>
+          <NODE2_NAME>ADUNUdaletxea</NODE2_NAME>
+          <KMS>6.161</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.050200,43.204111</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65321">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>55351</NODE2_ID>
+          <NODE2_NAME>IBARIzaskun</NODE2_NAME>
+          <KMS>2.5</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.063800,43.138310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65323">
+          <NODE1_ID>62360</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea-bis</NODE1_NAME>
+          <NODE2_ID>61720</NODE2_ID>
+          <NODE2_NAME>HRNLUdaletxea</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084924,43.154855 -2.084774,43.154761</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65768">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>62683</NODE2_ID>
+          <NODE2_NAME>LEABElkartea</NODE2_NAME>
+          <KMS>4.264</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.052084,43.124765</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

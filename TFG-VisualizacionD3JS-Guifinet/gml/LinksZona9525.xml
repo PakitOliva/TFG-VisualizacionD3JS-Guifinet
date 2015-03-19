@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.558779</gml:X><gml:Y>42.177303</gml:Y></gml:coord>
+<gml:coord><gml:X>2.768936</gml:X><gml:Y>42.275220</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="8204">
+          <NODE1_ID>9526</NODE1_ID>
+          <NODE1_NAME>SFERRIOLTelecentre</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>7.123</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.714338,42.194668 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23846">
+          <NODE1_ID>9526</NODE1_ID>
+          <NODE1_NAME>SFERRIOLTelecentre</NODE1_NAME>
+          <NODE2_ID>28158</NODE2_ID>
+          <NODE2_NAME>CanBadia</NODE2_NAME>
+          <KMS>4.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.714338,42.194668 2.662865,42.195057</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24108">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>15588</NODE2_ID>
+          <NODE2_NAME>SFERRJaumeferres</NODE2_NAME>
+          <KMS>5.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.708865,42.197192</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26231">
+          <NODE1_ID>31513</NODE1_ID>
+          <NODE1_NAME>SalesLlstmAnna</NODE1_NAME>
+          <NODE2_ID>28158</NODE2_ID>
+          <NODE2_NAME>CanBadia</NODE2_NAME>
+          <KMS>6.515</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.680568,42.252217 2.662865,42.195057</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26348">
+          <NODE1_ID>31740</NODE1_ID>
+          <NODE1_NAME>BeudaSMCRoura</NODE1_NAME>
+          <NODE2_ID>9526</NODE2_ID>
+          <NODE2_NAME>SFERRIOLTelecentre</NODE2_NAME>
+          <KMS>6.969</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.680589,42.252176 2.714338,42.194668</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26393">
+          <NODE1_ID>25469</NODE1_ID>
+          <NODE1_NAME>SFerriolJGalzeran</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.816</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.708012,42.193274 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29257">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>34584</NODE2_ID>
+          <NODE2_NAME>SFerriolMFort</NODE2_NAME>
+          <KMS>5.563</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.715415,42.189137</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29322">
+          <NODE1_ID>12286</NODE1_ID>
+          <NODE1_NAME>SFJosepFortCli</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.587</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.714893,42.189281 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30708">
+          <NODE1_ID>12201</NODE1_ID>
+          <NODE1_NAME>SFERRmasfont</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>5.744</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.711899,42.189951 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31618">
+          <NODE1_ID>36712</NODE1_ID>
+          <NODE1_NAME>SFERRPBird</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>6.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.708441,42.185369 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34739">
+          <NODE1_ID>39428</NODE1_ID>
+          <NODE1_NAME>SrnySERBRUG</NODE1_NAME>
+          <NODE2_ID>9526</NODE2_ID>
+          <NODE2_NAME>SFERRIOLTelecentre</NODE2_NAME>
+          <KMS>2.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.722753,42.177303 2.714338,42.194668</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61523">
+          <NODE1_ID>28158</NODE1_ID>
+          <NODE1_NAME>CanBadia</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>5.578</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.662865,42.195057 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61524">
+          <NODE1_ID>28158</NODE1_ID>
+          <NODE1_NAME>CanBadia</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>5.578</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.662865,42.195057 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62523">
+          <NODE1_ID>28158</NODE1_ID>
+          <NODE1_NAME>CanBadia</NODE1_NAME>
+          <NODE2_ID>60002</NODE2_ID>
+          <NODE2_NAME>OixStBarbara</NODE2_NAME>
+          <KMS>12.374</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.662865,42.195057 2.558779,42.275220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-6.544123</gml:X><gml:Y>36.652994</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.770346</gml:X><gml:Y>37.905894</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16682">
+          <NODE1_ID>21179</NODE1_ID>
+          <NODE1_NAME>PicoCuervo</NODE1_NAME>
+          <NODE2_ID>21177</NODE2_ID>
+          <NODE2_NAME>Telecentro</NODE2_NAME>
+          <KMS>4.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.240513,37.866344 -6.235385,37.905894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16683">
+          <NODE1_ID>21179</NODE1_ID>
+          <NODE1_NAME>PicoCuervo</NODE1_NAME>
+          <NODE2_ID>21277</NODE2_ID>
+          <NODE2_NAME>Aracena</NODE2_NAME>
+          <KMS>1.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.240513,37.866344 -6.255308,37.868849</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21808">
+          <NODE1_ID>26994</NODE1_ID>
+          <NODE1_NAME>MLGMartires</NODE1_NAME>
+          <NODE2_ID>26999</NODE2_ID>
+          <NODE2_NAME>MLGMosquera</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.422774,36.722469 -4.422413,36.722696</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28443">
+          <NODE1_ID>33766</NODE1_ID>
+          <NODE1_NAME>MLGJumanji</NODE1_NAME>
+          <NODE2_ID>26999</NODE2_ID>
+          <NODE2_NAME>MLGMosquera</NODE2_NAME>
+          <KMS>1.355</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.410193,36.729931 -4.422413,36.722696</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28692">
+          <NODE1_ID>33968</NODE1_ID>
+          <NODE1_NAME>MLGInvisible</NODE1_NAME>
+          <NODE2_ID>26999</NODE2_ID>
+          <NODE2_NAME>MLGMosquera</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.422311,36.723015 -4.422413,36.722696</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29893">
+          <NODE1_ID>26999</NODE1_ID>
+          <NODE1_NAME>MLGMosquera</NODE1_NAME>
+          <NODE2_ID>30237</NODE2_ID>
+          <NODE2_NAME>MLGTorreDelCarmen</NODE2_NAME>
+          <KMS>1.28</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.422413,36.722696 -4.426806,36.711721</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30354">
+          <NODE1_ID>34627</NODE1_ID>
+          <NODE1_NAME>MLGVMyP8</NODE1_NAME>
+          <NODE2_ID>26998</NODE2_ID>
+          <NODE2_NAME>MLGSostoa107</NODE2_NAME>
+          <KMS>1.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.445305,36.694361 -4.440043,36.704202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32186">
+          <NODE1_ID>37039</NODE1_ID>
+          <NODE1_NAME>MACHBenaque</NODE1_NAME>
+          <NODE2_ID>36946</NODE2_ID>
+          <NODE2_NAME>MACHVallejos</NODE2_NAME>
+          <KMS>2.213</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.216392,36.769368 -4.237874,36.779323</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32188">
+          <NODE1_ID>37040</NODE1_ID>
+          <NODE1_NAME>MACHMacharaviaya</NODE1_NAME>
+          <NODE2_ID>36946</NODE2_ID>
+          <NODE2_NAME>MACHVallejos</NODE2_NAME>
+          <KMS>2.851</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.213775,36.762463 -4.237874,36.779323</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33365">
+          <NODE1_ID>35071</NODE1_ID>
+          <NODE1_NAME>MLGBeethoven5</NODE1_NAME>
+          <NODE2_ID>38323</NODE2_ID>
+          <NODE2_NAME>MLGCapulinoJauregui</NODE2_NAME>
+          <KMS>1.748</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.449991,36.694582 -4.435612,36.705264</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33366">
+          <NODE1_ID>35065</NODE1_ID>
+          <NODE1_NAME>VELEZcolinasoleada1</NODE1_NAME>
+          <NODE2_ID>35071</NODE2_ID>
+          <NODE2_NAME>MLGBeethoven5</NODE2_NAME>
+          <KMS>24.101</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.181781,36.717610 -4.449991,36.694582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33367">
+          <NODE1_ID>38323</NODE1_ID>
+          <NODE1_NAME>MLGCapulinoJauregui</NODE1_NAME>
+          <NODE2_ID>30237</NODE2_ID>
+          <NODE2_NAME>MLGTorreDelCarmen</NODE2_NAME>
+          <KMS>1.064</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.435612,36.705264 -4.426806,36.711721</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35776">
+          <NODE1_ID>38079</NODE1_ID>
+          <NODE1_NAME>MLGPinosol12</NODE1_NAME>
+          <NODE2_ID>27033</NODE2_ID>
+          <NODE2_NAME>MLGPaganini11</NODE2_NAME>
+          <KMS>3.737</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.411424,36.726002 -4.453226,36.724623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35873">
+          <NODE1_ID>39701</NODE1_ID>
+          <NODE1_NAME>MLGlczbll11</NODE1_NAME>
+          <NODE2_ID>26994</NODE2_ID>
+          <NODE2_NAME>MLGMartires</NODE2_NAME>
+          <KMS>0.489</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.417305,36.722348 -4.422774,36.722469</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36043">
+          <NODE1_ID>40469</NODE1_ID>
+          <NODE1_NAME>MLGImpArgentina6</NODE1_NAME>
+          <NODE2_ID>37939</NODE2_ID>
+          <NODE2_NAME>MLGgstGnzlzBsd2</NODE2_NAME>
+          <KMS>1.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.455946,36.682834 -4.454827,36.692155</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37162">
+          <NODE1_ID>26999</NODE1_ID>
+          <NODE1_NAME>MLGMosquera</NODE1_NAME>
+          <NODE2_ID>40589</NODE2_ID>
+          <NODE2_NAME>MLGPzsDlcs27</NODE2_NAME>
+          <KMS>0.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.422413,36.722696 -4.423059,36.722521</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42409">
+          <NODE1_ID>44637</NODE1_ID>
+          <NODE1_NAME>VdAlcorCarmen21</NODE1_NAME>
+          <NODE2_ID>44437</NODE2_ID>
+          <NODE2_NAME>VdAlcorEGG31</NODE2_NAME>
+          <KMS>0.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.472632,37.396120 -6.478323,37.396286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42575">
+          <NODE1_ID>45792</NODE1_ID>
+          <NODE1_NAME>LPdCONSummers7</NODE1_NAME>
+          <NODE2_ID>44437</NODE2_ID>
+          <NODE2_NAME>VdAlcorEGG31</NODE2_NAME>
+          <KMS>5.867</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.544123,37.390124 -6.478323,37.396286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48685">
+          <NODE1_ID>35941</NODE1_ID>
+          <NODE1_NAME>ALHFuenteDelPerro</NODE1_NAME>
+          <NODE2_ID>41592</NODE2_ID>
+          <NODE2_NAME>MLGForja</NODE2_NAME>
+          <KMS>17.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.643866,36.652994 -4.480275,36.735292</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53434">
+          <NODE1_ID>26998</NODE1_ID>
+          <NODE1_NAME>MLGSostoa107</NODE1_NAME>
+          <NODE2_ID>30760</NODE2_ID>
+          <NODE2_NAME>MLGPlazaNeptuno5</NODE2_NAME>
+          <KMS>0.448</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.440043,36.704202 -4.435213,36.703135</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73169">
+          <NODE1_ID>67406</NODE1_ID>
+          <NODE1_NAME>ErmitaSantosMartires</NODE1_NAME>
+          <NODE2_ID>67407</NODE2_ID>
+          <NODE2_NAME>CCulturalAbla</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.774375,37.138794 -2.779265,37.140913</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73171">
+          <NODE1_ID>67408</NODE1_ID>
+          <NODE1_NAME>CFMontagon</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>1.692</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.776963,37.153901 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73173">
+          <NODE1_ID>56098</NODE1_ID>
+          <NODE1_NAME>ABLASantosMartires15</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>0.597</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.775298,37.144120 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75461">
+          <NODE1_ID>69121</NODE1_ID>
+          <NODE1_NAME>AblaSMarcos20</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>0.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.780555,37.141505 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75582">
+          <NODE1_ID>56098</NODE1_ID>
+          <NODE1_NAME>ABLASantosMartires15</NODE1_NAME>
+          <NODE2_ID>67408</NODE2_ID>
+          <NODE2_NAME>CFMontagon</NODE2_NAME>
+          <KMS>1.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.775298,37.144120 -2.776963,37.153901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76367">
+          <NODE1_ID>71462</NODE1_ID>
+          <NODE1_NAME>abla</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.780508,37.140459 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78717">
+          <NODE1_ID>67407</NODE1_ID>
+          <NODE1_NAME>CCulturalAbla</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.779265,37.140913 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79036">
+          <NODE1_ID>73642</NODE1_ID>
+          <NODE1_NAME>AblaMitueteCarbache</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>0.711</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.770346,37.144331 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79541">
+          <NODE1_ID>74127</NODE1_ID>
+          <NODE1_NAME>infoabla</NODE1_NAME>
+          <NODE2_ID>67408</NODE2_ID>
+          <NODE2_NAME>CFMontagon</NODE2_NAME>
+          <KMS>1.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.777397,37.143973 -2.776963,37.153901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80720">
+          <NODE1_ID>67408</NODE1_ID>
+          <NODE1_NAME>CFMontagon</NODE1_NAME>
+          <NODE2_ID>74987</NODE2_ID>
+          <NODE2_NAME>ABLACrrtrstcn10</NODE2_NAME>
+          <KMS>0.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.776963,37.153901 -2.779894,37.145431</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80835">
+          <NODE1_ID>74629</NODE1_ID>
+          <NODE1_NAME>SEGUIMO</NODE1_NAME>
+          <NODE2_ID>53379</NODE2_ID>
+          <NODE2_NAME>Eljannat</NODE2_NAME>
+          <KMS>6.759</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.991308,37.400844 -6.063766,37.420038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80836">
+          <NODE1_ID>74641</NODE1_ID>
+          <NODE1_NAME>ReservIP-1-I</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.991154,37.401156 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80837">
+          <NODE1_ID>74629</NODE1_ID>
+          <NODE1_NAME>SEGUIMO</NODE1_NAME>
+          <NODE2_ID>74642</NODE2_ID>
+          <NODE2_NAME>ReservIP-2-I</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.991308,37.400844 -5.991368,37.400833</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80838">
+          <NODE1_ID>74629</NODE1_ID>
+          <NODE1_NAME>SEGUIMO</NODE1_NAME>
+          <NODE2_ID>74644</NODE2_ID>
+          <NODE2_NAME>ReservIP-3-I</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.991308,37.400844 -5.990853,37.400764</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81296">
+          <NODE1_ID>69162</NODE1_ID>
+          <NODE1_NAME>SVQPrTiernoGalvan53</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>4.632</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.038674,37.383135 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81320">
+          <NODE1_ID>75263</NODE1_ID>
+          <NODE1_NAME>SVQbegonia16</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>1.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.977200,37.405225 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81322">
+          <NODE1_ID>75263</NODE1_ID>
+          <NODE1_NAME>SVQbegonia16</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>1.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.977200,37.405225 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121240">
+          <NODE1_ID>75532</NODE1_ID>
+          <NODE1_NAME>SEGUIMO-reservIP-T1-</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>0.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.001811,37.403630 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121241">
+          <NODE1_ID>53379</NODE1_ID>
+          <NODE1_NAME>Eljannat</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>6.759</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.063766,37.420038 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121511">
+          <NODE1_ID>75778</NODE1_ID>
+          <NODE1_NAME>SVQsPedroMarti</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>1.301</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.999863,37.391318 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122411">
+          <NODE1_ID>69791</NODE1_ID>
+          <NODE1_NAME>SVQfrayIsidoro11</NODE1_NAME>
+          <NODE2_ID>74629</NODE2_ID>
+          <NODE2_NAME>SEGUIMO</NODE2_NAME>
+          <KMS>0.781</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.983434,37.404016 -5.991308,37.400844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122588">
+          <NODE1_ID>67408</NODE1_ID>
+          <NODE1_NAME>CFMontagon</NODE1_NAME>
+          <NODE2_ID>76540</NODE2_ID>
+          <NODE2_NAME>AblaCmnRealLaBota</NODE2_NAME>
+          <KMS>0.963</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.776963,37.153901 -2.787804,37.154105</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122891">
+          <NODE1_ID>76779</NODE1_ID>
+          <NODE1_NAME>AblaCtrasantillana5</NODE1_NAME>
+          <NODE2_ID>67406</NODE2_ID>
+          <NODE2_NAME>ErmitaSantosMartires</NODE2_NAME>
+          <KMS>0.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.775653,37.143569 -2.774375,37.138794</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123072">
+          <NODE1_ID>67406</NODE1_ID>
+          <NODE1_NAME>ErmitaSantosMartires</NODE1_NAME>
+          <NODE2_ID>76918</NODE2_ID>
+          <NODE2_NAME>AblaCalleReal55</NODE2_NAME>
+          <KMS>0.499</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.774375,37.138794 -2.777207,37.142676</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123109">
+          <NODE1_ID>67408</NODE1_ID>
+          <NODE1_NAME>CFMontagon</NODE1_NAME>
+          <NODE2_ID>76945</NODE2_ID>
+          <NODE2_NAME>AblaCmnRealCortRural</NODE2_NAME>
+          <KMS>0.329</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.776963,37.153901 -2.780312,37.152637</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

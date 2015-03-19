@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>0.253091</gml:X><gml:Y>40.438243</gml:Y></gml:coord>
+      <gml:coord><gml:X>0.337556</gml:X><gml:Y>40.466220</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="48213">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.276721,40.454200</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48213</NODE_ID>
+      <NODE_NAME>CVRA_N005CM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48238">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.274310,40.454808</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48238</NODE_ID>
+      <NODE_NAME>CVRA_N006CM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44678">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.276066,40.454127</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44678</NODE_ID>
+      <NODE_NAME>CVRA_S-NODE</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44679">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.279897,40.454456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44679</NODE_ID>
+      <NODE_NAME>CVRA_N001CM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46773">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.337556,40.466220</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46773</NODE_ID>
+      <NODE_NAME>CVRA_N002CM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47860">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.301132,40.438243</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47860</NODE_ID>
+      <NODE_NAME>CVRN003CM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48080">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.253091,40.456707</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48080</NODE_ID>
+      <NODE_NAME>CVRN004CM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

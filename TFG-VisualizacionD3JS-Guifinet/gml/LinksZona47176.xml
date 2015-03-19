@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.942688</gml:X><gml:Y>43.329742</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.621502</gml:X><gml:Y>43.491218</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="45854">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>18.77</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45855">
+          <NODE1_ID>48160</NODE1_ID>
+          <NODE1_NAME>UVIENaranco-bis</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>0.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879499,43.384669 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51194">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>12.895</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58438">
+          <NODE1_ID>48160</NODE1_ID>
+          <NODE1_NAME>UVIENaranco-bis</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>0.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879499,43.384669 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59342">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>48227</NODE2_ID>
+          <NODE2_NAME>LLNRPinera</NODE2_NAME>
+          <KMS>7.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.884257,43.450578</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68355">
+          <NODE1_ID>64601</NODE1_ID>
+          <NODE1_NAME>LLNRArciresa</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.812862,43.440908 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70049">
+          <NODE1_ID>65627</NODE1_ID>
+          <NODE1_NAME>UVIEbendonesvaldem47</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.810051,43.330558 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70050">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>64896</NODE2_ID>
+          <NODE2_NAME>UVIEsecrucesllosu21</NODE2_NAME>
+          <KMS>7.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.819557,43.336010</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70895">
+          <NODE1_ID>64601</NODE1_ID>
+          <NODE1_NAME>LLNRArciresa</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.812862,43.440908 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71889">
+          <NODE1_ID>67319</NODE1_ID>
+          <NODE1_NAME>CRBYINLaCabanona</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>21.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.621502,43.346352 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74543">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>67693</NODE2_ID>
+          <NODE2_NAME>UVIEvaldemora21</NODE2_NAME>
+          <KMS>8.286</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.809128,43.330578</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74663">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>67160</NODE2_ID>
+          <NODE2_NAME>LLNRTruebano38</NODE2_NAME>
+          <KMS>8.959</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.823950,43.454429</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77303">
+          <NODE1_ID>71739</NODE1_ID>
+          <NODE1_NAME>UVIEvaldemora11</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.810268,43.329742 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77304">
+          <NODE1_ID>71948</NODE1_ID>
+          <NODE1_NAME>UVIELugido7c</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>6.989</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.821852,43.337901 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77309">
+          <NODE1_ID>72251</NODE1_ID>
+          <NODE1_NAME>LASMAZASFREEHOUSE</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>3.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.896997,43.360010 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78334">
+          <NODE1_ID>73101</NODE1_ID>
+          <NODE1_NAME>UVIEArciresa</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>3.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.854036,43.362919 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78335">
+          <NODE1_ID>73101</NODE1_ID>
+          <NODE1_NAME>UVIEArciresa</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>3.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.854036,43.362919 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79640">
+          <NODE1_ID>73616</NODE1_ID>
+          <NODE1_NAME>UVIE_Plazaelcarbayon</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>3.543</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.846647,43.363639 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80164">
+          <NODE1_ID>74637</NODE1_ID>
+          <NODE1_NAME>UVIEUREOviedo</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>2.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.869124,43.361077 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80694">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>70470</NODE2_ID>
+          <NODE2_NAME>SIEfozanadeabajo16</NODE2_NAME>
+          <KMS>10.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.754548,43.369466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121288">
+          <NODE1_ID>74637</NODE1_ID>
+          <NODE1_NAME>UVIEUREOviedo</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>2.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.869124,43.361077 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121813">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>75887</NODE2_ID>
+          <NODE2_NAME>LLNRSCucaoCBauro10</NODE2_NAME>
+          <KMS>6.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.877512,43.440374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121814">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>75965</NODE2_ID>
+          <NODE2_NAME>LLNRCayesCampiello38</NODE2_NAME>
+          <KMS>5.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.835986,43.417862</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122155">
+          <NODE1_ID>76210</NODE1_ID>
+          <NODE1_NAME>LLNRAnduerga27</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.602</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.922763,43.455394 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122932">
+          <NODE1_ID>76649</NODE1_ID>
+          <NODE1_NAME>SIERObalb12</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>19.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.646120,43.363241 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

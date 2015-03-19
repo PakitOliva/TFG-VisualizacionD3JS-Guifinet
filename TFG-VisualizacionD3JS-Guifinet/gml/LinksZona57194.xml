@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-4.788137</gml:X><gml:Y>41.612345</gml:Y></gml:coord>
+<gml:coord><gml:X>-4.737799</gml:X><gml:Y>41.629835</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="60875">
+          <NODE1_ID>57531</NODE1_ID>
+          <NODE1_NAME>VLLmmb4</NODE1_NAME>
+          <NODE2_ID>57133</NODE2_ID>
+          <NODE2_NAME>ARRpato20A</NODE2_NAME>
+          <KMS>2.621</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.737799,41.629835 -4.768966,41.626670</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72033">
+          <NODE1_ID>57133</NODE1_ID>
+          <NODE1_NAME>ARRpato20A</NODE1_NAME>
+          <NODE2_ID>67435</NODE2_ID>
+          <NODE2_NAME>ARRhorca</NODE2_NAME>
+          <KMS>1.984</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.768966,41.626670 -4.786980,41.614986</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72923">
+          <NODE1_ID>57133</NODE1_ID>
+          <NODE1_NAME>ARRpato20A</NODE1_NAME>
+          <NODE2_ID>68229</NODE2_ID>
+          <NODE2_NAME>ARRponton6</NODE2_NAME>
+          <KMS>0.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.768966,41.626670 -4.778187,41.625443</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72927">
+          <NODE1_ID>68230</NODE1_ID>
+          <NODE1_NAME>ARRfcopizarro8</NODE1_NAME>
+          <NODE2_ID>67435</NODE2_ID>
+          <NODE2_NAME>ARRhorca</NODE2_NAME>
+          <KMS>0.478</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.781630,41.616527 -4.786980,41.614986</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81247">
+          <NODE1_ID>75377</NODE1_ID>
+          <NODE1_NAME>ARRfelipeii4</NODE1_NAME>
+          <NODE2_ID>67435</NODE2_ID>
+          <NODE2_NAME>ARRhorca</NODE2_NAME>
+          <KMS>0.555</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.784413,41.619600 -4.786980,41.614986</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81263">
+          <NODE1_ID>75379</NODE1_ID>
+          <NODE1_NAME>ARRjllasa51</NODE1_NAME>
+          <NODE2_ID>67435</NODE2_ID>
+          <NODE2_NAME>ARRhorca</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.788137,41.612345 -4.786980,41.614986</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

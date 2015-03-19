@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.614419</gml:X><gml:Y>41.201903</gml:Y></gml:coord>
+<gml:coord><gml:X>1.637600</gml:X><gml:Y>41.241525</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="72864">
+          <NODE1_ID>67922</NODE1_ID>
+          <NODE1_NAME>CunitEnricGranados48</NODE1_NAME>
+          <NODE2_ID>17021</NODE2_ID>
+          <NODE2_NAME>CG-URB-Valldemar</NODE2_NAME>
+          <KMS>3.625</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.634595,41.201903 1.614419,41.230768</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121487">
+          <NODE1_ID>75650</NODE1_ID>
+          <NODE1_NAME>CUNIT-LosJardines</NODE1_NAME>
+          <NODE2_ID>17019</NODE2_ID>
+          <NODE2_NAME>CG-Trencarroques</NODE2_NAME>
+          <KMS>2.401</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.621510,41.219015 1.637600,41.236900</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122896">
+          <NODE1_ID>76786</NODE1_ID>
+          <NODE1_NAME>CGhml</NODE1_NAME>
+          <NODE2_ID>17019</NODE2_ID>
+          <NODE2_NAME>CG-Trencarroques</NODE2_NAME>
+          <KMS>0.95</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.634454,41.228678 1.637600,41.236900</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122906">
+          <NODE1_ID>17018</NODE1_ID>
+          <NODE1_NAME>CG-URB-LaCreu</NODE1_NAME>
+          <NODE2_ID>76786</NODE2_ID>
+          <NODE2_NAME>CGhml</NODE2_NAME>
+          <KMS>1.427</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.634302,41.241525 1.634454,41.228678</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

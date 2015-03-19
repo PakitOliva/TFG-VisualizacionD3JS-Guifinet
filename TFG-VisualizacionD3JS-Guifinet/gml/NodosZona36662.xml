@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.641182</gml:X><gml:Y>41.636187</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.656176</gml:X><gml:Y>41.640728</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="30907">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.656176,41.636187</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30907</NODE_ID>
+      <NODE_NAME>PdMBlanes01</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30908">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.655328,41.636867</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30908</NODE_ID>
+      <NODE_NAME>PdMBARCCarreras</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46209">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.641182,41.640114</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46209</NODE_ID>
+      <NODE_NAME>PdMOvni</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50250">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.649949,41.639554</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50250</NODE_ID>
+      <NODE_NAME>PDMmongatCanCarreras</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73510">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.649413,41.640728</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73510</NODE_ID>
+      <NODE_NAME>PdMCCarrerasDiposit</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

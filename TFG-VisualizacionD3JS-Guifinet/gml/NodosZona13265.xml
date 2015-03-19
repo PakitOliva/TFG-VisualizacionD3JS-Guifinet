@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.205779</gml:X><gml:Y>42.165556</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.433889</gml:X><gml:Y>42.184681</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="11974">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.433889,42.165556</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11974</NODE_ID>
+      <NODE_NAME>Alinya</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33988">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.205779,42.184681</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33988</NODE_ID>
+      <NODE_NAME>elcaso</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

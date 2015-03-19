@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.226330</gml:X><gml:Y>43.019356</gml:Y></gml:coord>
+      <gml:coord><gml:X>-4.222333</gml:X><gml:Y>43.024196</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="56156">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.225659,43.022580</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56156</NODE_ID>
+      <NODE_NAME>Espinprueba</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43676">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.222333,43.022345</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43676</NODE_ID>
+      <NODE_NAME>ESPINRepetidor</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48990">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.226207,43.021914</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48990</NODE_ID>
+      <NODE_NAME>ESPINTorre</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52711">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.225799,43.022164</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52711</NODE_ID>
+      <NODE_NAME>ESPINTelecentro</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52728">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.225724,43.021607</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52728</NODE_ID>
+      <NODE_NAME>ESPINNodo1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59415">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224962,43.023514</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59415</NODE_ID>
+      <NODE_NAME>EspinMol76</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59638">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.226301,43.021109</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59638</NODE_ID>
+      <NODE_NAME>ESPINctra67</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60522">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.226330,43.019356</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60522</NODE_ID>
+      <NODE_NAME>EspinMar57</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61265">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224603,43.021591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61265</NODE_ID>
+      <NODE_NAME>EspinMol</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61266">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224603,43.021591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61266</NODE_ID>
+      <NODE_NAME>EspinMol1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61813">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224243,43.024196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61813</NODE_ID>
+      <NODE_NAME>spnMl95</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64804">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224180,43.024068</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64804</NODE_ID>
+      <NODE_NAME>Espin95</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

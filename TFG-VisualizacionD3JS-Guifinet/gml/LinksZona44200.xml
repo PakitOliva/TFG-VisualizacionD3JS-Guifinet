@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.942688</gml:X><gml:Y>43.384686</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.591708</gml:X><gml:Y>43.552961</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44754">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>22.295</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45854">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>18.77</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46377">
+          <NODE1_ID>48549</NODE1_ID>
+          <NODE1_NAME>GJNPortu.bis</NODE1_NAME>
+          <NODE2_ID>40370</NODE2_ID>
+          <NODE2_NAME>GJNPortu</NODE2_NAME>
+          <KMS>0.003</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.702510,43.552759 -5.702478,43.552755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46379">
+          <NODE1_ID>48549</NODE1_ID>
+          <NODE1_NAME>GJNPortu.bis</NODE1_NAME>
+          <NODE2_ID>40370</NODE2_ID>
+          <NODE2_NAME>GJNPortu</NODE2_NAME>
+          <KMS>0.003</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.702510,43.552759 -5.702478,43.552755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56679">
+          <NODE1_ID>47047</NODE1_ID>
+          <NODE1_NAME>GJNRubin</NODE1_NAME>
+          <NODE2_ID>52682</NODE2_ID>
+          <NODE2_NAME>CMPNDepCampa</NODE2_NAME>
+          <KMS>11.278</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.707148,43.539467 -5.826855,43.487368</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63611">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>48289</NODE2_ID>
+          <NODE2_NAME>GJNCabrales81</NODE2_NAME>
+          <KMS>8.636</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.658164,43.535485</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63851">
+          <NODE1_ID>59279</NODE1_ID>
+          <NODE1_NAME>GJNCabuenes2</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.593333,43.518169 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63852">
+          <NODE1_ID>60040</NODE1_ID>
+          <NODE1_NAME>GJNCenero121</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>7.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.742996,43.499546 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66321">
+          <NODE1_ID>61252</NODE1_ID>
+          <NODE1_NAME>GJNSomioCamArenas131</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>10.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.629962,43.543678 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68348">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>64649</NODE2_ID>
+          <NODE2_NAME>GJNpedreracfuenteala</NODE2_NAME>
+          <KMS>3.864</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.694920,43.488350</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68350">
+          <NODE1_ID>64650</NODE1_ID>
+          <NODE1_NAME>GJNMareoleorio176</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>4.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.680494,43.494139 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69595">
+          <NODE1_ID>65501</NODE1_ID>
+          <NODE1_NAME>GJNTR</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.405</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.695220,43.541078 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69596">
+          <NODE1_ID>65530</NODE1_ID>
+          <NODE1_NAME>GJNTK</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.691497,43.539082 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69597">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>65531</NODE2_ID>
+          <NODE2_NAME>GJNEBN</NODE2_NAME>
+          <KMS>8.878</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.683408,43.537697</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69598">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>65532</NODE2_ID>
+          <NODE2_NAME>GJNVerina</NODE2_NAME>
+          <KMS>10.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.719242,43.543721</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69668">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>65595</NODE2_ID>
+          <NODE2_NAME>GJNcmnsnvcnt</NODE2_NAME>
+          <KMS>3.844</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.701502,43.484746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73314">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>67203</NODE2_ID>
+          <NODE2_NAME>GJNAIW</NODE2_NAME>
+          <KMS>6.719</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.670973,43.518787</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73484">
+          <NODE1_ID>68855</NODE1_ID>
+          <NODE1_NAME>GJNLasHayas</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>10.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.617758,43.544429 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73633">
+          <NODE1_ID>68971</NODE1_ID>
+          <NODE1_NAME>GJNHuerces1765</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>1.321</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.678188,43.468935 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74083">
+          <NODE1_ID>69310</NODE1_ID>
+          <NODE1_NAME>GJNPabloNeruda2</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.691618,43.539002 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74417">
+          <NODE1_ID>69529</NODE1_ID>
+          <NODE1_NAME>GJNSanMartinbis</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670040,43.458427 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74466">
+          <NODE1_ID>69562</NODE1_ID>
+          <NODE1_NAME>GJNPiquera</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>11.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.711390,43.552961 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76531">
+          <NODE1_ID>53114</NODE1_ID>
+          <NODE1_NAME>GJNPoniente</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.667710,43.542310 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76532">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>53114</NODE2_ID>
+          <NODE2_NAME>GJNPoniente</NODE2_NAME>
+          <KMS>9.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.667710,43.542310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76533">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>47047</NODE2_ID>
+          <NODE2_NAME>GJNRubin</NODE2_NAME>
+          <KMS>9.482</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.707148,43.539467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77487">
+          <NODE1_ID>72413</NODE1_ID>
+          <NODE1_NAME>GJNPontica137</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.591708,43.518045 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77673">
+          <NODE1_ID>71752</NODE1_ID>
+          <NODE1_NAME>GJNPrvdciaBSLore3089</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>11.141</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.613938,43.549618 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79300">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>69180</NODE2_ID>
+          <NODE2_NAME>GJNcaminxigal347</NODE2_NAME>
+          <KMS>8.661</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.602296,43.518175</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79301">
+          <NODE1_ID>65219</NODE1_ID>
+          <NODE1_NAME>GJNTower</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>7.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.675873,43.522646 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79302">
+          <NODE1_ID>61711</NODE1_ID>
+          <NODE1_NAME>GJNPerezPimentel1082</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>9.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.622168,43.533607 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79303">
+          <NODE1_ID>69529</NODE1_ID>
+          <NODE1_NAME>GJNSanMartinbis</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670040,43.458427 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79304">
+          <NODE1_ID>69529</NODE1_ID>
+          <NODE1_NAME>GJNSanMartinbis</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670040,43.458427 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79309">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>73556</NODE2_ID>
+          <NODE2_NAME>GJNCamContrucu134b</NODE2_NAME>
+          <KMS>9.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.598532,43.524675</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79358">
+          <NODE1_ID>69975</NODE1_ID>
+          <NODE1_NAME>GJNCnoCasimirin1</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>4.978</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.653633,43.501317 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79359">
+          <NODE1_ID>73688</NODE1_ID>
+          <NODE1_NAME>GJNElBierzo8</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>7.608</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670273,43.526784 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79917">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>74420</NODE2_ID>
+          <NODE2_NAME>GJNHuerces</NODE2_NAME>
+          <KMS>0.99</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.675892,43.466432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79952">
+          <NODE1_ID>74475</NODE1_ID>
+          <NODE1_NAME>GJNPrvdciaBSLore308+</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>11.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.614409,43.549814 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80097">
+          <NODE1_ID>73319</NODE1_ID>
+          <NODE1_NAME>GJNMareoCMarruca850</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>4.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.680134,43.497098 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121291">
+          <NODE1_ID>75572</NODE1_ID>
+          <NODE1_NAME>GJNSomioUrbNavalon13</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>10.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.626109,43.544804 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122143">
+          <NODE1_ID>72763</NODE1_ID>
+          <NODE1_NAME>GJNcammangada526</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>8.836</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.601042,43.519467 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122258">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>65219</NODE2_ID>
+          <NODE2_NAME>GJNTower</NODE2_NAME>
+          <KMS>7.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.675873,43.522646</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123366">
+          <NODE1_ID>76506</NODE1_ID>
+          <NODE1_NAME>GJNSomioCMimosas275</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>10.445</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.636078,43.548849 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123404">
+          <NODE1_ID>75415</NODE1_ID>
+          <NODE1_NAME>GJNsaragoca</NODE1_NAME>
+          <NODE2_ID>46746</NODE2_ID>
+          <NODE2_NAME>GJNSanMartin</NODE2_NAME>
+          <KMS>10.479</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.618034,43.544429 -5.670866,43.458308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

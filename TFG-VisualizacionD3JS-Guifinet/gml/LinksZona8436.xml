@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>42.097331</gml:Y></gml:coord>
+<gml:coord><gml:X>2.810559</gml:X><gml:Y>42.258552</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="17939">
+          <NODE1_ID>12316</NODE1_ID>
+          <NODE1_NAME>PrqrsPujarnol</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>6.273</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.714288,42.097331 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18423">
+          <NODE1_ID>23089</NODE1_ID>
+          <NODE1_NAME>PrqrsCanSotira</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.477</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.713999,42.101622 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18868">
+          <NODE1_ID>23557</NODE1_ID>
+          <NODE1_NAME>PrqrsCanSotira2</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.489</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.714130,42.101729 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18887">
+          <NODE1_ID>23559</NODE1_ID>
+          <NODE1_NAME>PrqrsCanSopa</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.717056,42.101605 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18889">
+          <NODE1_ID>23562</NODE1_ID>
+          <NODE1_NAME>PrqrsCanVila</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.882</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.709653,42.104478 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18892">
+          <NODE1_ID>23582</NODE1_ID>
+          <NODE1_NAME>PrqrsELCalc</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>1.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.727415,42.099884 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20181">
+          <NODE1_ID>25188</NODE1_ID>
+          <NODE1_NAME>PrqsLesOliveres</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.782</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.708538,42.102921 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20190">
+          <NODE1_ID>25196</NODE1_ID>
+          <NODE1_NAME>PqrsCHFierro</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.515</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.711483,42.101472 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20705">
+          <NODE1_ID>25580</NODE1_ID>
+          <NODE1_NAME>Prqrs-MartaiJordi</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>1.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.777540,42.101952 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20871">
+          <NODE1_ID>26024</NODE1_ID>
+          <NODE1_NAME>Bnysfigueres47</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>2.468</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.774220,42.121846 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20885">
+          <NODE1_ID>26027</NODE1_ID>
+          <NODE1_NAME>Bnylsparebutinya10</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>1.84</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.771806,42.112654 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20887">
+          <NODE1_ID>26031</NODE1_ID>
+          <NODE1_NAME>BnylsBarcelona52</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>1.948</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.772428,42.114750 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23543">
+          <NODE1_ID>28716</NODE1_ID>
+          <NODE1_NAME>PrqsEstacio40</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>0.776</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780413,42.103482 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23826">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>29013</NODE2_ID>
+          <NODE2_NAME>PrqrsSpereRoda6</NODE2_NAME>
+          <KMS>0.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.787169,42.102676</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26754">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>29498</NODE2_ID>
+          <NODE2_NAME>BnylsNoelia</NODE2_NAME>
+          <KMS>2.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.763448,42.117650</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27816">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>33160</NODE2_ID>
+          <NODE2_NAME>CrnllTrrCanRomans</NODE2_NAME>
+          <KMS>0.671</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.797630,42.101407</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29307">
+          <NODE1_ID>33513</NODE1_ID>
+          <NODE1_NAME>PrqrsMataPorqueres</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>0.826</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780717,42.106043 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30810">
+          <NODE1_ID>23049</NODE1_ID>
+          <NODE1_NAME>PrqrsCLAM</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>2.338</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.769869,42.117833 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31097">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>14465</NODE2_ID>
+          <NODE2_NAME>Bnylsiesbrugulat</NODE2_NAME>
+          <KMS>3.019</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.771037,42.126210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32208">
+          <NODE1_ID>37234</NODE1_ID>
+          <NODE1_NAME>PrqrsCalamaria</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.788280,42.102561 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34694">
+          <NODE1_ID>34038</NODE1_ID>
+          <NODE1_NAME>Bnylsjpecanins6</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>2.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.766643,42.109350 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36622">
+          <NODE1_ID>40919</NODE1_ID>
+          <NODE1_NAME>PqrsCHFierro2</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.434</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.711603,42.100684 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42406">
+          <NODE1_ID>45631</NODE1_ID>
+          <NODE1_NAME>PrqrsCanllaminera</NODE1_NAME>
+          <NODE2_ID>26762</NODE2_ID>
+          <NODE2_NAME>PrqrsCsllsDavallUrb</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.733128,42.136345 2.733683,42.138652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45682">
+          <NODE1_ID>48051</NODE1_ID>
+          <NODE1_NAME>PrqrsPedreres28</NODE1_NAME>
+          <NODE2_ID>38567</NODE2_ID>
+          <NODE2_NAME>BnylsCamos73</NODE2_NAME>
+          <KMS>0.826</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.769685,42.104682 2.768190,42.112039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47169">
+          <NODE1_ID>49109</NODE1_ID>
+          <NODE1_NAME>PrqrsLaTorre</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>0.722</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.708116,42.101927 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53487">
+          <NODE1_ID>52048</NODE1_ID>
+          <NODE1_NAME>PrqrsCampFutbol</NODE1_NAME>
+          <NODE2_ID>14465</NODE2_ID>
+          <NODE2_NAME>Bnylsiesbrugulat</NODE2_NAME>
+          <KMS>2.458</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.762602,42.104993 2.771037,42.126210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54851">
+          <NODE1_ID>38080</NODE1_ID>
+          <NODE1_NAME>PrqsPsgMediterranea</NODE1_NAME>
+          <NODE2_ID>52048</NODE2_ID>
+          <NODE2_NAME>PrqrsCampFutbol</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.763802,42.104418 2.762602,42.104993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56773">
+          <NODE1_ID>56085</NODE1_ID>
+          <NODE1_NAME>Prqrsramllib17</NODE1_NAME>
+          <NODE2_ID>38567</NODE2_ID>
+          <NODE2_NAME>BnylsCamos73</NODE2_NAME>
+          <KMS>1.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779966,42.105997 2.768190,42.112039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56791">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>44682</NODE2_ID>
+          <NODE2_NAME>BnylsVCatala1</NODE2_NAME>
+          <KMS>0.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.785614,42.101080</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57400">
+          <NODE1_ID>56623</NODE1_ID>
+          <NODE1_NAME>PrqrsPuig24</NODE1_NAME>
+          <NODE2_ID>26762</NODE2_ID>
+          <NODE2_NAME>PrqrsCsllsDavallUrb</NODE2_NAME>
+          <KMS>0.743</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.732774,42.145309 2.733683,42.138652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60375">
+          <NODE1_ID>58649</NODE1_ID>
+          <NODE1_NAME>PrqrsVicCat9</NODE1_NAME>
+          <NODE2_ID>38567</NODE2_ID>
+          <NODE2_NAME>BnylsCamos73</NODE2_NAME>
+          <KMS>1.93</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.786270,42.101054 2.768190,42.112039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62487">
+          <NODE1_ID>23581</NODE1_ID>
+          <NODE1_NAME>PrqrsElPuig</NODE1_NAME>
+          <NODE2_ID>12316</NODE2_ID>
+          <NODE2_NAME>PrqrsPujarnol</NODE2_NAME>
+          <KMS>1.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.713081,42.108009 2.714288,42.097331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63671">
+          <NODE1_ID>31474</NODE1_ID>
+          <NODE1_NAME>PrqrsSert32</NODE1_NAME>
+          <NODE2_ID>38567</NODE2_ID>
+          <NODE2_NAME>BnylsCamos73</NODE2_NAME>
+          <KMS>1.316</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779954,42.104057 2.768190,42.112039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69147">
+          <NODE1_ID>65004</NODE1_ID>
+          <NODE1_NAME>PrqrsAmadeuVives38</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>0.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.783639,42.102582 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69541">
+          <NODE1_ID>14465</NODE1_ID>
+          <NODE1_NAME>Bnylsiesbrugulat</NODE1_NAME>
+          <NODE2_ID>52048</NODE2_ID>
+          <NODE2_NAME>PrqrsCampFutbol</NODE2_NAME>
+          <KMS>2.458</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.771037,42.126210 2.762602,42.104993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70448">
+          <NODE1_ID>31474</NODE1_ID>
+          <NODE1_NAME>PrqrsSert32</NODE1_NAME>
+          <NODE2_ID>14465</NODE2_ID>
+          <NODE2_NAME>Bnylsiesbrugulat</NODE2_NAME>
+          <KMS>2.569</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779954,42.104057 2.771037,42.126210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74998">
+          <NODE1_ID>69949</NODE1_ID>
+          <NODE1_NAME>PorquerAmadeuVives38</NODE1_NAME>
+          <NODE2_ID>14466</NODE2_ID>
+          <NODE2_NAME>PrqrsAjuntament</NODE2_NAME>
+          <KMS>0.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.783647,42.102592 2.789755,42.102871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75340">
+          <NODE1_ID>70196</NODE1_ID>
+          <NODE1_NAME>NBOSCH</NODE1_NAME>
+          <NODE2_ID>14465</NODE2_ID>
+          <NODE2_NAME>Bnylsiesbrugulat</NODE2_NAME>
+          <KMS>2.4</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.765872,42.104946 2.771037,42.126210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76028">
+          <NODE1_ID>70815</NODE1_ID>
+          <NODE1_NAME>PrqrsCanGuardaBosc</NODE1_NAME>
+          <NODE2_ID>14465</NODE2_ID>
+          <NODE2_NAME>Bnylsiesbrugulat</NODE2_NAME>
+          <KMS>2.933</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.736368,42.120626 2.771037,42.126210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77379">
+          <NODE1_ID>64286</NODE1_ID>
+          <NODE1_NAME>VlvntCanJoan</NODE1_NAME>
+          <NODE2_ID>26762</NODE2_ID>
+          <NODE2_NAME>PrqrsCsllsDavallUrb</NODE2_NAME>
+          <KMS>6.371</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.810559,42.142636 2.733683,42.138652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123481">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>18.601</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

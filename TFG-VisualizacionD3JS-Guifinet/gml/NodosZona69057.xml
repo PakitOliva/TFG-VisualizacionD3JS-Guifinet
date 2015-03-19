@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.602538</gml:X><gml:Y>43.297658</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.540607</gml:X><gml:Y>43.340778</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="69017">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.590830,43.326271</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69017</NODE_ID>
+      <NODE_NAME>BMNSsuaresSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69018">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.564956,43.297658</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69018</NODE_ID>
+      <NODE_NAME>BMNScalieyuSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74401">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.549380,43.340778</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74401</NODE_ID>
+      <NODE_NAME>BMNSRoilesSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75662">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.540607,43.328783</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75662</NODE_ID>
+      <NODE_NAME>LaCastanyal001</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75667">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.541578,43.329341</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75667</NODE_ID>
+      <NODE_NAME>LaCastanyal002</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76004">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.560329,43.314997</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76004</NODE_ID>
+      <NODE_NAME>BMNSPinera30</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76612">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.602538,43.331498</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76612</NODE_ID>
+      <NODE_NAME>BMNSElPlanoSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76613">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.592962,43.338967</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76613</NODE_ID>
+      <NODE_NAME>BMNSDepAguaCuetuSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

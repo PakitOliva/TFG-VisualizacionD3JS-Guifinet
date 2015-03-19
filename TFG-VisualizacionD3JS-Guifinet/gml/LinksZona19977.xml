@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.408323</gml:X><gml:Y>42.147977</gml:Y></gml:coord>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>42.275220</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="32000">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>14875</NODE2_ID>
+          <NODE2_NAME>Montolivet</NODE2_NAME>
+          <KMS>3.058</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.479428,42.180712</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32009">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>22144</NODE2_ID>
+          <NODE2_NAME>Olot-A217</NODE2_NAME>
+          <KMS>2.154</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.490431,42.182292</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32010">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>18537</NODE2_ID>
+          <NODE2_NAME>OlotcJoanet</NODE2_NAME>
+          <KMS>4.258</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.468748,42.195460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32011">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>9.119</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33256">
+          <NODE1_ID>38211</NODE1_ID>
+          <NODE1_NAME>CasalBonavista</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>3.809</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.476709,42.163533 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33465">
+          <NODE1_ID>34410</NODE1_ID>
+          <NODE1_NAME>OlotDeixalleria</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>2.917</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.491558,42.199555 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33580">
+          <NODE1_ID>36708</NODE1_ID>
+          <NODE1_NAME>BgdTurR</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>2.983</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.531887,42.205205 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33581">
+          <NODE1_ID>36708</NODE1_ID>
+          <NODE1_NAME>BgdTurR</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>2.983</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.531887,42.205205 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35711">
+          <NODE1_ID>39592</NODE1_ID>
+          <NODE1_NAME>BttsCalermita</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.517517,42.164203 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35968">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>11698</NODE2_ID>
+          <NODE2_NAME>knoppix</NODE2_NAME>
+          <KMS>1.931</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.493210,42.182791</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35982">
+          <NODE1_ID>21051</NODE1_ID>
+          <NODE1_NAME>Mntgmdalt</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>13.425</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.620701,42.273677 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36510">
+          <NODE1_ID>40851</NODE1_ID>
+          <NODE1_NAME>Olotpcaixa</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>2.833</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.482674,42.176481 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37015">
+          <NODE1_ID>38676</NODE1_ID>
+          <NODE1_NAME>VlDipBianys</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>3.588</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.488081,42.205393 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37026">
+          <NODE1_ID>41272</NODE1_ID>
+          <NODE1_NAME>OlotConsellComarcalG</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>1.919</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.493317,42.182499 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37746">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>34102</NODE2_ID>
+          <NODE2_NAME>OlotRidaura94</NODE2_NAME>
+          <KMS>3.944</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.468952,42.184587</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37993">
+          <NODE1_ID>24339</NODE1_ID>
+          <NODE1_NAME>Lpresvolraco</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>5.067</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474032,42.147977 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38946">
+          <NODE1_ID>24339</NODE1_ID>
+          <NODE1_NAME>Lpresvolraco</NODE1_NAME>
+          <NODE2_ID>42876</NODE2_ID>
+          <NODE2_NAME>BatetCanFelix</NODE2_NAME>
+          <KMS>4.611</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474032,42.147977 2.525233,42.164461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40712">
+          <NODE1_ID>44184</NODE1_ID>
+          <NODE1_NAME>OlotStBernat4</NODE1_NAME>
+          <NODE2_ID>14875</NODE2_ID>
+          <NODE2_NAME>Montolivet</NODE2_NAME>
+          <KMS>0.483</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.482918,42.184196 2.479428,42.180712</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40713">
+          <NODE1_ID>44184</NODE1_ID>
+          <NODE1_NAME>OlotStBernat4</NODE1_NAME>
+          <NODE2_ID>18593</NODE2_ID>
+          <NODE2_NAME>Olotmontsacopa</NODE2_NAME>
+          <KMS>0.659</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.482918,42.184196 2.490420,42.182167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53722">
+          <NODE1_ID>24339</NODE1_ID>
+          <NODE1_NAME>Lpresvolraco</NODE1_NAME>
+          <NODE2_ID>54000</NODE2_ID>
+          <NODE2_NAME>BttsCanJosep</NODE2_NAME>
+          <KMS>4.499</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474032,42.147977 2.513565,42.175822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53724">
+          <NODE1_ID>14875</NODE1_ID>
+          <NODE1_NAME>Montolivet</NODE1_NAME>
+          <NODE2_ID>54000</NODE2_ID>
+          <NODE2_NAME>BttsCanJosep</NODE2_NAME>
+          <KMS>2.872</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.479428,42.180712 2.513565,42.175822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53725">
+          <NODE1_ID>32360</NODE1_ID>
+          <NODE1_NAME>OlotXdp</NODE1_NAME>
+          <NODE2_ID>54000</NODE2_ID>
+          <NODE2_NAME>BttsCanJosep</NODE2_NAME>
+          <KMS>4.577</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.467010,42.198167 2.513565,42.175822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57569">
+          <NODE1_ID>39592</NODE1_ID>
+          <NODE1_NAME>BttsCalermita</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>4.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.517517,42.164203 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75321">
+          <NODE1_ID>32919</NODE1_ID>
+          <NODE1_NAME>Batetcomavall</NODE1_NAME>
+          <NODE2_ID>24499</NODE2_ID>
+          <NODE2_NAME>LprsVracomas</NODE2_NAME>
+          <KMS>5.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.525332,42.172942 2.474037,42.148346</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77292">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>60002</NODE2_ID>
+          <NODE2_NAME>OixStBarbara</NODE2_NAME>
+          <KMS>11.061</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.558779,42.275220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77317">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>22144</NODE2_ID>
+          <NODE2_NAME>Olot-A217</NODE2_NAME>
+          <KMS>3.812</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.490431,42.182292</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77502">
+          <NODE1_ID>61314</NODE1_ID>
+          <NODE1_NAME>BgdCFriki</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>2.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.546280,42.195548 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77504">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>63228</NODE2_ID>
+          <NODE2_NAME>BegudaSerradell</NODE2_NAME>
+          <KMS>1.594</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.553560,42.183091</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77505">
+          <NODE1_ID>53478</NODE1_ID>
+          <NODE1_NAME>BgdCnPsc</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>3.939</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.545245,42.211888 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79055">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>10.791</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79097">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>16.752</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80306">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>21051</NODE2_ID>
+          <NODE2_NAME>Mntgmdalt</NODE2_NAME>
+          <KMS>12.805</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.620701,42.273677</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80425">
+          <NODE1_ID>21051</NODE1_ID>
+          <NODE1_NAME>Mntgmdalt</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>12.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.620701,42.273677 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121759">
+          <NODE1_ID>53318</NODE1_ID>
+          <NODE1_NAME>RiudaTania</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>9.459</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424211,42.195391 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

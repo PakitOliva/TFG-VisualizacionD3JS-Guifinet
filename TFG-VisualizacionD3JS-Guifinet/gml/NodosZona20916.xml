@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.961963</gml:X><gml:Y>42.119658</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.976050</gml:X><gml:Y>42.124867</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="20922">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.976050,42.119658</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20922</NODE_ID>
+      <NODE_NAME>CAMDip</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="20923">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.961963,42.122759</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20923</NODE_ID>
+      <NODE_NAME>CAMCampanar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22617">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.962639,42.124867</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22617</NODE_ID>
+      <NODE_NAME>CAMFutbol</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

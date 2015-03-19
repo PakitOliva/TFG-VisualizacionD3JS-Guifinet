@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.039340</gml:X><gml:Y>38.811189</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.023630</gml:X><gml:Y>38.822639</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="37380">
+          <NODE1_ID>39371</NODE1_ID>
+          <NODE1_NAME>sanetguifi1</NODE1_NAME>
+          <NODE2_ID>39372</NODE2_ID>
+          <NODE2_NAME>sanetguifi3</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035342,38.819729 -0.031722,38.822639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37381">
+          <NODE1_ID>39355</NODE1_ID>
+          <NODE1_NAME>sanetguifi2</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033738,38.818898 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39273">
+          <NODE1_ID>43134</NODE1_ID>
+          <NODE1_NAME>nodfmut</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033377,38.819106 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39417">
+          <NODE1_ID>43248</NODE1_ID>
+          <NODE1_NAME>plansmaya</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.028142,38.811189 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39712">
+          <NODE1_ID>39355</NODE1_ID>
+          <NODE1_NAME>sanetguifi2</NODE1_NAME>
+          <NODE2_ID>43489</NODE2_ID>
+          <NODE2_NAME>nodbolata</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033738,38.818898 -0.033619,38.817612</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40246">
+          <NODE1_ID>43848</NODE1_ID>
+          <NODE1_NAME>nodpriera</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.031784,38.818656 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40481">
+          <NODE1_ID>44038</NODE1_ID>
+          <NODE1_NAME>ajunt10</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.034820,38.819562 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40542">
+          <NODE1_ID>44073</NODE1_ID>
+          <NODE1_NAME>Tmut8</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033442,38.818740 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40822">
+          <NODE1_ID>44257</NODE1_ID>
+          <NODE1_NAME>scrist9</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033348,38.818985 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40845">
+          <NODE1_ID>44274</NODE1_ID>
+          <NODE1_NAME>AvConst16</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.032916,38.819804 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40876">
+          <NODE1_ID>44157</NODE1_ID>
+          <NODE1_NAME>nodsblanco</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.032326,38.818843 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40908">
+          <NODE1_ID>44332</NODE1_ID>
+          <NODE1_NAME>AvAlc35</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>1.125</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.023630,38.812561 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41281">
+          <NODE1_ID>44657</NODE1_ID>
+          <NODE1_NAME>buenaires8</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.031551,38.818757 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41431">
+          <NODE1_ID>44799</NODE1_ID>
+          <NODE1_NAME>parres8</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.034052,38.819378 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41889">
+          <NODE1_ID>44574</NODE1_ID>
+          <NODE1_NAME>pal4</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.032761,38.819097 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41895">
+          <NODE1_ID>45248</NODE1_ID>
+          <NODE1_NAME>AvConst4</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033436,38.819821 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41897">
+          <NODE1_ID>45249</NODE1_ID>
+          <NODE1_NAME>Plaza</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.032630,38.818289 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42328">
+          <NODE1_ID>45574</NODE1_ID>
+          <NODE1_NAME>nodfrovira</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.034128,38.820456 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42614">
+          <NODE1_ID>41849</NODE1_ID>
+          <NODE1_NAME>Ericsanet</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033855,38.819900 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42615">
+          <NODE1_ID>39355</NODE1_ID>
+          <NODE1_NAME>sanetguifi2</NODE1_NAME>
+          <NODE2_ID>42379</NODE2_ID>
+          <NODE2_NAME>inmasanet</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033738,38.818898 -0.033702,38.819790</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45507">
+          <NODE1_ID>47931</NODE1_ID>
+          <NODE1_NAME>AvAjunt48</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.496</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.038275,38.821610 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46285">
+          <NODE1_ID>47738</NODE1_ID>
+          <NODE1_NAME>MANUSANET</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.546</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039340,38.821132 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47199">
+          <NODE1_ID>49217</NODE1_ID>
+          <NODE1_NAME>CMayor18</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.034717,38.819784 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49862">
+          <NODE1_ID>51103</NODE1_ID>
+          <NODE1_NAME>crMajor1</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033983,38.819664 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50667">
+          <NODE1_ID>39355</NODE1_ID>
+          <NODE1_NAME>sanetguifi2</NODE1_NAME>
+          <NODE2_ID>44800</NODE2_ID>
+          <NODE2_NAME>planshorta</NODE2_NAME>
+          <KMS>0.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033738,38.818898 -0.028096,38.811310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50670">
+          <NODE1_ID>51830</NODE1_ID>
+          <NODE1_NAME>snetDesmprat13</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.034370,38.820193 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52568">
+          <NODE1_ID>53179</NODE1_ID>
+          <NODE1_NAME>snetVam</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.032515,38.820234 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54273">
+          <NODE1_ID>54324</NODE1_ID>
+          <NODE1_NAME>AvAjunt34</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.036628,38.820280 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54946">
+          <NODE1_ID>39355</NODE1_ID>
+          <NODE1_NAME>sanetguifi2</NODE1_NAME>
+          <NODE2_ID>53551</NODE2_ID>
+          <NODE2_NAME>SnetAvAjunt11</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033738,38.818898 -0.035241,38.819393</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57102">
+          <NODE1_ID>56369</NODE1_ID>
+          <NODE1_NAME>snetlorenz21</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033557,38.820094 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59226">
+          <NODE1_ID>45227</NODE1_ID>
+          <NODE1_NAME>Snlorz3</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.033868,38.819954 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59457">
+          <NODE1_ID>39371</NODE1_ID>
+          <NODE1_NAME>sanetguifi1</NODE1_NAME>
+          <NODE2_ID>46923</NODE2_ID>
+          <NODE2_NAME>nodjalcina</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035342,38.819729 -0.036178,38.819839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59560">
+          <NODE1_ID>42332</NODE1_ID>
+          <NODE1_NAME>jjramis</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.036859,38.820332 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59561">
+          <NODE1_ID>53497</NODE1_ID>
+          <NODE1_NAME>SnetAvAjunt39</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.036324,38.819876 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60156">
+          <NODE1_ID>39371</NODE1_ID>
+          <NODE1_NAME>sanetguifi1</NODE1_NAME>
+          <NODE2_ID>53514</NODE2_ID>
+          <NODE2_NAME>SnetMajor20</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035342,38.819729 -0.035081,38.819873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64659">
+          <NODE1_ID>39371</NODE1_ID>
+          <NODE1_NAME>sanetguifi1</NODE1_NAME>
+          <NODE2_ID>61552</NODE2_ID>
+          <NODE2_NAME>SnetDesamparados5</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035342,38.819729 -0.034656,38.819648</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67286">
+          <NODE1_ID>63864</NODE1_ID>
+          <NODE1_NAME>SnetAvAyunt12</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035036,38.819618 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67676">
+          <NODE1_ID>63198</NODE1_ID>
+          <NODE1_NAME>snetAvAjunt9</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035075,38.819438 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67678">
+          <NODE1_ID>63198</NODE1_ID>
+          <NODE1_NAME>snetAvAjunt9</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035075,38.819438 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74125">
+          <NODE1_ID>69347</NODE1_ID>
+          <NODE1_NAME>SnetMtsano119</NODE1_NAME>
+          <NODE2_ID>39355</NODE2_ID>
+          <NODE2_NAME>sanetguifi2</NODE2_NAME>
+          <KMS>0.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.030860,38.820678 -0.033738,38.818898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78355">
+          <NODE1_ID>51381</NODE1_ID>
+          <NODE1_NAME>SanetPtdaMuntanyeta2</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.034909,38.820673 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80061">
+          <NODE1_ID>74574</NODE1_ID>
+          <NODE1_NAME>snetAvAjunt32</NODE1_NAME>
+          <NODE2_ID>39371</NODE2_ID>
+          <NODE2_NAME>sanetguifi1</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.036422,38.820283 -0.035342,38.819729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

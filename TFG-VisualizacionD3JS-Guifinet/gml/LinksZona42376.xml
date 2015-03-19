@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>3.133598</gml:X><gml:Y>42.249184</gml:Y></gml:coord>
+<gml:coord><gml:X>3.179633</gml:X><gml:Y>42.292592</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="61267">
+          <NODE1_ID>36938</NODE1_ID>
+          <NODE1_NAME>SntaMrg-CWills</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.139094,42.268475 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63555">
+          <NODE1_ID>38257</NODE1_ID>
+          <NODE1_NAME>Salata-Cerv7</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.157973,42.264685 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71110">
+          <NODE1_ID>66655</NODE1_ID>
+          <NODE1_NAME>Salata-Cerv5</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.158182,42.264772 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73605">
+          <NODE1_ID>68502</NODE1_ID>
+          <NODE1_NAME>SntaMrg-AvdStM25</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>1.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146216,42.268285 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77647">
+          <NODE1_ID>72560</NODE1_ID>
+          <NODE1_NAME>StaMargarita-CapGola</NODE1_NAME>
+          <NODE2_ID>58510</NODE2_ID>
+          <NODE2_NAME>Emprbrv-LaSardana</NODE2_NAME>
+          <KMS>2.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147678,42.265186 3.133598,42.249184</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79399">
+          <NODE1_ID>70185</NODE1_ID>
+          <NODE1_NAME>Roses-Pastor1</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>4.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.138018,42.269759 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

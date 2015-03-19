@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.857344</gml:X><gml:Y>41.474629</gml:Y></gml:coord>
+<gml:coord><gml:X>1.980795</gml:X><gml:Y>41.536088</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="56880">
+          <NODE1_ID>56176</NODE1_ID>
+          <NODE1_NAME>EsparragEToldra14</NODE1_NAME>
+          <NODE2_ID>44427</NODE2_ID>
+          <NODE2_NAME>CTBB-CanSegarra</NODE2_NAME>
+          <KMS>7.957</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.857344,41.528271 1.945036,41.500201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76124">
+          <NODE1_ID>42665</NODE1_ID>
+          <NODE1_NAME>CTBB-SantMarc</NODE1_NAME>
+          <NODE2_ID>69166</NODE2_ID>
+          <NODE2_NAME>ESPARRPrinEspanya77</NODE2_NAME>
+          <KMS>11.969</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980795,41.474629 1.863035,41.536088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

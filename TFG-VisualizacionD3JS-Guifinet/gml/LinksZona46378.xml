@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.178431</gml:X><gml:Y>40.060123</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.130162</gml:X><gml:Y>40.218718</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="43420">
+          <NODE1_ID>46379</NODE1_ID>
+          <NODE1_NAME>CosAjun</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173432,40.120226 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43553">
+          <NODE1_ID>46514</NODE1_ID>
+          <NODE1_NAME>CosMasDavall</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.913</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.171168,40.128524 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44976">
+          <NODE1_ID>46381</NODE1_ID>
+          <NODE1_NAME>CosUrb</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.5</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173922,40.116029 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45025">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>11.241</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45313">
+          <NODE1_ID>47741</NODE1_ID>
+          <NODE1_NAME>Llosabl</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.894</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.168338,40.109219 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46239">
+          <NODE1_ID>48167</NODE1_ID>
+          <NODE1_NAME>Cos-JuanLopez</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172796,40.115623 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46569">
+          <NODE1_ID>48608</NODE1_ID>
+          <NODE1_NAME>cosavdiputacio9Rd1</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172195,40.120339 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46601">
+          <NODE1_ID>48745</NODE1_ID>
+          <NODE1_NAME>CosAbadia3</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.026</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173893,40.120630 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46724">
+          <NODE1_ID>48250</NODE1_ID>
+          <NODE1_NAME>csjnbt24</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174700,40.118821 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46750">
+          <NODE1_ID>48816</NODE1_ID>
+          <NODE1_NAME>CosLLucena24</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174644,40.120435 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46924">
+          <NODE1_ID>48820</NODE1_ID>
+          <NODE1_NAME>CosDiputacio59</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174172,40.118462 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47549">
+          <NODE1_ID>49424</NODE1_ID>
+          <NODE1_NAME>Cos-CasaVictor</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174631,40.119883 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47551">
+          <NODE1_ID>49426</NODE1_ID>
+          <NODE1_NAME>Cos-CasaVicente</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172378,40.120511 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47592">
+          <NODE1_ID>49453</NODE1_ID>
+          <NODE1_NAME>CosAbadia4</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173866,40.120775 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47594">
+          <NODE1_ID>49467</NODE1_ID>
+          <NODE1_NAME>CosJoseNebotRuiz9</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.352</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174191,40.119196 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47595">
+          <NODE1_ID>49468</NODE1_ID>
+          <NODE1_NAME>CosLlucena18</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174459,40.120525 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47596">
+          <NODE1_ID>49469</NODE1_ID>
+          <NODE1_NAME>CosDiputacio65</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174864,40.118294 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47677">
+          <NODE1_ID>49524</NODE1_ID>
+          <NODE1_NAME>CosLlarDelJubilat</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.175248,40.118790 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47780">
+          <NODE1_ID>49208</NODE1_ID>
+          <NODE1_NAME>CosMestre4</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.012</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173511,40.120456 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48224">
+          <NODE1_ID>49937</NODE1_ID>
+          <NODE1_NAME>CosSol43</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174156,40.119500 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48225">
+          <NODE1_ID>49938</NODE1_ID>
+          <NODE1_NAME>CosLOmbrio74</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.491</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172375,40.116206 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48279">
+          <NODE1_ID>49936</NODE1_ID>
+          <NODE1_NAME>CosDiputacio39</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173780,40.118798 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48949">
+          <NODE1_ID>50405</NODE1_ID>
+          <NODE1_NAME>CosPedrissa49</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.549</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.171490,40.115861 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48950">
+          <NODE1_ID>50406</NODE1_ID>
+          <NODE1_NAME>CosEscultorSabater42</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.395</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.175089,40.119475 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49589">
+          <NODE1_ID>50869</NODE1_ID>
+          <NODE1_NAME>CosAlcora13</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174236,40.119590 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49697">
+          <NODE1_ID>50634</NODE1_ID>
+          <NODE1_NAME>CosDiViNo</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172447,40.116175 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49787">
+          <NODE1_ID>51068</NODE1_ID>
+          <NODE1_NAME>nodopepe</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.909</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.171239,40.128507 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49833">
+          <NODE1_ID>50699</NODE1_ID>
+          <NODE1_NAME>nodomanuel</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.171514,40.127456 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49978">
+          <NODE1_ID>51051</NODE1_ID>
+          <NODE1_NAME>sol18</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173574,40.119857 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49989">
+          <NODE1_ID>51163</NODE1_ID>
+          <NODE1_NAME>CosSol13</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173335,40.120028 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49997">
+          <NODE1_ID>51074</NODE1_ID>
+          <NODE1_NAME>CsSl25</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173582,40.119757 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50084">
+          <NODE1_ID>51249</NODE1_ID>
+          <NODE1_NAME>CosDiputacio47-2</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173761,40.118758 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50219">
+          <NODE1_ID>51405</NODE1_ID>
+          <NODE1_NAME>CosDiputacio19</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172834,40.119902 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50247">
+          <NODE1_ID>51489</NODE1_ID>
+          <NODE1_NAME>CosOmbria2</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173424,40.120637 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50248">
+          <NODE1_ID>51490</NODE1_ID>
+          <NODE1_NAME>CosSol8</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173324,40.120164 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50344">
+          <NODE1_ID>51454</NODE1_ID>
+          <NODE1_NAME>Coslombrio24</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172240,40.116172 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50598">
+          <NODE1_ID>50383</NODE1_ID>
+          <NODE1_NAME>CosSol41</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174025,40.119537 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51205">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>52205</NODE2_ID>
+          <NODE2_NAME>CosSol15</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.173373,40.119984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52475">
+          <NODE1_ID>46381</NODE1_ID>
+          <NODE1_NAME>CosUrb</NODE1_NAME>
+          <NODE2_ID>53105</NODE2_ID>
+          <NODE2_NAME>arne</NODE2_NAME>
+          <KMS>0.321</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173922,40.116029 -0.175046,40.118790</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52476">
+          <NODE1_ID>53106</NODE1_ID>
+          <NODE1_NAME>CosSol59</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174738,40.119251 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53829">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>54066</NODE2_ID>
+          <NODE2_NAME>CSMsdvll12</NODE2_NAME>
+          <KMS>0.939</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.171967,40.128889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53902">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>54102</NODE2_ID>
+          <NODE2_NAME>CsLlcn6</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.174204,40.120636</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54694">
+          <NODE1_ID>54599</NODE1_ID>
+          <NODE1_NAME>CosEsglesia15</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173791,40.120474 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54758">
+          <NODE1_ID>54640</NODE1_ID>
+          <NODE1_NAME>CosEscltSbtr22</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174751,40.119996 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55711">
+          <NODE1_ID>54306</NODE1_ID>
+          <NODE1_NAME>SJMoroPolideportivo</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>7.243</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.130162,40.060123 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56254">
+          <NODE1_ID>55492</NODE1_ID>
+          <NODE1_NAME>CosLlucena26</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174893,40.120410 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58231">
+          <NODE1_ID>56979</NODE1_ID>
+          <NODE1_NAME>CosTioDani</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174290,40.119491 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58241">
+          <NODE1_ID>57218</NODE1_ID>
+          <NODE1_NAME>CosMarcNatRa</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.178431,40.120181 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58347">
+          <NODE1_ID>56978</NODE1_ID>
+          <NODE1_NAME>CosTioConrad</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174357,40.119469 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59002">
+          <NODE1_ID>57744</NODE1_ID>
+          <NODE1_NAME>CosJoseNebotRuiz28</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.322</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174958,40.118819 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59054">
+          <NODE1_ID>57783</NODE1_ID>
+          <NODE1_NAME>CosDiputacio24</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173314,40.119746 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61508">
+          <NODE1_ID>59508</NODE1_ID>
+          <NODE1_NAME>Cslcn17</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174743,40.120157 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61580">
+          <NODE1_ID>59554</NODE1_ID>
+          <NODE1_NAME>CosPedrissa11</NODE1_NAME>
+          <NODE2_ID>46381</NODE2_ID>
+          <NODE2_NAME>CosUrb</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173146,40.115976 -0.173922,40.116029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62625">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>60298</NODE2_ID>
+          <NODE2_NAME>CosOmbria5</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.173276,40.120663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65726">
+          <NODE1_ID>62676</NODE1_ID>
+          <NODE1_NAME>CosUmbria19</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172697,40.120675 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66389">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>63100</NODE2_ID>
+          <NODE2_NAME>CosCris</NODE2_NAME>
+          <KMS>0.495</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.172202,40.116202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70125">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>62270</NODE2_ID>
+          <NODE2_NAME>NodeRosa</NODE2_NAME>
+          <KMS>0.903</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.171864,40.128548</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75165">
+          <NODE1_ID>69810</NODE1_ID>
+          <NODE1_NAME>cstrarriba4</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.174168,40.119927 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75516">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>70325</NODE2_ID>
+          <NODE2_NAME>nodeInma</NODE2_NAME>
+          <KMS>0.912</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.171283,40.128536</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75642">
+          <NODE1_ID>46381</NODE1_ID>
+          <NODE1_NAME>CosUrb</NODE1_NAME>
+          <NODE2_ID>70472</NODE2_ID>
+          <NODE2_NAME>CosPedrissa14A</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173922,40.116029 -0.172555,40.115665</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76718">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>71692</NODE2_ID>
+          <NODE2_NAME>NodeRoss</NODE2_NAME>
+          <KMS>0.959</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.170701,40.128868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76719">
+          <NODE1_ID>71708</NODE1_ID>
+          <NODE1_NAME>NodoVicente</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.93</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.170692,40.128593 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76912">
+          <NODE1_ID>46380</NODE1_ID>
+          <NODE1_NAME>CosBibl</NODE1_NAME>
+          <NODE2_ID>71859</NODE2_ID>
+          <NODE2_NAME>nodoMarian</NODE2_NAME>
+          <KMS>0.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173625,40.120525 -0.171226,40.127746</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79523">
+          <NODE1_ID>74102</NODE1_ID>
+          <NODE1_NAME>cstalcora12</NODE1_NAME>
+          <NODE2_ID>46380</NODE2_ID>
+          <NODE2_NAME>CosBibl</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173868,40.120015 -0.173625,40.120525</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

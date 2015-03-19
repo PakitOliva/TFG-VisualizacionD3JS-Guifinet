@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.926486</gml:X><gml:Y>41.949688</gml:Y></gml:coord>
+<gml:coord><gml:X>3.174373</gml:X><gml:Y>41.986053</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="43878">
+          <NODE1_ID>46751</NODE1_ID>
+          <NODE1_NAME>PrtlldOverland</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>5.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.105049,41.972076 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55278">
+          <NODE1_ID>54981</NODE1_ID>
+          <NODE1_NAME>PrtlldCnFrigola</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>7.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.088961,41.975101 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62107">
+          <NODE1_ID>59919</NODE1_ID>
+          <NODE1_NAME>FrllcCaJony</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>8.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.075735,41.981032 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64292">
+          <NODE1_ID>61502</NODE1_ID>
+          <NODE1_NAME>FrllcCaVador</NODE1_NAME>
+          <NODE2_ID>46972</NODE2_ID>
+          <NODE2_NAME>PLSTRRocaPaloua</NODE2_NAME>
+          <KMS>1.753</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.093239,41.972334 3.103691,41.986053</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73903">
+          <NODE1_ID>46751</NODE1_ID>
+          <NODE1_NAME>PrtlldOverland</NODE1_NAME>
+          <NODE2_ID>46972</NODE2_ID>
+          <NODE2_NAME>PLSTRRocaPaloua</NODE2_NAME>
+          <KMS>1.557</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.105049,41.972076 3.103691,41.986053</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79966">
+          <NODE1_ID>47901</NODE1_ID>
+          <NODE1_NAME>SCliDPRectoria</NODE1_NAME>
+          <NODE2_ID>61677</NODE2_ID>
+          <NODE2_NAME>MdmPuigMagrana</NODE2_NAME>
+          <KMS>14.42</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.095006,41.949688 2.926486,41.981898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80981">
+          <NODE1_ID>47901</NODE1_ID>
+          <NODE1_NAME>SCliDPRectoria</NODE1_NAME>
+          <NODE2_ID>61677</NODE2_ID>
+          <NODE2_NAME>MdmPuigMagrana</NODE2_NAME>
+          <KMS>14.42</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.095006,41.949688 2.926486,41.981898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121835">
+          <NODE1_ID>50086</NODE1_ID>
+          <NODE1_NAME>FnttConstitucio5</NODE1_NAME>
+          <NODE2_ID>61677</NODE2_ID>
+          <NODE2_NAME>MdmPuigMagrana</NODE2_NAME>
+          <KMS>11.454</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.057911,41.950056 2.926486,41.981898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121836">
+          <NODE1_ID>54850</NODE1_ID>
+          <NODE1_NAME>SCliDPCanPere</NODE1_NAME>
+          <NODE2_ID>50086</NODE2_ID>
+          <NODE2_NAME>FnttConstitucio5</NODE2_NAME>
+          <KMS>2.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.075236,41.963682 3.057911,41.950056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

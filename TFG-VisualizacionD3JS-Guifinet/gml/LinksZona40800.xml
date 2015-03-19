@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.628662</gml:X><gml:Y>40.028669</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.428350</gml:X><gml:Y>40.073203</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="37783">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>41735</NODE2_ID>
+          <NODE2_NAME>CiratAyuntamiento</NODE2_NAME>
+          <KMS>2</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.462188,40.055205</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39072">
+          <NODE1_ID>42238</NODE1_ID>
+          <NODE1_NAME>AranuelAyunt</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.787</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482020,40.071590 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39088">
+          <NODE1_ID>42236</NODE1_ID>
+          <NODE1_NAME>Transformador</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.994</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.428730,40.062919 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40308">
+          <NODE1_ID>43875</NODE1_ID>
+          <NODE1_NAME>CiratSalinas3</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465229,40.053817 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40931">
+          <NODE1_ID>43893</NODE1_ID>
+          <NODE1_NAME>CiratRosaire6</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.464832,40.053821 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41940">
+          <NODE1_ID>45276</NODE1_ID>
+          <NODE1_NAME>AranuelBarrioCruces2</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481532,40.070732 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41960">
+          <NODE1_ID>45287</NODE1_ID>
+          <NODE1_NAME>CiratSanIsidro6</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462762,40.054966 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42166">
+          <NODE1_ID>45473</NODE1_ID>
+          <NODE1_NAME>CONDECIRAT7</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.971</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462579,40.055488 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42437">
+          <NODE1_ID>45677</NODE1_ID>
+          <NODE1_NAME>CIRATROSAIRE660102</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.466833,40.054441 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42444">
+          <NODE1_ID>45682</NODE1_ID>
+          <NODE1_NAME>CIRATMAYOR16</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.463585,40.054841 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43039">
+          <NODE1_ID>41735</NODE1_ID>
+          <NODE1_NAME>CiratAyuntamiento</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462188,40.055205 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43040">
+          <NODE1_ID>41736</NODE1_ID>
+          <NODE1_NAME>CiratCollado</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.002</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461206,40.055172 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43075">
+          <NODE1_ID>46187</NODE1_ID>
+          <NODE1_NAME>CIRATLASERAS07</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461437,40.056375 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43078">
+          <NODE1_ID>46192</NODE1_ID>
+          <NODE1_NAME>ciratprincipeespana7</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.464328,40.054453 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43655">
+          <NODE1_ID>46579</NODE1_ID>
+          <NODE1_NAME>ciratenriquepen25</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462480,40.054872 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43658">
+          <NODE1_ID>46580</NODE1_ID>
+          <NODE1_NAME>CIRATENRIQUEPENA38</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462284,40.054876 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44184">
+          <NODE1_ID>46975</NODE1_ID>
+          <NODE1_NAME>AranuelTransformador</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.841</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482406,40.070192 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44468">
+          <NODE1_ID>47102</NODE1_ID>
+          <NODE1_NAME>ciratsanantonio17</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.463561,40.053726 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44474">
+          <NODE1_ID>47104</NODE1_ID>
+          <NODE1_NAME>ciratmijares7</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461243,40.056165 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44524">
+          <NODE1_ID>47136</NODE1_ID>
+          <NODE1_NAME>ciratlavirgen1</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461378,40.055517 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44530">
+          <NODE1_ID>47138</NODE1_ID>
+          <NODE1_NAME>ciratenriquepena32</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.125</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462520,40.054671 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44539">
+          <NODE1_ID>47147</NODE1_ID>
+          <NODE1_NAME>ciratcondecirat1</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.983</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462863,40.055393 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45241">
+          <NODE1_ID>47717</NODE1_ID>
+          <NODE1_NAME>aranuelancha2</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.713</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481108,40.071278 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45998">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>48241</NODE2_ID>
+          <NODE2_NAME>CIRATERASCLOT14</NODE2_NAME>
+          <KMS>2.177</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.465127,40.053829</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46014">
+          <NODE1_ID>48247</NODE1_ID>
+          <NODE1_NAME>CIRATBARRIOALTO18</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.463802,40.054511 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46252">
+          <NODE1_ID>48418</NODE1_ID>
+          <NODE1_NAME>aranuelcolon21</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481457,40.070568 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46254">
+          <NODE1_ID>48422</NODE1_ID>
+          <NODE1_NAME>aranuelartejuela7</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482824,40.070818 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46256">
+          <NODE1_ID>35730</NODE1_ID>
+          <NODE1_NAME>PDeM-SantaBarbara</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>15.123</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.628662,40.028669 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47065">
+          <NODE1_ID>47115</NODE1_ID>
+          <NODE1_NAME>ciratenriquepena67</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.992</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.460696,40.055270 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47068">
+          <NODE1_ID>47708</NODE1_ID>
+          <NODE1_NAME>ciratpldelavirgen03</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.948</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461238,40.055660 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47415">
+          <NODE1_ID>49327</NODE1_ID>
+          <NODE1_NAME>CiratTransformador</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.460846,40.055876 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47955">
+          <NODE1_ID>49749</NODE1_ID>
+          <NODE1_NAME>ciratcastellon13</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.935</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461453,40.055776 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47972">
+          <NODE1_ID>48244</NODE1_ID>
+          <NODE1_NAME>CIRATJARAMACIL58</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.878</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.460691,40.056297 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47984">
+          <NODE1_ID>49787</NODE1_ID>
+          <NODE1_NAME>ciratjaramacil44</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.937</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461047,40.055762 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47992">
+          <NODE1_ID>49790</NODE1_ID>
+          <NODE1_NAME>ciratenriquepena33</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462230,40.054980 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48248">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>49954</NODE2_ID>
+          <NODE2_NAME>aranuelpurisima2</NODE2_NAME>
+          <KMS>1.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.481550,40.071757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48255">
+          <NODE1_ID>49958</NODE1_ID>
+          <NODE1_NAME>ciratrosaire10</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.464500,40.053972 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48269">
+          <NODE1_ID>49965</NODE1_ID>
+          <NODE1_NAME>ciratenmedio2</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462678,40.054864 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48455">
+          <NODE1_ID>50092</NODE1_ID>
+          <NODE1_NAME>ciratabuzeit2</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.463368,40.054938 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49276">
+          <NODE1_ID>50670</NODE1_ID>
+          <NODE1_NAME>TormoTorre</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>3.01</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.428350,40.063268 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49277">
+          <NODE1_ID>50671</NODE1_ID>
+          <NODE1_NAME>aranuelsantaquite24</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.854</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482663,40.070670 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49280">
+          <NODE1_ID>50675</NODE1_ID>
+          <NODE1_NAME>aranuelcruces5</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.88</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482933,40.070495 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49283">
+          <NODE1_ID>48224</NODE1_ID>
+          <NODE1_NAME>CIRATJARAMACIL67</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.912</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.460745,40.055989 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50083">
+          <NODE1_ID>51317</NODE1_ID>
+          <NODE1_NAME>CIRATELPUENTE4</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.932</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461522,40.055808 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51555">
+          <NODE1_ID>52461</NODE1_ID>
+          <NODE1_NAME>ARANUELCOLON46</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.786</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481783,40.070371 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51565">
+          <NODE1_ID>52468</NODE1_ID>
+          <NODE1_NAME>aranuelmayor20</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481306,40.071263 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51578">
+          <NODE1_ID>52473</NODE1_ID>
+          <NODE1_NAME>ciratcastellon5</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.946</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461719,40.055679 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52697">
+          <NODE1_ID>53239</NODE1_ID>
+          <NODE1_NAME>casamedico</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.871</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461712,40.056357 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52758">
+          <NODE1_ID>53287</NODE1_ID>
+          <NODE1_NAME>bibliotecacirat</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.996</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.463027,40.055287 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53630">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>53951</NODE2_ID>
+          <NODE2_NAME>CIRATMAYOR12</NODE2_NAME>
+          <KMS>2.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.463553,40.054745</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59589">
+          <NODE1_ID>49965</NODE1_ID>
+          <NODE1_NAME>ciratenmedio2</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462678,40.054864 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63840">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>61055</NODE2_ID>
+          <NODE2_NAME>CiratMayor11</NODE2_NAME>
+          <KMS>2.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.463319,40.054611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63934">
+          <NODE1_ID>61165</NODE1_ID>
+          <NODE1_NAME>arannueva17</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.802</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482119,40.071094 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63946">
+          <NODE1_ID>61178</NODE1_ID>
+          <NODE1_NAME>aracolon35</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.765</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481620,40.070756 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64054">
+          <NODE1_ID>61250</NODE1_ID>
+          <NODE1_NAME>aramayor2</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.751</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481572,40.071372 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64065">
+          <NODE1_ID>61263</NODE1_ID>
+          <NODE1_NAME>arapurisima11</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481797,40.071987 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64772">
+          <NODE1_ID>61888</NODE1_ID>
+          <NODE1_NAME>CIRATMAYOR6</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462233,40.055513 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64777">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>61898</NODE2_ID>
+          <NODE2_NAME>arventalaurel6</NODE2_NAME>
+          <KMS>1.807</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.482242,40.071487</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69328">
+          <NODE1_ID>40801</NODE1_ID>
+          <NODE1_NAME>CiratRepTv</NODE1_NAME>
+          <NODE2_ID>65335</NODE2_ID>
+          <NODE2_NAME>CIRMAYORS\N</NODE2_NAME>
+          <KMS>1.992</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461179,40.073203 -0.462453,40.055287</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70793">
+          <NODE1_ID>66424</NODE1_ID>
+          <NODE1_NAME>ARANUELNUEVA4</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.831</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.482524,40.071466 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73424">
+          <NODE1_ID>68784</NODE1_ID>
+          <NODE1_NAME>ciratsanvicente09</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.464658,40.054030 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75303">
+          <NODE1_ID>70168</NODE1_ID>
+          <NODE1_NAME>CIRATENRPENA21</NODE1_NAME>
+          <NODE2_ID>41736</NODE2_ID>
+          <NODE2_NAME>CiratCollado</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.462617,40.054760 -0.461206,40.055172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76578">
+          <NODE1_ID>71606</NODE1_ID>
+          <NODE1_NAME>aranuelcolon41</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>1.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.481800,40.070916 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79435">
+          <NODE1_ID>74023</NODE1_ID>
+          <NODE1_NAME>CIRATPRINCIPE13</NODE1_NAME>
+          <NODE2_ID>40801</NODE2_ID>
+          <NODE2_NAME>CiratRepTv</NODE2_NAME>
+          <KMS>2.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.464414,40.054382 -0.461179,40.073203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

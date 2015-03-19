@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.210508</gml:X><gml:Y>39.526670</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.660875</gml:X><gml:Y>39.965050</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="21939">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.093107,39.965050</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21939</NODE_ID>
+      <NODE_NAME>LOSILLA-JKHOME</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41334">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.210508,39.570406</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41334</NODE_ID>
+      <NODE_NAME>UTLcanal66</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45278">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.660875,39.526670</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45278</NODE_ID>
+      <NODE_NAME>garroferesdecolors</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61462">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.891097,39.657430</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61462</NODE_ID>
+      <NODE_NAME>ChuRod</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

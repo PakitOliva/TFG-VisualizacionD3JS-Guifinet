@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.017701</gml:X><gml:Y>42.319021</gml:Y></gml:coord>
+<gml:coord><gml:X>2.081021</gml:X><gml:Y>42.332965</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="46708">
+          <NODE1_ID>48790</NODE1_ID>
+          <NODE1_NAME>Fornells-CentreTelec</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>2.195</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.054502,42.320806 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49663">
+          <NODE1_ID>48744</NODE1_ID>
+          <NODE1_NAME>Toses-Ajuntament</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>3.035</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.017701,42.321643 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50151">
+          <NODE1_ID>48790</NODE1_ID>
+          <NODE1_NAME>Fornells-CentreTelec</NODE1_NAME>
+          <NODE2_ID>51387</NODE2_ID>
+          <NODE2_NAME>Fornells-JoanBern</NODE2_NAME>
+          <KMS>0.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.054502,42.320806 2.047668,42.323706</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51050">
+          <NODE1_ID>52097</NODE1_ID>
+          <NODE1_NAME>Fornells-Espinosa</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.638</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.048325,42.324265 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52702">
+          <NODE1_ID>53242</NODE1_ID>
+          <NODE1_NAME>Fornells-CanPep</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.658</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047298,42.323349 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58457">
+          <NODE1_ID>57359</NODE1_ID>
+          <NODE1_NAME>Fornells--CalPetit</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.72</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047496,42.324682 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58570">
+          <NODE1_ID>57434</NODE1_ID>
+          <NODE1_NAME>Fornells-LesEscoles</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.734</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047773,42.325138 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58578">
+          <NODE1_ID>48790</NODE1_ID>
+          <NODE1_NAME>Fornells-CentreTelec</NODE1_NAME>
+          <NODE2_ID>57437</NODE2_ID>
+          <NODE2_NAME>Fornells-CasaNova</NODE2_NAME>
+          <KMS>0.751</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.054502,42.320806 2.047486,42.325119</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64656">
+          <NODE1_ID>61798</NODE1_ID>
+          <NODE1_NAME>Fornells-CalFusteret</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.747</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047572,42.325141 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67313">
+          <NODE1_ID>63890</NODE1_ID>
+          <NODE1_NAME>Fornells-CalBertran</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.7</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.046662,42.323221 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67846">
+          <NODE1_ID>64274</NODE1_ID>
+          <NODE1_NAME>Dorria-CalCardenal</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>1.682</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.066661,42.332965 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76299">
+          <NODE1_ID>71398</NODE1_ID>
+          <NODE1_NAME>Fornells-CalRosa</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.693</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.048100,42.324856 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77018">
+          <NODE1_ID>71956</NODE1_ID>
+          <NODE1_NAME>Fornells-CalPubill</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.724</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047974,42.325161 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79617">
+          <NODE1_ID>74201</NODE1_ID>
+          <NODE1_NAME>Fornells-Juanjo</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047023,42.323489 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80870">
+          <NODE1_ID>75082</NODE1_ID>
+          <NODE1_NAME>Fornells-Rabat2</NODE1_NAME>
+          <NODE2_ID>48790</NODE2_ID>
+          <NODE2_NAME>Fornells-CentreTelec</NODE2_NAME>
+          <KMS>0.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047637,42.325167 2.054502,42.320806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

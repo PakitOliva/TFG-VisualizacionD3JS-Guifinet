@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.935764</gml:X><gml:Y>42.191088</gml:Y></gml:coord>
+<gml:coord><gml:X>3.041692</gml:X><gml:Y>42.352201</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="60572">
+          <NODE1_ID>24526</NODE1_ID>
+          <NODE1_NAME>VilarnadalDip</NODE1_NAME>
+          <NODE2_ID>12177</NODE2_ID>
+          <NODE2_NAME>GarrigasDip</NODE2_NAME>
+          <KMS>16.815</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.956135,42.342461 2.954459,42.191088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60573">
+          <NODE1_ID>24526</NODE1_ID>
+          <NODE1_NAME>VilarnadalDip</NODE1_NAME>
+          <NODE2_ID>55217</NODE2_ID>
+          <NODE2_NAME>CbnsCampanar</NODE2_NAME>
+          <KMS>4.298</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.956135,42.342461 2.977719,42.307239</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61888">
+          <NODE1_ID>59778</NODE1_ID>
+          <NODE1_NAME>VilarnadalJoan</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.954925,42.342305 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64124">
+          <NODE1_ID>24526</NODE1_ID>
+          <NODE1_NAME>VilarnadalDip</NODE1_NAME>
+          <NODE2_ID>61309</NODE2_ID>
+          <NODE2_NAME>VilarnadalGranjaFran</NODE2_NAME>
+          <KMS>1.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.956135,42.342461 2.944687,42.352201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65008">
+          <NODE1_ID>62125</NODE1_ID>
+          <NODE1_NAME>Vilarnadal-Serra8</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.954367,42.342265 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70045">
+          <NODE1_ID>65893</NODE1_ID>
+          <NODE1_NAME>PMS-CalsinaCarre</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>3.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.935764,42.317969 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70113">
+          <NODE1_ID>65927</NODE1_ID>
+          <NODE1_NAME>VMugadelamuga3</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>9.81</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.041692,42.281083 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70704">
+          <NODE1_ID>66344</NODE1_ID>
+          <NODE1_NAME>Vilarnadal-Cristina</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>0.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.953926,42.342526 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71727">
+          <NODE1_ID>67178</NODE1_ID>
+          <NODE1_NAME>VilarnadalStPere5</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.951349,42.342391 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73155">
+          <NODE1_ID>30877</NODE1_ID>
+          <NODE1_NAME>FgrsBruch18</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>9.555</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967121,42.256831 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122740">
+          <NODE1_ID>76645</NODE1_ID>
+          <NODE1_NAME>LlersMoreres43</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>4.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.949423,42.298226 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

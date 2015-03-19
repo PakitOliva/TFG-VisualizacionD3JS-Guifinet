@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.740760</gml:X><gml:Y>42.882965</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.694341</gml:X><gml:Y>42.923156</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="44074">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.740760,42.903745</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44074</NODE_ID>
+      <NODE_NAME>OsiSanLor17</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38520">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.704705,42.886284</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38520</NODE_ID>
+      <NODE_NAME>GrzDep</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38691">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.733442,42.908948</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38691</NODE_ID>
+      <NODE_NAME>OsiTrip</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40662">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.726077,42.923156</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40662</NODE_ID>
+      <NODE_NAME>BrbAgarrea</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44287">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.727674,42.922686</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44287</NODE_ID>
+      <NODE_NAME>BrbAginerena</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61368">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.731622,42.914849</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61368</NODE_ID>
+      <NODE_NAME>OsaSanCristobal8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62942">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.694341,42.882965</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62942</NODE_ID>
+      <NODE_NAME>esgu11</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

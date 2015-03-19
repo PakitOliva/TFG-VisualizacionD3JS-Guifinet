@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.050200</gml:X><gml:Y>43.202484</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.005309</gml:X><gml:Y>43.226303</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="54449">
+          <NODE1_ID>54397</NODE1_ID>
+          <NODE1_NAME>ANDGkPlzUdala-bis</NODE1_NAME>
+          <NODE2_ID>54285</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.020283,43.218930 -2.019982,43.219423</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58271">
+          <NODE1_ID>54285</NODE1_ID>
+          <NODE1_NAME>ANDGkPlzUdala</NODE1_NAME>
+          <NODE2_ID>54396</NODE2_ID>
+          <NODE2_NAME>ANDBelkoain</NODE2_NAME>
+          <KMS>1.989</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.019982,43.219423 -2.042599,43.226271</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59133">
+          <NODE1_ID>57849</NODE1_ID>
+          <NODE1_NAME>ANDBelkoainErr1</NODE1_NAME>
+          <NODE2_ID>54396</NODE2_ID>
+          <NODE2_NAME>ANDBelkoain</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.042556,43.226303 -2.042599,43.226271</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65511">
+          <NODE1_ID>56547</NODE1_ID>
+          <NODE1_NAME>ANDSorabillaEliza</NODE1_NAME>
+          <NODE2_ID>55112</NODE2_ID>
+          <NODE2_NAME>ADUNUdaletxea</NODE2_NAME>
+          <KMS>1.572</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.034456,43.212334 -2.050200,43.204111</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70216">
+          <NODE1_ID>54396</NODE1_ID>
+          <NODE1_NAME>ANDBelkoain</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>3.06</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.042599,43.226271 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70226">
+          <NODE1_ID>55112</NODE1_ID>
+          <NODE1_NAME>ADUNUdaletxea</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>2.188</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.050200,43.204111 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70401">
+          <NODE1_ID>65194</NODE1_ID>
+          <NODE1_NAME>ANDGoiburu</NODE1_NAME>
+          <NODE2_ID>66121</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu-bis</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.023351,43.202601 -2.023126,43.202484</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70402">
+          <NODE1_ID>66121</NODE1_ID>
+          <NODE1_NAME>ANDGoiburu-bis</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.023126,43.202484 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70551">
+          <NODE1_ID>54285</NODE1_ID>
+          <NODE1_NAME>ANDGkPlzUdala</NODE1_NAME>
+          <NODE2_ID>54397</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala-bis</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.019982,43.219423 -2.020283,43.218930</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70552">
+          <NODE1_ID>54397</NODE1_ID>
+          <NODE1_NAME>ANDGkPlzUdala-bis</NODE1_NAME>
+          <NODE2_ID>54285</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.020283,43.218930 -2.019982,43.219423</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74307">
+          <NODE1_ID>68998</NODE1_ID>
+          <NODE1_NAME>ANDSorabilla222</NODE1_NAME>
+          <NODE2_ID>56547</NODE2_ID>
+          <NODE2_NAME>ANDSorabillaEliza</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.035109,43.211969 -2.034456,43.212334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78964">
+          <NODE1_ID>54396</NODE1_ID>
+          <NODE1_NAME>ANDBelkoain</NODE1_NAME>
+          <NODE2_ID>71581</NODE2_ID>
+          <NODE2_NAME>ANDMimendi4</NODE2_NAME>
+          <KMS>1.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.042599,43.226271 -2.025287,43.222865</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79630">
+          <NODE1_ID>73920</NODE1_ID>
+          <NODE1_NAME>ANDMimendi2</NODE1_NAME>
+          <NODE2_ID>54396</NODE2_ID>
+          <NODE2_NAME>ANDBelkoain</NODE2_NAME>
+          <KMS>1.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.025185,43.222961 -2.042599,43.226271</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79959">
+          <NODE1_ID>74484</NODE1_ID>
+          <NODE1_NAME>ANDKaskabeltza</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>1.584</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.005309,43.207999 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80238">
+          <NODE1_ID>69685</NODE1_ID>
+          <NODE1_NAME>ANDGoikoPlaza3</NODE1_NAME>
+          <NODE2_ID>54285</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.020326,43.220424 -2.019982,43.219423</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80531">
+          <NODE1_ID>54285</NODE1_ID>
+          <NODE1_NAME>ANDGkPlzUdala</NODE1_NAME>
+          <NODE2_ID>74703</NODE2_ID>
+          <NODE2_NAME>ANDZumea32</NODE2_NAME>
+          <KMS>0.802</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.019982,43.219423 -2.024378,43.212963</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121751">
+          <NODE1_ID>74251</NODE1_ID>
+          <NODE1_NAME>ANDBerria38Pruebas</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>1.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.034944,43.212077 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121882">
+          <NODE1_ID>57899</NODE1_ID>
+          <NODE1_NAME>ANDGoiburu303</NODE1_NAME>
+          <NODE2_ID>54285</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala</NODE2_NAME>
+          <KMS>0.937</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.023432,43.211373 -2.019982,43.219423</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122266">
+          <NODE1_ID>54396</NODE1_ID>
+          <NODE1_NAME>ANDBelkoain</NODE1_NAME>
+          <NODE2_ID>76305</NODE2_ID>
+          <NODE2_NAME>ANDGoiburuGolf</NODE2_NAME>
+          <KMS>2.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.042599,43.226271 -2.028966,43.203294</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122468">
+          <NODE1_ID>65194</NODE1_ID>
+          <NODE1_NAME>ANDGoiburu</NODE1_NAME>
+          <NODE2_ID>56547</NODE2_ID>
+          <NODE2_NAME>ANDSorabillaEliza</NODE2_NAME>
+          <KMS>1.408</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.023351,43.202601 -2.034456,43.212334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122570">
+          <NODE1_ID>65194</NODE1_ID>
+          <NODE1_NAME>ANDGoiburu</NODE1_NAME>
+          <NODE2_ID>76136</NODE2_ID>
+          <NODE2_NAME>ANDBulanotxiki</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.023351,43.202601 -2.023855,43.202901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122663">
+          <NODE1_ID>76576</NODE1_ID>
+          <NODE1_NAME>ANDSanEsteban</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.023748,43.203806 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122909">
+          <NODE1_ID>76488</NODE1_ID>
+          <NODE1_NAME>ANDGoikoPlaza4</NODE1_NAME>
+          <NODE2_ID>54285</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.020218,43.220616 -2.019982,43.219423</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123391">
+          <NODE1_ID>76951</NODE1_ID>
+          <NODE1_NAME>ANDKarrika8</NODE1_NAME>
+          <NODE2_ID>56547</NODE2_ID>
+          <NODE2_NAME>ANDSorabillaEliza</NODE2_NAME>
+          <KMS>0.447</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.030371,43.209639 -2.034456,43.212334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123399">
+          <NODE1_ID>48441</NODE1_ID>
+          <NODE1_NAME>ANDBerria38</NODE1_NAME>
+          <NODE2_ID>54285</NODE2_ID>
+          <NODE2_NAME>ANDGkPlzUdala</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.021064,43.214770 -2.019982,43.219423</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123628">
+          <NODE1_ID>54285</NODE1_ID>
+          <NODE1_NAME>ANDGkPlzUdala</NODE1_NAME>
+          <NODE2_ID>77262</NODE2_ID>
+          <NODE2_NAME>NDkltxk2</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.019982,43.219423 -2.019235,43.220386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123695">
+          <NODE1_ID>56547</NODE1_ID>
+          <NODE1_NAME>ANDSorabillaEliza</NODE1_NAME>
+          <NODE2_ID>74473</NODE2_ID>
+          <NODE2_NAME>ANDSorabilla222test</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.034456,43.212334 -2.035126,43.212067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

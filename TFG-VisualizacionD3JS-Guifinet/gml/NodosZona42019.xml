@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.123422</gml:X><gml:Y>41.970224</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.126160</gml:X><gml:Y>41.975337</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="42020">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.125181,41.973515</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42020</NODE_ID>
+      <NODE_NAME>SFBD</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42918">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.126160,41.970224</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42918</NODE_ID>
+      <NODE_NAME>SFBVilademunt26</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47212">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.123422,41.975337</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47212</NODE_ID>
+      <NODE_NAME>SFBViladeVall60</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

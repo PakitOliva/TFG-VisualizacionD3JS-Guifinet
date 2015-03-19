@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.403269</gml:X><gml:Y>43.000794</gml:Y></gml:coord>
+      <gml:coord><gml:X>-4.198617</gml:X><gml:Y>43.037731</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="57647">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.270830,43.001804</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57647</NODE_ID>
+      <NODE_NAME>MazaCo1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56156">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.225659,43.022580</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56156</NODE_ID>
+      <NODE_NAME>Espinprueba</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61492">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.403269,43.037731</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61492</NODE_ID>
+      <NODE_NAME>ED1YAQ</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43676">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.222333,43.022345</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43676</NODE_ID>
+      <NODE_NAME>ESPINRepetidor</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48990">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.226207,43.021914</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48990</NODE_ID>
+      <NODE_NAME>ESPINTorre</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48993">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.203944,43.033500</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48993</NODE_ID>
+      <NODE_NAME>ARGUECastillo</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48994">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.264972,43.019561</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48994</NODE_ID>
+      <NODE_NAME>VILLARTelecentro</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52711">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.225799,43.022164</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52711</NODE_ID>
+      <NODE_NAME>ESPINTelecentro</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48996">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.234493,43.029162</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48996</NODE_ID>
+      <NODE_NAME>ORMASSupernodo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48997">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.250069,43.032426</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48997</NODE_ID>
+      <NODE_NAME>PROANdeposito</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52710">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.269132,43.009189</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52710</NODE_ID>
+      <NODE_NAME>MAZAcamping</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49002">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.213776,43.017674</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49002</NODE_ID>
+      <NODE_NAME>PARASanandres</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49006">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.285809,43.010640</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49006</NODE_ID>
+      <NODE_NAME>LOMBACV</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56062">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.289732,43.017968</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56062</NODE_ID>
+      <NODE_NAME>ABIADAPRUEB</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53871">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271839,43.004388</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53871</NODE_ID>
+      <NODE_NAME>MAZAleo26</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52728">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.225724,43.021607</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52728</NODE_ID>
+      <NODE_NAME>ESPINNodo1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52750">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271793,43.004270</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52750</NODE_ID>
+      <NODE_NAME>MAZAParque</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52804">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.289775,43.011822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52804</NODE_ID>
+      <NODE_NAME>LOMBADeposito</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52819">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254638,43.029725</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52819</NODE_ID>
+      <NODE_NAME>PROANIglesia</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52946">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.289684,43.011859</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52946</NODE_ID>
+      <NODE_NAME>LOMBANodo1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53750">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.283139,43.009794</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53750</NODE_ID>
+      <NODE_NAME>ENTRARedonda</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53751">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.280441,43.019435</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53751</NODE_ID>
+      <NODE_NAME>HOZALlana</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53858">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.273671,43.013166</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53858</NODE_ID>
+      <NODE_NAME>RIANOSupernodo</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54416">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.202909,43.032596</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54416</NODE_ID>
+      <NODE_NAME>laprueba</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55404">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.255314,43.029192</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55404</NODE_ID>
+      <NODE_NAME>PROANOCERCAO</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55032">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271278,43.002568</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55032</NODE_ID>
+      <NODE_NAME>MazaFu5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55040">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271042,43.002670</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55040</NODE_ID>
+      <NODE_NAME>MazaFu11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55065">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.198617,43.031937</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55065</NODE_ID>
+      <NODE_NAME>ARGUES45</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55322">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.269948,43.001901</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55322</NODE_ID>
+      <NODE_NAME>MazaFu39</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55328">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.251929,43.029639</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55328</NODE_ID>
+      <NODE_NAME>PROANOASOC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55421">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254949,43.029443</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55421</NODE_ID>
+      <NODE_NAME>PROANOELENA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55426">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.253790,43.029514</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55426</NODE_ID>
+      <NODE_NAME>PROANOJOSE</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55611">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.201133,43.030894</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55611</NODE_ID>
+      <NODE_NAME>ARGUE64</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56001">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.249617,43.030196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56001</NODE_ID>
+      <NODE_NAME>PROANOCEFER</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56004">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254273,43.029686</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56004</NODE_ID>
+      <NODE_NAME>PROANOBENITO</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56005">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.255078,43.029389</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56005</NODE_ID>
+      <NODE_NAME>PROANOMERCHE</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56492">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254155,43.029765</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56492</NODE_ID>
+      <NODE_NAME>PROANOANTONIO</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57180">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.273016,43.004718</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57180</NODE_ID>
+      <NODE_NAME>Mazamos38</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57633">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.213911,43.017450</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57633</NODE_ID>
+      <NODE_NAME>Paramol30</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58229">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.290593,43.018592</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58229</NODE_ID>
+      <NODE_NAME>ABIAPRU2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58238">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271391,43.006728</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58238</NODE_ID>
+      <NODE_NAME>MAZAMOS1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58471">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271262,43.002256</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58471</NODE_ID>
+      <NODE_NAME>MazaFu4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58474">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271875,43.004231</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58474</NODE_ID>
+      <NODE_NAME>MazaFu34</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58514">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.287732,43.011260</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58514</NODE_ID>
+      <NODE_NAME>LombaPru</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59031">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.245578,43.015081</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59031</NODE_ID>
+      <NODE_NAME>NAVEDAPRU</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59092">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.272389,43.000794</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59092</NODE_ID>
+      <NODE_NAME>MazaFu</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59415">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224962,43.023514</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59415</NODE_ID>
+      <NODE_NAME>EspinMol76</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59489">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254622,43.029429</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59489</NODE_ID>
+      <NODE_NAME>PROANJOSER</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59488">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254724,43.029592</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59488</NODE_ID>
+      <NODE_NAME>PROANPRU1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59887">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.202695,43.032422</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59887</NODE_ID>
+      <NODE_NAME>ARGUE12</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59638">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.226301,43.021109</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59638</NODE_ID>
+      <NODE_NAME>ESPINctra67</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60058">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254987,43.029583</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60058</NODE_ID>
+      <NODE_NAME>PROANRAMON</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60124">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.246329,43.029787</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60124</NODE_ID>
+      <NODE_NAME>PROANTORRE</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60228">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.255899,43.029356</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60228</NODE_ID>
+      <NODE_NAME>PROANFELI</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60357">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.256360,43.029136</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60357</NODE_ID>
+      <NODE_NAME>PROANRIC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60505">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271351,43.002986</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60505</NODE_ID>
+      <NODE_NAME>MAZARIB13</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60522">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.226330,43.019356</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60522</NODE_ID>
+      <NODE_NAME>EspinMar57</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60538">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.199342,43.032286</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60538</NODE_ID>
+      <NODE_NAME>ArguePont47</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60564">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.250475,43.030078</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60564</NODE_ID>
+      <NODE_NAME>ProanSor23</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60656">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.279969,43.017211</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60656</NODE_ID>
+      <NODE_NAME>HozRiNie</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60766">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.281020,43.009411</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60766</NODE_ID>
+      <NODE_NAME>EntraPort5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60971">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.278338,43.017129</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60971</NODE_ID>
+      <NODE_NAME>HozAbBer</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61265">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224603,43.021591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61265</NODE_ID>
+      <NODE_NAME>EspinMol</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61266">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224603,43.021591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61266</NODE_ID>
+      <NODE_NAME>EspinMol1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61298">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.271901,43.004531</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61298</NODE_ID>
+      <NODE_NAME>MazaFusn</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61813">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224243,43.024196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61813</NODE_ID>
+      <NODE_NAME>spnMl95</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63500">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.254698,43.029850</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63500</NODE_ID>
+      <NODE_NAME>PROANJAVI</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64804">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.224180,43.024068</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64804</NODE_ID>
+      <NODE_NAME>Espin95</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

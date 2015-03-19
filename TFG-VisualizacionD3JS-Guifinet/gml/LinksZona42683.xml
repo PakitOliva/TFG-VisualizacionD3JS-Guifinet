@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.064552</gml:X><gml:Y>38.733859</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.008417</gml:X><gml:Y>38.760508</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="38766">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>42735</NODE2_ID>
+          <NODE2_NAME>AlcaliAjuntament</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.041129,38.749492</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41722">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>45065</NODE2_ID>
+          <NODE2_NAME>AJXaloBiblioMun</NODE2_NAME>
+          <KMS>2.967</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.008417,38.742461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43104">
+          <NODE1_ID>45933</NODE1_ID>
+          <NODE1_NAME>AlcaliBiblio</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.042077,38.749994 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43105">
+          <NODE1_ID>45932</NODE1_ID>
+          <NODE1_NAME>AlcaliForn28</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040399,38.748722 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43106">
+          <NODE1_ID>46127</NODE1_ID>
+          <NODE1_NAME>AlcaliCCivic</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.038586,38.750121 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43584">
+          <NODE1_ID>46368</NODE1_ID>
+          <NODE1_NAME>AlcaliMajor21</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040759,38.749750 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43922">
+          <NODE1_ID>46804</NODE1_ID>
+          <NODE1_NAME>AlcaliVillage14a</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.049736,38.753740 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44891">
+          <NODE1_ID>47433</NODE1_ID>
+          <NODE1_NAME>AlcaliVPark21</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.525</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.047061,38.748436 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44928">
+          <NODE1_ID>47444</NODE1_ID>
+          <NODE1_NAME>AlcaliMajor14</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040886,38.749786 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44944">
+          <NODE1_ID>47456</NODE1_ID>
+          <NODE1_NAME>AlcaliVillage14d</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.859</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.049798,38.753631 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45669">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>48031</NODE2_ID>
+          <NODE2_NAME>AlcaliCAlcali27</NODE2_NAME>
+          <KMS>0.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.042014,38.756970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45921">
+          <NODE1_ID>48182</NODE1_ID>
+          <NODE1_NAME>AlcaliNou20</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040853,38.749143 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46249">
+          <NODE1_ID>48386</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana65</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.818</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.046107,38.756066 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46567">
+          <NODE1_ID>48720</NODE1_ID>
+          <NODE1_NAME>AlcaliBarranquera1</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.518</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040717,38.745100 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48025">
+          <NODE1_ID>49793</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara40b</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.958</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.030534,38.751758 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48392">
+          <NODE1_ID>50042</NODE1_ID>
+          <NODE1_NAME>AlcaliPartMosquera</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.044738,38.733859 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48825">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>2.069</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49042">
+          <NODE1_ID>50490</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana42</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.972</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.049693,38.755489 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50172">
+          <NODE1_ID>51410</NODE1_ID>
+          <NODE1_NAME>xaloAlmazara43</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029877,38.752013 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51095">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>52132</NODE2_ID>
+          <NODE2_NAME>CSol</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.040994,38.749927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51657">
+          <NODE1_ID>52319</NODE1_ID>
+          <NODE1_NAME>AlcaliCarrOrba</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.59</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.045735,38.753736 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52433">
+          <NODE1_ID>53081</NODE1_ID>
+          <NODE1_NAME>ParPou3</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>2.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064217,38.744531 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52518">
+          <NODE1_ID>53142</NODE1_ID>
+          <NODE1_NAME>AlcalaliCalRom31</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.395</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.044133,38.752506 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53094">
+          <NODE1_ID>53554</NODE1_ID>
+          <NODE1_NAME>AlcaliComRegants</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039777,38.749857 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54612">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>54548</NODE2_ID>
+          <NODE2_NAME>AlcaliVillage22</NODE2_NAME>
+          <KMS>0.861</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.049920,38.753508</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55401">
+          <NODE1_ID>54859</NODE1_ID>
+          <NODE1_NAME>AlcaliVallPop8</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039555,38.748615 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55709">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>55383</NODE2_ID>
+          <NODE2_NAME>AlcaliCalRom33</NODE2_NAME>
+          <KMS>0.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.044502,38.753169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55923">
+          <NODE1_ID>52009</NODE1_ID>
+          <NODE1_NAME>AlcaliBarToni</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041298,38.749760 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56024">
+          <NODE1_ID>55532</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana31</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.943</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.048792,38.755854 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56408">
+          <NODE1_ID>55783</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara62</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029921,38.752807 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56841">
+          <NODE1_ID>56147</NODE1_ID>
+          <NODE1_NAME>AlcaliEdifMultiusos</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.406</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041040,38.753404 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57060">
+          <NODE1_ID>56339</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara1</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029652,38.751277 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57104">
+          <NODE1_ID>56380</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara44</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029657,38.752103 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57339">
+          <NODE1_ID>56514</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso90</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>2.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012255,38.753813 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57978">
+          <NODE1_ID>56992</NODE1_ID>
+          <NODE1_NAME>Passeig18</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.044230,38.752280 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58544">
+          <NODE1_ID>47110</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana9</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.047330,38.755865 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60785">
+          <NODE1_ID>59004</NODE1_ID>
+          <NODE1_NAME>AlcaliBenarrGarden94</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039658,38.759977 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61764">
+          <NODE1_ID>59694</NODE1_ID>
+          <NODE1_NAME>AlcaliNou26</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040586,38.749204 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63006">
+          <NODE1_ID>52070</NODE1_ID>
+          <NODE1_NAME>AlcaliCalcali28</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.833</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041886,38.757234 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63090">
+          <NODE1_ID>58352</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana68</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>2.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.045065,38.755989 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63582">
+          <NODE1_ID>57052</NODE1_ID>
+          <NODE1_NAME>AlcaliLlosa5</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.687</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.036792,38.754854 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65127">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>62225</NODE2_ID>
+          <NODE2_NAME>AlcaliPalmito2</NODE2_NAME>
+          <KMS>0.583</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.041395,38.754999</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66322">
+          <NODE1_ID>63050</NODE1_ID>
+          <NODE1_NAME>AlcaliBenarrGard100</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039414,38.759268 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67638">
+          <NODE1_ID>64142</NODE1_ID>
+          <NODE1_NAME>AlcaliMajor23c</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039308,38.749685 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67641">
+          <NODE1_ID>64145</NODE1_ID>
+          <NODE1_NAME>AlcaliSolanaGarden</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.76</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.039273,38.756414 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67950">
+          <NODE1_ID>64276</NODE1_ID>
+          <NODE1_NAME>AlcaliCAlcali2</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.040472,38.757173 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70677">
+          <NODE1_ID>66300</NODE1_ID>
+          <NODE1_NAME>AlcaliVPark16</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.505</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.046886,38.748640 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71316">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>66868</NODE2_ID>
+          <NODE2_NAME>AlcaliSolana69</NODE2_NAME>
+          <KMS>2.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.044884,38.755870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73980">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>69221</NODE2_ID>
+          <NODE2_NAME>AlcaliMajor38B</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.039040,38.749496</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75795">
+          <NODE1_ID>70573</NODE1_ID>
+          <NODE1_NAME>XaloTaraza3</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.030942,38.742723 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78457">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>73198</NODE2_ID>
+          <NODE2_NAME>AlcaliMargarites2</NODE2_NAME>
+          <KMS>0.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.046432,38.754395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79128">
+          <NODE1_ID>73687</NODE1_ID>
+          <NODE1_NAME>AlcaliLosAlgarrob13</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.578</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.038705,38.754555 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79598">
+          <NODE1_ID>74187</NODE1_ID>
+          <NODE1_NAME>AlcaliSolana71</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>2.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.044876,38.755555 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121543">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>60038</NODE2_ID>
+          <NODE2_NAME>AlcaliBenarrGarden81</NODE2_NAME>
+          <KMS>1.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.040185,38.760508</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121978">
+          <NODE1_ID>76127</NODE1_ID>
+          <NODE1_NAME>AlcaliEncina7</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.734</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.037632,38.755723 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

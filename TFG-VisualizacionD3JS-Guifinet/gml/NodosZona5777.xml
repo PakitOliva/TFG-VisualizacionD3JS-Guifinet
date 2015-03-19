@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.434343</gml:X><gml:Y>41.671590</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.479203</gml:X><gml:Y>41.700000</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="5871">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.442730,41.696201</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>5871</NODE_ID>
+      <NODE_NAME>PalauT-MCervera</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="5956">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.435180,41.687418</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>5956</NODE_ID>
+      <NODE_NAME>PalauT-Joan</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31087">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.455064,41.680555</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31087</NODE_ID>
+      <NODE_NAME>CanPaga-CanMach</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29958">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.450000,41.700000</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29958</NODE_ID>
+      <NODE_NAME>Srg1771</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35206">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.434343,41.694159</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35206</NODE_ID>
+      <NODE_NAME>JordiSu</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36319">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.445099,41.699010</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36319</NODE_ID>
+      <NODE_NAME>PalauTFlu11</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40324">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.479203,41.684559</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40324</NODE_ID>
+      <NODE_NAME>SMarDPVega</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76992">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.460074,41.680150</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76992</NODE_ID>
+      <NODE_NAME>SMarDPCanPaga</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52419">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.434979,41.671590</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52419</NODE_ID>
+      <NODE_NAME>Jawaka</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71726">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.439525,41.687798</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71726</NODE_ID>
+      <NODE_NAME>SMarDPGrnllers20</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

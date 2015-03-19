@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>41.971081</gml:Y></gml:coord>
+<gml:coord><gml:X>3.145223</gml:X><gml:Y>42.272740</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="17599">
+          <NODE1_ID>22115</NODE1_ID>
+          <NODE1_NAME>LLad-Teulera</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>10.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.829419,42.250076 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22417">
+          <NODE1_ID>27397</NODE1_ID>
+          <NODE1_NAME>Llado-Torre</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>0.671</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813911,42.248868 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22418">
+          <NODE1_ID>14154</NODE1_ID>
+          <NODE1_NAME>lladoalusur</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813197,42.249053 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22420">
+          <NODE1_ID>27481</NODE1_ID>
+          <NODE1_NAME>llad-canserra</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>0.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.807742,42.254427 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22607">
+          <NODE1_ID>27398</NODE1_ID>
+          <NODE1_NAME>LldCnxcmrl</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.814243,42.249036 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22673">
+          <NODE1_ID>27309</NODE1_ID>
+          <NODE1_NAME>Llado-Pujol</NODE1_NAME>
+          <NODE2_ID>27897</NODE2_ID>
+          <NODE2_NAME>CstllLaFabrega</NODE2_NAME>
+          <KMS>3.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.809217,42.253799 2.849718,42.247553</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22685">
+          <NODE1_ID>27309</NODE1_ID>
+          <NODE1_NAME>Llado-Pujol</NODE1_NAME>
+          <NODE2_ID>27238</NODE2_ID>
+          <NODE2_NAME>NVTCampanar</NODE2_NAME>
+          <KMS>5.435</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.809217,42.253799 2.861289,42.223856</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23094">
+          <NODE1_ID>28082</NODE1_ID>
+          <NODE1_NAME>LladPlaVi11</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.531</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.807586,42.247989 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23196">
+          <NODE1_ID>28408</NODE1_ID>
+          <NODE1_NAME>LladPujol9</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.807887,42.254552 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23685">
+          <NODE1_ID>28870</NODE1_ID>
+          <NODE1_NAME>LldCampanar</NODE1_NAME>
+          <NODE2_ID>28872</NODE2_ID>
+          <NODE2_NAME>LldAjuntament</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813814,42.249204 2.813589,42.248021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23687">
+          <NODE1_ID>28870</NODE1_ID>
+          <NODE1_NAME>LldCampanar</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>0.636</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813814,42.249204 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24585">
+          <NODE1_ID>29870</NODE1_ID>
+          <NODE1_NAME>LldCnoves9</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813031,42.249241 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24760">
+          <NODE1_ID>30073</NODE1_ID>
+          <NODE1_NAME>LLado-La_Feixa</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.337</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.811569,42.246383 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24799">
+          <NODE1_ID>30107</NODE1_ID>
+          <NODE1_NAME>CllDGmr</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>5.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.766623,42.272740 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25139">
+          <NODE1_ID>27397</NODE1_ID>
+          <NODE1_NAME>Llado-Torre</NODE1_NAME>
+          <NODE2_ID>24514</NODE2_ID>
+          <NODE2_NAME>Cbn-Can_Pou</NODE2_NAME>
+          <KMS>3.868</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813911,42.248868 2.831931,42.216722</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26860">
+          <NODE1_ID>27309</NODE1_ID>
+          <NODE1_NAME>Llado-Pujol</NODE1_NAME>
+          <NODE2_ID>32190</NODE2_ID>
+          <NODE2_NAME>EscMarina</NODE2_NAME>
+          <KMS>31.006</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.809217,42.253799 3.137605,42.118611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27481">
+          <NODE1_ID>32835</NODE1_ID>
+          <NODE1_NAME>Lldcasesnoves</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813230,42.249138 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28167">
+          <NODE1_ID>33506</NODE1_ID>
+          <NODE1_NAME>Lladcnou25</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>0.599</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.802007,42.254441 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31396">
+          <NODE1_ID>27397</NODE1_ID>
+          <NODE1_NAME>Llado-Torre</NODE1_NAME>
+          <NODE2_ID>35883</NODE2_ID>
+          <NODE2_NAME>LladPDelV9</NODE2_NAME>
+          <KMS>0.458</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813911,42.248868 2.808938,42.247046</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34056">
+          <NODE1_ID>35635</NODE1_ID>
+          <NODE1_NAME>Lldbesalu14</NODE1_NAME>
+          <NODE2_ID>27397</NODE2_ID>
+          <NODE2_NAME>Llado-Torre</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.812245,42.247134 2.813911,42.248868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34328">
+          <NODE1_ID>39095</NODE1_ID>
+          <NODE1_NAME>CbnCnMagi</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>2.735</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820123,42.230544 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39062">
+          <NODE1_ID>42962</NODE1_ID>
+          <NODE1_NAME>LladFig35</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>5.976</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.816359,42.247875 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39184">
+          <NODE1_ID>34014</NODE1_ID>
+          <NODE1_NAME>LladAforesMarc</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>5.943</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.821485,42.256095 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40838">
+          <NODE1_ID>30124</NODE1_ID>
+          <NODE1_NAME>LldMasBorgonyo</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>6.693</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820509,42.267476 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43237">
+          <NODE1_ID>46312</NODE1_ID>
+          <NODE1_NAME>LladEmporda11</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>5.843</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.817414,42.246368 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43355">
+          <NODE1_ID>34875</NODE1_ID>
+          <NODE1_NAME>LldCnabosc</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>6.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820450,42.267519 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56482">
+          <NODE1_ID>27397</NODE1_ID>
+          <NODE1_NAME>Llado-Torre</NODE1_NAME>
+          <NODE2_ID>55584</NODE2_ID>
+          <NODE2_NAME>LLadSer15</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813911,42.248868 2.812208,42.246118</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58718">
+          <NODE1_ID>9170</NODE1_ID>
+          <NODE1_NAME>AlbMMont</NODE1_NAME>
+          <NODE2_ID>57502</NODE2_ID>
+          <NODE2_NAME>LldMasOlives</NODE2_NAME>
+          <KMS>7.821</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.706790,42.258552 2.801117,42.265515</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70642">
+          <NODE1_ID>64600</NODE1_ID>
+          <NODE1_NAME>LldCanPares</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>6.696</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820480,42.267505 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74409">
+          <NODE1_ID>69524</NODE1_ID>
+          <NODE1_NAME>LLadoCanpins</NODE1_NAME>
+          <NODE2_ID>27309</NODE2_ID>
+          <NODE2_NAME>Llado-Pujol</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.807854,42.254487 2.809217,42.253799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74411">
+          <NODE1_ID>69524</NODE1_ID>
+          <NODE1_NAME>LLadoCanpins</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>42.065</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.807854,42.254487 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74469">
+          <NODE1_ID>27309</NODE1_ID>
+          <NODE1_NAME>Llado-Pujol</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>8.469</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.809217,42.253799 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79125">
+          <NODE1_ID>73685</NODE1_ID>
+          <NODE1_NAME>LldCalEscola</NODE1_NAME>
+          <NODE2_ID>38341</NODE2_ID>
+          <NODE2_NAME>CstllCanPou</NODE2_NAME>
+          <KMS>0.463</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820478,42.267442 2.824279,42.264374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121738">
+          <NODE1_ID>46808</NODE1_ID>
+          <NODE1_NAME>LladSerr28</NODE1_NAME>
+          <NODE2_ID>27238</NODE2_ID>
+          <NODE2_NAME>NVTCampanar</NODE2_NAME>
+          <KMS>4.689</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.812256,42.245177 2.861289,42.223856</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122245">
+          <NODE1_ID>30733</NODE1_ID>
+          <NODE1_NAME>OrdisAeroclub</NODE1_NAME>
+          <NODE2_ID>76290</NODE2_ID>
+          <NODE2_NAME>LladoSerrallo37</NODE2_NAME>
+          <KMS>6.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.885149,42.231092 2.812449,42.245275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122846">
+          <NODE1_ID>76728</NODE1_ID>
+          <NODE1_NAME>LldStLlorenc10</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>6.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.813973,42.249580 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123565">
+          <NODE1_ID>77230</NODE1_ID>
+          <NODE1_NAME>LldMont28</NODE1_NAME>
+          <NODE2_ID>27238</NODE2_ID>
+          <NODE2_NAME>NVTCampanar</NODE2_NAME>
+          <KMS>4.654</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.812229,42.244505 2.861289,42.223856</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

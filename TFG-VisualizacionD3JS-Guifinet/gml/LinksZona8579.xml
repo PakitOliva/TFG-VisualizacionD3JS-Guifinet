@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.115501</gml:X><gml:Y>41.549252</gml:Y></gml:coord>
+<gml:coord><gml:X>1.240468</gml:X><gml:Y>41.575649</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="48562">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>38140</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Localsocial</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.139502,41.561795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48585">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48589">
+          <NODE1_ID>38140</NODE1_ID>
+          <NODE1_NAME>Ctdlla-Localsocial</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139502,41.561795 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48603">
+          <NODE1_ID>47372</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalMarques</NODE1_NAME>
+          <NODE2_ID>38140</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Localsocial</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.140998,41.561087 1.139502,41.561795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48971">
+          <NODE1_ID>50428</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaRamona</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.058</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138956,41.561056 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48998">
+          <NODE1_ID>47354</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalManuelPet</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.006</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139494,41.561334 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49204">
+          <NODE1_ID>47370</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalNasset</NODE1_NAME>
+          <NODE2_ID>38140</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Localsocial</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139883,41.561880 1.139502,41.561795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49399">
+          <NODE1_ID>50428</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaRamona</NODE1_NAME>
+          <NODE2_ID>47371</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalAnima</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138956,41.561056 1.140142,41.560505</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49400">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>47357</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPinyol</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.138187,41.562161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49401">
+          <NODE1_ID>50428</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaRamona</NODE1_NAME>
+          <NODE2_ID>47361</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalFederico</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138956,41.561056 1.139338,41.561221</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49402">
+          <NODE1_ID>50428</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaRamona</NODE1_NAME>
+          <NODE2_ID>47362</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalSoy</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138956,41.561056 1.139140,41.561017</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49403">
+          <NODE1_ID>50428</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaRamona</NODE1_NAME>
+          <NODE2_ID>47364</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalMorera</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138956,41.561056 1.139939,41.560481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49404">
+          <NODE1_ID>47368</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalQuim</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139188,41.560679 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49405">
+          <NODE1_ID>47366</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalIgnasi</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138775,41.561382 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49465">
+          <NODE1_ID>38140</NODE1_ID>
+          <NODE1_NAME>Ctdlla-Localsocial</NODE1_NAME>
+          <NODE2_ID>47358</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalBallador</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139502,41.561795 1.138946,41.561860</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49466">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>47365</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaMargarita</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.138458,41.562223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49470">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>47367</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalSebastia</NODE2_NAME>
+          <KMS>0.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.138530,41.562161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49473">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>50433</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalTrilla</NODE2_NAME>
+          <KMS>0.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.138411,41.561739</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49474">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>50434</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalHortolaPob</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.138007,41.561584</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49475">
+          <NODE1_ID>50435</NODE1_ID>
+          <NODE1_NAME>Ctdlla-Boixos</NODE1_NAME>
+          <NODE2_ID>50432</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalNillo</NODE2_NAME>
+          <KMS>1.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.151171,41.549252 1.141034,41.560242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49478">
+          <NODE1_ID>9210</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalPetit</NODE1_NAME>
+          <NODE2_ID>47356</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CasaMetge</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139501,41.561385 1.139786,41.561103</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49479">
+          <NODE1_ID>9210</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalPetit</NODE1_NAME>
+          <NODE2_ID>47369</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPaciano</NODE2_NAME>
+          <KMS>0.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139501,41.561385 1.140226,41.561223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49480">
+          <NODE1_ID>50436</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalFreixador</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139715,41.561267 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49483">
+          <NODE1_ID>50437</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CasaMetge2</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139830,41.561092 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49486">
+          <NODE1_ID>50438</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaXata</NODE1_NAME>
+          <NODE2_ID>38140</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Localsocial</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139758,41.561450 1.139502,41.561795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49487">
+          <NODE1_ID>50440</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaFusteria</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138489,41.561713 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50108">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>38519</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Piscines</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.136425,41.562806</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54233">
+          <NODE1_ID>54314</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalEsteve</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139166,41.561404 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54255">
+          <NODE1_ID>54336</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalJoanCastro</NODE1_NAME>
+          <NODE2_ID>50432</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalNillo</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.140396,41.560886 1.141034,41.560242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56690">
+          <NODE1_ID>56043</NODE1_ID>
+          <NODE1_NAME>NalecCalPau</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>1.96</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.115501,41.560087 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58582">
+          <NODE1_ID>57441</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalQuirra</NODE1_NAME>
+          <NODE2_ID>47363</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalBonico</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137525,41.561735 1.137289,41.562317</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60023">
+          <NODE1_ID>47359</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalCorcellas</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.140974,41.561737 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61295">
+          <NODE1_ID>36895</NODE1_ID>
+          <NODE1_NAME>AmetllaCalPerello</NODE1_NAME>
+          <NODE2_ID>59277</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Diposits</NODE2_NAME>
+          <KMS>8.236</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.240468,41.575649 1.143962,41.559964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61305">
+          <NODE1_ID>47372</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalMarques</NODE1_NAME>
+          <NODE2_ID>59277</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Diposits</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.140998,41.561087 1.143962,41.559964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62268">
+          <NODE1_ID>38518</NODE1_ID>
+          <NODE1_NAME>Ctdlla-Ajuntament</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139121,41.561530 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63988">
+          <NODE1_ID>61190</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalEscola</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139968,41.560889 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66874">
+          <NODE1_ID>63483</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBaltasar</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139633,41.560446 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66876">
+          <NODE1_ID>63488</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalGarrut</NODE1_NAME>
+          <NODE2_ID>50428</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CaLaRamona</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139362,41.561289 1.138956,41.561056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72599">
+          <NODE1_ID>67898</NODE1_ID>
+          <NODE1_NAME>Ctdlla-GranjaManuel</NODE1_NAME>
+          <NODE2_ID>50432</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalNillo</NODE2_NAME>
+          <KMS>0.304</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.141669,41.557546 1.141034,41.560242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72775">
+          <NODE1_ID>50437</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CasaMetge2</NODE1_NAME>
+          <NODE2_ID>9210</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalPetit</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.139830,41.561092 1.139501,41.561385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75322">
+          <NODE1_ID>70170</NODE1_ID>
+          <NODE1_NAME>Ctdll-CalSabate</NODE1_NAME>
+          <NODE2_ID>38140</NODE2_ID>
+          <NODE2_NAME>Ctdlla-Localsocial</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.140721,41.561745 1.139502,41.561795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75323">
+          <NODE1_ID>70181</NODE1_ID>
+          <NODE1_NAME>Ctdlla-GranjaCrua</NODE1_NAME>
+          <NODE2_ID>47363</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalBonico</NODE2_NAME>
+          <KMS>0.716</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.145555,41.564040 1.137289,41.562317</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75324">
+          <NODE1_ID>70182</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalPanxo</NODE1_NAME>
+          <NODE2_ID>47363</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalBonico</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138674,41.562086 1.137289,41.562317</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76131">
+          <NODE1_ID>50428</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CaLaRamona</NODE1_NAME>
+          <NODE2_ID>70917</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalValls</NODE2_NAME>
+          <KMS>0.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.138956,41.561056 1.138528,41.561520</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77348">
+          <NODE1_ID>47363</NODE1_ID>
+          <NODE1_NAME>Ctdlla-CalBonico</NODE1_NAME>
+          <NODE2_ID>50432</NODE2_ID>
+          <NODE2_NAME>Ctdlla-CalNillo</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.137289,41.562317 1.141034,41.560242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

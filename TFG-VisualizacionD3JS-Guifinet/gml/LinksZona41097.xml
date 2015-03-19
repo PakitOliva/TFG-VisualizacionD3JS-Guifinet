@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.459610</gml:X><gml:Y>39.867837</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.455219</gml:X><gml:Y>39.907196</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="63661">
+          <NODE1_ID>52627</NODE1_ID>
+          <NODE1_NAME>VDeA-EdificioSocial</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.455745,39.903741 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63719">
+          <NODE1_ID>41098</NODE1_ID>
+          <NODE1_NAME>VDeA-Ayuntamiento</NODE1_NAME>
+          <NODE2_ID>52627</NODE2_ID>
+          <NODE2_NAME>VDeA-EdificioSocial</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456591,39.903864 -0.455745,39.903741</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64092">
+          <NODE1_ID>54649</NODE1_ID>
+          <NODE1_NAME>VDeA-RepetidorTV</NODE1_NAME>
+          <NODE2_ID>61285</NODE2_ID>
+          <NODE2_NAME>Cstllnv-rTV</NODE2_NAME>
+          <KMS>4.376</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456332,39.907171 -0.459610,39.867837</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64167">
+          <NODE1_ID>52627</NODE1_ID>
+          <NODE1_NAME>VDeA-EdificioSocial</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.455745,39.903741 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64168">
+          <NODE1_ID>54649</NODE1_ID>
+          <NODE1_NAME>VDeA-RepetidorTV</NODE1_NAME>
+          <NODE2_ID>54341</NODE2_ID>
+          <NODE2_NAME>VDeA-Alta2</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456332,39.907171 -0.455447,39.904060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68201">
+          <NODE1_ID>54649</NODE1_ID>
+          <NODE1_NAME>VDeA-RepetidorTV</NODE1_NAME>
+          <NODE2_ID>41158</NODE2_ID>
+          <NODE2_NAME>VDeA-Campo36</NODE2_NAME>
+          <KMS>0.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456332,39.907171 -0.457077,39.904567</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68238">
+          <NODE1_ID>64482</NODE1_ID>
+          <NODE1_NAME>VDeA-Alta14</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.321</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.455898,39.904302 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68239">
+          <NODE1_ID>64556</NODE1_ID>
+          <NODE1_NAME>VDeA-Larga36</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.487</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458366,39.903079 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68240">
+          <NODE1_ID>64555</NODE1_ID>
+          <NODE1_NAME>VDeA-PzIglesia11</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456151,39.903939 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69818">
+          <NODE1_ID>64441</NODE1_ID>
+          <NODE1_NAME>VDeA-Lentisco4</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.425</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458001,39.903563 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70791">
+          <NODE1_ID>64368</NODE1_ID>
+          <NODE1_NAME>VDeA-PzSalvadorP4</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.338</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456761,39.904145 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71836">
+          <NODE1_ID>67259</NODE1_ID>
+          <NODE1_NAME>VDeA-Alta7</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.455368,39.903988 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72850">
+          <NODE1_ID>64387</NODE1_ID>
+          <NODE1_NAME>VDeA-PzPalacio12</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456175,39.903544 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76543">
+          <NODE1_ID>54649</NODE1_ID>
+          <NODE1_NAME>VDeA-RepetidorTV</NODE1_NAME>
+          <NODE2_ID>71578</NODE2_ID>
+          <NODE2_NAME>AdA-RepetidorTV</NODE2_NAME>
+          <KMS>0.004</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456332,39.907171 -0.456303,39.907196</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76665">
+          <NODE1_ID>69992</NODE1_ID>
+          <NODE1_NAME>VDeA-CuevaSanta16</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.455219,39.903640 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76678">
+          <NODE1_ID>54649</NODE1_ID>
+          <NODE1_NAME>VDeA-RepetidorTV</NODE1_NAME>
+          <NODE2_ID>70747</NODE2_ID>
+          <NODE2_NAME>VDeA-Sobrelarga22</NODE2_NAME>
+          <KMS>0.445</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456332,39.907171 -0.457681,39.903303</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80244">
+          <NODE1_ID>74577</NODE1_ID>
+          <NODE1_NAME>VDeA-Campo9</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.31</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457059,39.904435 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121162">
+          <NODE1_ID>75414</NODE1_ID>
+          <NODE1_NAME>VDeA-Desamparados4</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.4</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456654,39.903580 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122503">
+          <NODE1_ID>76483</NODE1_ID>
+          <NODE1_NAME>VDeA-Desamparados13</NODE1_NAME>
+          <NODE2_ID>54649</NODE2_ID>
+          <NODE2_NAME>VDeA-RepetidorTV</NODE2_NAME>
+          <KMS>0.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456786,39.903461 -0.456332,39.907171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-17.977892</gml:X><gml:Y>27.707154</gml:Y></gml:coord>
+      <gml:coord><gml:X>-13.557311</gml:X><gml:Y>29.001637</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23666">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-13.557311,28.974781</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23666</NODE_ID>
+      <NODE_NAME>LZA-Maneje-Central</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.323774,28.478961</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33280</NODE_ID>
+      <NODE_NAME>ColegioNuryana</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33285">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.434356,28.465539</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33285</NODE_ID>
+      <NODE_NAME>Maresia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45094">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.377418,28.325812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45094</NODE_ID>
+      <NODE_NAME>GUI-Canadas</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45098">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.412351,28.337734</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45098</NODE_ID>
+      <NODE_NAME>GUI-LasCalles</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45279">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.410074,28.314917</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45279</NODE_ID>
+      <NODE_NAME>GUI-CC9</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70639">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.369176,28.382230</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70639</NODE_ID>
+      <NODE_NAME>guancha91</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54774">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.281567,28.457493</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54774</NODE_ID>
+      <NODE_NAME>SCTFestanislao5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61064">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.410076,28.314911</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61064</NODE_ID>
+      <NODE_NAME>GUI-CC9-bis</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61065">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-16.377439,28.325963</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61065</NODE_ID>
+      <NODE_NAME>GUI-Canadas-bis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61554">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-17.977892,27.707154</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61554</NODE_ID>
+      <NODE_NAME>ADPtravesiadelpino10</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73658">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-13.594478,29.001637</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73658</NODE_ID>
+      <NODE_NAME>Lanz-Arr</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73659">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-13.783461,28.918864</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73659</NODE_ID>
+      <NODE_NAME>Lanz-Femes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

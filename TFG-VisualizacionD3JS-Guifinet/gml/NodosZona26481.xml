@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.408417</gml:X><gml:Y>41.295157</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.549566</gml:X><gml:Y>41.365912</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="26482">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.453398,41.315641</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26482</NODE_ID>
+      <NODE_NAME>Mont-Ajuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26571">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.549566,41.365912</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26571</NODE_ID>
+      <NODE_NAME>Mont-DipMarmellar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26483">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.422225,41.299923</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26483</NODE_ID>
+      <NODE_NAME>Mont-DipMirador</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26493">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.546755,41.343894</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26493</NODE_ID>
+      <NODE_NAME>Mont-DipTalaia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45268">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.408417,41.322483</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45268</NODE_ID>
+      <NODE_NAME>elscarbonerscasa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55396">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.422121,41.297864</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55396</NODE_ID>
+      <NODE_NAME>LBmiradorsito</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57579">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.429532,41.295157</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57579</NODE_ID>
+      <NODE_NAME>LB-MiradorPenedes-Ta</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64462">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.475038,41.315100</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64462</NODE_ID>
+      <NODE_NAME>MMELL-LaCova</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

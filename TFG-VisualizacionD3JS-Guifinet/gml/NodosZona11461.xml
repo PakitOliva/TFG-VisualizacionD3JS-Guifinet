@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.054180</gml:X><gml:Y>41.959656</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.056649</gml:X><gml:Y>41.960619</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="11438">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.055487,41.959656</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11438</NODE_ID>
+      <NODE_NAME>AjuntForallac</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48835">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.054180,41.960619</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48835</NODE_ID>
+      <NODE_NAME>VLPLLCSantJoan</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77285">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.056649,41.960108</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77285</NODE_ID>
+      <NODE_NAME>VlpllcNou37</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

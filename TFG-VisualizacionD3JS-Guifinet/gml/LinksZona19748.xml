@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.998419</gml:X><gml:Y>41.775428</gml:Y></gml:coord>
+<gml:coord><gml:X>3.092281</gml:X><gml:Y>41.883985</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="20196">
+          <NODE1_ID>23732</NODE1_ID>
+          <NODE1_NAME>SAGAvPlatjadaro215</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.367</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.050441,41.799488 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26740">
+          <NODE1_ID>4924</NODE1_ID>
+          <NODE1_NAME>SAGTvCostaBrava</NODE1_NAME>
+          <NODE2_ID>31872</NODE2_ID>
+          <NODE2_NAME>SAGBrisas436</NODE2_NAME>
+          <KMS>1.37</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047927,41.796775 3.044854,41.784655</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28054">
+          <NODE1_ID>33409</NODE1_ID>
+          <NODE1_NAME>SAGBrisas436-1</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>1.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.044039,41.785415 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33713">
+          <NODE1_ID>4924</NODE1_ID>
+          <NODE1_NAME>SAGTvCostaBrava</NODE1_NAME>
+          <NODE2_ID>30358</NODE2_ID>
+          <NODE2_NAME>SAGAvPlatjadaro217</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047927,41.796775 3.050766,41.799480</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35240">
+          <NODE1_ID>4924</NODE1_ID>
+          <NODE1_NAME>SAGTvCostaBrava</NODE1_NAME>
+          <NODE2_ID>30943</NODE2_ID>
+          <NODE2_NAME>SAGVerbania27</NODE2_NAME>
+          <KMS>0.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047927,41.796775 3.049135,41.792505</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35812">
+          <NODE1_ID>38036</NODE1_ID>
+          <NODE1_NAME>SAGPallars1</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047909,41.796854 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36384">
+          <NODE1_ID>40762</NODE1_ID>
+          <NODE1_NAME>SAGEdenMar434</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>1.436</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.044699,41.784073 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37337">
+          <NODE1_ID>41545</NODE1_ID>
+          <NODE1_NAME>SagaroRC</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.577</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.045927,41.791797 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41899">
+          <NODE1_ID>45251</NODE1_ID>
+          <NODE1_NAME>SAGSalvPpsseit16</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.053051,41.797750 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46756">
+          <NODE1_ID>48810</NODE1_ID>
+          <NODE1_NAME>SAGAvSantPol10</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.523</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.054022,41.795598 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47886">
+          <NODE1_ID>49705</NODE1_ID>
+          <NODE1_NAME>SAGEastGrinstead52</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.051340,41.794409 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48198">
+          <NODE1_ID>49897</NODE1_ID>
+          <NODE1_NAME>SAGAvdaCarrilet51</NODE1_NAME>
+          <NODE2_ID>4924</NODE2_ID>
+          <NODE2_NAME>SAGTvCostaBrava</NODE2_NAME>
+          <KMS>0.545</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.045588,41.792193 3.047927,41.796775</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65250">
+          <NODE1_ID>25738</NODE1_ID>
+          <NODE1_NAME>SAGGoleta52</NODE1_NAME>
+          <NODE2_ID>28294</NODE2_ID>
+          <NODE2_NAME>SFG-Repetidor</NODE2_NAME>
+          <KMS>4.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.036011,41.798666 2.998419,41.775428</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74013">
+          <NODE1_ID>50476</NODE1_ID>
+          <NODE1_NAME>SAGLasBrisasII35</NODE1_NAME>
+          <NODE2_ID>40715</NODE2_ID>
+          <NODE2_NAME>PALPuigCargol</NODE2_NAME>
+          <KMS>11.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.043910,41.785554 3.092281,41.883985</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122919">
+          <NODE1_ID>40715</NODE1_ID>
+          <NODE1_NAME>PALPuigCargol</NODE1_NAME>
+          <NODE2_ID>56466</NODE2_ID>
+          <NODE2_NAME>SAGBrisasCasa</NODE2_NAME>
+          <KMS>11.668</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.092281,41.883985 3.043756,41.785406</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123267">
+          <NODE1_ID>71371</NODE1_ID>
+          <NODE1_NAME>SAGSalvatPapasseit3</NODE1_NAME>
+          <NODE2_ID>4855</NODE2_ID>
+          <NODE2_NAME>PdADiposit</NODE2_NAME>
+          <KMS>2.917</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.054402,41.799073 3.047162,41.824771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123276">
+          <NODE1_ID>57372</NODE1_ID>
+          <NODE1_NAME>SAGPiramidesb18</NODE1_NAME>
+          <NODE2_ID>4855</NODE2_ID>
+          <NODE2_NAME>PdADiposit</NODE2_NAME>
+          <KMS>4.588</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.045412,41.783481 3.047162,41.824771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123278">
+          <NODE1_ID>51150</NODE1_ID>
+          <NODE1_NAME>SAGVerbania57-F4</NODE1_NAME>
+          <NODE2_ID>4855</NODE2_ID>
+          <NODE2_NAME>PdADiposit</NODE2_NAME>
+          <KMS>3.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.049575,41.792577 3.047162,41.824771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123677">
+          <NODE1_ID>4855</NODE1_ID>
+          <NODE1_NAME>PdADiposit</NODE1_NAME>
+          <NODE2_ID>57085</NODE2_ID>
+          <NODE2_NAME>SAGBrisas436-2</NODE2_NAME>
+          <KMS>4.366</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047162,41.824771 3.044139,41.785528</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123725">
+          <NODE1_ID>15914</NODE1_ID>
+          <NODE1_NAME>PdASud</NODE1_NAME>
+          <NODE2_ID>62104</NODE2_ID>
+          <NODE2_NAME>SAGCreudeSagaroD8</NODE2_NAME>
+          <KMS>1.647</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.056667,41.806337 3.046485,41.793620</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123726">
+          <NODE1_ID>38736</NODE1_ID>
+          <NODE1_NAME>SAGNarcisMasia35</NODE1_NAME>
+          <NODE2_ID>4855</NODE2_ID>
+          <NODE2_NAME>PdADiposit</NODE2_NAME>
+          <KMS>3.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.044362,41.794403 3.047162,41.824771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123729">
+          <NODE1_ID>4924</NODE1_ID>
+          <NODE1_NAME>SAGTvCostaBrava</NODE1_NAME>
+          <NODE2_ID>4855</NODE2_ID>
+          <NODE2_NAME>PdADiposit</NODE2_NAME>
+          <KMS>3.11</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047927,41.796775 3.047162,41.824771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123730">
+          <NODE1_ID>4855</NODE1_ID>
+          <NODE1_NAME>PdADiposit</NODE1_NAME>
+          <NODE2_ID>62160</NODE2_ID>
+          <NODE2_NAME>SAGCreudeSagaroC8</NODE2_NAME>
+          <KMS>3.461</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.047162,41.824771 3.046426,41.793618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.690790</gml:X><gml:Y>41.663242</gml:Y></gml:coord>
+<gml:coord><gml:X>1.696771</gml:X><gml:Y>41.669277</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="76716">
+          <NODE1_ID>70241</NODE1_ID>
+          <NODE1_NAME>CFBTinell</NODE1_NAME>
+          <NODE2_ID>62448</NODE2_ID>
+          <NODE2_NAME>CFBPAsDelVent</NODE2_NAME>
+          <KMS>0.657</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.690790,41.663242 1.694400,41.668499</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77073">
+          <NODE1_ID>72019</NODE1_ID>
+          <NODE1_NAME>CFBCanGiralt</NODE1_NAME>
+          <NODE2_ID>70241</NODE2_ID>
+          <NODE2_NAME>CFBTinell</NODE2_NAME>
+          <KMS>0.632</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.694062,41.668376 1.690790,41.663242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77305">
+          <NODE1_ID>71706</NODE1_ID>
+          <NODE1_NAME>CFBscls</NODE1_NAME>
+          <NODE2_ID>70241</NODE2_ID>
+          <NODE2_NAME>CFBTinell</NODE2_NAME>
+          <KMS>0.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.695231,41.668620 1.690790,41.663242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77370">
+          <NODE1_ID>70242</NODE1_ID>
+          <NODE1_NAME>CFBTorravall</NODE1_NAME>
+          <NODE2_ID>70241</NODE2_ID>
+          <NODE2_NAME>CFBTinell</NODE2_NAME>
+          <KMS>0.835</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.696771,41.669277 1.690790,41.663242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77552">
+          <NODE1_ID>72021</NODE1_ID>
+          <NODE1_NAME>CFBCaliuNou</NODE1_NAME>
+          <NODE2_ID>70241</NODE2_ID>
+          <NODE2_NAME>CFBTinell</NODE2_NAME>
+          <KMS>0.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693319,41.668232 1.690790,41.663242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

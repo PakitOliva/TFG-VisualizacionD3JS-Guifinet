@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.878380</gml:X><gml:Y>41.984831</gml:Y></gml:coord>
+<gml:coord><gml:X>2.918152</gml:X><gml:Y>42.044182</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="31497">
+          <NODE1_ID>31145</NODE1_ID>
+          <NODE1_NAME>CelraEspriu9</NODE1_NAME>
+          <NODE2_ID>36578</NODE2_ID>
+          <NODE2_NAME>BrdlsPalamos90</NODE2_NAME>
+          <KMS>3.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.888675,42.022244 2.918152,42.038150</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42540">
+          <NODE1_ID>37644</NODE1_ID>
+          <NODE1_NAME>PL_esglesia</NODE1_NAME>
+          <NODE2_ID>29920</NODE2_ID>
+          <NODE2_NAME>CelraCRVinyes</NODE2_NAME>
+          <KMS>3.841</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.911028,42.044182 2.878380,42.019618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52819">
+          <NODE1_ID>42576</NODE1_ID>
+          <NODE1_NAME>BrdlsAlmeda</NODE1_NAME>
+          <NODE2_ID>42029</NODE2_ID>
+          <NODE2_NAME>CELBobiles24</NODE2_NAME>
+          <KMS>2.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.911516,42.042435 2.890858,42.027288</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62354">
+          <NODE1_ID>60046</NODE1_ID>
+          <NODE1_NAME>BrdlsCampanar</NODE1_NAME>
+          <NODE2_ID>60027</NODE2_ID>
+          <NODE2_NAME>BrdlsAjuntament</NODE2_NAME>
+          <KMS>0.437</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.911330,42.044029 2.913639,42.040491</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71093">
+          <NODE1_ID>30897</NODE1_ID>
+          <NODE1_NAME>BrdlsNarcisAliu6</NODE1_NAME>
+          <NODE2_ID>18149</NODE2_ID>
+          <NODE2_NAME>SMVElsAngels</NODE2_NAME>
+          <KMS>5.985</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.910631,42.038699 2.908840,41.984831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74412">
+          <NODE1_ID>18149</NODE1_ID>
+          <NODE1_NAME>SMVElsAngels</NODE1_NAME>
+          <NODE2_ID>60027</NODE2_ID>
+          <NODE2_NAME>BrdlsAjuntament</NODE2_NAME>
+          <KMS>6.195</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.908840,41.984831 2.913639,42.040491</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122488">
+          <NODE1_ID>76122</NODE1_ID>
+          <NODE1_NAME>BrdlsMssnPlnts2</NODE1_NAME>
+          <NODE2_ID>30897</NODE2_ID>
+          <NODE2_NAME>BrdlsNarcisAliu6</NODE2_NAME>
+          <KMS>0.544</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.917180,42.039042 2.910631,42.038699</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123248">
+          <NODE1_ID>42576</NODE1_ID>
+          <NODE1_NAME>BrdlsAlmeda</NODE1_NAME>
+          <NODE2_ID>30897</NODE2_ID>
+          <NODE2_NAME>BrdlsNarcisAliu6</NODE2_NAME>
+          <KMS>0.421</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.911516,42.042435 2.910631,42.038699</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123720">
+          <NODE1_ID>30897</NODE1_ID>
+          <NODE1_NAME>BrdlsNarcisAliu6</NODE1_NAME>
+          <NODE2_ID>77313</NODE2_ID>
+          <NODE2_NAME>BrdlsPdlesgle11</NODE2_NAME>
+          <KMS>0.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.910631,42.038699 2.911133,42.043774</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

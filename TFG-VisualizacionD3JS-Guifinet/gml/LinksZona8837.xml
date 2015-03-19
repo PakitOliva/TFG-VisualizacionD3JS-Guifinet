@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.947911</gml:X><gml:Y>41.947257</gml:Y></gml:coord>
+<gml:coord><gml:X>2.036054</gml:X><gml:Y>42.067017</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="9222">
+          <NODE1_ID>9002</NODE1_ID>
+          <NODE1_NAME>SMMAjuntament</NODE1_NAME>
+          <NODE2_ID>10327</NODE2_ID>
+          <NODE2_NAME>SMMPinosDip</NODE2_NAME>
+          <KMS>3.192</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978419,42.000991 1.950761,41.980984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9653">
+          <NODE1_ID>13331</NODE1_ID>
+          <NODE1_NAME>SMMCosta</NODE1_NAME>
+          <NODE2_ID>10327</NODE2_ID>
+          <NODE2_NAME>SMMPinosDip</NODE2_NAME>
+          <KMS>3.583</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.987780,41.997660 1.950761,41.980984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9804">
+          <NODE1_ID>13491</NODE1_ID>
+          <NODE1_NAME>SMMLocalSocial</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0.026</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978360,42.001221 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9849">
+          <NODE1_ID>13551</NODE1_ID>
+          <NODE1_NAME>SMMury19</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978420,42.000991 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9861">
+          <NODE1_ID>13565</NODE1_ID>
+          <NODE1_NAME>SMMCalFerrer</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.969112,41.988910 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9959">
+          <NODE1_ID>13659</NODE1_ID>
+          <NODE1_NAME>SMMelserradet</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0.55</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978466,41.996038 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10044">
+          <NODE1_ID>9002</NODE1_ID>
+          <NODE1_NAME>SMMAjuntament</NODE1_NAME>
+          <NODE2_ID>13795</NODE2_ID>
+          <NODE2_NAME>SMMLaFabrica</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978419,42.000991 1.979495,41.997511</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10125">
+          <NODE1_ID>9002</NODE1_ID>
+          <NODE1_NAME>SMMAjuntament</NODE1_NAME>
+          <NODE2_ID>13892</NODE2_ID>
+          <NODE2_NAME>SMMLluis</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978419,42.000991 1.978284,42.001247</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10184">
+          <NODE1_ID>13945</NODE1_ID>
+          <NODE1_NAME>SMMCalSastre</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0.401</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980663,41.997796 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10532">
+          <NODE1_ID>14408</NODE1_ID>
+          <NODE1_NAME>SMMBardolet</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>2.867</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.991157,42.023352 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10561">
+          <NODE1_ID>9002</NODE1_ID>
+          <NODE1_NAME>SMMAjuntament</NODE1_NAME>
+          <NODE2_ID>13616</NODE2_ID>
+          <NODE2_NAME>SMMCasaCastellot</NODE2_NAME>
+          <KMS>0.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978419,42.000991 1.983089,42.000121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10597">
+          <NODE1_ID>13331</NODE1_ID>
+          <NODE1_NAME>SMMCosta</NODE1_NAME>
+          <NODE2_ID>14499</NODE2_ID>
+          <NODE2_NAME>SMSCamadoca</NODE2_NAME>
+          <KMS>1.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.987780,41.997660 1.976185,42.001852</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10951">
+          <NODE1_ID>14863</NODE1_ID>
+          <NODE1_NAME>SMMBorralleras</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>3.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.001445,42.022795 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11112">
+          <NODE1_ID>9002</NODE1_ID>
+          <NODE1_NAME>SMMAjuntament</NODE1_NAME>
+          <NODE2_ID>15043</NODE2_ID>
+          <NODE2_NAME>SMMGabiTomas</NODE2_NAME>
+          <KMS>1.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978419,42.000991 1.984952,42.010833</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11591">
+          <NODE1_ID>15424</NODE1_ID>
+          <NODE1_NAME>SMMCalRibera</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973209,41.993856 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13733">
+          <NODE1_ID>17267</NODE1_ID>
+          <NODE1_NAME>SMMPuigdeSala</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.969176,41.998929 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14184">
+          <NODE1_ID>15526</NODE1_ID>
+          <NODE1_NAME>SMMColomeras</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>2.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.961149,41.994468 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14297">
+          <NODE1_ID>18590</NODE1_ID>
+          <NODE1_NAME>SMMVallarons</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>0.455</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.987479,42.001748 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15946">
+          <NODE1_ID>20501</NODE1_ID>
+          <NODE1_NAME>SMMCalMiquel</NODE1_NAME>
+          <NODE2_ID>10327</NODE2_ID>
+          <NODE2_NAME>SMMPinosDip</NODE2_NAME>
+          <KMS>0.344</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.947911,41.978733 1.950761,41.980984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16979">
+          <NODE1_ID>21585</NODE1_ID>
+          <NODE1_NAME>SMMCalPaleta</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.856</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.968790,41.988797 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17244">
+          <NODE1_ID>21878</NODE1_ID>
+          <NODE1_NAME>SMMElMas</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973398,41.990541 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17728">
+          <NODE1_ID>22292</NODE1_ID>
+          <NODE1_NAME>SMMACogulada</NODE1_NAME>
+          <NODE2_ID>4891</NODE2_ID>
+          <NODE2_NAME>SFSBruixes</NODE2_NAME>
+          <KMS>4.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.993482,41.987583 2.019843,41.947257</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18019">
+          <NODE1_ID>21925</NODE1_ID>
+          <NODE1_NAME>SMMEscrigas</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0.477</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978430,42.005284 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18343">
+          <NODE1_ID>14277</NODE1_ID>
+          <NODE1_NAME>SMMVilalta</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>2.968</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.988355,42.026665 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19003">
+          <NODE1_ID>23712</NODE1_ID>
+          <NODE1_NAME>SMMRiambau</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.987254,41.997808 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22155">
+          <NODE1_ID>14173</NODE1_ID>
+          <NODE1_NAME>SMMCalPeiro</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.562</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.986365,42.011684 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22303">
+          <NODE1_ID>27018</NODE1_ID>
+          <NODE1_NAME>SMMImmaCosta</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.968151,41.995190 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22370">
+          <NODE1_ID>27612</NODE1_ID>
+          <NODE1_NAME>SMMEsterNoe</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978161,42.001242 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26051">
+          <NODE1_ID>31481</NODE1_ID>
+          <NODE1_NAME>SMMMunoz</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.985918,42.010283 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27668">
+          <NODE1_ID>18611</NODE1_ID>
+          <NODE1_NAME>LlucaLaPenyora</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>7.921</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010005,42.067017 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27759">
+          <NODE1_ID>14637</NODE1_ID>
+          <NODE1_NAME>SMMTrini</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>2.274</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.984428,42.020972 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28053">
+          <NODE1_ID>33408</NODE1_ID>
+          <NODE1_NAME>SMMManel</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977231,42.001435 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28267">
+          <NODE1_ID>15526</NODE1_ID>
+          <NODE1_NAME>SMMColomeras</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>2.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.961149,41.994468 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31167">
+          <NODE1_ID>9002</NODE1_ID>
+          <NODE1_NAME>SMMAjuntament</NODE1_NAME>
+          <NODE2_ID>14173</NODE2_ID>
+          <NODE2_NAME>SMMCalPeiro</NODE2_NAME>
+          <KMS>1.358</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978419,42.000991 1.986365,42.011684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34917">
+          <NODE1_ID>14408</NODE1_ID>
+          <NODE1_NAME>SMMBardolet</NODE1_NAME>
+          <NODE2_ID>9002</NODE2_ID>
+          <NODE2_NAME>SMMAjuntament</NODE2_NAME>
+          <KMS>2.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.991157,42.023352 1.978419,42.000991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37923">
+          <NODE1_ID>42012</NODE1_ID>
+          <NODE1_NAME>SMM4Vents</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>1.646</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.969020,41.992778 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47104">
+          <NODE1_ID>48152</NODE1_ID>
+          <NODE1_NAME>SagasElPujol</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>3.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.948212,42.005635 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49325">
+          <NODE1_ID>50712</NODE1_ID>
+          <NODE1_NAME>SMMCostaRural</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.987981,41.997540 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65648">
+          <NODE1_ID>62489</NODE1_ID>
+          <NODE1_NAME>SmmCostaCabelleria</NODE1_NAME>
+          <NODE2_ID>4891</NODE2_ID>
+          <NODE2_NAME>SFSBruixes</NODE2_NAME>
+          <KMS>5.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.975379,41.980915 2.019843,41.947257</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70293">
+          <NODE1_ID>28976</NODE1_ID>
+          <NODE1_NAME>PratsCementiri</NODE1_NAME>
+          <NODE2_ID>65799</NODE2_ID>
+          <NODE2_NAME>PratsRosaCosta_nou_2</NODE2_NAME>
+          <KMS>0.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.036054,42.011956 2.032042,42.011134</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72820">
+          <NODE1_ID>50712</NODE1_ID>
+          <NODE1_NAME>SMMCostaRural</NODE1_NAME>
+          <NODE2_ID>13331</NODE2_ID>
+          <NODE2_NAME>SMMCosta</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.987981,41.997540 1.987780,41.997660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77403">
+          <NODE1_ID>10327</NODE1_ID>
+          <NODE1_NAME>SMMPinosDip</NODE1_NAME>
+          <NODE2_ID>4891</NODE2_ID>
+          <NODE2_NAME>SFSBruixes</NODE2_NAME>
+          <KMS>6.843</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.950761,41.980984 2.019843,41.947257</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

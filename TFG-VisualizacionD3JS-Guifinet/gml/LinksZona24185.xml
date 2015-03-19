@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>42.231092</gml:Y></gml:coord>
+<gml:coord><gml:X>2.908287</gml:X><gml:Y>42.284889</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="22673">
+          <NODE1_ID>27309</NODE1_ID>
+          <NODE1_NAME>Llado-Pujol</NODE1_NAME>
+          <NODE2_ID>27897</NODE2_ID>
+          <NODE2_NAME>CstllLaFabrega</NODE2_NAME>
+          <KMS>3.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.809217,42.253799 2.849718,42.247553</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24724">
+          <NODE1_ID>29454</NODE1_ID>
+          <NODE1_NAME>CstllCloella</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>9.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820514,42.284889 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41100">
+          <NODE1_ID>44509</NODE1_ID>
+          <NODE1_NAME>CstllEsglesia4</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>5.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.847949,42.268648 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43341">
+          <NODE1_ID>41220</NODE1_ID>
+          <NODE1_NAME>CstllCanFrare</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>5.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.834435,42.269600 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45085">
+          <NODE1_ID>38341</NODE1_ID>
+          <NODE1_NAME>CstllCanPou</NODE1_NAME>
+          <NODE2_ID>19377</NODE2_ID>
+          <NODE2_NAME>MsPCrepuscle</NODE2_NAME>
+          <KMS>7.513</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.824279,42.264374 2.908287,42.238302</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45610">
+          <NODE1_ID>39017</NODE1_ID>
+          <NODE1_NAME>CstllCanMontaner</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>4.998</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.849643,42.267546 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45958">
+          <NODE1_ID>48206</NODE1_ID>
+          <NODE1_NAME>CstllEsglesia4-2</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>5.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.847935,42.268701 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46105">
+          <NODE1_ID>48316</NODE1_ID>
+          <NODE1_NAME>CstllCanVila</NODE1_NAME>
+          <NODE2_ID>38341</NODE2_ID>
+          <NODE2_NAME>CstllCanPou</NODE2_NAME>
+          <KMS>1.724</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.808486,42.274542 2.824279,42.264374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48939">
+          <NODE1_ID>25981</NODE1_ID>
+          <NODE1_NAME>CstllMarial</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>3.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.847573,42.250921 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51677">
+          <NODE1_ID>38344</NODE1_ID>
+          <NODE1_NAME>CstllCanRostoll</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>6.934</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.831709,42.279263 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54652">
+          <NODE1_ID>54567</NODE1_ID>
+          <NODE1_NAME>CstllCanRamon</NODE1_NAME>
+          <NODE2_ID>38341</NODE2_ID>
+          <NODE2_NAME>CstllCanPou</NODE2_NAME>
+          <KMS>1.759</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.808592,42.275098 2.824279,42.264374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76522">
+          <NODE1_ID>71566</NODE1_ID>
+          <NODE1_NAME>CstllMasArnau</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>4.877</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.842715,42.261644 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77134">
+          <NODE1_ID>30733</NODE1_ID>
+          <NODE1_NAME>OrdisAeroclub</NODE1_NAME>
+          <NODE2_ID>38341</NODE2_ID>
+          <NODE2_NAME>CstllCanPou</NODE2_NAME>
+          <KMS>6.237</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.885149,42.231092 2.824279,42.264374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77135">
+          <NODE1_ID>30733</NODE1_ID>
+          <NODE1_NAME>OrdisAeroclub</NODE1_NAME>
+          <NODE2_ID>38342</NODE2_ID>
+          <NODE2_NAME>CstllCnRos</NODE2_NAME>
+          <KMS>6.094</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.885149,42.231092 2.825512,42.263447</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79125">
+          <NODE1_ID>73685</NODE1_ID>
+          <NODE1_NAME>LldCalEscola</NODE1_NAME>
+          <NODE2_ID>38341</NODE2_ID>
+          <NODE2_NAME>CstllCanPou</NODE2_NAME>
+          <KMS>0.463</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.820478,42.267442 2.824279,42.264374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

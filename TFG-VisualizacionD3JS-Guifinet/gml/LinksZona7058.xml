@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.846948</gml:X><gml:Y>41.738661</gml:Y></gml:coord>
+<gml:coord><gml:X>2.019843</gml:X><gml:Y>41.947257</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="38329">
+          <NODE1_ID>42175</NODE1_ID>
+          <NODE1_NAME>CLDRAVAL35</NODE1_NAME>
+          <NODE2_ID>4891</NODE2_ID>
+          <NODE2_NAME>SFSBruixes</NODE2_NAME>
+          <KMS>17.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.994630,41.790609 2.019843,41.947257</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58131">
+          <NODE1_ID>57115</NODE1_ID>
+          <NODE1_NAME>CaldersMontardo22</NODE1_NAME>
+          <NODE2_ID>2787</NODE2_ID>
+          <NODE2_NAME>ARTCampanarVell</NODE2_NAME>
+          <KMS>3.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.984027,41.787383 1.950861,41.799623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79191">
+          <NODE1_ID>72911</NODE1_ID>
+          <NODE1_NAME>CldrsMontardo8</NODE1_NAME>
+          <NODE2_ID>42812</NODE2_ID>
+          <NODE2_NAME>MNPalauFiral</NODE2_NAME>
+          <KMS>12.619</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983236,41.788616 1.846948,41.738661</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

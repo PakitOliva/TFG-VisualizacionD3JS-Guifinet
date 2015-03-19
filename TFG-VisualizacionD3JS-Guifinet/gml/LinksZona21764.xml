@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.490643</gml:X><gml:Y>39.846177</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.454474</gml:X><gml:Y>39.907171</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="18788">
+          <NODE1_ID>21767</NODE1_ID>
+          <NODE1_NAME>CastellnovoAyunt</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.436</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457845,39.861638 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28707">
+          <NODE1_ID>21765</NODE1_ID>
+          <NODE1_NAME>CastellnovoErmita</NODE1_NAME>
+          <NODE2_ID>27820</NODE2_ID>
+          <NODE2_NAME>Calvario28</NODE2_NAME>
+          <KMS>0.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457086,39.865517 -0.456512,39.862185</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31251">
+          <NODE1_ID>26378</NODE1_ID>
+          <NODE1_NAME>castellnovogil1</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.474</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461082,39.862560 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31385">
+          <NODE1_ID>31932</NODE1_ID>
+          <NODE1_NAME>CASTELLFILLOL28</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.461477,39.863265 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31607">
+          <NODE1_ID>26140</NODE1_ID>
+          <NODE1_NAME>Cstllnvrgn34</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.460063,39.862409 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31608">
+          <NODE1_ID>23775</NODE1_ID>
+          <NODE1_NAME>castellnovo.pastora</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.422</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456574,39.861733 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31658">
+          <NODE1_ID>36747</NODE1_ID>
+          <NODE1_NAME>CstllnvCErmitaN3</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457789,39.862540 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32629">
+          <NODE1_ID>37658</NODE1_ID>
+          <NODE1_NAME>CstllnvPltr34</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456533,39.861955 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32630">
+          <NODE1_ID>37659</NODE1_ID>
+          <NODE1_NAME>CstllnovoCalvario28</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458148,39.862610 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32762">
+          <NODE1_ID>37781</NODE1_ID>
+          <NODE1_NAME>CstllnovoTur5</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.431</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458022,39.861706 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32773">
+          <NODE1_ID>37797</NODE1_ID>
+          <NODE1_NAME>Cstllnvgls3</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.486</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456752,39.861147 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32984">
+          <NODE1_ID>36721</NODE1_ID>
+          <NODE1_NAME>CstllnvConde2</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.445</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457496,39.861523 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33815">
+          <NODE1_ID>38588</NODE1_ID>
+          <NODE1_NAME>CSsanantonio22</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458247,39.862204 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35090">
+          <NODE1_ID>39726</NODE1_ID>
+          <NODE1_NAME>CstllnovoAlmedijar82</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.426</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.454474,39.862251 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35336">
+          <NODE1_ID>39704</NODE1_ID>
+          <NODE1_NAME>DCHAlbaset</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>3.516</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.490643,39.847243 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35346">
+          <NODE1_ID>34521</NODE1_ID>
+          <NODE1_NAME>DCH</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>3.21</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.485021,39.846226 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35390">
+          <NODE1_ID>39983</NODE1_ID>
+          <NODE1_NAME>secano13</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.459082,39.862446 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38111">
+          <NODE1_ID>42220</NODE1_ID>
+          <NODE1_NAME>Cstllnovojabad</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458744,39.862400 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39208">
+          <NODE1_ID>43071</NODE1_ID>
+          <NODE1_NAME>CstllnovoSAntonio9</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.426</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458569,39.861859 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40393">
+          <NODE1_ID>43962</NODE1_ID>
+          <NODE1_NAME>CstllnovoEPerez</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458758,39.861639 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40394">
+          <NODE1_ID>43963</NODE1_ID>
+          <NODE1_NAME>CstllnovoMAMiguel19</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.463042,39.863025 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40395">
+          <NODE1_ID>43964</NODE1_ID>
+          <NODE1_NAME>CstllnovoAlmedijar9</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.428</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456615,39.861676 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41653">
+          <NODE1_ID>45032</NODE1_ID>
+          <NODE1_NAME>CstllnovoCastell13</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.592</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456606,39.860195 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42668">
+          <NODE1_ID>45826</NODE1_ID>
+          <NODE1_NAME>SGspny20</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>3.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.485051,39.846177 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44633">
+          <NODE1_ID>47220</NODE1_ID>
+          <NODE1_NAME>CstllnovoSAntonio33b</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.458345,39.862185 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49543">
+          <NODE1_ID>50867</NODE1_ID>
+          <NODE1_NAME>Nos01</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457129,39.862036 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64092">
+          <NODE1_ID>54649</NODE1_ID>
+          <NODE1_NAME>VDeA-RepetidorTV</NODE1_NAME>
+          <NODE2_ID>61285</NODE2_ID>
+          <NODE2_NAME>Cstllnv-rTV</NODE2_NAME>
+          <KMS>4.376</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456332,39.907171 -0.459610,39.867837</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67635">
+          <NODE1_ID>64139</NODE1_ID>
+          <NODE1_NAME>CstllnovoCastillo7</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.568</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.456572,39.860417 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68197">
+          <NODE1_ID>21765</NODE1_ID>
+          <NODE1_NAME>CastellnovoErmita</NODE1_NAME>
+          <NODE2_ID>64537</NODE2_ID>
+          <NODE2_NAME>CstllnovoMuro6</NODE2_NAME>
+          <KMS>0.361</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457086,39.865517 -0.457952,39.862334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72995">
+          <NODE1_ID>26134</NODE1_ID>
+          <NODE1_NAME>CastellnovoMolino</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.678</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.455872,39.859480 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79553">
+          <NODE1_ID>21765</NODE1_ID>
+          <NODE1_NAME>CastellnovoErmita</NODE1_NAME>
+          <NODE2_ID>74145</NODE2_ID>
+          <NODE2_NAME>CstlnvNR16</NODE2_NAME>
+          <KMS>0.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457086,39.865517 -0.460453,39.862138</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81283">
+          <NODE1_ID>64577</NODE1_ID>
+          <NODE1_NAME>CastellnovoSEspadan3</NODE1_NAME>
+          <NODE2_ID>21765</NODE2_ID>
+          <NODE2_NAME>CastellnovoErmita</NODE2_NAME>
+          <KMS>0.344</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457559,39.862438 -0.457086,39.865517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121492">
+          <NODE1_ID>21765</NODE1_ID>
+          <NODE1_NAME>CastellnovoErmita</NODE1_NAME>
+          <NODE2_ID>75762</NODE2_ID>
+          <NODE2_NAME>Cstllnv-portal1</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457086,39.865517 -0.459706,39.862397</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123697">
+          <NODE1_ID>21765</NODE1_ID>
+          <NODE1_NAME>CastellnovoErmita</NODE1_NAME>
+          <NODE2_ID>77298</NODE2_ID>
+          <NODE2_NAME>Cstlnvabajo9</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.457086,39.865517 -0.457706,39.861299</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

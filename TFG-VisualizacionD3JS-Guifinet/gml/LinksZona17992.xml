@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.703490</gml:X><gml:Y>41.161056</gml:Y></gml:coord>
+<gml:coord><gml:X>0.707728</gml:X><gml:Y>41.165531</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="14476">
+          <NODE1_ID>16570</NODE1_ID>
+          <NODE1_NAME>MolarCampanar</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.184</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705743,41.164880 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16596">
+          <NODE1_ID>21196</NODE1_ID>
+          <NODE1_NAME>MLRcalJaumeBargallo</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705839,41.164747 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16623">
+          <NODE1_ID>21221</NODE1_ID>
+          <NODE1_NAME>MLRcalEuroasia</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706193,41.164881 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16732">
+          <NODE1_ID>21334</NODE1_ID>
+          <NODE1_NAME>MLRcalRos</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.703897,41.164214 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17150">
+          <NODE1_ID>21756</NODE1_ID>
+          <NODE1_NAME>MLRcalpanxo</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705837,41.162988 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17419">
+          <NODE1_ID>21335</NODE1_ID>
+          <NODE1_NAME>MLRloCollet</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707728,41.163818 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17658">
+          <NODE1_ID>22251</NODE1_ID>
+          <NODE1_NAME>MLRcalCascales</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705901,41.164288 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17926">
+          <NODE1_ID>20967</NODE1_ID>
+          <NODE1_NAME>MLRcalTomas</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706161,41.163544 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18251">
+          <NODE1_ID>22877</NODE1_ID>
+          <NODE1_NAME>MLRnuriaFelix</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705542,41.164195 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18302">
+          <NODE1_ID>22950</NODE1_ID>
+          <NODE1_NAME>MLRpolSusan</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706180,41.164394 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18406">
+          <NODE1_ID>23056</NODE1_ID>
+          <NODE1_NAME>MLRcalCoco</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705829,41.164709 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18753">
+          <NODE1_ID>23416</NODE1_ID>
+          <NODE1_NAME>MRLCalSenyer</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705729,41.164997 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19472">
+          <NODE1_ID>24361</NODE1_ID>
+          <NODE1_NAME>MLRCalaMariaFedrico</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.058</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705766,41.163716 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20356">
+          <NODE1_ID>25455</NODE1_ID>
+          <NODE1_NAME>MLRCalSobatre</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707385,41.164140 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20692">
+          <NODE1_ID>25809</NODE1_ID>
+          <NODE1_NAME>MLRcalbombero</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.707229,41.164049 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20946">
+          <NODE1_ID>26115</NODE1_ID>
+          <NODE1_NAME>MLRCalNikoNati</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705577,41.162441 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21567">
+          <NODE1_ID>26754</NODE1_ID>
+          <NODE1_NAME>CalDenioFernanda</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705748,41.164345 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23165">
+          <NODE1_ID>28374</NODE1_ID>
+          <NODE1_NAME>MLREsglesiaSantRoc</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705668,41.164745 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23572">
+          <NODE1_ID>28765</NODE1_ID>
+          <NODE1_NAME>masdelangrasia</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705630,41.164019 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23714">
+          <NODE1_ID>28889</NODE1_ID>
+          <NODE1_NAME>MLRMasVell</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705802,41.163991 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23827">
+          <NODE1_ID>29014</NODE1_ID>
+          <NODE1_NAME>MLRPhelps</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705838,41.162444 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24675">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>29988</NODE2_ID>
+          <NODE2_NAME>MLRCasaMeva</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.706599,41.164039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25923">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>31273</NODE2_ID>
+          <NODE2_NAME>MLRcalaclotilda</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.705864,41.162711</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26593">
+          <NODE1_ID>16570</NODE1_ID>
+          <NODE1_NAME>MolarCampanar</NODE1_NAME>
+          <NODE2_ID>31945</NODE2_ID>
+          <NODE2_NAME>MLRCalClaro</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705743,41.164880 0.705469,41.164517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26681">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>31991</NODE2_ID>
+          <NODE2_NAME>MLRCalRafa</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.706542,41.163895</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27832">
+          <NODE1_ID>33177</NODE1_ID>
+          <NODE1_NAME>CalTrevor</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706290,41.164383 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28873">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>34115</NODE2_ID>
+          <NODE2_NAME>MLRcalamoros</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.705484,41.163506</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29483">
+          <NODE1_ID>34830</NODE1_ID>
+          <NODE1_NAME>MLRcalbargallo</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705839,41.165006 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31659">
+          <NODE1_ID>19391</NODE1_ID>
+          <NODE1_NAME>MLRelPatiCalJordi</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705548,41.165531 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31670">
+          <NODE1_ID>36759</NODE1_ID>
+          <NODE1_NAME>MLRCOR</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705739,41.163109 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32282">
+          <NODE1_ID>20212</NODE1_ID>
+          <NODE1_NAME>MLRcalJordan</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.703490,41.164109 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32420">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>37490</NODE2_ID>
+          <NODE2_NAME>MLRCalPepito</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.705725,41.163448</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32672">
+          <NODE1_ID>21620</NODE1_ID>
+          <NODE1_NAME>MLRcalaClaudia</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706049,41.162770 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32981">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>34925</NODE2_ID>
+          <NODE2_NAME>MLRelmoli</NODE2_NAME>
+          <KMS>0.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.706282,41.164006</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34983">
+          <NODE1_ID>39652</NODE1_ID>
+          <NODE1_NAME>mlrcalmuntanyola</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705619,41.161782 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35944">
+          <NODE1_ID>40401</NODE1_ID>
+          <NODE1_NAME>MLRInternauta</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705773,41.162244 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38780">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>42749</NODE2_ID>
+          <NODE2_NAME>MLRCalPeso</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.706049,41.163869</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40183">
+          <NODE1_ID>43809</NODE1_ID>
+          <NODE1_NAME>MLRCalaMariana</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705531,41.163408 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41486">
+          <NODE1_ID>44828</NODE1_ID>
+          <NODE1_NAME>MLRClChch</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706063,41.163575 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41536">
+          <NODE1_ID>44906</NODE1_ID>
+          <NODE1_NAME>MLRCalaLisa</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.705968,41.163003 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43373">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>46399</NODE2_ID>
+          <NODE2_NAME>MLRQuatreVents</NODE2_NAME>
+          <KMS>0.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.705636,41.161056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62690">
+          <NODE1_ID>60259</NODE1_ID>
+          <NODE1_NAME>MLRCalAlbertMestre</NODE1_NAME>
+          <NODE2_ID>16570</NODE2_ID>
+          <NODE2_NAME>MolarCampanar</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706910,41.164135 0.705743,41.164880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74601">
+          <NODE1_ID>16569</NODE1_ID>
+          <NODE1_NAME>MolarAjuntament</NODE1_NAME>
+          <NODE2_ID>29039</NODE2_ID>
+          <NODE2_NAME>MLRCalaCarmendelpa</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706075,41.163245 0.705689,41.162718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75518">
+          <NODE1_ID>25225</NODE1_ID>
+          <NODE1_NAME>MLRCalLluisNeus</NODE1_NAME>
+          <NODE2_ID>16569</NODE2_ID>
+          <NODE2_NAME>MolarAjuntament</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706172,41.163439 0.706075,41.163245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-4.997756</gml:X><gml:Y>41.505621</gml:Y></gml:coord>
+<gml:coord><gml:X>-4.994938</gml:X><gml:Y>41.507225</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="47943">
+          <NODE1_ID>49680</NODE1_ID>
+          <NODE1_NAME>Tsllsrj</NODE1_NAME>
+          <NODE2_ID>29671</NODE2_ID>
+          <NODE2_NAME>TsillasHolanda11</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.997723,41.507095 -4.995309,41.505834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48001">
+          <NODE1_ID>29671</NODE1_ID>
+          <NODE1_NAME>TsillasHolanda11</NODE1_NAME>
+          <NODE2_ID>49800</NODE2_ID>
+          <NODE2_NAME>Tsillas_rioja_rulas</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.995309,41.505834 -4.997756,41.506927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48010">
+          <NODE1_ID>49816</NODE1_ID>
+          <NODE1_NAME>Tsillas_Matilla_Car</NODE1_NAME>
+          <NODE2_ID>29671</NODE2_ID>
+          <NODE2_NAME>TsillasHolanda11</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.995265,41.507225 -4.995309,41.505834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48011">
+          <NODE1_ID>49817</NODE1_ID>
+          <NODE1_NAME>Tsillas_Matilla_Car2</NODE1_NAME>
+          <NODE2_ID>29671</NODE2_ID>
+          <NODE2_NAME>TsillasHolanda11</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.995264,41.507218 -4.995309,41.505834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48054">
+          <NODE1_ID>29671</NODE1_ID>
+          <NODE1_NAME>TsillasHolanda11</NODE1_NAME>
+          <NODE2_ID>49844</NODE2_ID>
+          <NODE2_NAME>TsillasHolanda17</NODE2_NAME>
+          <KMS>0.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.995309,41.505834 -4.995054,41.505660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49121">
+          <NODE1_ID>50570</NODE1_ID>
+          <NODE1_NAME>TsillasHolanda11Rd4</NODE1_NAME>
+          <NODE2_ID>29671</NODE2_ID>
+          <NODE2_NAME>TsillasHolanda11</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.994938,41.505621 -4.995309,41.505834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49376">
+          <NODE1_ID>50752</NODE1_ID>
+          <NODE1_NAME>TsillasHolanda15</NODE1_NAME>
+          <NODE2_ID>29671</NODE2_ID>
+          <NODE2_NAME>TsillasHolanda11</NODE2_NAME>
+          <KMS>0.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.995156,41.505702 -4.995309,41.505834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.305847</gml:X><gml:Y>39.920853</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.070050</gml:X><gml:Y>40.079442</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="26382">
+          <NODE1_ID>31756</NODE1_ID>
+          <NODE1_NAME>OndaXimoPradas</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>12.75</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.249864,39.947615 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41733">
+          <NODE1_ID>39903</NODE1_ID>
+          <NODE1_NAME>ONDAparis</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>15.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.276477,39.958726 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41900">
+          <NODE1_ID>39865</NODE1_ID>
+          <NODE1_NAME>TLScartapobla</NODE1_NAME>
+          <NODE2_ID>39903</NODE2_ID>
+          <NODE2_NAME>ONDAparis</NODE2_NAME>
+          <KMS>2.712</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.305847,39.949466 -0.276477,39.958726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43919">
+          <NODE1_ID>46099</NODE1_ID>
+          <NODE1_NAME>OndaRalla</NODE1_NAME>
+          <NODE2_ID>27654</NODE2_ID>
+          <NODE2_NAME>Btx-Montserrat</NODE2_NAME>
+          <KMS>6.717</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.173953,39.974492 -0.210303,39.920853</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52363">
+          <NODE1_ID>52833</NODE1_ID>
+          <NODE1_NAME>OndaSantFrancesc10</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>12.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.247169,39.951794 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52544">
+          <NODE1_ID>46944</NODE1_ID>
+          <NODE1_NAME>OndaSanFrances</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>12.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.247745,39.951458 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59503">
+          <NODE1_ID>57710</NODE1_ID>
+          <NODE1_NAME>ondsal</NODE1_NAME>
+          <NODE2_ID>31843</NODE2_ID>
+          <NODE2_NAME>UJIHumanas</NODE2_NAME>
+          <KMS>16.898</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.263897,39.964988 -0.070050,39.995347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64904">
+          <NODE1_ID>57339</NODE1_ID>
+          <NODE1_NAME>Onda_La_Pica</NODE1_NAME>
+          <NODE2_ID>28963</NODE2_ID>
+          <NODE2_NAME>Btx-PrimerMaig41</NODE2_NAME>
+          <KMS>10.763</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.277512,40.000516 -0.196351,39.926377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75068">
+          <NODE1_ID>69328</NODE1_ID>
+          <NODE1_NAME>OndPrsrtbnb65</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>7.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.176328,40.019611 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79614">
+          <NODE1_ID>73430</NODE1_ID>
+          <NODE1_NAME>ndcmfnd3</NODE1_NAME>
+          <NODE2_ID>28963</NODE2_ID>
+          <NODE2_NAME>Btx-PrimerMaig41</NODE2_NAME>
+          <KMS>8.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.183227,39.998414 -0.196351,39.926377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

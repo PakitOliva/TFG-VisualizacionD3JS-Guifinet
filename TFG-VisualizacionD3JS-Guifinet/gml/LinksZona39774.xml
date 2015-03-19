@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.340978</gml:X><gml:Y>42.325216</gml:Y></gml:coord>
+<gml:coord><gml:X>2.357714</gml:X><gml:Y>42.343513</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="35182">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>1.906</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35932">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>1.942</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36207">
+          <NODE1_ID>40474</NODE1_ID>
+          <NODE1_NAME>FeitusCanRata</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.355773,42.341778 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36213">
+          <NODE1_ID>40482</NODE1_ID>
+          <NODE1_NAME>FeitusCanSolfa</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.356538,42.343513 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36511">
+          <NODE1_ID>40477</NODE1_ID>
+          <NODE1_NAME>FeitusCanJanot</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.355618,42.342997 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36513">
+          <NODE1_ID>40476</NODE1_ID>
+          <NODE1_NAME>FeitusElGirbau</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.354974,42.342448 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36518">
+          <NODE1_ID>39684</NODE1_ID>
+          <NODE1_NAME>FeitusLaMoixa</NODE1_NAME>
+          <NODE2_ID>40478</NODE2_ID>
+          <NODE2_NAME>FeitusCanMonjo</NODE2_NAME>
+          <KMS>0.54</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.357714,42.338319 2.355401,42.342868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37296">
+          <NODE1_ID>40479</NODE1_ID>
+          <NODE1_NAME>FeitusLaIlla</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.902</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.348411,42.332434 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49263">
+          <NODE1_ID>40480</NODE1_ID>
+          <NODE1_NAME>FeitusElMoli</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>1.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.351611,42.334541 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61919">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>40874</NODE2_ID>
+          <NODE2_NAME>FeitusMasLaMoixa</NODE2_NAME>
+          <KMS>1.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.356337,42.337603</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61920">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>59622</NODE2_ID>
+          <NODE2_NAME>FeitusLaIlla2</NODE2_NAME>
+          <KMS>0.9</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.348307,42.332484</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67610">
+          <NODE1_ID>40481</NODE1_ID>
+          <NODE1_NAME>FeitusCanDarrer</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.354593,42.341647 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

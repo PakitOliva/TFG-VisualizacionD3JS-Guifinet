@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.441561</gml:X><gml:Y>42.108738</gml:Y></gml:coord>
+<gml:coord><gml:X>2.459106</gml:X><gml:Y>42.118570</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="32841">
+          <NODE1_ID>37861</NODE1_ID>
+          <NODE1_NAME>BasstRafael5</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>1.731</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.458202,42.118193 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54808">
+          <NODE1_ID>54681</NODE1_ID>
+          <NODE1_NAME>Basmajor9</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>1.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.458773,42.118316 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64005">
+          <NODE1_ID>61202</NODE1_ID>
+          <NODE1_NAME>BasTelecentre</NODE1_NAME>
+          <NODE2_ID>61201</NODE2_ID>
+          <NODE2_NAME>Basajuntament</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.457403,42.118570 2.459106,42.117680</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64006">
+          <NODE1_ID>61202</NODE1_ID>
+          <NODE1_NAME>BasTelecentre</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>1.706</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.457403,42.118570 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64007">
+          <NODE1_ID>61201</NODE1_ID>
+          <NODE1_NAME>Basajuntament</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>1.758</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.459106,42.117680 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.690003</gml:X><gml:Y>41.326095</gml:Y></gml:coord>
+<gml:coord><gml:X>1.809147</gml:X><gml:Y>41.366364</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16147">
+          <NODE1_ID>20704</NODE1_ID>
+          <NODE1_NAME>Av-Lluis</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.765242,41.332990 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16240">
+          <NODE1_ID>20806</NODE1_ID>
+          <NODE1_NAME>AV-JCosta</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764539,41.332280 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16669">
+          <NODE1_ID>21258</NODE1_ID>
+          <NODE1_NAME>AV-MagiB</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.761482,41.329952 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16720">
+          <NODE1_ID>21308</NODE1_ID>
+          <NODE1_NAME>AV-FernandoR</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.761138,41.329590 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17093">
+          <NODE1_ID>20469</NODE1_ID>
+          <NODE1_NAME>AV-JordiRLL</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.763155,41.332159 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17174">
+          <NODE1_ID>18711</NODE1_ID>
+          <NODE1_NAME>AV-CanMitjans</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>3.88</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.809147,41.343927 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20082">
+          <NODE1_ID>25094</NODE1_ID>
+          <NODE1_NAME>AV-AntoniaE</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.763646,41.332194 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20695">
+          <NODE1_ID>18868</NODE1_ID>
+          <NODE1_NAME>AV-Arbocar</NODE1_NAME>
+          <NODE2_ID>25816</NODE2_ID>
+          <NODE2_NAME>AV-SalvadorR</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764845,41.333647 1.761211,41.329810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22340">
+          <NODE1_ID>27575</NODE1_ID>
+          <NODE1_NAME>AV-AntoniM</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.378</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.766862,41.330601 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25604">
+          <NODE1_ID>30919</NODE1_ID>
+          <NODE1_NAME>AV-LluisC</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.765435,41.333460 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27512">
+          <NODE1_ID>32861</NODE1_ID>
+          <NODE1_NAME>AV-AleixG</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764480,41.333081 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28794">
+          <NODE1_ID>34034</NODE1_ID>
+          <NODE1_NAME>AV-EvaC</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.763231,41.331981 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31536">
+          <NODE1_ID>36600</NODE1_ID>
+          <NODE1_NAME>AV-SandraR</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.422</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767882,41.330610 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33007">
+          <NODE1_ID>37999</NODE1_ID>
+          <NODE1_NAME>AV-MyriamA</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.763434,41.332410 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38253">
+          <NODE1_ID>42349</NODE1_ID>
+          <NODE1_NAME>AV-JudithJ</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764758,41.332839 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50168">
+          <NODE1_ID>18868</NODE1_ID>
+          <NODE1_NAME>AV-Arbocar</NODE1_NAME>
+          <NODE2_ID>8013</NODE2_ID>
+          <NODE2_NAME>LC-Diposits</NODE2_NAME>
+          <KMS>7.241</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764845,41.333647 1.690003,41.366364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53366">
+          <NODE1_ID>53757</NODE1_ID>
+          <NODE1_NAME>AV-LorcanM</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764389,41.333113 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54383">
+          <NODE1_ID>54405</NODE1_ID>
+          <NODE1_NAME>AV-JuanReq</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767806,41.330609 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55035">
+          <NODE1_ID>54801</NODE1_ID>
+          <NODE1_NAME>AV-RafaelG</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767265,41.330033 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57820">
+          <NODE1_ID>18868</NODE1_ID>
+          <NODE1_NAME>AV-Arbocar</NODE1_NAME>
+          <NODE2_ID>32199</NODE2_ID>
+          <NODE2_NAME>AV-RamonB</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764845,41.333647 1.765451,41.333455</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57821">
+          <NODE1_ID>18868</NODE1_ID>
+          <NODE1_NAME>AV-Arbocar</NODE1_NAME>
+          <NODE2_ID>47602</NODE2_ID>
+          <NODE2_NAME>AV-XavierR</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764845,41.333647 1.766363,41.333555</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60320">
+          <NODE1_ID>20806</NODE1_ID>
+          <NODE1_NAME>AV-JCosta</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764539,41.332280 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61155">
+          <NODE1_ID>18868</NODE1_ID>
+          <NODE1_NAME>AV-Arbocar</NODE1_NAME>
+          <NODE2_ID>30478</NODE2_ID>
+          <NODE2_NAME>AV-IgnazM</NODE2_NAME>
+          <KMS>0.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764845,41.333647 1.761855,41.329600</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62102">
+          <NODE1_ID>59916</NODE1_ID>
+          <NODE1_NAME>AV-JordiM</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764660,41.332353 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63423">
+          <NODE1_ID>60891</NODE1_ID>
+          <NODE1_NAME>AV-JordiV</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.259</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767424,41.332366 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64892">
+          <NODE1_ID>62001</NODE1_ID>
+          <NODE1_NAME>AV-AngelsA</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.766743,41.330499 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66236">
+          <NODE1_ID>62994</NODE1_ID>
+          <NODE1_NAME>AV-YoussefA</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764267,41.332816 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71617">
+          <NODE1_ID>21309</NODE1_ID>
+          <NODE1_NAME>AV-PereR</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.273</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.762898,41.331676 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71724">
+          <NODE1_ID>20468</NODE1_ID>
+          <NODE1_NAME>AV-JMArmero</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.915</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769207,41.326095 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72884">
+          <NODE1_ID>68188</NODE1_ID>
+          <NODE1_NAME>AV-Mohamed</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764399,41.332675 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75216">
+          <NODE1_ID>32842</NODE1_ID>
+          <NODE1_NAME>AV-EulaliaR</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764497,41.332332 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77842">
+          <NODE1_ID>18868</NODE1_ID>
+          <NODE1_NAME>AV-Arbocar</NODE1_NAME>
+          <NODE2_ID>72549</NODE2_ID>
+          <NODE2_NAME>AV-FrancescSerra</NODE2_NAME>
+          <KMS>0.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.764845,41.333647 1.768285,41.328612</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121649">
+          <NODE1_ID>75902</NODE1_ID>
+          <NODE1_NAME>AV-AlejandroFM</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767616,41.330504 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123017">
+          <NODE1_ID>20467</NODE1_ID>
+          <NODE1_NAME>AV-JoanPere</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.763772,41.332420 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123018">
+          <NODE1_ID>76876</NODE1_ID>
+          <NODE1_NAME>AV-LocalSocial</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.765022,41.332694 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123200">
+          <NODE1_ID>50738</NODE1_ID>
+          <NODE1_NAME>AV-VanessaE</NODE1_NAME>
+          <NODE2_ID>18868</NODE2_ID>
+          <NODE2_NAME>AV-Arbocar</NODE2_NAME>
+          <KMS>0.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.768055,41.330632 1.764845,41.333647</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

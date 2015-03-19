@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.835605</gml:X><gml:Y>41.936619</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.900155</gml:X><gml:Y>41.966412</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="52899">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.835605,41.941677</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52899</NODE_ID>
+      <NODE_NAME>QRTAlzina3</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29805">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.900155,41.955668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29805</NODE_ID>
+      <NODE_NAME>QRTBellmirador</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37688">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.840093,41.939943</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37688</NODE_ID>
+      <NODE_NAME>QRTNord40</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39573">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.843944,41.954878</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39573</NODE_ID>
+      <NODE_NAME>QRTCastor1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47164">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.838940,41.966412</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47164</NODE_ID>
+      <NODE_NAME>QRTLaCreuetaSitjes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45649">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.841918,41.941576</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45649</NODE_ID>
+      <NODE_NAME>QRTRF14</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57316">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.838130,41.936619</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57316</NODE_ID>
+      <NODE_NAME>QRTEstacio54</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.106108</gml:X><gml:Y>41.192160</gml:Y></gml:coord>
+<gml:coord><gml:X>1.404710</gml:X><gml:Y>41.376933</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="43826">
+          <NODE1_ID>34105</NODE1_ID>
+          <NODE1_NAME>HLV_Valls_Carme</NODE1_NAME>
+          <NODE2_ID>37424</NODE2_ID>
+          <NODE2_NAME>HLV_Figuerola</NODE2_NAME>
+          <KMS>9.932</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249085,41.282599 1.265045,41.371219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44065">
+          <NODE1_ID>34105</NODE1_ID>
+          <NODE1_NAME>HLV_Valls_Carme</NODE1_NAME>
+          <NODE2_ID>36676</NODE2_ID>
+          <NODE2_NAME>HLV-TURBA</NODE2_NAME>
+          <KMS>0.226</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249085,41.282599 1.250411,41.284367</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44238">
+          <NODE1_ID>37305</NODE1_ID>
+          <NODE1_NAME>SucDeTaronja</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.431</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249405,41.286471 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46018">
+          <NODE1_ID>48249</NODE1_ID>
+          <NODE1_NAME>ca_amelia</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>1.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.236879,41.277864 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49388">
+          <NODE1_ID>31569</NODE1_ID>
+          <NODE1_NAME>MasPlata</NODE1_NAME>
+          <NODE2_ID>37424</NODE2_ID>
+          <NODE2_NAME>HLV_Figuerola</NODE2_NAME>
+          <KMS>5.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.327833,41.376933 1.265045,41.371219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52142">
+          <NODE1_ID>44352</NODE1_ID>
+          <NODE1_NAME>caOdena</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>7.015</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.169614,41.262730 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52446">
+          <NODE1_ID>53097</NODE1_ID>
+          <NODE1_NAME>Valls-Carme-Metges</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.248598,41.282840 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53563">
+          <NODE1_ID>34105</NODE1_ID>
+          <NODE1_NAME>HLV_Valls_Carme</NODE1_NAME>
+          <NODE2_ID>53914</NODE2_ID>
+          <NODE2_NAME>NodeDinou52</NODE2_NAME>
+          <KMS>0.46</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249085,41.282599 1.251875,41.286171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56572">
+          <NODE1_ID>53098</NODE1_ID>
+          <NODE1_NAME>Valls-TombdelBalco</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.252369,41.278631 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57444">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>54835</NODE2_ID>
+          <NODE2_NAME>VallsAvCat25</NODE2_NAME>
+          <KMS>0.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.249000,41.290758</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57445">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>54837</NODE2_ID>
+          <NODE2_NAME>VallsCCames12</NODE2_NAME>
+          <KMS>0.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.247101,41.287505</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58493">
+          <NODE1_ID>56357</NODE1_ID>
+          <NODE1_NAME>UrbiRemeiPPuig14</NODE1_NAME>
+          <NODE2_ID>36507</NODE2_ID>
+          <NODE2_NAME>Sigertatxu</NODE2_NAME>
+          <KMS>1.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.157003,41.267344 1.167743,41.260988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58494">
+          <NODE1_ID>36507</NODE1_ID>
+          <NODE1_NAME>Sigertatxu</NODE1_NAME>
+          <NODE2_ID>56305</NODE2_ID>
+          <NODE2_NAME>AlcUrbiRemeiMajor</NODE2_NAME>
+          <KMS>0.937</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.167743,41.260988 1.158457,41.265695</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58641">
+          <NODE1_ID>56269</NODE1_ID>
+          <NODE1_NAME>AlcHort8</NODE1_NAME>
+          <NODE2_ID>36507</NODE2_ID>
+          <NODE2_NAME>Sigertatxu</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.168242,41.260767 1.167743,41.260988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58843">
+          <NODE1_ID>57585</NODE1_ID>
+          <NODE1_NAME>HLV-EL_PLA-Cal_Frai</NODE1_NAME>
+          <NODE2_ID>37424</NODE2_ID>
+          <NODE2_NAME>HLV_Figuerola</NODE2_NAME>
+          <KMS>1.989</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.288100,41.366833 1.265045,41.371219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58906">
+          <NODE1_ID>47954</NODE1_ID>
+          <NODE1_NAME>rojals</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>11.539</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.130776,41.338994 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59392">
+          <NODE1_ID>58022</NODE1_ID>
+          <NODE1_NAME>VallsVeciana</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.612</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.252592,41.287429 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59538">
+          <NODE1_ID>44352</NODE1_ID>
+          <NODE1_NAME>caOdena</NODE1_NAME>
+          <NODE2_ID>34106</NODE2_ID>
+          <NODE2_NAME>Valls-LaMartrinquera</NODE2_NAME>
+          <KMS>4.523</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.169614,41.262730 1.212058,41.287892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60825">
+          <NODE1_ID>44352</NODE1_ID>
+          <NODE1_NAME>caOdena</NODE1_NAME>
+          <NODE2_ID>36507</NODE2_ID>
+          <NODE2_NAME>Sigertatxu</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.169614,41.262730 1.167743,41.260988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61014">
+          <NODE1_ID>59170</NODE1_ID>
+          <NODE1_NAME>laserra-argentino</NODE1_NAME>
+          <NODE2_ID>34106</NODE2_ID>
+          <NODE2_NAME>Valls-LaMartrinquera</NODE2_NAME>
+          <KMS>1.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.209609,41.273480 1.212058,41.287892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61035">
+          <NODE1_ID>36507</NODE1_ID>
+          <NODE1_NAME>Sigertatxu</NODE1_NAME>
+          <NODE2_ID>47380</NODE2_ID>
+          <NODE2_NAME>AlcUrbiRemei</NODE2_NAME>
+          <KMS>0.952</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.167743,41.260988 1.158677,41.266157</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61612">
+          <NODE1_ID>47568</NODE1_ID>
+          <NODE1_NAME>AlcAparo</NODE1_NAME>
+          <NODE2_ID>36507</NODE2_ID>
+          <NODE2_NAME>Sigertatxu</NODE2_NAME>
+          <KMS>0.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.168081,41.261477 1.167743,41.260988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62147">
+          <NODE1_ID>59926</NODE1_ID>
+          <NODE1_NAME>VallsMajor5</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247871,41.283885 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62396">
+          <NODE1_ID>59875</NODE1_ID>
+          <NODE1_NAME>caFonset</NODE1_NAME>
+          <NODE2_ID>44352</NODE2_ID>
+          <NODE2_NAME>caOdena</NODE2_NAME>
+          <KMS>0.12</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.168532,41.263432 1.169614,41.262730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62605">
+          <NODE1_ID>59243</NODE1_ID>
+          <NODE1_NAME>HLV_TopCycling</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.248797,41.286565 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62650">
+          <NODE1_ID>59875</NODE1_ID>
+          <NODE1_NAME>caFonset</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>7.077</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.168532,41.263432 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63300">
+          <NODE1_ID>47380</NODE1_ID>
+          <NODE1_NAME>AlcUrbiRemei</NODE1_NAME>
+          <NODE2_ID>59875</NODE2_ID>
+          <NODE2_NAME>caFonset</NODE2_NAME>
+          <KMS>0.88</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.158677,41.266157 1.168532,41.263432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64499">
+          <NODE1_ID>60514</NODE1_ID>
+          <NODE1_NAME>Vedruna</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.594</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.250545,41.289195 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64598">
+          <NODE1_ID>61142</NODE1_ID>
+          <NODE1_NAME>AlcVeins</NODE1_NAME>
+          <NODE2_ID>36507</NODE2_ID>
+          <NODE2_NAME>Sigertatxu</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.167263,41.260323 1.167743,41.260988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65213">
+          <NODE1_ID>62285</NODE1_ID>
+          <NODE1_NAME>VallsVMao13</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.445</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.252471,41.285685 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66945">
+          <NODE1_ID>63572</NODE1_ID>
+          <NODE1_NAME>VallsMStAntoni101</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.221</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249596,41.285757 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67454">
+          <NODE1_ID>64014</NODE1_ID>
+          <NODE1_NAME>HLV_Loli</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.250569,41.285417 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67927">
+          <NODE1_ID>64318</NODE1_ID>
+          <NODE1_NAME>freixe</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.929</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.238027,41.283210 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68317">
+          <NODE1_ID>64625</NODE1_ID>
+          <NODE1_NAME>serracarreras</NODE1_NAME>
+          <NODE2_ID>34106</NODE2_ID>
+          <NODE2_NAME>Valls-LaMartrinquera</NODE2_NAME>
+          <KMS>1.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.206138,41.276905 1.212058,41.287892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68774">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68993">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>52635</NODE2_ID>
+          <NODE2_NAME>HLV_Fraternal_222</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.247410,41.286730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69154">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>16.02</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69297">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>55881</NODE2_ID>
+          <NODE2_NAME>VallsFraternal55</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.246071,41.287719</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69915">
+          <NODE1_ID>63187</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP</NODE1_NAME>
+          <NODE2_ID>65538</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP202</NODE2_NAME>
+          <KMS>0.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404710,41.366894 1.398791,41.367845</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69981">
+          <NODE1_ID>58495</NODE1_ID>
+          <NODE1_NAME>masmariasaca</NODE1_NAME>
+          <NODE2_ID>34106</NODE2_ID>
+          <NODE2_NAME>Valls-LaMartrinquera</NODE2_NAME>
+          <KMS>1.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.207317,41.277426 1.212058,41.287892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70151">
+          <NODE1_ID>65900</NODE1_ID>
+          <NODE1_NAME>AlcPorctxop</NODE1_NAME>
+          <NODE2_ID>59875</NODE2_ID>
+          <NODE2_NAME>caFonset</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.170111,41.263557 1.168532,41.263432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70622">
+          <NODE1_ID>66274</NODE1_ID>
+          <NODE1_NAME>AIGurbMDP532</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.401937,41.370728 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70747">
+          <NODE1_ID>66376</NODE1_ID>
+          <NODE1_NAME>AIGurbMDP92</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.213</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404279,41.368787 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70748">
+          <NODE1_ID>66377</NODE1_ID>
+          <NODE1_NAME>AIGurbMDP200</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.399062,41.367876 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70858">
+          <NODE1_ID>37439</NODE1_ID>
+          <NODE1_NAME>MDPVLNC</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.401953,41.371157 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71099">
+          <NODE1_ID>66036</NODE1_ID>
+          <NODE1_NAME>Alc_caMimiJoan</NODE1_NAME>
+          <NODE2_ID>44352</NODE2_ID>
+          <NODE2_NAME>caOdena</NODE2_NAME>
+          <KMS>2.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.177855,41.240842 1.169614,41.262730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71100">
+          <NODE1_ID>66275</NODE1_ID>
+          <NODE1_NAME>AlcFonset+</NODE1_NAME>
+          <NODE2_ID>44352</NODE2_ID>
+          <NODE2_NAME>caOdena</NODE2_NAME>
+          <KMS>2.517</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.173279,41.240236 1.169614,41.262730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71375">
+          <NODE1_ID>66911</NODE1_ID>
+          <NODE1_NAME>AIGurbMDP14</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.400325,41.366180 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71390">
+          <NODE1_ID>63721</NODE1_ID>
+          <NODE1_NAME>AlcJudit</NODE1_NAME>
+          <NODE2_ID>44352</NODE2_ID>
+          <NODE2_NAME>caOdena</NODE2_NAME>
+          <KMS>3.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.180367,41.236791 1.169614,41.262730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72136">
+          <NODE1_ID>34105</NODE1_ID>
+          <NODE1_NAME>HLV_Valls_Carme</NODE1_NAME>
+          <NODE2_ID>67533</NODE2_ID>
+          <NODE2_NAME>VallsHortdelsAlls441</NODE2_NAME>
+          <KMS>0.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249085,41.282599 1.247157,41.281598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72297">
+          <NODE1_ID>67634</NODE1_ID>
+          <NODE1_NAME>AIGurbMDP250</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.401181,41.369149 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72450">
+          <NODE1_ID>66874</NODE1_ID>
+          <NODE1_NAME>AIGMDPVAL</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.401792,41.371100 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72471">
+          <NODE1_ID>67363</NODE1_ID>
+          <NODE1_NAME>VallsMasmolets</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>4.096</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.238949,41.320497 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72476">
+          <NODE1_ID>54910</NODE1_ID>
+          <NODE1_NAME>NLS_Po</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>5.515</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.294477,41.249169 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72479">
+          <NODE1_ID>39645</NODE1_ID>
+          <NODE1_NAME>nls</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.478</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.299573,41.251105 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72786">
+          <NODE1_ID>67392</NODE1_ID>
+          <NODE1_NAME>AlcCivit</NODE1_NAME>
+          <NODE2_ID>59875</NODE2_ID>
+          <NODE2_NAME>caFonset</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.169886,41.262669 1.168532,41.263432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72800">
+          <NODE1_ID>67363</NODE1_ID>
+          <NODE1_NAME>VallsMasmolets</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>4.096</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.238949,41.320497 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72870">
+          <NODE1_ID>68098</NODE1_ID>
+          <NODE1_NAME>aigurbmdpvv</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404351,41.370956 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72871">
+          <NODE1_ID>68098</NODE1_ID>
+          <NODE1_NAME>aigurbmdpvv</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404351,41.370956 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72872">
+          <NODE1_ID>68098</NODE1_ID>
+          <NODE1_NAME>aigurbmdpvv</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404351,41.370956 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73238">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>66440</NODE2_ID>
+          <NODE2_NAME>VallsBisbeSitjo2</NODE2_NAME>
+          <KMS>0.673</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.251300,41.289722</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73330">
+          <NODE1_ID>68518</NODE1_ID>
+          <NODE1_NAME>Zeta</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.251</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.250789,41.284791 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73960">
+          <NODE1_ID>54910</NODE1_ID>
+          <NODE1_NAME>NLS_Po</NODE1_NAME>
+          <NODE2_ID>69230</NODE2_ID>
+          <NODE2_NAME>NLS_SantJoan24</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.294477,41.249169 1.294804,41.247974</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73994">
+          <NODE1_ID>68132</NODE1_ID>
+          <NODE1_NAME>Ortoneda</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>10.228</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.174271,41.210795 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74252">
+          <NODE1_ID>63527</NODE1_ID>
+          <NODE1_NAME>VallsMuquera</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.867</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.258224,41.283899 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74631">
+          <NODE1_ID>69465</NODE1_ID>
+          <NODE1_NAME>VallsVernedaUrb</NODE1_NAME>
+          <NODE2_ID>67363</NODE2_ID>
+          <NODE2_NAME>VallsMasmolets</NODE2_NAME>
+          <KMS>2.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.254922,41.304293 1.238949,41.320497</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75175">
+          <NODE1_ID>70091</NODE1_ID>
+          <NODE1_NAME>VallsGSantGabriel14</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.477</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.252342,41.286126 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75887">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>70660</NODE2_ID>
+          <NODE2_NAME>VallsCort14</NODE2_NAME>
+          <KMS>0.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.248598,41.284357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76025">
+          <NODE1_ID>63187</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP</NODE1_NAME>
+          <NODE2_ID>68098</NODE2_ID>
+          <NODE2_NAME>aigurbmdpvv</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404710,41.366894 1.404351,41.370956</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77173">
+          <NODE1_ID>72123</NODE1_ID>
+          <NODE1_NAME>AlcAlbaiges</NODE1_NAME>
+          <NODE2_ID>59875</NODE2_ID>
+          <NODE2_NAME>caFonset</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.171900,41.262779 1.168532,41.263432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77223">
+          <NODE1_ID>68070</NODE1_ID>
+          <NODE1_NAME>NLS_Sensuries</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.296121,41.249042 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77235">
+          <NODE1_ID>72164</NODE1_ID>
+          <NODE1_NAME>NLSmjr10</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.294936,41.249034 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77261">
+          <NODE1_ID>70021</NODE1_ID>
+          <NODE1_NAME>NLS_costes</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.293882,41.248323 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77283">
+          <NODE1_ID>72230</NODE1_ID>
+          <NODE1_NAME>NLS_CampsiSiquia3</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.295089,41.247884 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77327">
+          <NODE1_ID>65538</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP202</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.398791,41.367845 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77358">
+          <NODE1_ID>72298</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP531</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.516</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.399099,41.368828 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77359">
+          <NODE1_ID>65538</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP202</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.398791,41.367845 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77382">
+          <NODE1_ID>72253</NODE1_ID>
+          <NODE1_NAME>NLS_Esglesia3</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.295009,41.249584 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77669">
+          <NODE1_ID>72496</NODE1_ID>
+          <NODE1_NAME>Alc10PaisosCatalans</NODE1_NAME>
+          <NODE2_ID>36507</NODE2_ID>
+          <NODE2_NAME>Sigertatxu</NODE2_NAME>
+          <KMS>1.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.157921,41.268960 1.167743,41.260988</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77670">
+          <NODE1_ID>72577</NODE1_ID>
+          <NODE1_NAME>lcPrctxpv2</NODE1_NAME>
+          <NODE2_ID>59875</NODE2_ID>
+          <NODE2_NAME>caFonset</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.172239,41.260987 1.168532,41.263432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78482">
+          <NODE1_ID>63187</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP</NODE1_NAME>
+          <NODE2_ID>73225</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP588</NODE2_NAME>
+          <KMS>0.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404710,41.366894 1.399566,41.370256</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79102">
+          <NODE1_ID>69932</NODE1_ID>
+          <NODE1_NAME>VallsAClave35</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.532</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.253254,41.286801 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79851">
+          <NODE1_ID>69466</NODE1_ID>
+          <NODE1_NAME>VallsVernedaCami</NODE1_NAME>
+          <NODE2_ID>67363</NODE2_ID>
+          <NODE2_NAME>VallsMasmolets</NODE2_NAME>
+          <KMS>2.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247326,41.294298 1.238949,41.320497</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80577">
+          <NODE1_ID>73694</NODE1_ID>
+          <NODE1_NAME>VallsCtraTarragona1</NODE1_NAME>
+          <NODE2_ID>34105</NODE2_ID>
+          <NODE2_NAME>HLV_Valls_Carme</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.246879,41.281979 1.249085,41.282599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80578">
+          <NODE1_ID>74671</NODE1_ID>
+          <NODE1_NAME>mimulan</NODE1_NAME>
+          <NODE2_ID>34106</NODE2_ID>
+          <NODE2_NAME>Valls-LaMartrinquera</NODE2_NAME>
+          <KMS>1.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.201938,41.281043 1.212058,41.287892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81161">
+          <NODE1_ID>63187</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP</NODE1_NAME>
+          <NODE2_ID>68098</NODE2_ID>
+          <NODE2_NAME>aigurbmdpvv</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.404710,41.366894 1.404351,41.370956</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81162">
+          <NODE1_ID>75295</NODE1_ID>
+          <NODE1_NAME>AIGUrbMDP232</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.519</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.398870,41.368477 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81175">
+          <NODE1_ID>75313</NODE1_ID>
+          <NODE1_NAME>AiGrbMDP130</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.403116,41.368900 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81307">
+          <NODE1_ID>34106</NODE1_ID>
+          <NODE1_NAME>Valls-LaMartrinquera</NODE1_NAME>
+          <NODE2_ID>74661</NODE2_ID>
+          <NODE2_NAME>VALLSpfreixa10</NODE2_NAME>
+          <KMS>2.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.212058,41.287892 1.225799,41.272476</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121364">
+          <NODE1_ID>74384</NODE1_ID>
+          <NODE1_NAME>NLS_Bellavista</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>3.453</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.277447,41.262579 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121506">
+          <NODE1_ID>59875</NODE1_ID>
+          <NODE1_NAME>caFonset</NODE1_NAME>
+          <NODE2_ID>75770</NODE2_ID>
+          <NODE2_NAME>AlcDavid</NODE2_NAME>
+          <KMS>0.366</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.168532,41.263432 1.171012,41.260724</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121713">
+          <NODE1_ID>75932</NODE1_ID>
+          <NODE1_NAME>VallsOli</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.248816,41.283708 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121717">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>64691</NODE2_ID>
+          <NODE2_NAME>VallsOli14</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.248772,41.283801</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121718">
+          <NODE1_ID>54834</NODE1_ID>
+          <NODE1_NAME>VallsBlat</NODE1_NAME>
+          <NODE2_ID>64689</NODE2_ID>
+          <NODE2_NAME>VallsOli13</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.247887,41.284240 1.248825,41.283814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121791">
+          <NODE1_ID>57610</NODE1_ID>
+          <NODE1_NAME>VallsLicoristes4</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>4.657</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.266689,41.303718 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121887">
+          <NODE1_ID>59273</NODE1_ID>
+          <NODE1_NAME>alcorural</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>14.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.106108,41.261708 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121942">
+          <NODE1_ID>75180</NODE1_ID>
+          <NODE1_NAME>VllmllCogollsPL6P180</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>0.998</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.267022,41.266919 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121983">
+          <NODE1_ID>75319</NODE1_ID>
+          <NODE1_NAME>NLS_BellavistaPlca16</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.276247,41.261054 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121984">
+          <NODE1_ID>74384</NODE1_ID>
+          <NODE1_NAME>NLS_Bellavista</NODE1_NAME>
+          <NODE2_ID>74001</NODE2_ID>
+          <NODE2_NAME>VallsBnSlIndCstlls14</NODE2_NAME>
+          <KMS>2.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.277447,41.262579 1.270042,41.286880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122064">
+          <NODE1_ID>57610</NODE1_ID>
+          <NODE1_NAME>VallsLicoristes4</NODE1_NAME>
+          <NODE2_ID>64690</NODE2_ID>
+          <NODE2_NAME>VallsBosc</NODE2_NAME>
+          <KMS>3.542</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.266689,41.303718 1.226196,41.312936</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122273">
+          <NODE1_ID>74384</NODE1_ID>
+          <NODE1_NAME>NLS_Bellavista</NODE1_NAME>
+          <NODE2_ID>72639</NODE2_ID>
+          <NODE2_NAME>VllmllCldrsPintell28</NODE2_NAME>
+          <KMS>1.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.277447,41.262579 1.268569,41.273410</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122383">
+          <NODE1_ID>75262</NODE1_ID>
+          <NODE1_NAME>NLS_BellavistaPlca2</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>0.158</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.276482,41.261361 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122385">
+          <NODE1_ID>75673</NODE1_ID>
+          <NODE1_NAME>VallsPlnaVlmPL14P227</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>1.935</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.254697,41.265540 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122483">
+          <NODE1_ID>57610</NODE1_ID>
+          <NODE1_NAME>VallsLicoristes4</NODE1_NAME>
+          <NODE2_ID>70333</NODE2_ID>
+          <NODE2_NAME>AlioRamonSerra</NODE2_NAME>
+          <KMS>3.42</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.266689,41.303718 1.304323,41.291777</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122484">
+          <NODE1_ID>57610</NODE1_ID>
+          <NODE1_NAME>VallsLicoristes4</NODE1_NAME>
+          <NODE2_ID>63187</NODE2_ID>
+          <NODE2_NAME>AIGUrbMDP</NODE2_NAME>
+          <KMS>13.517</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.266689,41.303718 1.404710,41.366894</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122660">
+          <NODE1_ID>74384</NODE1_ID>
+          <NODE1_NAME>NLS_Bellavista</NODE1_NAME>
+          <NODE2_ID>59875</NODE2_ID>
+          <NODE2_NAME>caFonset</NODE2_NAME>
+          <KMS>9.128</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.277447,41.262579 1.168532,41.263432</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122661">
+          <NODE1_ID>59875</NODE1_ID>
+          <NODE1_NAME>caFonset</NODE1_NAME>
+          <NODE2_ID>74602</NODE2_ID>
+          <NODE2_NAME>ElMorellAjuntament</NODE2_NAME>
+          <KMS>8.599</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.168532,41.263432 1.208601,41.192160</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122737">
+          <NODE1_ID>76638</NODE1_ID>
+          <NODE1_NAME>VallsPlnaVlmSegarra</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>2.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.253678,41.265431 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122763">
+          <NODE1_ID>75790</NODE1_ID>
+          <NODE1_NAME>NLS_BellavistaMjor17</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>0.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.275936,41.261077 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122918">
+          <NODE1_ID>76760</NODE1_ID>
+          <NODE1_NAME>VallsCarlesCardo25</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>0.838</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.251352,41.291315 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123558">
+          <NODE1_ID>76871</NODE1_ID>
+          <NODE1_NAME>NLS_BellavistaPlcB16</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.276277,41.261006 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123563">
+          <NODE1_ID>76316</NODE1_ID>
+          <NODE1_NAME>NLS_SantSebastia15</NODE1_NAME>
+          <NODE2_ID>54910</NODE2_ID>
+          <NODE2_NAME>NLS_Po</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.296333,41.249136 1.294477,41.249169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123749">
+          <NODE1_ID>63526</NODE1_ID>
+          <NODE1_NAME>VllmllCldrsPL5</NODE1_NAME>
+          <NODE2_ID>74384</NODE2_ID>
+          <NODE2_NAME>NLS_Bellavista</NODE2_NAME>
+          <KMS>0.874</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.270423,41.268391 1.277447,41.262579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123752">
+          <NODE1_ID>34105</NODE1_ID>
+          <NODE1_NAME>HLV_Valls_Carme</NODE1_NAME>
+          <NODE2_ID>77327</NODE2_ID>
+          <NODE2_NAME>VallsGSantGabriel9</NODE2_NAME>
+          <KMS>0.447</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.249085,41.282599 1.251705,41.286105</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

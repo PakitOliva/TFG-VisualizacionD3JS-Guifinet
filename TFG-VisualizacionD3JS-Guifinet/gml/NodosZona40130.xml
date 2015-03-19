@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.344755</gml:X><gml:Y>38.783361</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.341975</gml:X><gml:Y>38.785682</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="40138">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.343763,38.785092</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40138</NODE_ID>
+      <NODE_NAME>Planes-SNode</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46451">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.344755,38.785619</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46451</NODE_ID>
+      <NODE_NAME>PlanesClient1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46452">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.344047,38.785682</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46452</NODE_ID>
+      <NODE_NAME>PlanesClient2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61852">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.341975,38.783361</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61852</NODE_ID>
+      <NODE_NAME>Asociacio</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

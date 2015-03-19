@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.820336</gml:X><gml:Y>43.348284</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.791727</gml:X><gml:Y>43.365169</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="55054">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.820336,43.348284</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55054</NODE_ID>
+      <NODE_NAME>HNJzb40</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55904">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.792426,43.364765</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55904</NODE_ID>
+      <NODE_NAME>HONDmua</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55911">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.793014,43.365169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55911</NODE_ID>
+      <NODE_NAME>HONDolag</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59704">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.795669,43.362378</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59704</NODE_ID>
+      <NODE_NAME>HONDhaizeder</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61997">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.791727,43.363214</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61997</NODE_ID>
+      <NODE_NAME>HONDSanNikolas</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66191">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.795742,43.362420</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66191</NODE_ID>
+      <NODE_NAME>HONDhaizeder-bis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

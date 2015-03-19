@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>0.031736</gml:X><gml:Y>38.666852</gml:Y></gml:coord>
+      <gml:coord><gml:X>0.090868</gml:X><gml:Y>38.722029</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="46902">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.038629,38.722029</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46902</NODE_ID>
+      <NODE_NAME>BenissaBalau8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48174">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.053743,38.714703</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48174</NODE_ID>
+      <NODE_NAME>BenissaAlcudia2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55504">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.031736,38.699792</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55504</NODE_ID>
+      <NODE_NAME>BenissaPensi20</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56745">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.049198,38.715937</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56745</NODE_ID>
+      <NODE_NAME>BenissaStDomenec36</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63959">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.079855,38.711355</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63959</NODE_ID>
+      <NODE_NAME>BenissaTera1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72182">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.090868,38.666852</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72182</NODE_ID>
+      <NODE_NAME>BenissaCalaFustera</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76796">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.051422,38.714351</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76796</NODE_ID>
+      <NODE_NAME>BenissaPValencia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76798">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.073316,38.680910</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76798</NODE_ID>
+      <NODE_NAME>BenissaSNPedramala</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

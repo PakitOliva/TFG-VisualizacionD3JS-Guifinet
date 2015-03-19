@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.999493</gml:X><gml:Y>42.391878</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.005914</gml:X><gml:Y>42.400856</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="32342">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.999493,42.400856</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32342</NODE_ID>
+      <NODE_NAME>EspollaMartonix</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41266">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.999715,42.391878</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41266</NODE_ID>
+      <NODE_NAME>spllJltns</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43747">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.000963,42.392419</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43747</NODE_ID>
+      <NODE_NAME>EspllaCampanar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63231">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.005914,42.397009</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63231</NODE_ID>
+      <NODE_NAME>EspollaDiposit</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

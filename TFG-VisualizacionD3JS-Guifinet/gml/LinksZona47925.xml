@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.461410</gml:X><gml:Y>40.679719</gml:Y></gml:coord>
+<gml:coord><gml:X>0.492869</gml:X><gml:Y>40.714567</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="57935">
+          <NODE1_ID>48746</NODE1_ID>
+          <NODE1_NAME>GALAjuntament</NODE1_NAME>
+          <NODE2_ID>47926</NODE2_ID>
+          <NODE2_NAME>GALViverEmpreses</NODE2_NAME>
+          <KMS>0.3</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463695,40.681599 0.467193,40.682075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58008">
+          <NODE1_ID>25352</NODE1_ID>
+          <NODE1_NAME>SBrbCampanar</NODE1_NAME>
+          <NODE2_ID>47926</NODE2_ID>
+          <NODE2_NAME>GALViverEmpreses</NODE2_NAME>
+          <KMS>4.21</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.492869,40.714567 0.467193,40.682075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60505">
+          <NODE1_ID>58770</NODE1_ID>
+          <NODE1_NAME>GaleraCasalABC</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464268,40.681203 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60506">
+          <NODE1_ID>58771</NODE1_ID>
+          <NODE1_NAME>GaleraPeixateria4ABC</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463753,40.680572 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61037">
+          <NODE1_ID>48746</NODE1_ID>
+          <NODE1_NAME>GALAjuntament</NODE1_NAME>
+          <NODE2_ID>54639</NODE2_ID>
+          <NODE2_NAME>GaleraStLlorenc28DGM</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463695,40.681599 0.463486,40.681330</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61038">
+          <NODE1_ID>59176</NODE1_ID>
+          <NODE1_NAME>GaleraStLlorenc86DGM</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464084,40.682854 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61052">
+          <NODE1_ID>59191</NODE1_ID>
+          <NODE1_NAME>Galeramajor64DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463531,40.682808 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61637">
+          <NODE1_ID>59605</NODE1_ID>
+          <NODE1_NAME>Galerasanisidre17DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464363,40.681960 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62106">
+          <NODE1_ID>59918</NODE1_ID>
+          <NODE1_NAME>galeracarasol12DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462378,40.680567 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62393">
+          <NODE1_ID>60109</NODE1_ID>
+          <NODE1_NAME>GaleraDacameDGM</NODE1_NAME>
+          <NODE2_ID>25352</NODE2_ID>
+          <NODE2_NAME>SBrbCampanar</NODE2_NAME>
+          <KMS>3.5</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.469869,40.688356 0.492869,40.714567</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63411">
+          <NODE1_ID>60884</NODE1_ID>
+          <NODE1_NAME>GaleraMasBarber10DGM</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462488,40.682816 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63412">
+          <NODE1_ID>48746</NODE1_ID>
+          <NODE1_NAME>GALAjuntament</NODE1_NAME>
+          <NODE2_ID>60884</NODE2_ID>
+          <NODE2_NAME>GaleraMasBarber10DGM</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463695,40.681599 0.462488,40.682816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63468">
+          <NODE1_ID>60908</NODE1_ID>
+          <NODE1_NAME>GaleraSantJosep15ABC</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464447,40.682945 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64243">
+          <NODE1_ID>61441</NODE1_ID>
+          <NODE1_NAME>galeraSantAntoni10DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463134,40.680534 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64245">
+          <NODE1_ID>61442</NODE1_ID>
+          <NODE1_NAME>galeracooperativa12D</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.465189,40.682941 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64649">
+          <NODE1_ID>61795</NODE1_ID>
+          <NODE1_NAME>galeraBancalMelques1</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464647,40.682298 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64731">
+          <NODE1_ID>61862</NODE1_ID>
+          <NODE1_NAME>Galeracamidegodall21</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.284</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.461410,40.679719 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66048">
+          <NODE1_ID>62836</NODE1_ID>
+          <NODE1_NAME>GaleraAvCatalunyaDS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.465218,40.682753 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66165">
+          <NODE1_ID>62969</NODE1_ID>
+          <NODE1_NAME>GaleraLluisMorlan6DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.201</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.461474,40.682233 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67307">
+          <NODE1_ID>48746</NODE1_ID>
+          <NODE1_NAME>GALAjuntament</NODE1_NAME>
+          <NODE2_ID>63888</NODE2_ID>
+          <NODE2_NAME>GaleraTarragona35DS</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463695,40.681599 0.462759,40.682656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68280">
+          <NODE1_ID>64587</NODE1_ID>
+          <NODE1_NAME>galeraSantIsidre16DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464454,40.681858 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68373">
+          <NODE1_ID>64670</NODE1_ID>
+          <NODE1_NAME>GaleraTarragona17OAM</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462550,40.682089 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68687">
+          <NODE1_ID>64880</NODE1_ID>
+          <NODE1_NAME>GaleraSantVicent4DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462198,40.680886 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68953">
+          <NODE1_ID>65062</NODE1_ID>
+          <NODE1_NAME>GaleraBancalMelques5</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464414,40.682318 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69900">
+          <NODE1_ID>65635</NODE1_ID>
+          <NODE1_NAME>GaleraAforesSB4DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464347,40.683923 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70245">
+          <NODE1_ID>66029</NODE1_ID>
+          <NODE1_NAME>GaleraAbadia9DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462224,40.681060 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70910">
+          <NODE1_ID>66510</NODE1_ID>
+          <NODE1_NAME>GaleraMasdebarberans</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462571,40.682751 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70912">
+          <NODE1_ID>66512</NODE1_ID>
+          <NODE1_NAME>GaleraTarragona2bDS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462064,40.680939 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72329">
+          <NODE1_ID>67669</NODE1_ID>
+          <NODE1_NAME>GaleraTarragona36DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462910,40.682576 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73167">
+          <NODE1_ID>68538</NODE1_ID>
+          <NODE1_NAME>GaleraFiraTerrissa</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463551,40.681667 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73767">
+          <NODE1_ID>69081</NODE1_ID>
+          <NODE1_NAME>Galeracarasol32DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462949,40.680319 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75018">
+          <NODE1_ID>69969</NODE1_ID>
+          <NODE1_NAME>GaleraForn41DS</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.463572,40.682816 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78508">
+          <NODE1_ID>47926</NODE1_ID>
+          <NODE1_NAME>GALViverEmpreses</NODE1_NAME>
+          <NODE2_ID>73162</NODE2_ID>
+          <NODE2_NAME>GaleraMajor82TD</NODE2_NAME>
+          <KMS>0.33</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.467193,40.682075 0.463825,40.683580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79344">
+          <NODE1_ID>47926</NODE1_ID>
+          <NODE1_NAME>GALViverEmpreses</NODE1_NAME>
+          <NODE2_ID>60852</NODE2_ID>
+          <NODE2_NAME>GaleraCaslJubilatDGM</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.467193,40.682075 0.466506,40.681483</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79442">
+          <NODE1_ID>74007</NODE1_ID>
+          <NODE1_NAME>GaleraStLlorenc74ABC</NODE1_NAME>
+          <NODE2_ID>48746</NODE2_ID>
+          <NODE2_NAME>GALAjuntament</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464188,40.683007 0.463695,40.681599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80431">
+          <NODE1_ID>66510</NODE1_ID>
+          <NODE1_NAME>GaleraMasdebarberans</NODE1_NAME>
+          <NODE2_ID>47926</NODE2_ID>
+          <NODE2_NAME>GALViverEmpreses</NODE2_NAME>
+          <KMS>0.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.462571,40.682751 0.467193,40.682075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122512">
+          <NODE1_ID>76492</NODE1_ID>
+          <NODE1_NAME>GaleraRoquetes18DS</NODE1_NAME>
+          <NODE2_ID>47926</NODE2_ID>
+          <NODE2_NAME>GALViverEmpreses</NODE2_NAME>
+          <KMS>0.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.464036,40.684585 0.467193,40.682075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

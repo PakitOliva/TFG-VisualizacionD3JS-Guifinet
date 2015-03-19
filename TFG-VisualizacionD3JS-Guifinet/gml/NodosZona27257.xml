@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.736497</gml:X><gml:Y>41.641207</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.745988</gml:X><gml:Y>41.653878</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="3803">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.744042,41.653878</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>3803</NODE_ID>
+      <NODE_NAME>MGTnbombers</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="3990">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.741115,41.650390</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>3990</NODE_ID>
+      <NODE_NAME>MGTnmontnegre</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="4338">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.741622,41.651213</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4338</NODE_ID>
+      <NODE_NAME>MGTnverneda</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="4370">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.737519,41.647864</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4370</NODE_ID>
+      <NODE_NAME>MGTconejilloblanco</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="5202">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.744133,41.645590</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>5202</NODE_ID>
+      <NODE_NAME>MGTnpou</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="6421">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.739063,41.645914</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>6421</NODE_ID>
+      <NODE_NAME>MGTcanBisbe</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27248">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.738857,41.643831</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27248</NODE_ID>
+      <NODE_NAME>MGTescoles8</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35185">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.737929,41.641207</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35185</NODE_ID>
+      <NODE_NAME>MGTvergeMontserrat12</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42108">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.736526,41.648212</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42108</NODE_ID>
+      <NODE_NAME>MGTGllmpalafolls</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56499">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.736497,41.648402</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56499</NODE_ID>
+      <NODE_NAME>MGT-Sergi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56528">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.743437,41.650457</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56528</NODE_ID>
+      <NODE_NAME>MGT-Raul</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64211">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.745988,41.650603</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64211</NODE_ID>
+      <NODE_NAME>MGTgrn</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

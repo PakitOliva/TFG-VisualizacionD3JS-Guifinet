@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.103309</gml:X><gml:Y>40.308662</gml:Y></gml:coord>
+<gml:coord><gml:X>0.032044</gml:X><gml:Y>40.369379</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="33689">
+          <NODE1_ID>34833</NODE1_ID>
+          <NODE1_NAME>Culla_Mina</NODE1_NAME>
+          <NODE2_ID>38612</NODE2_ID>
+          <NODE2_NAME>Vdc-Carpa</NODE2_NAME>
+          <KMS>6.211</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103309,40.308662 -0.066999,40.357204</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35595">
+          <NODE1_ID>38612</NODE1_ID>
+          <NODE1_NAME>Vdc-Carpa</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.483</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066999,40.357204 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35647">
+          <NODE1_ID>34741</NODE1_ID>
+          <NODE1_NAME>VdC-Ivan</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066114,40.357887 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35760">
+          <NODE1_ID>40276</NODE1_ID>
+          <NODE1_NAME>VdC-Oscar</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.442</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066610,40.356952 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35766">
+          <NODE1_ID>38613</NODE1_ID>
+          <NODE1_NAME>Vdc-GranjaRafa</NODE1_NAME>
+          <NODE2_ID>40285</NODE2_ID>
+          <NODE2_NAME>Vdc-Escoles</NODE2_NAME>
+          <KMS>0.47</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.061755,40.355522 -0.064985,40.358964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36312">
+          <NODE1_ID>40707</NODE1_ID>
+          <NODE1_NAME>VdC-Ramon</NODE1_NAME>
+          <NODE2_ID>40285</NODE2_ID>
+          <NODE2_NAME>Vdc-Escoles</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065398,40.358759 -0.064985,40.358964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36336">
+          <NODE1_ID>40725</NODE1_ID>
+          <NODE1_NAME>VdC-Alberto</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.449</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066334,40.357540 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36338">
+          <NODE1_ID>40727</NODE1_ID>
+          <NODE1_NAME>VdC-Manolo</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066886,40.356944 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36339">
+          <NODE1_ID>40728</NODE1_ID>
+          <NODE1_NAME>VdC-Lorena</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.502</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067417,40.356808 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36340">
+          <NODE1_ID>40730</NODE1_ID>
+          <NODE1_NAME>VdC-Eugenio</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067353,40.356846 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36341">
+          <NODE1_ID>40731</NODE1_ID>
+          <NODE1_NAME>VdC-Arantxa</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064690,40.358958 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36345">
+          <NODE1_ID>40735</NODE1_ID>
+          <NODE1_NAME>VdC-Aitor</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066205,40.357754 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36346">
+          <NODE1_ID>40736</NODE1_ID>
+          <NODE1_NAME>VdC-Loli</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066849,40.356981 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36347">
+          <NODE1_ID>40738</NODE1_ID>
+          <NODE1_NAME>VdC-MariSol</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065888,40.357487 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36348">
+          <NODE1_ID>40737</NODE1_ID>
+          <NODE1_NAME>VdC-Abel</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065931,40.357394 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47682">
+          <NODE1_ID>49537</NODE1_ID>
+          <NODE1_NAME>VdC-Paqui</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066458,40.357781 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47683">
+          <NODE1_ID>49540</NODE1_ID>
+          <NODE1_NAME>VdC-Javi</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066059,40.357609 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47686">
+          <NODE1_ID>49541</NODE1_ID>
+          <NODE1_NAME>VdC-Rafa</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.487</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067164,40.356969 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47687">
+          <NODE1_ID>49543</NODE1_ID>
+          <NODE1_NAME>VdC-JuanLuis</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.443</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065310,40.358440 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47690">
+          <NODE1_ID>49544</NODE1_ID>
+          <NODE1_NAME>VdC-JoseMaria</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.436</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066357,40.357259 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47691">
+          <NODE1_ID>49545</NODE1_ID>
+          <NODE1_NAME>VdC-Tirso</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065962,40.357993 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47692">
+          <NODE1_ID>49546</NODE1_ID>
+          <NODE1_NAME>VdC-Juan</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.448</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066354,40.357490 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47694">
+          <NODE1_ID>49547</NODE1_ID>
+          <NODE1_NAME>VdC-Bessones</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066147,40.357447 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47695">
+          <NODE1_ID>49548</NODE1_ID>
+          <NODE1_NAME>VdC-Diana</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066426,40.357817 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47696">
+          <NODE1_ID>49549</NODE1_ID>
+          <NODE1_NAME>VdC-Miguel</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.422</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065836,40.357684 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47697">
+          <NODE1_ID>49550</NODE1_ID>
+          <NODE1_NAME>VdC-Eliseo</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065901,40.358064 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47699">
+          <NODE1_ID>49552</NODE1_ID>
+          <NODE1_NAME>VdC-Sergio</NODE1_NAME>
+          <NODE2_ID>38613</NODE2_ID>
+          <NODE2_NAME>Vdc-GranjaRafa</NODE2_NAME>
+          <KMS>0.455</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065799,40.358203 -0.061755,40.355522</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47700">
+          <NODE1_ID>49553</NODE1_ID>
+          <NODE1_NAME>VdC-JoseEmilio</NODE1_NAME>
+          <NODE2_ID>40285</NODE2_ID>
+          <NODE2_NAME>Vdc-Escoles</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.065541,40.358565 -0.064985,40.358964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47701">
+          <NODE1_ID>49554</NODE1_ID>
+          <NODE1_NAME>VdC-Sole</NODE1_NAME>
+          <NODE2_ID>40285</NODE2_ID>
+          <NODE2_NAME>Vdc-Escoles</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066344,40.358359 -0.064985,40.358964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47706">
+          <NODE1_ID>38613</NODE1_ID>
+          <NODE1_NAME>Vdc-GranjaRafa</NODE1_NAME>
+          <NODE2_ID>49561</NODE2_ID>
+          <NODE2_NAME>VdC-BarEres</NODE2_NAME>
+          <KMS>0.46</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.061755,40.355522 -0.064417,40.359129</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65943">
+          <NODE1_ID>49557</NODE1_ID>
+          <NODE1_NAME>VdC-GranjaJoseEmilio</NODE1_NAME>
+          <NODE2_ID>39553</NODE2_ID>
+          <NODE2_NAME>Albo_Esperanza</NODE2_NAME>
+          <KMS>8.593</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.063719,40.369379 0.032044,40.344455</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65944">
+          <NODE1_ID>38612</NODE1_ID>
+          <NODE1_NAME>Vdc-Carpa</NODE1_NAME>
+          <NODE2_ID>49557</NODE2_ID>
+          <NODE2_NAME>VdC-GranjaJoseEmilio</NODE2_NAME>
+          <KMS>1.38</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.066999,40.357204 -0.063719,40.369379</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

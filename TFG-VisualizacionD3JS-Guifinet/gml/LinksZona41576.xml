@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.008988</gml:X><gml:Y>40.584052</gml:Y></gml:coord>
+<gml:coord><gml:X>0.043425</gml:X><gml:Y>40.661889</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="38357">
+          <NODE1_ID>42454</NODE1_ID>
+          <NODE1_NAME>CstdCaRep</NODE1_NAME>
+          <NODE2_ID>39127</NODE2_ID>
+          <NODE2_NAME>MorTossalGros</NODE2_NAME>
+          <KMS>9.09</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042239,40.661889 0.008988,40.584052</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38470">
+          <NODE1_ID>42455</NODE1_ID>
+          <NODE1_NAME>CstdCaAjunt</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.182</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043041,40.660369 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39925">
+          <NODE1_ID>43634</NODE1_ID>
+          <NODE1_NAME>Castell_LesEscoles</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043161,40.660707 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42447">
+          <NODE1_ID>45685</NODE1_ID>
+          <NODE1_NAME>Catell_JoseRamonSeg</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043425,40.660446 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44257">
+          <NODE1_ID>47011</NODE1_ID>
+          <NODE1_NAME>Castell_AlmacenMunic</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043318,40.660829 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44258">
+          <NODE1_ID>47012</NODE1_ID>
+          <NODE1_NAME>Castell_Elcuartel</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042298,40.660755 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44259">
+          <NODE1_ID>47013</NODE1_ID>
+          <NODE1_NAME>Catell_CasaLaMestra</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042867,40.660918 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48987">
+          <NODE1_ID>50452</NODE1_ID>
+          <NODE1_NAME>Castell_ConxitaAdell</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043280,40.660725 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48992">
+          <NODE1_ID>50456</NODE1_ID>
+          <NODE1_NAME>Castell_JuanjoGuill</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042985,40.660933 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48993">
+          <NODE1_ID>50457</NODE1_ID>
+          <NODE1_NAME>Castell_NicolasVinal</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043108,40.660961 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48994">
+          <NODE1_ID>50458</NODE1_ID>
+          <NODE1_NAME>Castell_JaviQueralt</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042802,40.661075 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49007">
+          <NODE1_ID>50473</NODE1_ID>
+          <NODE1_NAME>Castell_RobertoIgual</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042883,40.661120 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50838">
+          <NODE1_ID>42454</NODE1_ID>
+          <NODE1_NAME>CstdCaRep</NODE1_NAME>
+          <NODE2_ID>51953</NODE2_ID>
+          <NODE2_NAME>Castell_JoseGrauLlag</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042239,40.661889 0.042545,40.660595</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64255">
+          <NODE1_ID>61469</NODE1_ID>
+          <NODE1_NAME>Castell_GonzaloFlech</NODE1_NAME>
+          <NODE2_ID>42454</NODE2_ID>
+          <NODE2_NAME>CstdCaRep</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042788,40.660788 0.042239,40.661889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

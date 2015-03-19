@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.199253</gml:X><gml:Y>41.706081</gml:Y></gml:coord>
+<gml:coord><gml:X>2.308432</gml:X><gml:Y>41.819125</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16829">
+          <NODE1_ID>11483</NODE1_ID>
+          <NODE1_NAME>SMCCasetaGuaites</NODE1_NAME>
+          <NODE2_ID>20343</NODE2_ID>
+          <NODE2_NAME>TAGBellver</NODE2_NAME>
+          <KMS>5.152</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.242377,41.738297 2.303197,41.747063</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17625">
+          <NODE1_ID>22225</NODE1_ID>
+          <NODE1_NAME>TAGAjuntament</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>2.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267218,41.737440 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21340">
+          <NODE1_ID>26522</NODE1_ID>
+          <NODE1_NAME>TAGElBellit</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>6.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308432,41.764057 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23076">
+          <NODE1_ID>26013</NODE1_ID>
+          <NODE1_NAME>TAGIsard</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>2.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.275414,41.748446 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23078">
+          <NODE1_ID>26013</NODE1_ID>
+          <NODE1_NAME>TAGIsard</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>1.401</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.275414,41.748446 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24117">
+          <NODE1_ID>29355</NODE1_ID>
+          <NODE1_NAME>TAGLucia</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266408,41.740117 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24215">
+          <NODE1_ID>23988</NODE1_ID>
+          <NODE1_NAME>TAGAjntmnt</NODE1_NAME>
+          <NODE2_ID>29464</NODE2_ID>
+          <NODE2_NAME>TagJoseHernandez</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267199,41.737434 2.265716,41.740240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24527">
+          <NODE1_ID>22483</NODE1_ID>
+          <NODE1_NAME>TAG12</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>2.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.268819,41.741995 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24633">
+          <NODE1_ID>29924</NODE1_ID>
+          <NODE1_NAME>TAGChencho</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266593,41.740847 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24861">
+          <NODE1_ID>12331</NODE1_ID>
+          <NODE1_NAME>FIGMPuiggracios</NODE1_NAME>
+          <NODE2_ID>29906</NODE2_ID>
+          <NODE2_NAME>TAGdavid</NODE2_NAME>
+          <KMS>3.499</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.247627,41.706081 2.277153,41.728508</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24884">
+          <NODE1_ID>29938</NODE1_ID>
+          <NODE1_NAME>TAGIsa</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266611,41.740855 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25385">
+          <NODE1_ID>30637</NODE1_ID>
+          <NODE1_NAME>TAGmontse</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.269436,41.735945 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25776">
+          <NODE1_ID>31130</NODE1_ID>
+          <NODE1_NAME>TagMarisa</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266231,41.740271 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31555">
+          <NODE1_ID>26178</NODE1_ID>
+          <NODE1_NAME>TAGRepetidor</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.304</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270117,41.739086 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31876">
+          <NODE1_ID>26178</NODE1_ID>
+          <NODE1_NAME>TAGRepetidor</NODE1_NAME>
+          <NODE2_ID>36763</NODE2_ID>
+          <NODE2_NAME>TAGFrancis</NODE2_NAME>
+          <KMS>0.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270117,41.739086 2.268543,41.731933</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32439">
+          <NODE1_ID>37506</NODE1_ID>
+          <NODE1_NAME>Taggom1</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.785</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.268458,41.732130 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32508">
+          <NODE1_ID>37505</NODE1_ID>
+          <NODE1_NAME>Taggom2</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.251</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.269420,41.735907 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37204">
+          <NODE1_ID>41431</NODE1_ID>
+          <NODE1_NAME>TAGSantaE</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267537,41.734184 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43992">
+          <NODE1_ID>46696</NODE1_ID>
+          <NODE1_NAME>TAG_Coveta1</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267185,41.742125 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46635">
+          <NODE1_ID>48759</NODE1_ID>
+          <NODE1_NAME>TAGBarragan</NODE1_NAME>
+          <NODE2_ID>8809</NODE2_ID>
+          <NODE2_NAME>SMCAjuntament</NODE2_NAME>
+          <KMS>0.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.254289,41.764229 2.251011,41.763870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48117">
+          <NODE1_ID>48777</NODE1_ID>
+          <NODE1_NAME>Raffinger</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266374,41.743407 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48313">
+          <NODE1_ID>49975</NODE1_ID>
+          <NODE1_NAME>TAGAvenco13</NODE1_NAME>
+          <NODE2_ID>8809</NODE2_ID>
+          <NODE2_NAME>SMCAjuntament</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.254482,41.764582 2.251011,41.763870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48415">
+          <NODE1_ID>48781</NODE1_ID>
+          <NODE1_NAME>TAGDani26</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.268414,41.738483 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49209">
+          <NODE1_ID>50162</NODE1_ID>
+          <NODE1_NAME>CanPereArtigues</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.361</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267268,41.741543 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55295">
+          <NODE1_ID>54912</NODE1_ID>
+          <NODE1_NAME>TAGPladelaCalma31</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.269712,41.738164 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59650">
+          <NODE1_ID>58192</NODE1_ID>
+          <NODE1_NAME>TAGMasiaPebralba</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267908,41.742899 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61041">
+          <NODE1_ID>26178</NODE1_ID>
+          <NODE1_NAME>TAGRepetidor</NODE1_NAME>
+          <NODE2_ID>58947</NODE2_ID>
+          <NODE2_NAME>TAGSantaEugenia</NODE2_NAME>
+          <KMS>0.586</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270117,41.739086 2.267325,41.734241</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71234">
+          <NODE1_ID>66756</NODE1_ID>
+          <NODE1_NAME>TAGAnticCamiVic1</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267599,41.734528 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74082">
+          <NODE1_ID>31711</NODE1_ID>
+          <NODE1_NAME>vilardebo</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>3.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.279695,41.745605 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74309">
+          <NODE1_ID>69464</NODE1_ID>
+          <NODE1_NAME>TagEva</NODE1_NAME>
+          <NODE2_ID>23988</NODE2_ID>
+          <NODE2_NAME>TAGAjntmnt</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.268803,41.737236 2.267199,41.737434</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76015">
+          <NODE1_ID>70786</NODE1_ID>
+          <NODE1_NAME>TAGSoler</NODE1_NAME>
+          <NODE2_ID>7595</NODE2_ID>
+          <NODE2_NAME>CNTElTussol</NODE2_NAME>
+          <KMS>9.795</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.281782,41.756107 2.199347,41.819125</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77330">
+          <NODE1_ID>72262</NODE1_ID>
+          <NODE1_NAME>TagCastelo</NODE1_NAME>
+          <NODE2_ID>26178</NODE2_ID>
+          <NODE2_NAME>TAGRepetidor</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.271920,41.736994 2.270117,41.739086</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80608">
+          <NODE1_ID>26178</NODE1_ID>
+          <NODE1_NAME>TAGRepetidor</NODE1_NAME>
+          <NODE2_ID>7602</NODE2_ID>
+          <NODE2_NAME>CNTTVCentelles</NODE2_NAME>
+          <KMS>10.662</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270117,41.739086 2.199253,41.819090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

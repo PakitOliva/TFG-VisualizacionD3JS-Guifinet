@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.487428</gml:X><gml:Y>41.731630</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.525159</gml:X><gml:Y>41.808481</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="3660">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.512275,41.731630</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>3660</NODE_ID>
+      <NODE_NAME>CALAFCentre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="7150">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.487428,41.808481</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>7150</NODE_ID>
+      <NODE_NAME>CalafHostalVent</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68406">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.517764,41.731781</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68406</NODE_ID>
+      <NODE_NAME>CalafFcCasajoana</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68408">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.525159,41.733452</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68408</NODE_ID>
+      <NODE_NAME>CLFTorre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

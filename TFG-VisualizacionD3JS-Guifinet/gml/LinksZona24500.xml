@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.379924</gml:X><gml:Y>42.139697</gml:Y></gml:coord>
+<gml:coord><gml:X>2.560004</gml:X><gml:Y>42.203104</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="19590">
+          <NODE1_ID>24501</NODE1_ID>
+          <NODE1_NAME>SntpMasDavesa</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>2.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.499948,42.148541 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19930">
+          <NODE1_ID>24913</NODE1_ID>
+          <NODE1_NAME>SntpMasTerma</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>2.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.500430,42.148221 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20200">
+          <NODE1_ID>24922</NODE1_ID>
+          <NODE1_NAME>SntpCanMaia</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>2.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.500355,42.151503 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20958">
+          <NODE1_ID>26125</NODE1_ID>
+          <NODE1_NAME>SntpRepe</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>3.059</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.510719,42.144353 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21019">
+          <NODE1_ID>25730</NODE1_ID>
+          <NODE1_NAME>SntpCvidal</NODE1_NAME>
+          <NODE2_ID>26125</NODE2_ID>
+          <NODE2_NAME>SntpRepe</NODE2_NAME>
+          <KMS>0.798</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.502619,42.140444 2.510719,42.144353</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22517">
+          <NODE1_ID>27756</NODE1_ID>
+          <NODE1_NAME>SntpCanBatllori</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>4.728</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.530353,42.140579 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27817">
+          <NODE1_ID>33161</NODE1_ID>
+          <NODE1_NAME>StpElpratdeBaix</NODE1_NAME>
+          <NODE2_ID>19892</NODE2_ID>
+          <NODE2_NAME>OlotSaiols</NODE2_NAME>
+          <KMS>7.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.505119,42.139697 2.457724,42.198137</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28632">
+          <NODE1_ID>26125</NODE1_ID>
+          <NODE1_NAME>SntpRepe</NODE1_NAME>
+          <NODE2_ID>33918</NODE2_ID>
+          <NODE2_NAME>SntpCRoure</NODE2_NAME>
+          <KMS>0.729</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.510719,42.144353 2.501900,42.144235</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32625">
+          <NODE1_ID>37650</NODE1_ID>
+          <NODE1_NAME>SntpSerrat13</NODE1_NAME>
+          <NODE2_ID>18537</NODE2_ID>
+          <NODE2_NAME>OlotcJoanet</NODE2_NAME>
+          <KMS>5.483</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.512742,42.158504 2.468748,42.195460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32675">
+          <NODE1_ID>32360</NODE1_ID>
+          <NODE1_NAME>OlotXdp</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>5.804</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.467010,42.198167 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35711">
+          <NODE1_ID>39592</NODE1_ID>
+          <NODE1_NAME>BttsCalermita</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.517517,42.164203 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37955">
+          <NODE1_ID>21173</NODE1_ID>
+          <NODE1_NAME>SntpRoure3</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.513959,42.157595 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51149">
+          <NODE1_ID>37650</NODE1_ID>
+          <NODE1_NAME>SntpSerrat13</NODE1_NAME>
+          <NODE2_ID>41406</NODE2_ID>
+          <NODE2_NAME>VDeBLacanyatv</NODE2_NAME>
+          <KMS>5.369</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.512742,42.158504 2.485220,42.202295</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59651">
+          <NODE1_ID>58198</NODE1_ID>
+          <NODE1_NAME>SntpSantAbdo</NODE1_NAME>
+          <NODE2_ID>41406</NODE2_ID>
+          <NODE2_NAME>VDeBLacanyatv</NODE2_NAME>
+          <KMS>7.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.560004,42.172280 2.485220,42.202295</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60987">
+          <NODE1_ID>59148</NODE1_ID>
+          <NODE1_NAME>StpPi17</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>0.226</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.510931,42.160028 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67768">
+          <NODE1_ID>19892</NODE1_ID>
+          <NODE1_NAME>OlotSaiols</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>6.328</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.457724,42.198137 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69641">
+          <NODE1_ID>65570</NODE1_ID>
+          <NODE1_NAME>Santapaukm3</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>0.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.511964,42.161045 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74379">
+          <NODE1_ID>69493</NODE1_ID>
+          <NODE1_NAME>RiudauraLaCantina</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>12.039</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.379924,42.203104 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

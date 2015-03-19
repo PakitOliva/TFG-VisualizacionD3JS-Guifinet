@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.870275</gml:X><gml:Y>41.873205</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.932341</gml:X><gml:Y>41.892758</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="3359">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.881207,41.885157</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>3359</NODE_ID>
+      <NODE_NAME>CDeLSXimo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34221">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.870275,41.887998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34221</NODE_ID>
+      <NODE_NAME>CDeLSPelagri20</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34505">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.870784,41.892758</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34505</NODE_ID>
+      <NODE_NAME>CDeLSPerelada43</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37253">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.913963,41.882262</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37253</NODE_ID>
+      <NODE_NAME>cassaMVilallonga</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52186">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.932341,41.873205</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52186</NODE_ID>
+      <NODE_NAME>CDeLSCanBota</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57838">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.929031,41.875261</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57838</NODE_ID>
+      <NODE_NAME>cassamasbassets</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

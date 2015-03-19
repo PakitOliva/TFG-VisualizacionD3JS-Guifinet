@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.486665</gml:X><gml:Y>41.553938</gml:Y></gml:coord>
+<gml:coord><gml:X>2.524576</gml:X><gml:Y>41.579374</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="46642">
+          <NODE1_ID>24561</NODE1_ID>
+          <NODE1_NAME>SVMmediterrani4-8</NODE1_NAME>
+          <NODE2_ID>36313</NODE2_ID>
+          <NODE2_NAME>SVMCostaDaurada4</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.520371,41.566866 2.517841,41.566250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46722">
+          <NODE1_ID>48798</NODE1_ID>
+          <NODE1_NAME>SVMCadi11</NODE1_NAME>
+          <NODE2_ID>36313</NODE2_ID>
+          <NODE2_NAME>SVMCostaDaurada4</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.514059,41.565262 2.517841,41.566250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48129">
+          <NODE1_ID>49885</NODE1_ID>
+          <NODE1_NAME>SVM-CrDelRomani</NODE1_NAME>
+          <NODE2_ID>36313</NODE2_ID>
+          <NODE2_NAME>SVMCostaDaurada4</NODE2_NAME>
+          <KMS>1.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.510676,41.579374 2.517841,41.566250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48133">
+          <NODE1_ID>49886</NODE1_ID>
+          <NODE1_NAME>SVM-CrCostaDaura</NODE1_NAME>
+          <NODE2_ID>36313</NODE2_ID>
+          <NODE2_NAME>SVMCostaDaurada4</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516768,41.567023 2.517841,41.566250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49870">
+          <NODE1_ID>36313</NODE1_ID>
+          <NODE1_NAME>SVMCostaDaurada4</NODE1_NAME>
+          <NODE2_ID>31150</NODE2_ID>
+          <NODE2_NAME>CESTPasseig12</NODE2_NAME>
+          <KMS>0.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.517841,41.566250 2.524576,41.567538</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53021">
+          <NODE1_ID>53479</NODE1_ID>
+          <NODE1_NAME>SVMCrDeLaTorrass42</NODE1_NAME>
+          <NODE2_ID>36313</NODE2_ID>
+          <NODE2_NAME>SVMCostaDaurada4</NODE2_NAME>
+          <KMS>0.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.518011,41.567680 2.517841,41.566250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62633">
+          <NODE1_ID>60303</NODE1_ID>
+          <NODE1_NAME>SVMCosDau29</NODE1_NAME>
+          <NODE2_ID>36313</NODE2_ID>
+          <NODE2_NAME>SVMCostaDaurada4</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516662,41.566476 2.517841,41.566250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62669">
+          <NODE1_ID>60334</NODE1_ID>
+          <NODE1_NAME>SVMLosCedros7</NODE1_NAME>
+          <NODE2_ID>17288</NODE2_ID>
+          <NODE2_NAME>LlavRepetidorTV</NODE2_NAME>
+          <KMS>1.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.499602,41.576249 2.486665,41.573505</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75294">
+          <NODE1_ID>36313</NODE1_ID>
+          <NODE1_NAME>SVMCostaDaurada4</NODE1_NAME>
+          <NODE2_ID>37364</NODE2_ID>
+          <NODE2_NAME>LlavMarinada</NODE2_NAME>
+          <KMS>2.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.517841,41.566250 2.491426,41.553938</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

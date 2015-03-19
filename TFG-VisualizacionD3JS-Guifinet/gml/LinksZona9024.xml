@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.714398</gml:X><gml:Y>41.832645</gml:Y></gml:coord>
+<gml:coord><gml:X>1.780332</gml:X><gml:Y>41.898885</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="41876">
+          <NODE1_ID>35227</NODE1_ID>
+          <NODE1_NAME>CTDCampanar</NODE1_NAME>
+          <NODE2_ID>45188</NODE2_ID>
+          <NODE2_NAME>SMdB-LaRibera</NODE2_NAME>
+          <KMS>7.735</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780332,41.898885 1.735241,41.837946</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52745">
+          <NODE1_ID>53280</NODE1_ID>
+          <NODE1_NAME>VallsCTTI</NODE1_NAME>
+          <NODE2_ID>46133</NODE2_ID>
+          <NODE2_NAME>SMdBTV</NODE2_NAME>
+          <KMS>1.766</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.715886,41.846493 1.736764,41.849510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52747">
+          <NODE1_ID>44058</NODE1_ID>
+          <NODE1_NAME>NavsPalaCampanar</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>1.067</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.719370,41.855738 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53948">
+          <NODE1_ID>45188</NODE1_ID>
+          <NODE1_NAME>SMdB-LaRibera</NODE1_NAME>
+          <NODE2_ID>46133</NODE2_ID>
+          <NODE2_NAME>SMdBTV</NODE2_NAME>
+          <KMS>1.291</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735241,41.837946 1.736764,41.849510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55162">
+          <NODE1_ID>45188</NODE1_ID>
+          <NODE1_NAME>SMdB-LaRibera</NODE1_NAME>
+          <NODE2_ID>53911</NODE2_ID>
+          <NODE2_NAME>SRA-AvMoreres</NODE2_NAME>
+          <KMS>1.668</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735241,41.837946 1.754023,41.832645</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56736">
+          <NODE1_ID>18997</NODE1_ID>
+          <NODE1_NAME>PalaTVergeDelRoser38</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721705,41.852673 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59131">
+          <NODE1_ID>53280</NODE1_ID>
+          <NODE1_NAME>VallsCTTI</NODE1_NAME>
+          <NODE2_ID>57774</NODE2_ID>
+          <NODE2_NAME>PalaTCanSolanas</NODE2_NAME>
+          <KMS>2.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.715886,41.846493 1.724722,41.867222</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59300">
+          <NODE1_ID>57891</NODE1_ID>
+          <NODE1_NAME>SMdBValls-GiberguesV</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.819</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.724607,41.849940 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63185">
+          <NODE1_ID>60709</NODE1_ID>
+          <NODE1_NAME>SMdBVallsPlFerreria2</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.487</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721270,41.848229 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65047">
+          <NODE1_ID>62157</NODE1_ID>
+          <NODE1_NAME>SMdBVallsCarregador6</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720103,41.846968 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65048">
+          <NODE1_ID>62158</NODE1_ID>
+          <NODE1_NAME>SMdBVallsTorres6</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718114,41.847958 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65049">
+          <NODE1_ID>62159</NODE1_ID>
+          <NODE1_NAME>SMdBVallsCoaner</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.343</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718967,41.848550 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66780">
+          <NODE1_ID>63380</NODE1_ID>
+          <NODE1_NAME>SRASantAntoniMariaCl</NODE1_NAME>
+          <NODE2_ID>45188</NODE2_ID>
+          <NODE2_NAME>SMdB-LaRibera</NODE2_NAME>
+          <KMS>1.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.750740,41.832757 1.735241,41.837946</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67462">
+          <NODE1_ID>64025</NODE1_ID>
+          <NODE1_NAME>SMdBVallsCoaner2</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.719389,41.848591 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70503">
+          <NODE1_ID>66190</NODE1_ID>
+          <NODE1_NAME>SMdBVallsCrtaSalo1</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.714398,41.843772 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71512">
+          <NODE1_ID>53280</NODE1_ID>
+          <NODE1_NAME>VallsCTTI</NODE1_NAME>
+          <NODE2_ID>67021</NODE2_ID>
+          <NODE2_NAME>SMdBvallsTorres4</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.715886,41.846493 1.717640,41.848266</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76626">
+          <NODE1_ID>71653</NODE1_ID>
+          <NODE1_NAME>JuncaSuria</NODE1_NAME>
+          <NODE2_ID>45188</NODE2_ID>
+          <NODE2_NAME>SMdB-LaRibera</NODE2_NAME>
+          <KMS>1.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.748493,41.839067 1.735241,41.837946</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77355">
+          <NODE1_ID>45188</NODE1_ID>
+          <NODE1_NAME>SMdB-LaRibera</NODE1_NAME>
+          <NODE2_ID>47527</NODE2_ID>
+          <NODE2_NAME>SMdB-LaRibera2</NODE2_NAME>
+          <KMS>0.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735241,41.837946 1.731141,41.835137</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78557">
+          <NODE1_ID>73285</NODE1_ID>
+          <NODE1_NAME>SMdBVallsTorres15</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.171</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.717824,41.847018 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79590">
+          <NODE1_ID>74176</NODE1_ID>
+          <NODE1_NAME>SMdBVallsTorres19</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.184</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718006,41.846984 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121557">
+          <NODE1_ID>75823</NODE1_ID>
+          <NODE1_NAME>SMdBVallsTorres1</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718105,41.848375 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121768">
+          <NODE1_ID>53280</NODE1_ID>
+          <NODE1_NAME>VallsCTTI</NODE1_NAME>
+          <NODE2_ID>75976</NODE2_ID>
+          <NODE2_NAME>SMdBVallsStJosep2</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.715886,41.846493 1.721511,41.847933</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121823">
+          <NODE1_ID>76028</NODE1_ID>
+          <NODE1_NAME>SMdBVallsGaleries3</NODE1_NAME>
+          <NODE2_ID>53280</NODE2_ID>
+          <NODE2_NAME>VallsCTTI</NODE2_NAME>
+          <KMS>0.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.719427,41.847296 1.715886,41.846493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

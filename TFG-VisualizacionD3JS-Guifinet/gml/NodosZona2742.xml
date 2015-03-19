@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.204722</gml:X><gml:Y>41.872858</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.226135</gml:X><gml:Y>41.883876</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="24101">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.211082,41.872858</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24101</NODE_ID>
+      <NODE_NAME>munterElpuig</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="2743">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.207002,41.877348</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>2743</NODE_ID>
+      <NODE_NAME>MunterLaFabrega</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="4588">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.226135,41.879248</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4588</NODE_ID>
+      <NODE_NAME>Muntermatavaques</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="8403">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.222492,41.881504</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>8403</NODE_ID>
+      <NODE_NAME>munterclavegueres</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="14343">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.206944,41.877222</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14343</NODE_ID>
+      <NODE_NAME>MunterLaFabrega2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16191">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.222041,41.879631</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16191</NODE_ID>
+      <NODE_NAME>Muntercasadeleseres</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="17786">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.215419,41.883876</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>17786</NODE_ID>
+      <NODE_NAME>MunterLluis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56984">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.216696,41.883613</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56984</NODE_ID>
+      <NODE_NAME>MunterLaSerra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42671">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.208204,41.879027</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42671</NODE_ID>
+      <NODE_NAME>MunterColomer</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32685">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.216084,41.882499</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32685</NODE_ID>
+      <NODE_NAME>MunterSalome</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67187">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.221385,41.875955</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67187</NODE_ID>
+      <NODE_NAME>MunterLaRocassa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73567">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.204722,41.881690</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73567</NODE_ID>
+      <NODE_NAME>MuntanyolaMunter</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

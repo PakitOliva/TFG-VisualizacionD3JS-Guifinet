@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.044484</gml:X><gml:Y>42.133202</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.202630</gml:X><gml:Y>42.171739</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="21071">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.137034,42.136266</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21071</NODE_ID>
+      <NODE_NAME>Llosses-portavella</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43183">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.105663,42.156236</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43183</NODE_ID>
+      <NODE_NAME>LlossesRepetidoTv</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29459">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.119951,42.150903</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29459</NODE_ID>
+      <NODE_NAME>Llosses-Ajuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37701">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.149533,42.149326</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37701</NODE_ID>
+      <NODE_NAME>Llosses-MaslaSala</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39765">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.044484,42.152034</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39765</NODE_ID>
+      <NODE_NAME>Elsa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41770">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.138164,42.136698</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41770</NODE_ID>
+      <NODE_NAME>LlossesLaRectoria</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42537">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.138462,42.136635</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42537</NODE_ID>
+      <NODE_NAME>LlossesCalCampaner</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42538">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.148318,42.137255</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42538</NODE_ID>
+      <NODE_NAME>LlossesLesFalgoses</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43184">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.202630,42.133202</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43184</NODE_ID>
+      <NODE_NAME>FrgaBebieTV</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50923">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.167761,42.171739</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50923</NODE_ID>
+      <NODE_NAME>LesArenyes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66838">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.123147,42.139123</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66838</NODE_ID>
+      <NODE_NAME>Llosses-SntaMargarid</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

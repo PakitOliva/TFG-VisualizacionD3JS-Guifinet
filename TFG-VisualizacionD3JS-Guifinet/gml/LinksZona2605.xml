@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.901552</gml:X><gml:Y>41.431488</gml:Y></gml:coord>
+<gml:coord><gml:X>2.150571</gml:X><gml:Y>41.607774</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="22043">
+          <NODE1_ID>14654</NODE1_ID>
+          <NODE1_NAME>CDVRadioClub</NODE1_NAME>
+          <NODE2_ID>14717</NODE2_ID>
+          <NODE2_NAME>CBLLGregal10</NODE2_NAME>
+          <KMS>20.976</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.140950,41.488386 1.901552,41.431488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28743">
+          <NODE1_ID>25973</NODE1_ID>
+          <NODE1_NAME>CDVTorras3B</NODE1_NAME>
+          <NODE2_ID>14654</NODE2_ID>
+          <NODE2_NAME>CDVRadioClub</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.140219,41.490020 2.140950,41.488386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28748">
+          <NODE1_ID>14206</NODE1_ID>
+          <NODE1_NAME>RIPNstrSnyrAngls15</NODE1_NAME>
+          <NODE2_ID>20677</NODE2_ID>
+          <NODE2_NAME>CDVSantaEugenia8</NODE2_NAME>
+          <KMS>1.079</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150571,41.492922 2.137841,41.494568</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31475">
+          <NODE1_ID>35977</NODE1_ID>
+          <NODE1_NAME>CDVMurillo9</NODE1_NAME>
+          <NODE2_ID>14206</NODE2_ID>
+          <NODE2_NAME>RIPNstrSnyrAngls15</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150155,41.490220 2.150571,41.492922</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36264">
+          <NODE1_ID>39658</NODE1_ID>
+          <NODE1_NAME>CDVPrimavera72</NODE1_NAME>
+          <NODE2_ID>14654</NODE2_ID>
+          <NODE2_NAME>CDVRadioClub</NODE2_NAME>
+          <KMS>0.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.139084,41.487168 2.140950,41.488386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42384">
+          <NODE1_ID>25973</NODE1_ID>
+          <NODE1_NAME>CDVTorras3B</NODE1_NAME>
+          <NODE2_ID>27742</NODE2_ID>
+          <NODE2_NAME>CDVAltimira30</NODE2_NAME>
+          <KMS>0.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.140219,41.490020 2.140349,41.490156</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58715">
+          <NODE1_ID>43649</NODE1_ID>
+          <NODE1_NAME>CDVCastella28</NODE1_NAME>
+          <NODE2_ID>31163</NODE2_ID>
+          <NODE2_NAME>CDVSentmenat39</NODE2_NAME>
+          <KMS>2.071</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.126012,41.494933 2.132190,41.476870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58716">
+          <NODE1_ID>23944</NODE1_ID>
+          <NODE1_NAME>CDVJaumeMimo60</NODE1_NAME>
+          <NODE2_ID>31163</NODE2_ID>
+          <NODE2_NAME>CDVSentmenat39</NODE2_NAME>
+          <KMS>1.155</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.141242,41.484735 2.132190,41.476870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58717">
+          <NODE1_ID>31163</NODE1_ID>
+          <NODE1_NAME>CDVSentmenat39</NODE1_NAME>
+          <NODE2_ID>43394</NODE2_ID>
+          <NODE2_NAME>CDVPlSantRamon29</NODE2_NAME>
+          <KMS>1.374</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.132190,41.476870 2.135455,41.488993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66594">
+          <NODE1_ID>48058</NODE1_ID>
+          <NODE1_NAME>CDVpalmeres1</NODE1_NAME>
+          <NODE2_ID>20677</NODE2_ID>
+          <NODE2_NAME>CDVSantaEugenia8</NODE2_NAME>
+          <KMS>0.468</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.132289,41.495165 2.137841,41.494568</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66595">
+          <NODE1_ID>48058</NODE1_ID>
+          <NODE1_NAME>CDVpalmeres1</NODE1_NAME>
+          <NODE2_ID>31163</NODE2_ID>
+          <NODE2_NAME>CDVSentmenat39</NODE2_NAME>
+          <KMS>2.032</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.132289,41.495165 2.132190,41.476870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66599">
+          <NODE1_ID>48058</NODE1_ID>
+          <NODE1_NAME>CDVpalmeres1</NODE1_NAME>
+          <NODE2_ID>46012</NODE2_ID>
+          <NODE2_NAME>MtdprXiprer54</NODE2_NAME>
+          <KMS>14.71</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.132289,41.495165 2.039466,41.607774</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66600">
+          <NODE1_ID>48058</NODE1_ID>
+          <NODE1_NAME>CDVpalmeres1</NODE1_NAME>
+          <NODE2_ID>43649</NODE2_ID>
+          <NODE2_NAME>CDVCastella28</NODE2_NAME>
+          <KMS>0.525</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.132289,41.495165 2.126012,41.494933</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

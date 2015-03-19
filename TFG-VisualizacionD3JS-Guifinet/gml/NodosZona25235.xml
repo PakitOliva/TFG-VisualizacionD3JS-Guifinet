@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.395154</gml:X><gml:Y>42.330581</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.427388</gml:X><gml:Y>42.379528</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="43200">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405126,42.345902</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43200</NODE_ID>
+      <NODE_NAME>MolloFerranCasanova</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30544">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.406270,42.352775</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30544</NODE_ID>
+      <NODE_NAME>MolloMolloParc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53848">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404061,42.348189</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53848</NODE_ID>
+      <NODE_NAME>MolloFrancescNavarro</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67980">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.400624,42.346890</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67980</NODE_ID>
+      <NODE_NAME>MolloPereCodinach</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57138">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399316,42.377008</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57138</NODE_ID>
+      <NODE_NAME>EspinavellCalLlarg</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31785">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399174,42.377070</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31785</NODE_ID>
+      <NODE_NAME>EspinavellCalSort</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30594">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405335,42.350125</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30594</NODE_ID>
+      <NODE_NAME>MolloCanReixach</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25236">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.406945,42.371473</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25236</NODE_ID>
+      <NODE_NAME>LPer</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60208">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399255,42.377098</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60208</NODE_ID>
+      <NODE_NAME>EspinavellCanGanica</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26702">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404627,42.346550</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26702</NODE_ID>
+      <NODE_NAME>MolloAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26704">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.406265,42.371949</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26704</NODE_ID>
+      <NODE_NAME>Espinavell-LaPerdiu</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26712">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399102,42.377843</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26712</NODE_ID>
+      <NODE_NAME>EspinavellCanJordi</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69165">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403857,42.349383</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69165</NODE_ID>
+      <NODE_NAME>MolloProves</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30251">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403788,42.349340</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30251</NODE_ID>
+      <NODE_NAME>MolloJPastoret</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30252">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.400082,42.378668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30252</NODE_ID>
+      <NODE_NAME>EspinavellRefilat</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30382">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.395154,42.379528</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30382</NODE_ID>
+      <NODE_NAME>EspinavellCanGallart</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30383">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398887,42.378535</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30383</NODE_ID>
+      <NODE_NAME>EspinavellCanGensol</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30384">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399011,42.378424</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30384</NODE_ID>
+      <NODE_NAME>EspinabellFerrer</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30391">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399791,42.378480</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30391</NODE_ID>
+      <NODE_NAME>EspinabellCarol</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30545">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404067,42.349121</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30545</NODE_ID>
+      <NODE_NAME>molloeduflores</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30546">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.407068,42.349902</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30546</NODE_ID>
+      <NODE_NAME>MolloJMorer</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30547">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.401089,42.343632</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30547</NODE_ID>
+      <NODE_NAME>MolloCanDillaire</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30548">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399917,42.378595</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30548</NODE_ID>
+      <NODE_NAME>EspinavellCanTomas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30549">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.402680,42.347959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30549</NODE_ID>
+      <NODE_NAME>MolloCMoi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30550">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403619,42.349188</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30550</NODE_ID>
+      <NODE_NAME>MolloMPlanas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30551">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404523,42.347396</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30551</NODE_ID>
+      <NODE_NAME>MolloCanPaixel</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30552">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404287,42.349113</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30552</NODE_ID>
+      <NODE_NAME>MolloCanJana</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30553">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405711,42.345073</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30553</NODE_ID>
+      <NODE_NAME>Mollojhereu</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30554">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.414216,42.350549</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30554</NODE_ID>
+      <NODE_NAME>Mollocantorrent</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30555">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398414,42.377811</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30555</NODE_ID>
+      <NODE_NAME>EspinavellCanBatllo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30556">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404289,42.346619</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30556</NODE_ID>
+      <NODE_NAME>Mollocanvioli</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398941,42.378238</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30557</NODE_ID>
+      <NODE_NAME>EspinavellCanXanaut</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30559">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404810,42.348510</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30559</NODE_ID>
+      <NODE_NAME>MolloCanCardello</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30560">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404375,42.348950</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30560</NODE_ID>
+      <NODE_NAME>MolloJRiera</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30561">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.402460,42.362788</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30561</NODE_ID>
+      <NODE_NAME>EspinavellCanFreixa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30562">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.400566,42.378828</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30562</NODE_ID>
+      <NODE_NAME>EspinavellCanNavarro</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30564">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404112,42.348812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30564</NODE_ID>
+      <NODE_NAME>MolloCanBurset</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30565">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.413178,42.355523</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30565</NODE_ID>
+      <NODE_NAME>MolloCanIlla</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30566">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405239,42.347146</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30566</NODE_ID>
+      <NODE_NAME>MolloCalFuster</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30567">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404464,42.347259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30567</NODE_ID>
+      <NODE_NAME>MolloAliciaGui</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30568">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399037,42.378301</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30568</NODE_ID>
+      <NODE_NAME>EspinavCGuerris</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30569">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.400599,42.379007</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30569</NODE_ID>
+      <NODE_NAME>EspinavellCanCalet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30570">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398893,42.376839</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30570</NODE_ID>
+      <NODE_NAME>EspinavellGinestera</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30571">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403978,42.348241</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30571</NODE_ID>
+      <NODE_NAME>MolloCanCadamon</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30572">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399510,42.378287</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30572</NODE_ID>
+      <NODE_NAME>EspinavellCanSola</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30573">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.396286,42.378353</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30573</NODE_ID>
+      <NODE_NAME>EspinavellMGardella</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30737">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404505,42.348071</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30737</NODE_ID>
+      <NODE_NAME>MolloCanBruel</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30740">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404524,42.348176</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30740</NODE_ID>
+      <NODE_NAME>MolloCanNitus</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30743">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404581,42.347662</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30743</NODE_ID>
+      <NODE_NAME>MolloJCentelles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31786">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403216,42.348867</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31786</NODE_ID>
+      <NODE_NAME>MolloGerardPairo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31915">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404269,42.346776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31915</NODE_ID>
+      <NODE_NAME>MolloCanSastre</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33077">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398871,42.379137</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33077</NODE_ID>
+      <NODE_NAME>EspinavellCanRespect</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33084">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399142,42.378179</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33084</NODE_ID>
+      <NODE_NAME>EspinavellCanJordiVe</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33563">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404517,42.347921</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33563</NODE_ID>
+      <NODE_NAME>MolloGuillemPastoret</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35885">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404099,42.346587</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35885</NODE_ID>
+      <NODE_NAME>MolloLluisSerrano</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36512">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404230,42.348249</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36512</NODE_ID>
+      <NODE_NAME>MolloCanForner</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38001">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404246,42.348407</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38001</NODE_ID>
+      <NODE_NAME>MolloCooperativaRama</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38007">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404324,42.347453</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38007</NODE_ID>
+      <NODE_NAME>MolloCanBei</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38010">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404268,42.348858</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38010</NODE_ID>
+      <NODE_NAME>MolloCanGrell</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40643">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399228,42.377532</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40643</NODE_ID>
+      <NODE_NAME>EspinavellElClos</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40651">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404509,42.347661</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40651</NODE_ID>
+      <NODE_NAME>MolloCanBigoi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40652">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.427388,42.360650</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40652</NODE_ID>
+      <NODE_NAME>MolloCanPastoret</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41106">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405145,42.346153</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41106</NODE_ID>
+      <NODE_NAME>MolloJosepRamondeRos</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52769">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404496,42.348054</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52769</NODE_ID>
+      <NODE_NAME>MolloPisCanBruel</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43377">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404179,42.348238</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43377</NODE_ID>
+      <NODE_NAME>MolloCanCamela</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44027">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.401660,42.345365</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44027</NODE_ID>
+      <NODE_NAME>MolloCanPorquer</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50103">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405405,42.346431</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50103</NODE_ID>
+      <NODE_NAME>MolloEnricAyno</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46077">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403870,42.346425</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46077</NODE_ID>
+      <NODE_NAME>MolloLesMarrades-B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46217">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.400241,42.346764</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46217</NODE_ID>
+      <NODE_NAME>MolloIsidreColl</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46549">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404353,42.348031</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46549</NODE_ID>
+      <NODE_NAME>MolloCanRoda</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46957">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398735,42.378407</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46957</NODE_ID>
+      <NODE_NAME>EspinavellCanCama</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48628">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.413508,42.348963</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48628</NODE_ID>
+      <NODE_NAME>MolloEscorpi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49999">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404560,42.349081</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49999</NODE_ID>
+      <NODE_NAME>MolloMargaComa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52764">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404646,42.347457</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52764</NODE_ID>
+      <NODE_NAME>MolloCanSola-Bruel</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54097">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.408004,42.349927</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54097</NODE_ID>
+      <NODE_NAME>MolloAleixVila</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57233">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399644,42.377154</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57233</NODE_ID>
+      <NODE_NAME>EspinavellCanPep</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57342">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404026,42.349271</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57342</NODE_ID>
+      <NODE_NAME>MolloCaLaMoia</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59321">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404383,42.349292</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59321</NODE_ID>
+      <NODE_NAME>MolloCanSilveri</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60022">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403211,42.348691</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60022</NODE_ID>
+      <NODE_NAME>MolloCaLaPetita</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75651">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405800,42.344740</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75651</NODE_ID>
+      <NODE_NAME>MolloNuriaM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61582">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405303,42.346868</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61582</NODE_ID>
+      <NODE_NAME>MolloJosepHernandez</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62210">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404303,42.346228</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62210</NODE_ID>
+      <NODE_NAME>MolloJordiPerez</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62833">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.400322,42.346789</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62833</NODE_ID>
+      <NODE_NAME>MolloJordiArmadas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63469">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.411757,42.344260</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63469</NODE_ID>
+      <NODE_NAME>Mollo-Masia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65121">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.399005,42.377066</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65121</NODE_ID>
+      <NODE_NAME>EspinavellCanFranco</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65510">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405412,42.345641</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65510</NODE_ID>
+      <NODE_NAME>MolloMiquelMoret</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69164">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404270,42.348467</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69164</NODE_ID>
+      <NODE_NAME>MolloCanFerro</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67918">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.412766,42.349051</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67918</NODE_ID>
+      <NODE_NAME>MolloCaLEndal</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398709,42.348383</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68280</NODE_ID>
+      <NODE_NAME>MolloJuliaCabrerizo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69171">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.403816,42.349378</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69171</NODE_ID>
+      <NODE_NAME>MolloProves2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69388">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398638,42.348770</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69388</NODE_ID>
+      <NODE_NAME>MolloMarionaRota</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73204">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405449,42.346729</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73204</NODE_ID>
+      <NODE_NAME>MolloTeresaBuixeda</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73695">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398988,42.377467</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73695</NODE_ID>
+      <NODE_NAME>EspinavellEstudis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74831">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.405218,42.347456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74831</NODE_ID>
+      <NODE_NAME>MolloCanXecNou</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75100">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.404687,42.350136</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75100</NODE_ID>
+      <NODE_NAME>MolloStaMagdalena3</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75470">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.401398,42.347332</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75470</NODE_ID>
+      <NODE_NAME>MolloCanBurrat2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.423978,42.330581</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76280</NODE_ID>
+      <NODE_NAME>MolloElCarol</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

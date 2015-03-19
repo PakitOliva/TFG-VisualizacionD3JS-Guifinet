@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.516443</gml:X><gml:Y>42.177090</gml:Y></gml:coord>
+<gml:coord><gml:X>2.644760</gml:X><gml:Y>42.273677</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="33580">
+          <NODE1_ID>36708</NODE1_ID>
+          <NODE1_NAME>BgdTurR</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>2.983</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.531887,42.205205 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33581">
+          <NODE1_ID>36708</NODE1_ID>
+          <NODE1_NAME>BgdTurR</NODE1_NAME>
+          <NODE2_ID>37070</NODE2_ID>
+          <NODE2_NAME>BatetRepeCentrSocial</NODE2_NAME>
+          <KMS>2.983</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.531887,42.205205 2.516443,42.180925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35983">
+          <NODE1_ID>40437</NODE1_ID>
+          <NODE1_NAME>BgdLangel</NODE1_NAME>
+          <NODE2_ID>21051</NODE2_ID>
+          <NODE2_NAME>Mntgmdalt</NODE2_NAME>
+          <KMS>8.688</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.564331,42.207628 2.620701,42.273677</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57259">
+          <NODE1_ID>40437</NODE1_ID>
+          <NODE1_NAME>BgdLangel</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>7.74</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.564331,42.207628 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64128">
+          <NODE1_ID>61314</NODE1_ID>
+          <NODE1_NAME>BgdCFriki</NODE1_NAME>
+          <NODE2_ID>36708</NODE2_ID>
+          <NODE2_NAME>BgdTurR</NODE2_NAME>
+          <KMS>1.601</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.546280,42.195548 2.531887,42.205205</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77502">
+          <NODE1_ID>61314</NODE1_ID>
+          <NODE1_NAME>BgdCFriki</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>2.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.546280,42.195548 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77504">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>63228</NODE2_ID>
+          <NODE2_NAME>BegudaSerradell</NODE2_NAME>
+          <KMS>1.594</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.553560,42.183091</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77505">
+          <NODE1_ID>53478</NODE1_ID>
+          <NODE1_NAME>BgdCnPsc</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>3.939</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.545245,42.211888 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

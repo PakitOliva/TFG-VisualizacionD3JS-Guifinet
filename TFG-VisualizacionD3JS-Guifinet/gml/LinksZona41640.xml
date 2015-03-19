@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.108882</gml:X><gml:Y>38.778449</gml:Y></gml:coord>
+<gml:coord><gml:X>0.034792</gml:X><gml:Y>38.831390</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="49454">
+          <NODE1_ID>49378</NODE1_ID>
+          <NODE1_NAME>OndMestreSerranoN19</NODE1_NAME>
+          <NODE2_ID>46324</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSolana</NODE2_NAME>
+          <KMS>3.735</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.018264,38.821977 0.015927,38.788384</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50269">
+          <NODE1_ID>51419</NODE1_ID>
+          <NODE1_NAME>OndBlascoIbanez23</NODE1_NAME>
+          <NODE2_ID>46324</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSolana</NODE2_NAME>
+          <KMS>4.38</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.014519,38.827826 0.015927,38.788384</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53361">
+          <NODE1_ID>52792</NODE1_ID>
+          <NODE1_NAME>ondalfatares72</NODE1_NAME>
+          <NODE2_ID>46324</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSolana</NODE2_NAME>
+          <KMS>5.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.034792,38.831390 0.015927,38.788384</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57170">
+          <NODE1_ID>40815</NODE1_ID>
+          <NODE1_NAME>fleix</NODE1_NAME>
+          <NODE2_ID>56438</NODE2_ID>
+          <NODE2_NAME>OndDrFleming1</NODE2_NAME>
+          <KMS>12.044</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.108882,38.778449 0.015437,38.826488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60922">
+          <NODE1_ID>59102</NODE1_ID>
+          <NODE1_NAME>ondrcarreralfatares8</NODE1_NAME>
+          <NODE2_ID>46324</NODE2_ID>
+          <NODE2_NAME>PedrSNodoSolana</NODE2_NAME>
+          <KMS>4.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.021749,38.827224 0.015927,38.788384</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

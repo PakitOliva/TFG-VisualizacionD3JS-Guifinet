@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.396910</gml:X><gml:Y>43.435583</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.387447</gml:X><gml:Y>43.447868</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="48333">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.387764,43.447700</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48333</NODE_ID>
+      <NODE_NAME>VLLVCSBrece5</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48571">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.387828,43.442863</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48571</NODE_ID>
+      <NODE_NAME>VLLVCSNovales1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48573">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.390843,43.446898</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48573</NODE_ID>
+      <NODE_NAME>VLLVCSCarpinBre</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58657">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.387447,43.435583</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58657</NODE_ID>
+      <NODE_NAME>VLLVCSBusllaz27</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75797">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.391090,43.440394</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75797</NODE_ID>
+      <NODE_NAME>VLLVCSNovales2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75798">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.396910,43.444705</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75798</NODE_ID>
+      <NODE_NAME>VLLVCSVallina1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76206">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.387505,43.447868</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76206</NODE_ID>
+      <NODE_NAME>VLLVCSBrecena8</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

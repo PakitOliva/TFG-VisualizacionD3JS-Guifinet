@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>3.181370</gml:X><gml:Y>41.967588</gml:Y></gml:coord>
+<gml:coord><gml:X>3.243640</gml:X><gml:Y>42.295611</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44806">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>20641</NODE2_ID>
+          <NODE2_NAME>BegurSaNauPerduda</NODE2_NAME>
+          <KMS>34.626</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.229691,41.969162</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45561">
+          <NODE1_ID>20641</NODE1_ID>
+          <NODE1_NAME>BegurSaNauPerduda</NODE1_NAME>
+          <NODE2_ID>29636</NODE2_ID>
+          <NODE2_NAME>StrttPitu</NODE2_NAME>
+          <KMS>9.778</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.229691,41.969162 3.203154,42.054943</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73220">
+          <NODE1_ID>66667</NODE1_ID>
+          <NODE1_NAME>StrttMdtrrania122</NODE1_NAME>
+          <NODE2_ID>68580</NODE2_ID>
+          <NODE2_NAME>BgrSntglt2</NODE2_NAME>
+          <KMS>9.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192890,42.053967 3.220550,41.972240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76462">
+          <NODE1_ID>20641</NODE1_ID>
+          <NODE1_NAME>BegurSaNauPerduda</NODE1_NAME>
+          <NODE2_ID>71514</NODE2_ID>
+          <NODE2_NAME>BegurPuigRodo</NODE2_NAME>
+          <KMS>0.621</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.229691,41.969162 3.222502,41.967588</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77253">
+          <NODE1_ID>20641</NODE1_ID>
+          <NODE1_NAME>BegurSaNauPerduda</NODE1_NAME>
+          <NODE2_ID>48268</NODE2_ID>
+          <NODE2_NAME>MasFumatsTOP</NODE2_NAME>
+          <KMS>36.48</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.229691,41.969162 3.181370,42.295611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77545">
+          <NODE1_ID>29636</NODE1_ID>
+          <NODE1_NAME>StrttPitu</NODE1_NAME>
+          <NODE2_ID>72471</NODE2_ID>
+          <NODE2_NAME>BegurSaPunta</NODE2_NAME>
+          <KMS>8.732</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.203154,42.054943 3.207888,41.976404</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79029">
+          <NODE1_ID>66667</NODE1_ID>
+          <NODE1_NAME>StrttMdtrrania122</NODE1_NAME>
+          <NODE2_ID>73640</NODE2_ID>
+          <NODE2_NAME>BgrSntglt4</NODE2_NAME>
+          <KMS>9.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192890,42.053967 3.220813,41.971819</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81308">
+          <NODE1_ID>75417</NODE1_ID>
+          <NODE1_NAME>BgrCrtPljRc65</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>8.95</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.204792,41.973877 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

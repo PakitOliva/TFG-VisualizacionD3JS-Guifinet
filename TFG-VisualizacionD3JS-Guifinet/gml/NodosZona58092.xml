@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.977805</gml:X><gml:Y>41.265962</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.982743</gml:X><gml:Y>41.285653</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="58093">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.982743,41.285653</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58093</NODE_ID>
+      <NODE_NAME>MGir</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73735">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.977962,41.265962</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73735</NODE_ID>
+      <NODE_NAME>CstlldflsPlaya</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73859">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.977805,41.280687</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73859</NODE_ID>
+      <NODE_NAME>CstlldflsPoble</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.942688</gml:X><gml:Y>43.384686</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.812862</gml:X><gml:Y>43.496144</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="59342">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>48227</NODE2_ID>
+          <NODE2_NAME>LLNRPinera</NODE2_NAME>
+          <KMS>7.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.884257,43.450578</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68355">
+          <NODE1_ID>64601</NODE1_ID>
+          <NODE1_NAME>LLNRArciresa</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.812862,43.440908 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70895">
+          <NODE1_ID>64601</NODE1_ID>
+          <NODE1_NAME>LLNRArciresa</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.812862,43.440908 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74663">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>67160</NODE2_ID>
+          <NODE2_NAME>LLNRTruebano38</NODE2_NAME>
+          <KMS>8.959</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.823950,43.454429</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121813">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>75887</NODE2_ID>
+          <NODE2_NAME>LLNRSCucaoCBauro10</NODE2_NAME>
+          <KMS>6.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.877512,43.440374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121814">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>75965</NODE2_ID>
+          <NODE2_NAME>LLNRCayesCampiello38</NODE2_NAME>
+          <KMS>5.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.835986,43.417862</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122155">
+          <NODE1_ID>76210</NODE1_ID>
+          <NODE1_NAME>LLNRAnduerga27</NODE1_NAME>
+          <NODE2_ID>47958</NODE2_ID>
+          <NODE2_NAME>UVIENaranco</NODE2_NAME>
+          <KMS>8.602</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.922763,43.455394 -5.879483,43.384686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122299">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>75195</NODE2_ID>
+          <NODE2_NAME>LLNRVixil16</NODE2_NAME>
+          <KMS>3.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.903365,43.495760</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123101">
+          <NODE1_ID>76534</NODE1_ID>
+          <NODE1_NAME>LLNRFerrones4</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.864476,43.472057 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123461">
+          <NODE1_ID>77169</NODE1_ID>
+          <NODE1_NAME>LLNRFerrones6</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>3.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.862411,43.469103 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123686">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>76990</NODE2_ID>
+          <NODE2_NAME>LLNRCenizal3</NODE2_NAME>
+          <KMS>2.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.910209,43.495243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

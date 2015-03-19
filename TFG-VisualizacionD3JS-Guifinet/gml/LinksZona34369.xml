@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-64.417455</gml:X><gml:Y>-31.695063</gml:Y></gml:coord>
+<gml:coord><gml:X>-64.412638</gml:X><gml:Y>-31.657071</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="45164">
+          <NODE1_ID>47649</NODE1_ID>
+          <NODE1_NAME>NLsLchzs0</NODE1_NAME>
+          <NODE2_ID>47650</NODE2_ID>
+          <NODE2_NAME>LTSg200</NODE2_NAME>
+          <KMS>4.237</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-64.412638,-31.695063 -64.417455,-31.657071</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

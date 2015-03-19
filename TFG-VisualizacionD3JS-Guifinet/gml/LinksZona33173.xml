@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.733987</gml:X><gml:Y>40.707230</gml:Y></gml:coord>
+<gml:coord><gml:X>1.675463</gml:X><gml:Y>41.205688</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="29984">
+          <NODE1_ID>46559</NODE1_ID>
+          <NODE1_NAME>RiuMorell</NODE1_NAME>
+          <NODE2_ID>33178</NODE2_ID>
+          <NODE2_NAME>DeltComRegants</NODE2_NAME>
+          <KMS>8.985</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840331,40.724481 0.733987,40.724001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44109">
+          <NODE1_ID>46909</NODE1_ID>
+          <NODE1_NAME>RiuMireia</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.68</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.832984,40.726993 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44171">
+          <NODE1_ID>46559</NODE1_ID>
+          <NODE1_NAME>RiuMorell</NODE1_NAME>
+          <NODE2_ID>33172</NODE2_ID>
+          <NODE2_NAME>RiuMauri</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840331,40.724481 0.840025,40.724910</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44172">
+          <NODE1_ID>36016</NODE1_ID>
+          <NODE1_NAME>RiuMarSar</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.842923,40.726559 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44173">
+          <NODE1_ID>46963</NODE1_ID>
+          <NODE1_NAME>RiuXirija</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841878,40.727651 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44174">
+          <NODE1_ID>33377</NODE1_ID>
+          <NODE1_NAME>RiuCaiCai</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.356</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.843442,40.726639 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44175">
+          <NODE1_ID>39464</NODE1_ID>
+          <NODE1_NAME>RiuCuriolet</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.837818,40.725543 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44176">
+          <NODE1_ID>46964</NODE1_ID>
+          <NODE1_NAME>RiuCasaSandra</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.837064,40.725574 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44538">
+          <NODE1_ID>47145</NODE1_ID>
+          <NODE1_NAME>RiuMarBlau</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.839320,40.723868 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44568">
+          <NODE1_ID>47170</NODE1_ID>
+          <NODE1_NAME>RiuFresquet</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.830989,40.729640 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45429">
+          <NODE1_ID>47869</NODE1_ID>
+          <NODE1_NAME>RiuKurt</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840296,40.724683 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45882">
+          <NODE1_ID>48110</NODE1_ID>
+          <NODE1_NAME>RiuMdelCarmen</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.842726,40.725580 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45883">
+          <NODE1_ID>46559</NODE1_ID>
+          <NODE1_NAME>RiuMorell</NODE1_NAME>
+          <NODE2_ID>48109</NODE2_ID>
+          <NODE2_NAME>RiuSandra</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840331,40.724481 0.840285,40.723998</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45928">
+          <NODE1_ID>48177</NODE1_ID>
+          <NODE1_NAME>RiuGallo</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841661,40.723923 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45929">
+          <NODE1_ID>48179</NODE1_ID>
+          <NODE1_NAME>RiuElena</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.838649,40.725167 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45931">
+          <NODE1_ID>48175</NODE1_ID>
+          <NODE1_NAME>RiuAntonio</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.705</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.832780,40.727181 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45936">
+          <NODE1_ID>48178</NODE1_ID>
+          <NODE1_NAME>RiuHector</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.453</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.836023,40.726909 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46024">
+          <NODE1_ID>48251</NODE1_ID>
+          <NODE1_NAME>RiuGaston</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.838560,40.726482 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46026">
+          <NODE1_ID>48252</NODE1_ID>
+          <NODE1_NAME>RiuSalvagina1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.508</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.836570,40.728051 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46242">
+          <NODE1_ID>48293</NODE1_ID>
+          <NODE1_NAME>RiuSalvatgina2</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.525</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.836179,40.727993 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46244">
+          <NODE1_ID>48294</NODE1_ID>
+          <NODE1_NAME>RiuSalvatgina3</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.836077,40.727664 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46487">
+          <NODE1_ID>48617</NODE1_ID>
+          <NODE1_NAME>RiuSalvatgina4</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.836442,40.728153 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46519">
+          <NODE1_ID>48616</NODE1_ID>
+          <NODE1_NAME>RiuCapadella1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.838287,40.726820 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46520">
+          <NODE1_ID>48615</NODE1_ID>
+          <NODE1_NAME>RiuJPegueroles</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.313</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840840,40.727275 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46907">
+          <NODE1_ID>48801</NODE1_ID>
+          <NODE1_NAME>RiuCasaEsther</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841484,40.725537 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47077">
+          <NODE1_ID>49090</NODE1_ID>
+          <NODE1_NAME>RiuMarinera6</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.7</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.834918,40.729251 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47223">
+          <NODE1_ID>49226</NODE1_ID>
+          <NODE1_NAME>RiuFlamenc8</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841680,40.723602 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47602">
+          <NODE1_ID>49463</NODE1_ID>
+          <NODE1_NAME>RiuGavina1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.832947,40.727537 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47619">
+          <NODE1_ID>49455</NODE1_ID>
+          <NODE1_NAME>RiuBecassina1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841538,40.724417 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47772">
+          <NODE1_ID>49600</NODE1_ID>
+          <NODE1_NAME>RiuRodes</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841329,40.724986 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48522">
+          <NODE1_ID>50139</NODE1_ID>
+          <NODE1_NAME>RiuRoser</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841302,40.724550 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48848">
+          <NODE1_ID>46559</NODE1_ID>
+          <NODE1_NAME>RiuMorell</NODE1_NAME>
+          <NODE2_ID>50330</NODE2_ID>
+          <NODE2_NAME>RiuCollVerd2</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840331,40.724481 0.842090,40.726634</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48849">
+          <NODE1_ID>50329</NODE1_ID>
+          <NODE1_NAME>RiuCollVerd1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.841581,40.726808 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48871">
+          <NODE1_ID>50347</NODE1_ID>
+          <NODE1_NAME>RiuFlamenc2</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.38</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.837595,40.727199 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49067">
+          <NODE1_ID>50518</NODE1_ID>
+          <NODE1_NAME>RiuGavina2</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.837224,40.725274 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49694">
+          <NODE1_ID>14788</NODE1_ID>
+          <NODE1_NAME>QbllsBadoc</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>88.306</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.675463,41.205688 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50589">
+          <NODE1_ID>46559</NODE1_ID>
+          <NODE1_NAME>RiuMorell</NODE1_NAME>
+          <NODE2_ID>51765</NODE2_ID>
+          <NODE2_NAME>RiuPaca</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840331,40.724481 0.841962,40.723178</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51240">
+          <NODE1_ID>46559</NODE1_ID>
+          <NODE1_NAME>RiuMorell</NODE1_NAME>
+          <NODE2_ID>52221</NODE2_ID>
+          <NODE2_NAME>RiuApRiumar</NODE2_NAME>
+          <KMS>1.018</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.840331,40.724481 0.828953,40.727491</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51242">
+          <NODE1_ID>52221</NODE1_ID>
+          <NODE1_NAME>RiuApRiumar</NODE1_NAME>
+          <NODE2_ID>41801</NODE2_ID>
+          <NODE2_NAME>MasXapero</NODE2_NAME>
+          <KMS>2.684</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.828953,40.727491 0.811626,40.707230</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51412">
+          <NODE1_ID>52342</NODE1_ID>
+          <NODE1_NAME>RiuCapadella2</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.343</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.838003,40.727012 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51781">
+          <NODE1_ID>52611</NODE1_ID>
+          <NODE1_NAME>RiuFlamenc1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.839351,40.723394 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53205">
+          <NODE1_ID>53592</NODE1_ID>
+          <NODE1_NAME>RiuRiuFumarell1</NODE1_NAME>
+          <NODE2_ID>46559</NODE2_ID>
+          <NODE2_NAME>RiuMorell</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.837474,40.725030 0.840331,40.724481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

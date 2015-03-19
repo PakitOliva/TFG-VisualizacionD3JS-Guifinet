@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.045360</gml:X><gml:Y>43.173245</gml:Y></gml:coord>
+<gml:coord><gml:X>-1.925738</gml:X><gml:Y>43.330531</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="64458">
+          <NODE1_ID>61628</NODE1_ID>
+          <NODE1_NAME>HRNNSantaBarbara</NODE1_NAME>
+          <NODE2_ID>61647</NODE2_ID>
+          <NODE2_NAME>HRNNErenotzu</NODE2_NAME>
+          <KMS>4.623</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.985020,43.266214 -1.934720,43.246719</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64462">
+          <NODE1_ID>61649</NODE1_ID>
+          <NODE1_NAME>HRNNStaBarabaraBisHe</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>0.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.985049,43.266331 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64463">
+          <NODE1_ID>61650</NODE1_ID>
+          <NODE1_NAME>HRNNSntaBarbaraBisUs</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.984996,43.265902 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64465">
+          <NODE1_ID>61652</NODE1_ID>
+          <NODE1_NAME>HRNNErenotzu-BIS-H</NODE1_NAME>
+          <NODE2_ID>61647</NODE2_ID>
+          <NODE2_NAME>HRNNErenotzu</NODE2_NAME>
+          <KMS>0.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.934731,43.246891 -1.934720,43.246719</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64466">
+          <NODE1_ID>61653</NODE1_ID>
+          <NODE1_NAME>HRNNErenotzu-BIS-E</NODE1_NAME>
+          <NODE2_ID>61647</NODE2_ID>
+          <NODE2_NAME>HRNNErenotzu</NODE2_NAME>
+          <KMS>0.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.934924,43.246508 -1.934720,43.246719</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64481">
+          <NODE1_ID>61628</NODE1_ID>
+          <NODE1_NAME>HRNNSantaBarbara</NODE1_NAME>
+          <NODE2_ID>61660</NODE2_ID>
+          <NODE2_NAME>VILLAAlustiza</NODE2_NAME>
+          <KMS>11.433</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.985020,43.266214 -2.045360,43.173245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64540">
+          <NODE1_ID>61646</NODE1_ID>
+          <NODE1_NAME>HRNNUdaletxea</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.975919,43.265270 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64790">
+          <NODE1_ID>61905</NODE1_ID>
+          <NODE1_NAME>HRNNLiburutegia</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>0.698</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.976466,43.266878 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70331">
+          <NODE1_ID>58074</NODE1_ID>
+          <NODE1_NAME>DNSTUlia</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>7.273</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.968339,43.330531 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75976">
+          <NODE1_ID>61628</NODE1_ID>
+          <NODE1_NAME>HRNNSantaBarbara</NODE1_NAME>
+          <NODE2_ID>61647</NODE2_ID>
+          <NODE2_NAME>HRNNErenotzu</NODE2_NAME>
+          <KMS>4.623</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.985020,43.266214 -1.934720,43.246719</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75978">
+          <NODE1_ID>61628</NODE1_ID>
+          <NODE1_NAME>HRNNSantaBarbara</NODE1_NAME>
+          <NODE2_ID>61649</NODE2_ID>
+          <NODE2_NAME>HRNNStaBarabaraBisHe</NODE2_NAME>
+          <KMS>0.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.985020,43.266214 -1.985049,43.266331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75983">
+          <NODE1_ID>62029</NODE1_ID>
+          <NODE1_NAME>HERLatsunbe18</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>0.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.976640,43.269349 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76351">
+          <NODE1_ID>61647</NODE1_ID>
+          <NODE1_NAME>HRNNErenotzu</NODE1_NAME>
+          <NODE2_ID>36727</NODE2_ID>
+          <NODE2_NAME>IGEROLA</NODE2_NAME>
+          <KMS>3.32</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.934720,43.246719 -1.927489,43.217304</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77421">
+          <NODE1_ID>62038</NODE1_ID>
+          <NODE1_NAME>HERAkarregi3</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>1.658</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.964606,43.266515 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80399">
+          <NODE1_ID>61647</NODE1_ID>
+          <NODE1_NAME>HRNNErenotzu</NODE1_NAME>
+          <NODE2_ID>74766</NODE2_ID>
+          <NODE2_NAME>HRNNUgaldetxo</NODE2_NAME>
+          <KMS>2.849</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.934720,43.246719 -1.925738,43.221931</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80410">
+          <NODE1_ID>74773</NODE1_ID>
+          <NODE1_NAME>HRNNIgerolaBIS</NODE1_NAME>
+          <NODE2_ID>36727</NODE2_ID>
+          <NODE2_NAME>IGEROLA</NODE2_NAME>
+          <KMS>0.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.927432,43.217214 -1.927489,43.217304</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123163">
+          <NODE1_ID>61647</NODE1_ID>
+          <NODE1_NAME>HRNNErenotzu</NODE1_NAME>
+          <NODE2_ID>76785</NODE2_ID>
+          <NODE2_NAME>GazteLokala</NODE2_NAME>
+          <KMS>0.666</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.934720,43.246719 -1.940396,43.242393</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123295">
+          <NODE1_ID>61647</NODE1_ID>
+          <NODE1_NAME>HRNNErenotzu</NODE1_NAME>
+          <NODE2_ID>77069</NODE2_ID>
+          <NODE2_NAME>HRNNErenotzu49</NODE2_NAME>
+          <KMS>1.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.934720,43.246719 -1.932485,43.237073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

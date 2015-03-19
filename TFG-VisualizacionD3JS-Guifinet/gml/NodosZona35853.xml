@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.708546</gml:X><gml:Y>42.019374</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.796824</gml:X><gml:Y>42.065798</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="35854">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.765751,42.056900</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35854</NODE_ID>
+      <NODE_NAME>ESPCalMacia</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40302">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.796824,42.048702</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40302</NODE_ID>
+      <NODE_NAME>ESPElMas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48400">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.708546,42.061401</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48400</NODE_ID>
+      <NODE_NAME>ESPMercadal</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48402">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.795569,42.019374</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48402</NODE_ID>
+      <NODE_NAME>ESPEsglaiola</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56525">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728544,42.026264</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56525</NODE_ID>
+      <NODE_NAME>ESPFerreria</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71471">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.767566,42.058576</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71471</NODE_ID>
+      <NODE_NAME>ESPCaLaLliberta</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71795">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.776867,42.065798</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71795</NODE_ID>
+      <NODE_NAME>CCGG15</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

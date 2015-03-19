@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.164266</gml:X><gml:Y>42.192063</gml:Y></gml:coord>
+<gml:coord><gml:X>2.172624</gml:X><gml:Y>42.225803</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="43899">
+          <NODE1_ID>29720</NODE1_ID>
+          <NODE1_NAME>Cmpdv-Cementiri</NODE1_NAME>
+          <NODE2_ID>10145</NODE2_ID>
+          <NODE2_NAME>Ripoll-Catllar</NODE2_NAME>
+          <KMS>3.811</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164266,42.225803 2.172624,42.192063</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47329">
+          <NODE1_ID>49271</NODE1_ID>
+          <NODE1_NAME>Cmpdv-Eliseu</NODE1_NAME>
+          <NODE2_ID>29720</NODE2_ID>
+          <NODE2_NAME>Cmpdv-Cementiri</NODE2_NAME>
+          <KMS>0.616</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.168166,42.221072 2.164266,42.225803</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49823">
+          <NODE1_ID>51093</NODE1_ID>
+          <NODE1_NAME>Cmpdv-Nasiet</NODE1_NAME>
+          <NODE2_ID>29720</NODE2_ID>
+          <NODE2_NAME>Cmpdv-Cementiri</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.168496,42.222954 2.164266,42.225803</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63118">
+          <NODE1_ID>60651</NODE1_ID>
+          <NODE1_NAME>Cmpdv-LLevant2</NODE1_NAME>
+          <NODE2_ID>29720</NODE2_ID>
+          <NODE2_NAME>Cmpdv-Cementiri</NODE2_NAME>
+          <KMS>0.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.167928,42.221229 2.164266,42.225803</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73799">
+          <NODE1_ID>69113</NODE1_ID>
+          <NODE1_NAME>Cmpdv-AntonioNieto</NODE1_NAME>
+          <NODE2_ID>29720</NODE2_ID>
+          <NODE2_NAME>Cmpdv-Cementiri</NODE2_NAME>
+          <KMS>0.627</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169553,42.221753 2.164266,42.225803</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122302">
+          <NODE1_ID>29720</NODE1_ID>
+          <NODE1_NAME>Cmpdv-Cementiri</NODE1_NAME>
+          <NODE2_ID>76332</NODE2_ID>
+          <NODE2_NAME>Cmpdv-Guilla</NODE2_NAME>
+          <KMS>0.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164266,42.225803 2.167161,42.220218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

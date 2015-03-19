@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.431305</gml:X><gml:Y>38.777082</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.268704</gml:X><gml:Y>38.789554</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="48235">
+          <NODE1_ID>36849</NODE1_ID>
+          <NODE1_NAME>ValcalaPedania</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>2.884</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268704,38.777082 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48236">
+          <NODE1_ID>40138</NODE1_ID>
+          <NODE1_NAME>Planes-SNode</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>3.923</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.343763,38.785092 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48421">
+          <NODE1_ID>50062</NODE1_ID>
+          <NODE1_NAME>MrgrdaCliente1</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.300153,38.788441 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48422">
+          <NODE1_ID>50064</NODE1_ID>
+          <NODE1_NAME>MargrdaCliente2</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.299107,38.788563 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49523">
+          <NODE1_ID>50854</NODE1_ID>
+          <NODE1_NAME>MargaridaDelforndelr</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298541,38.787700 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49548">
+          <NODE1_ID>50871</NODE1_ID>
+          <NODE1_NAME>MargaridaAlmasseraA</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.058</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298380,38.787649 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49582">
+          <NODE1_ID>50887</NODE1_ID>
+          <NODE1_NAME>MargaridaPereelgrans</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298439,38.789554 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49836">
+          <NODE1_ID>51113</NODE1_ID>
+          <NODE1_NAME>MargaridaFornRosex</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.299202,38.787936 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49837">
+          <NODE1_ID>40136</NODE1_ID>
+          <NODE1_NAME>Margrda-SNode</NODE1_NAME>
+          <NODE2_ID>51114</NODE2_ID>
+          <NODE2_NAME>MargaridaEraPinetx</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298776,38.788070 -0.300097,38.788172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49838">
+          <NODE1_ID>51116</NODE1_ID>
+          <NODE1_NAME>MargaridaMajor15</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.299185,38.788252 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58313">
+          <NODE1_ID>57275</NODE1_ID>
+          <NODE1_NAME>Major19Margarida</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.299766,38.788266 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64720">
+          <NODE1_ID>40136</NODE1_ID>
+          <NODE1_NAME>Margrda-SNode</NODE1_NAME>
+          <NODE2_ID>61851</NODE2_ID>
+          <NODE2_NAME>Cooperativa</NODE2_NAME>
+          <KMS>7.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298776,38.788070 -0.381686,38.781052</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64721">
+          <NODE1_ID>61852</NODE1_ID>
+          <NODE1_NAME>Asociacio</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>3.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.341975,38.783361 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67661">
+          <NODE1_ID>64162</NODE1_ID>
+          <NODE1_NAME>Margaridalaalmassera</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298466,38.788153 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72952">
+          <NODE1_ID>68258</NODE1_ID>
+          <NODE1_NAME>MargaridaForndelros3</NODE1_NAME>
+          <NODE2_ID>40136</NODE2_ID>
+          <NODE2_NAME>Margrda-SNode</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.299281,38.787991 -0.298776,38.788070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123648">
+          <NODE1_ID>40136</NODE1_ID>
+          <NODE1_NAME>Margrda-SNode</NODE1_NAME>
+          <NODE2_ID>77265</NODE2_ID>
+          <NODE2_NAME>MuroAusiasMarch</NODE2_NAME>
+          <KMS>11.539</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.298776,38.788070 -0.431305,38.781415</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

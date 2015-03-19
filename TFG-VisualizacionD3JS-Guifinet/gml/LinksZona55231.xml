@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.535492</gml:X><gml:Y>43.008897</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.521333</gml:X><gml:Y>43.045058</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="60690">
+          <NODE1_ID>58811</NODE1_ID>
+          <NODE1_NAME>ESKOGellao</NODE1_NAME>
+          <NODE2_ID>58812</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga</NODE2_NAME>
+          <KMS>1.294</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526921,43.041580 -2.522603,43.030374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60693">
+          <NODE1_ID>58940</NODE1_ID>
+          <NODE1_NAME>ESKOApotzaga2</NODE1_NAME>
+          <NODE2_ID>58812</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.522725,43.030486 -2.522603,43.030374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60696">
+          <NODE1_ID>58864</NODE1_ID>
+          <NODE1_NAME>ESKOApotzagaElkartea</NODE1_NAME>
+          <NODE2_ID>58812</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga</NODE2_NAME>
+          <KMS>0.097</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.521415,43.030277 -2.522603,43.030374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60718">
+          <NODE1_ID>58962</NODE1_ID>
+          <NODE1_NAME>ESKOApotzaga2-bis</NODE1_NAME>
+          <NODE2_ID>58940</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga2</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.522779,43.030549 -2.522725,43.030486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68171">
+          <NODE1_ID>64516</NODE1_ID>
+          <NODE1_NAME>ESKOGellaGarai</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526823,43.042016 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68172">
+          <NODE1_ID>64517</NODE1_ID>
+          <NODE1_NAME>EskoGellaoMendizabal</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.530557,43.042453 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68199">
+          <NODE1_ID>58940</NODE1_ID>
+          <NODE1_NAME>ESKOApotzaga2</NODE1_NAME>
+          <NODE2_ID>64518</NODE2_ID>
+          <NODE2_NAME>ESKOGellaoIntxaurdi</NODE2_NAME>
+          <KMS>1.549</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.522725,43.030486 -2.529683,43.043465</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68204">
+          <NODE1_ID>58811</NODE1_ID>
+          <NODE1_NAME>ESKOGellao</NODE1_NAME>
+          <NODE2_ID>64519</NODE2_ID>
+          <NODE2_NAME>ESKOGellaoUmbe</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526921,43.041580 -2.529570,43.041686</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68345">
+          <NODE1_ID>64644</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoAltzalde</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.528760,43.042101 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68351">
+          <NODE1_ID>64647</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoArangoitiG</NODE1_NAME>
+          <NODE2_ID>58940</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga2</NODE2_NAME>
+          <KMS>1.651</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526712,43.045058 -2.522725,43.030486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68354">
+          <NODE1_ID>64652</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoIntxaurdi2</NODE1_NAME>
+          <NODE2_ID>58940</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga2</NODE2_NAME>
+          <KMS>1.55</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.529843,43.043426 -2.522725,43.030486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68361">
+          <NODE1_ID>64646</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoArangoitiE</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526928,43.045049 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68542">
+          <NODE1_ID>64793</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoEtxabeazpi</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.38</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.528065,43.038261 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68543">
+          <NODE1_ID>64645</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoSantakua</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.527934,43.039247 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69026">
+          <NODE1_ID>65095</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoEtxabe</NODE1_NAME>
+          <NODE2_ID>58811</NODE2_ID>
+          <NODE2_NAME>ESKOGellao</NODE2_NAME>
+          <KMS>0.449</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.528301,43.037666 -2.526921,43.041580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69030">
+          <NODE1_ID>65095</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoEtxabe</NODE1_NAME>
+          <NODE2_ID>65096</NODE2_ID>
+          <NODE2_NAME>ESKOGellaoIturbe</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.528301,43.037666 -2.529594,43.035835</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69042">
+          <NODE1_ID>65100</NODE1_ID>
+          <NODE1_NAME>ESKOApotzagaElkBis</NODE1_NAME>
+          <NODE2_ID>58864</NODE2_ID>
+          <NODE2_NAME>ESKOApotzagaElkartea</NODE2_NAME>
+          <KMS>0.007</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.521333,43.030287 -2.521415,43.030277</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69882">
+          <NODE1_ID>65130</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoGaztaineta</NODE1_NAME>
+          <NODE2_ID>58940</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga2</NODE2_NAME>
+          <KMS>1.637</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.529920,43.044245 -2.522725,43.030486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69883">
+          <NODE1_ID>65129</NODE1_ID>
+          <NODE1_NAME>ESKOGellaoLandatxo</NODE1_NAME>
+          <NODE2_ID>58940</NODE2_ID>
+          <NODE2_NAME>ESKOApotzaga2</NODE2_NAME>
+          <KMS>1.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.529438,43.044295 -2.522725,43.030486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70156">
+          <NODE1_ID>65733</NODE1_ID>
+          <NODE1_NAME>ESKOKulturetxea</NODE1_NAME>
+          <NODE2_ID>65734</NODE2_ID>
+          <NODE2_NAME>ESKOBolibar</NODE2_NAME>
+          <KMS>0.978</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526530,43.017631 -2.528038,43.008897</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74549">
+          <NODE1_ID>58811</NODE1_ID>
+          <NODE1_NAME>ESKOGellao</NODE1_NAME>
+          <NODE2_ID>65768</NODE2_ID>
+          <NODE2_NAME>ESKOGellaoSoloeta</NODE2_NAME>
+          <KMS>0.896</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.526921,43.041580 -2.535492,43.036529</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.670949</gml:X><gml:Y>38.273645</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.473557</gml:X><gml:Y>38.385393</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="39507">
+          <NODE1_ID>43337</NODE1_ID>
+          <NODE1_NAME>ALCjoseTorregrosa36</NODE1_NAME>
+          <NODE2_ID>41374</NODE2_ID>
+          <NODE2_NAME>ElxCiudadDeportiva</NODE2_NAME>
+          <KMS>20.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.491055,38.385393 -0.670949,38.273645</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60213">
+          <NODE1_ID>57417</NODE1_ID>
+          <NODE1_NAME>Gomis1</NODE1_NAME>
+          <NODE2_ID>57796</NODE2_ID>
+          <NODE2_NAME>Ponent</NODE2_NAME>
+          <KMS>1.177</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.478334,38.345056 -0.488998,38.338582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60243">
+          <NODE1_ID>57796</NODE1_ID>
+          <NODE1_NAME>Ponent</NODE1_NAME>
+          <NODE2_ID>57418</NODE2_ID>
+          <NODE2_NAME>Gomis2</NODE2_NAME>
+          <KMS>1.395</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.488998,38.338582 -0.476511,38.346410</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61562">
+          <NODE1_ID>57796</NODE1_ID>
+          <NODE1_NAME>Ponent</NODE1_NAME>
+          <NODE2_ID>59389</NODE2_ID>
+          <NODE2_NAME>Gomis3</NODE2_NAME>
+          <KMS>1.733</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.488998,38.338582 -0.473557,38.348379</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72240">
+          <NODE1_ID>67612</NODE1_ID>
+          <NODE1_NAME>LCStl</NODE1_NAME>
+          <NODE2_ID>67611</NODE2_ID>
+          <NODE2_NAME>Maisonnave</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.488646,38.343586 -0.492524,38.343395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72248">
+          <NODE1_ID>67613</NODE1_ID>
+          <NODE1_NAME>LDrGd</NODE1_NAME>
+          <NODE2_ID>67612</NODE2_ID>
+          <NODE2_NAME>LCStl</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.487754,38.341891 -0.488646,38.343586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72250">
+          <NODE1_ID>67616</NODE1_ID>
+          <NODE1_NAME>Luceros1</NODE1_NAME>
+          <NODE2_ID>67613</NODE2_ID>
+          <NODE2_NAME>LDrGd</NODE2_NAME>
+          <KMS>0.488</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.490574,38.345680 -0.487754,38.341891</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72252">
+          <NODE1_ID>67617</NODE1_ID>
+          <NODE1_NAME>LLcrs2</NODE1_NAME>
+          <NODE2_ID>67616</NODE2_ID>
+          <NODE2_NAME>Luceros1</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.490078,38.345955 -0.490574,38.345680</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72257">
+          <NODE1_ID>67617</NODE1_ID>
+          <NODE1_NAME>LLcrs2</NODE1_NAME>
+          <NODE2_ID>67618</NODE2_ID>
+          <NODE2_NAME>AvEstacion</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.490078,38.345955 -0.492753,38.345242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72279">
+          <NODE1_ID>59389</NODE1_ID>
+          <NODE1_NAME>Gomis3</NODE1_NAME>
+          <NODE2_ID>57796</NODE2_ID>
+          <NODE2_NAME>Ponent</NODE2_NAME>
+          <KMS>1.733</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.473557,38.348379 -0.488998,38.338582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72286">
+          <NODE1_ID>67538</NODE1_ID>
+          <NODE1_NAME>Explanada</NODE1_NAME>
+          <NODE2_ID>57796</NODE2_ID>
+          <NODE2_NAME>Ponent</NODE2_NAME>
+          <KMS>0.964</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.480541,38.344151 -0.488998,38.338582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72309">
+          <NODE1_ID>67648</NODE1_ID>
+          <NODE1_NAME>PzaEstrella</NODE1_NAME>
+          <NODE2_ID>67611</NODE2_ID>
+          <NODE2_NAME>Maisonnave</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.494428,38.342879 -0.492524,38.343395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73206">
+          <NODE1_ID>68566</NODE1_ID>
+          <NODE1_NAME>ALIAfsoX</NODE1_NAME>
+          <NODE2_ID>67617</NODE2_ID>
+          <NODE2_NAME>LLcrs2</NODE2_NAME>
+          <KMS>0.435</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.485690,38.347811 -0.490078,38.345955</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73824">
+          <NODE1_ID>69134</NODE1_ID>
+          <NODE1_NAME>RblMndzNz</NODE1_NAME>
+          <NODE2_ID>68566</NODE2_ID>
+          <NODE2_NAME>ALIAfsoX</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.484293,38.346341 -0.485690,38.347811</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76162">
+          <NODE1_ID>70960</NODE1_ID>
+          <NODE1_NAME>ALI-AvLrng</NODE1_NAME>
+          <NODE2_ID>57796</NODE2_ID>
+          <NODE2_NAME>Ponent</NODE2_NAME>
+          <KMS>0.23</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.491230,38.337482 -0.488998,38.338582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

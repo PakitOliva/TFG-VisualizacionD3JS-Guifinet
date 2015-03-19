@@ -1,0 +1,3120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.255873</gml:X><gml:Y>42.010708</gml:Y></gml:coord>
+<gml:coord><gml:X>2.333511</gml:X><gml:Y>42.101754</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="4298">
+          <NODE1_ID>5573</NODE1_ID>
+          <NODE1_NAME>SPTMmguer</NODE1_NAME>
+          <NODE2_ID>3851</NODE2_ID>
+          <NODE2_NAME>SVDTDipMitg</NODE2_NAME>
+          <KMS>2.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294275,42.075241 2.273803,42.063843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="4519">
+          <NODE1_ID>3851</NODE1_ID>
+          <NODE1_NAME>SVDTDipMitg</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>2.328</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273803,42.063843 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="4520">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>5744</NODE2_ID>
+          <NODE2_NAME>SPDTAjuntament</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.295972,42.075967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5039">
+          <NODE1_ID>7191</NODE1_ID>
+          <NODE1_NAME>SPTrvaque</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294587,42.076619 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5126">
+          <NODE1_ID>7296</NODE1_ID>
+          <NODE1_NAME>SPDTRuiz</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295382,42.073302 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5166">
+          <NODE1_ID>7370</NODE1_ID>
+          <NODE1_NAME>SPDTPopa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297381,42.075400 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5183">
+          <NODE1_ID>7417</NODE1_ID>
+          <NODE1_NAME>SPDTJoanet</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297378,42.072982 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5214">
+          <NODE1_ID>7462</NODE1_ID>
+          <NODE1_NAME>SPDTMolas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.339</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293238,42.074520 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5221">
+          <NODE1_ID>7466</NODE1_ID>
+          <NODE1_NAME>SPDTMRubio</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.377</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292648,42.076572 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5257">
+          <NODE1_ID>7517</NODE1_ID>
+          <NODE1_NAME>SPDTRCorrius</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.436</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296882,42.071731 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5279">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>6214</NODE2_ID>
+          <NODE2_NAME>TorelloBassas1</NODE2_NAME>
+          <KMS>3.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.266839,42.053514</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5284">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7578</NODE2_ID>
+          <NODE2_NAME>SPTQuico</NODE2_NAME>
+          <KMS>0.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.291616,42.078961</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5301">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7605</NODE2_ID>
+          <NODE2_NAME>SPDTVerCu</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296332,42.073220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5322">
+          <NODE1_ID>7626</NODE1_ID>
+          <NODE1_NAME>SPDTJMSerra</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293571,42.078398 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5334">
+          <NODE1_ID>7637</NODE1_ID>
+          <NODE1_NAME>SPDTXComa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295111,42.075148 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5411">
+          <NODE1_ID>7760</NODE1_ID>
+          <NODE1_NAME>SPDTPigrau</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.307533,42.074024 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5433">
+          <NODE1_ID>7778</NODE1_ID>
+          <NODE1_NAME>SPDTPigrau2</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.886</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.307487,42.073909 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5549">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7762</NODE2_ID>
+          <NODE2_NAME>SPDTVilamu</NODE2_NAME>
+          <KMS>0.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.303376,42.072796</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5595">
+          <NODE1_ID>7950</NODE1_ID>
+          <NODE1_NAME>SPDTCrous</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.38</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292453,42.075834 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5670">
+          <NODE1_ID>8036</NODE1_ID>
+          <NODE1_NAME>SPTNSerrat</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295785,42.075699 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5773">
+          <NODE1_ID>8000</NODE1_ID>
+          <NODE1_NAME>SPDTParroquia</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297398,42.075590 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5845">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>8082</NODE2_ID>
+          <NODE2_NAME>SPDTsegubru</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296944,42.072639</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5867">
+          <NODE1_ID>8267</NODE1_ID>
+          <NODE1_NAME>SPDTBerta</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.427</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293117,42.073165 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5952">
+          <NODE1_ID>8421</NODE1_ID>
+          <NODE1_NAME>SPTVillena</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294350,42.075565 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5967">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>8446</NODE2_ID>
+          <NODE2_NAME>SPTAFont</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.294152,42.076069</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5979">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>8463</NODE2_ID>
+          <NODE2_NAME>SPDTArmengol</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293315,42.073460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5997">
+          <NODE1_ID>8487</NODE1_ID>
+          <NODE1_NAME>Spdtrkl2</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296480,42.075462 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6053">
+          <NODE1_ID>8497</NODE1_ID>
+          <NODE1_NAME>SPTJFreixa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.304</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293424,42.076139 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6054">
+          <NODE1_ID>8565</NODE1_ID>
+          <NODE1_NAME>SPDTteixi</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.618</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292583,42.080128 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6185">
+          <NODE1_ID>8823</NODE1_ID>
+          <NODE1_NAME>SPdTFontPaez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.654</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302783,42.071615 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6266">
+          <NODE1_ID>8908</NODE1_ID>
+          <NODE1_NAME>SPDTSanti</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297049,42.073134 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6382">
+          <NODE1_ID>9025</NODE1_ID>
+          <NODE1_NAME>SPTCrusellas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296490,42.074970 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6434">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>9027</NODE2_ID>
+          <NODE2_NAME>SPTCFreixer</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293207,42.073708</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6577">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>9205</NODE2_ID>
+          <NODE2_NAME>SPDTPlana</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296985,42.074869</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6598">
+          <NODE1_ID>9338</NODE1_ID>
+          <NODE1_NAME>SPDTDPujol</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.449</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293103,42.078444 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6600">
+          <NODE1_ID>9339</NODE1_ID>
+          <NODE1_NAME>SPDTMHernandez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.618</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303481,42.072842 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6649">
+          <NODE1_ID>9409</NODE1_ID>
+          <NODE1_NAME>SPDTPigrau3</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.307288,42.073936 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6668">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>9454</NODE2_ID>
+          <NODE2_NAME>SPDTTMuntala</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296663,42.074581</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6819">
+          <NODE1_ID>9688</NODE1_ID>
+          <NODE1_NAME>SPDTEmbotitsVdG</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294861,42.074139 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6911">
+          <NODE1_ID>9866</NODE1_ID>
+          <NODE1_NAME>SPTRamonAguilar</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296323,42.071453 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7065">
+          <NODE1_ID>10073</NODE1_ID>
+          <NODE1_NAME>SPDTMSolanich</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296686,42.074445 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7238">
+          <NODE1_ID>10294</NODE1_ID>
+          <NODE1_NAME>SPDTmireia</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.707</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303842,42.071808 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7291">
+          <NODE1_ID>10358</NODE1_ID>
+          <NODE1_NAME>SPDTMecaAlbi</NODE1_NAME>
+          <NODE2_ID>3851</NODE2_ID>
+          <NODE2_NAME>SVDTDipMitg</NODE2_NAME>
+          <KMS>1.406</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289509,42.068678 2.273803,42.063843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7454">
+          <NODE1_ID>10555</NODE1_ID>
+          <NODE1_NAME>SPTZurita</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290861,42.072991 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7585">
+          <NODE1_ID>10717</NODE1_ID>
+          <NODE1_NAME>SPDTPont</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.62</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292826,42.080269 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7590">
+          <NODE1_ID>10733</NODE1_ID>
+          <NODE1_NAME>SPDTSanti2</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.49</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296472,42.071264 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7659">
+          <NODE1_ID>10859</NODE1_ID>
+          <NODE1_NAME>SPDTFSadurni</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296663,42.075322 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8081">
+          <NODE1_ID>11367</NODE1_ID>
+          <NODE1_NAME>SPDTPuigvert</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297523,42.074765 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8119">
+          <NODE1_ID>11427</NODE1_ID>
+          <NODE1_NAME>SPDTRMartin</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297010,42.072831 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8150">
+          <NODE1_ID>11500</NODE1_ID>
+          <NODE1_NAME>SPDTjordi</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296626,42.075371 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8217">
+          <NODE1_ID>11584</NODE1_ID>
+          <NODE1_NAME>SPDTCasas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296498,42.075148 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8228">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>8855</NODE2_ID>
+          <NODE2_NAME>SPDTJordiM</NODE2_NAME>
+          <KMS>0.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.294831,42.073072</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8281">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7640</NODE2_ID>
+          <NODE2_NAME>SVDTMariana</NODE2_NAME>
+          <KMS>2.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.273890,42.061815</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8523">
+          <NODE1_ID>11906</NODE1_ID>
+          <NODE1_NAME>SPDTJMBaamonde</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.304</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293415,42.076095 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8543">
+          <NODE1_ID>11987</NODE1_ID>
+          <NODE1_NAME>SPDTPresaguer</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296516,42.071109 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8651">
+          <NODE1_ID>11777</NODE1_ID>
+          <NODE1_NAME>SPTXNovellas2</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295150,42.075703 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8731">
+          <NODE1_ID>12203</NODE1_ID>
+          <NODE1_NAME>SPDTATorrents</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296630,42.075667 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8786">
+          <NODE1_ID>3851</NODE1_ID>
+          <NODE1_NAME>SVDTDipMitg</NODE1_NAME>
+          <NODE2_ID>12185</NODE2_ID>
+          <NODE2_NAME>SPDTSerrallonga</NODE2_NAME>
+          <KMS>2.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273803,42.063843 2.291987,42.078584</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8802">
+          <NODE1_ID>12279</NODE1_ID>
+          <NODE1_NAME>SPDTAbdel</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296119,42.073473 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8902">
+          <NODE1_ID>12409</NODE1_ID>
+          <NODE1_NAME>SPDTCamps</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294248,42.074310 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8945">
+          <NODE1_ID>12326</NODE1_ID>
+          <NODE1_NAME>SPDTBruixa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293202,42.077668 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9009">
+          <NODE1_ID>12531</NODE1_ID>
+          <NODE1_NAME>SPDTVaque</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.38</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293200,42.073790 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9136">
+          <NODE1_ID>12721</NODE1_ID>
+          <NODE1_NAME>SPDTHamid</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296069,42.072040 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9340">
+          <NODE1_ID>12946</NODE1_ID>
+          <NODE1_NAME>SPDTPSoldevila</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297730,42.074813 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9437">
+          <NODE1_ID>13035</NODE1_ID>
+          <NODE1_NAME>SPDTMVaque</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296704,42.073237 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9525">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>13159</NODE2_ID>
+          <NODE2_NAME>SPDTRTrull</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.295907,42.075519</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9546">
+          <NODE1_ID>13133</NODE1_ID>
+          <NODE1_NAME>TorelloJSadurni</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>3.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266849,42.052421 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9616">
+          <NODE1_ID>13284</NODE1_ID>
+          <NODE1_NAME>SPDTPere</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293000,42.078599 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9666">
+          <NODE1_ID>13348</NODE1_ID>
+          <NODE1_NAME>SPDTJnCss</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293814,42.078011 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9690">
+          <NODE1_ID>13343</NODE1_ID>
+          <NODE1_NAME>SPDTforlac</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292644,42.075110 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9944">
+          <NODE1_ID>13666</NODE1_ID>
+          <NODE1_NAME>SPDTETuneu</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.486</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293180,42.078961 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9945">
+          <NODE1_ID>13667</NODE1_ID>
+          <NODE1_NAME>SPDTJordiB</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.259</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294352,42.076848 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10031">
+          <NODE1_ID>13776</NODE1_ID>
+          <NODE1_NAME>SPDTCasal</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.137</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295450,42.075323 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10080">
+          <NODE1_ID>13830</NODE1_ID>
+          <NODE1_NAME>SPDTTuneu</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293182,42.073337 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10173">
+          <NODE1_ID>13954</NODE1_ID>
+          <NODE1_NAME>SPDTRamonP</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.691</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292113,42.070639 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10294">
+          <NODE1_ID>14110</NODE1_ID>
+          <NODE1_NAME>SPDTIChamharouch</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.256</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294829,42.077276 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10458">
+          <NODE1_ID>14318</NODE1_ID>
+          <NODE1_NAME>TorelloEstefaniaC</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>3.602</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266472,42.052581 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10683">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>14622</NODE2_ID>
+          <NODE2_NAME>SPDTSun</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293256,42.073273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10960">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>10357</NODE2_ID>
+          <NODE2_NAME>TorelloPepAlbi</NODE2_NAME>
+          <KMS>4.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.274952,42.041344</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11102">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>15029</NODE2_ID>
+          <NODE2_NAME>SPTRaul</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296923,42.075317</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11106">
+          <NODE1_ID>15034</NODE1_ID>
+          <NODE1_NAME>SPTArchers</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.528</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296274,42.070943 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11184">
+          <NODE1_ID>15116</NODE1_ID>
+          <NODE1_NAME>spdtdolors</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.748</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304034,42.071399 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11450">
+          <NODE1_ID>15307</NODE1_ID>
+          <NODE1_NAME>SPdTgabriel</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.63</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302387,42.071623 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11598">
+          <NODE1_ID>2929</NODE1_ID>
+          <NODE1_NAME>SPTTorras</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296568,42.074076 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11769">
+          <NODE1_ID>15668</NODE1_ID>
+          <NODE1_NAME>SPDTJELopez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297733,42.075461 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11906">
+          <NODE1_ID>15768</NODE1_ID>
+          <NODE1_NAME>SPDTCristina</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294244,42.076734 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11980">
+          <NODE1_ID>15856</NODE1_ID>
+          <NODE1_NAME>SPDTDOT</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296513,42.075439 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12538">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>16410</NODE2_ID>
+          <NODE2_NAME>SPDTJCb</NODE2_NAME>
+          <KMS>0.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293417,42.078015</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12928">
+          <NODE1_ID>16938</NODE1_ID>
+          <NODE1_NAME>SPDTFabrega</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.537</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294409,42.071238 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13142">
+          <NODE1_ID>17218</NODE1_ID>
+          <NODE1_NAME>SPDTHaddoB</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295982,42.073082 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13341">
+          <NODE1_ID>17502</NODE1_ID>
+          <NODE1_NAME>SPTGONSI</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297001,42.072799 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13413">
+          <NODE1_ID>17631</NODE1_ID>
+          <NODE1_NAME>SPDTGGordillo</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.809</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290928,42.069971 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13414">
+          <NODE1_ID>17632</NODE1_ID>
+          <NODE1_NAME>SPDTFDot</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298041,42.073718 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13486">
+          <NODE1_ID>17378</NODE1_ID>
+          <NODE1_NAME>SPDTForatMico3Kungfu</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.541</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292460,42.079129 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13536">
+          <NODE1_ID>17782</NODE1_ID>
+          <NODE1_NAME>SPDTJAndreu</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293407,42.076142 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13654">
+          <NODE1_ID>17938</NODE1_ID>
+          <NODE1_NAME>SPDTFerranF</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293997,42.077842 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13738">
+          <NODE1_ID>18040</NODE1_ID>
+          <NODE1_NAME>SPDTCapdevila</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.701</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303199,42.071320 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13802">
+          <NODE1_ID>18124</NODE1_ID>
+          <NODE1_NAME>SPTRamonp</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295300,42.073178 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14515">
+          <NODE1_ID>18817</NODE1_ID>
+          <NODE1_NAME>SPDTGonzalez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.622</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302279,42.071641 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14699">
+          <NODE1_ID>19109</NODE1_ID>
+          <NODE1_NAME>SPDTMohammedA</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296261,42.074265 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14937">
+          <NODE1_ID>19412</NODE1_ID>
+          <NODE1_NAME>SPDTAhmedA</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296266,42.074227 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15008">
+          <NODE1_ID>19502</NODE1_ID>
+          <NODE1_NAME>SPDTSalvadorF</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295043,42.076104 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15135">
+          <NODE1_ID>19674</NODE1_ID>
+          <NODE1_NAME>SPDTPuig</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.356</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296116,42.072529 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15293">
+          <NODE1_ID>19885</NODE1_ID>
+          <NODE1_NAME>SPDTFrancesc</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292988,42.076179 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15435">
+          <NODE1_ID>19961</NODE1_ID>
+          <NODE1_NAME>SPDTtonil</NODE1_NAME>
+          <NODE2_ID>3851</NODE2_ID>
+          <NODE2_NAME>SVDTDipMitg</NODE2_NAME>
+          <KMS>1.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.288568,42.067973 2.273803,42.063843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15454">
+          <NODE1_ID>20014</NODE1_ID>
+          <NODE1_NAME>SPDTAMartos</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.266</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294187,42.076763 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15496">
+          <NODE1_ID>20055</NODE1_ID>
+          <NODE1_NAME>SPDTFrancescM</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292988,42.076179 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15603">
+          <NODE1_ID>19787</NODE1_ID>
+          <NODE1_NAME>TorelloJaumeC</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>3.525</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.272260,42.049849 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15911">
+          <NODE1_ID>20466</NODE1_ID>
+          <NODE1_NAME>TorelloPL</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>3.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.264138,42.052350 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16444">
+          <NODE1_ID>21018</NODE1_ID>
+          <NODE1_NAME>SPTFRoquet</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294930,42.075534 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16445">
+          <NODE1_ID>21023</NODE1_ID>
+          <NODE1_NAME>SPDTJoanet2</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298127,42.073225 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16477">
+          <NODE1_ID>21060</NODE1_ID>
+          <NODE1_NAME>SPDTAlbert</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296228,42.074427 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16739">
+          <NODE1_ID>21324</NODE1_ID>
+          <NODE1_NAME>SPTJMalave</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.301722,42.072173 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16938">
+          <NODE1_ID>21543</NODE1_ID>
+          <NODE1_NAME>TorelloSendoG</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>3.543</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.267033,42.052917 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17198">
+          <NODE1_ID>21825</NODE1_ID>
+          <NODE1_NAME>SPDTJoanA</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302540,42.071103 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17418">
+          <NODE1_ID>3851</NODE1_ID>
+          <NODE1_NAME>SVDTDipMitg</NODE1_NAME>
+          <NODE2_ID>21844</NODE2_ID>
+          <NODE2_NAME>SPDTCosta</NODE2_NAME>
+          <KMS>2.36</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273803,42.063843 2.292750,42.079723</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17552">
+          <NODE1_ID>21876</NODE1_ID>
+          <NODE1_NAME>SPTNFornols</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292546,42.076382 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17649">
+          <NODE1_ID>22161</NODE1_ID>
+          <NODE1_NAME>SVDTgallifa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>2.343</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.274138,42.063266 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17904">
+          <NODE1_ID>22466</NODE1_ID>
+          <NODE1_NAME>SPDTJPujol</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296737,42.072834 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18201">
+          <NODE1_ID>22812</NODE1_ID>
+          <NODE1_NAME>SPDTGarcia</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.642</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302870,42.071847 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18216">
+          <NODE1_ID>22832</NODE1_ID>
+          <NODE1_NAME>SPDTSebas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298243,42.073734 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18237">
+          <NODE1_ID>22867</NODE1_ID>
+          <NODE1_NAME>SPDTMunoz</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.776</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303959,42.070939 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18446">
+          <NODE1_ID>22938</NODE1_ID>
+          <NODE1_NAME>SPDTJDOT</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296513,42.075439 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18574">
+          <NODE1_ID>23233</NODE1_ID>
+          <NODE1_NAME>SPDTCanal</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297409,42.075330 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18783">
+          <NODE1_ID>23454</NODE1_ID>
+          <NODE1_NAME>SPDTSabestia</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293412,42.078953 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19001">
+          <NODE1_ID>23710</NODE1_ID>
+          <NODE1_NAME>SPDTCTermica</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>3.679</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.290987,42.068735 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19338">
+          <NODE1_ID>24225</NODE1_ID>
+          <NODE1_NAME>SPDTBernat</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295300,42.075801 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19612">
+          <NODE1_ID>24531</NODE1_ID>
+          <NODE1_NAME>SPDTProva</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297199,42.074264 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19671">
+          <NODE1_ID>24554</NODE1_ID>
+          <NODE1_NAME>sera</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294579,42.074443 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20337">
+          <NODE1_ID>25425</NODE1_ID>
+          <NODE1_NAME>SPDTSoldevila</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.753</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304618,42.071899 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20956">
+          <NODE1_ID>26122</NODE1_ID>
+          <NODE1_NAME>SPDTIgor</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296796,42.074295 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21437">
+          <NODE1_ID>26636</NODE1_ID>
+          <NODE1_NAME>SPDTOColomer</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.300268,42.074451 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21814">
+          <NODE1_ID>27004</NODE1_ID>
+          <NODE1_NAME>SPDTRodriguez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304302,42.071540 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21893">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>27050</NODE2_ID>
+          <NODE2_NAME>SPDTJosepLluisV</NODE2_NAME>
+          <KMS>0.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.292913,42.076377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22035">
+          <NODE1_ID>27230</NODE1_ID>
+          <NODE1_NAME>SPDTJRamos</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>2.941</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297757,42.075384 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22433">
+          <NODE1_ID>27671</NODE1_ID>
+          <NODE1_NAME>SPDTMaJesus</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303663,42.071487 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22436">
+          <NODE1_ID>27673</NODE1_ID>
+          <NODE1_NAME>SPDTMarannaB</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296620,42.075073 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23457">
+          <NODE1_ID>28639</NODE1_ID>
+          <NODE1_NAME>SPDTJMiarons</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>3.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293144,42.074540 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23630">
+          <NODE1_ID>4208</NODE1_ID>
+          <NODE1_NAME>SPDTBellmunt</NODE1_NAME>
+          <NODE2_ID>28829</NODE2_ID>
+          <NODE2_NAME>SPDTElRoger</NODE2_NAME>
+          <KMS>3.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294536,42.101754 2.282308,42.072358</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24191">
+          <NODE1_ID>29437</NODE1_ID>
+          <NODE1_NAME>SPDTPavello</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292921,42.075554 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24293">
+          <NODE1_ID>29545</NODE1_ID>
+          <NODE1_NAME>SPTDisplayCollell</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295663,42.075186 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24420">
+          <NODE1_ID>27982</NODE1_ID>
+          <NODE1_NAME>SPDTELopez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294115,42.077752 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24476">
+          <NODE1_ID>29732</NODE1_ID>
+          <NODE1_NAME>SPDTSagir</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>3.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293975,42.073728 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24786">
+          <NODE1_ID>30089</NODE1_ID>
+          <NODE1_NAME>SPDTComas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>1.174</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298347,42.086187 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25101">
+          <NODE1_ID>8026</NODE1_ID>
+          <NODE1_NAME>SPTJulita</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>2.998</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296858,42.074821 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25834">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>31189</NODE2_ID>
+          <NODE2_NAME>SPTGallego</NODE2_NAME>
+          <KMS>0.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296186,42.072937</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25924">
+          <NODE1_ID>4208</NODE1_ID>
+          <NODE1_NAME>SPDTBellmunt</NODE1_NAME>
+          <NODE2_ID>31275</NODE2_ID>
+          <NODE2_NAME>SPDTRaimonV</NODE2_NAME>
+          <KMS>3.026</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294536,42.101754 2.297765,42.074618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26104">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>25874</NODE2_ID>
+          <NODE2_NAME>SPDTCampFutbol</NODE2_NAME>
+          <KMS>0.739</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.289405,42.072201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26248">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>31620</NODE2_ID>
+          <NODE2_NAME>SPDTRNavarta</NODE2_NAME>
+          <KMS>0.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.292894,42.077745</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26342">
+          <NODE1_ID>7626</NODE1_ID>
+          <NODE1_NAME>SPDTJMSerra</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293571,42.078398 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26358">
+          <NODE1_ID>31746</NODE1_ID>
+          <NODE1_NAME>SPDTJVaque</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296588,42.074687 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26650">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>31981</NODE2_ID>
+          <NODE2_NAME>SPDTIYakhlef</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296295,42.075248</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26893">
+          <NODE1_ID>31624</NODE1_ID>
+          <NODE1_NAME>SPTMasoliver</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298747,42.073428 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27620">
+          <NODE1_ID>32764</NODE1_ID>
+          <NODE1_NAME>SpdtMnsrrtTR</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295468,42.076679 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28222">
+          <NODE1_ID>33549</NODE1_ID>
+          <NODE1_NAME>SPDTMrt</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.426</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293533,42.078470 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29787">
+          <NODE1_ID>35067</NODE1_ID>
+          <NODE1_NAME>SPDTMarina</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294077,42.075729 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30119">
+          <NODE1_ID>35360</NODE1_ID>
+          <NODE1_NAME>SPDTPigrauIngrid</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>1.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.314650,42.081453 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30861">
+          <NODE1_ID>35994</NODE1_ID>
+          <NODE1_NAME>SPDTMOzga</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294952,42.075383 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30910">
+          <NODE1_ID>36055</NODE1_ID>
+          <NODE1_NAME>SPDTJFageda</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295786,42.072060 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30951">
+          <NODE1_ID>36086</NODE1_ID>
+          <NODE1_NAME>SPDTPujol</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293745,42.077302 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31208">
+          <NODE1_ID>17556</NODE1_ID>
+          <NODE1_NAME>SPDTFrancesP</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.789</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304114,42.070898 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31239">
+          <NODE1_ID>36353</NODE1_ID>
+          <NODE1_NAME>SPDTSalvans</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296652,42.072979 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31613">
+          <NODE1_ID>36704</NODE1_ID>
+          <NODE1_NAME>SPDTMBufi</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.519</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296619,42.070996 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32102">
+          <NODE1_ID>7347</NODE1_ID>
+          <NODE1_NAME>SPTRoquet</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296298,42.073382 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32103">
+          <NODE1_ID>37143</NODE1_ID>
+          <NODE1_NAME>SPDTDArxe</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296017,42.074477 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32127">
+          <NODE1_ID>26241</NODE1_ID>
+          <NODE1_NAME>SPTJordiP2</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.53</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296572,42.070896 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32547">
+          <NODE1_ID>37601</NODE1_ID>
+          <NODE1_NAME>SPDTGNeuman</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.37</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295319,42.072586 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32876">
+          <NODE1_ID>37052</NODE1_ID>
+          <NODE1_NAME>SPDTCastanyer3</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296464,42.075405 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33240">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7240</NODE2_ID>
+          <NODE2_NAME>SPDTEJuventeny</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293734,42.077041</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33331">
+          <NODE1_ID>38291</NODE1_ID>
+          <NODE1_NAME>SPDTSola</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297798,42.075068 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34376">
+          <NODE1_ID>39169</NODE1_ID>
+          <NODE1_NAME>SPDTMasMolas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.88</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.307403,42.073859 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34731">
+          <NODE1_ID>39424</NODE1_ID>
+          <NODE1_NAME>SPDTCalsAvis</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293594,42.074993 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35467">
+          <NODE1_ID>40058</NODE1_ID>
+          <NODE1_NAME>SPDTDSanchez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.355</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292795,42.076091 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38854">
+          <NODE1_ID>38670</NODE1_ID>
+          <NODE1_NAME>SPTPatafi</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>4.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.317144,42.060304 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40913">
+          <NODE1_ID>44337</NODE1_ID>
+          <NODE1_NAME>SPTSusanaf</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295257,42.075335 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42222">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>44337</NODE2_ID>
+          <NODE2_NAME>SPTSusanaf</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.295257,42.075335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42372">
+          <NODE1_ID>45600</NODE1_ID>
+          <NODE1_NAME>SPDTXavierB</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295257,42.075592 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43677">
+          <NODE1_ID>46534</NODE1_ID>
+          <NODE1_NAME>TorelloBalmes55</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>3.617</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.266451,42.052407 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44116">
+          <NODE1_ID>13668</NODE1_ID>
+          <NODE1_NAME>SPDTAEspona</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292436,42.079341 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44412">
+          <NODE1_ID>41571</NODE1_ID>
+          <NODE1_NAME>SPDTDLlado</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292835,42.078458 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48999">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>48312</NODE2_ID>
+          <NODE2_NAME>SMSlfbrg</NODE2_NAME>
+          <KMS>2.808</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.322426,42.058886</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49861">
+          <NODE1_ID>51128</NODE1_ID>
+          <NODE1_NAME>SPDTDMorera</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298189,42.073724 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50053">
+          <NODE1_ID>51295</NODE1_ID>
+          <NODE1_NAME>SPDTYasmina</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296853,42.074746 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50969">
+          <NODE1_ID>28806</NODE1_ID>
+          <NODE1_NAME>SPDTMartaPep</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298799,42.073351 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51011">
+          <NODE1_ID>28636</NODE1_ID>
+          <NODE1_NAME>SPDTJuventeny</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.297</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293932,42.076990 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51111">
+          <NODE1_ID>3851</NODE1_ID>
+          <NODE1_NAME>SVDTDipMitg</NODE1_NAME>
+          <NODE2_ID>24624</NODE2_ID>
+          <NODE2_NAME>SPDTEMagem</NODE2_NAME>
+          <KMS>1.757</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273803,42.063843 2.291657,42.072407</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51309">
+          <NODE1_ID>10956</NODE1_ID>
+          <NODE1_NAME>SPDTJFreixa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302451,42.071872 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51497">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>52394</NODE2_ID>
+          <NODE2_NAME>SPDTDifust</NODE2_NAME>
+          <KMS>0.51</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.295095,42.071307</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53231">
+          <NODE1_ID>37329</NODE1_ID>
+          <NODE1_NAME>SPTXcoll</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294901,42.076540 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55292">
+          <NODE1_ID>18466</NODE1_ID>
+          <NODE1_NAME>SPTDCruz</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.298834,42.072905 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56807">
+          <NODE1_ID>25488</NODE1_ID>
+          <NODE1_NAME>SPDTNuriaM</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292452,42.075922 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56822">
+          <NODE1_ID>3851</NODE1_ID>
+          <NODE1_NAME>SVDTDipMitg</NODE1_NAME>
+          <NODE2_ID>3705</NODE2_ID>
+          <NODE2_NAME>SPTRSala</NODE2_NAME>
+          <KMS>1.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273803,42.063843 2.289154,42.062718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58276">
+          <NODE1_ID>23473</NODE1_ID>
+          <NODE1_NAME>SPDTnauPedroses</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>1.664</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297280,42.090635 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58531">
+          <NODE1_ID>26123</NODE1_ID>
+          <NODE1_NAME>SPDTAVerdaguer</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294674,42.075223 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58964">
+          <NODE1_ID>19619</NODE1_ID>
+          <NODE1_NAME>SPDTJColl</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.297</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294483,42.077536 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59255">
+          <NODE1_ID>8963</NODE1_ID>
+          <NODE1_NAME>SPDTBatlle</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293185,42.079368 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59583">
+          <NODE1_ID>57876</NODE1_ID>
+          <NODE1_NAME>SPDTDoctorC44</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295842,42.072340 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59679">
+          <NODE1_ID>21797</NODE1_ID>
+          <NODE1_NAME>SPDTDRSTP</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295295,42.073085 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60061">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>2.906</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60429">
+          <NODE1_ID>4208</NODE1_ID>
+          <NODE1_NAME>SPDTBellmunt</NODE1_NAME>
+          <NODE2_ID>58705</NODE2_ID>
+          <NODE2_NAME>SPDTCentralBombes</NODE2_NAME>
+          <KMS>3.234</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294536,42.101754 2.294437,42.072641</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61265">
+          <NODE1_ID>9099</NODE1_ID>
+          <NODE1_NAME>SPDTMAyats</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293882,42.076494 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61476">
+          <NODE1_ID>59477</NODE1_ID>
+          <NODE1_NAME>SPT</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292309,42.074618 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61481">
+          <NODE1_ID>26612</NODE1_ID>
+          <NODE1_NAME>SPDTJMas</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>3.405</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.271627,42.076292 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61622">
+          <NODE1_ID>22672</NODE1_ID>
+          <NODE1_NAME>SPDTJosepFC</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292688,42.079875 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61651">
+          <NODE1_ID>40277</NODE1_ID>
+          <NODE1_NAME>SPDTMGutierrez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292854,42.079739 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61878">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>40718</NODE2_ID>
+          <NODE2_NAME>SPDTCasalAvis</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293578,42.075044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61879">
+          <NODE1_ID>59734</NODE1_ID>
+          <NODE1_NAME>SPDTMCarmenL</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304404,42.072576 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62172">
+          <NODE1_ID>14484</NODE1_ID>
+          <NODE1_NAME>SPDTAlibes</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295015,42.075286 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62258">
+          <NODE1_ID>12620</NODE1_ID>
+          <NODE1_NAME>SPDTElSerrat</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>1.599</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.304604,42.089466 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62259">
+          <NODE1_ID>60011</NODE1_ID>
+          <NODE1_NAME>SPDTXC</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292815,42.077698 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62260">
+          <NODE1_ID>60012</NODE1_ID>
+          <NODE1_NAME>SPDTMC</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294765,42.073165 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62874">
+          <NODE1_ID>47067</NODE1_ID>
+          <NODE1_NAME>SPDTJVilardell</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.289879,42.072945 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62943">
+          <NODE1_ID>57751</NODE1_ID>
+          <NODE1_NAME>SPDTMasVinyoles</NODE1_NAME>
+          <NODE2_ID>32426</NODE2_ID>
+          <NODE2_NAME>TorelloDipPuigRubi</NODE2_NAME>
+          <KMS>3.108</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293374,42.055468 2.255873,42.056909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63347">
+          <NODE1_ID>60840</NODE1_ID>
+          <NODE1_NAME>SPTAlbertLopez</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.358</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292729,42.075930 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64209">
+          <NODE1_ID>43820</NODE1_ID>
+          <NODE1_NAME>sptccasabella</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293404,42.076619 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64418">
+          <NODE1_ID>54513</NODE1_ID>
+          <NODE1_NAME>SPDTDSolanic</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296124,42.071981 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64517">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>61683</NODE2_ID>
+          <NODE2_NAME>SpdtAnaGumienna</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.292506,42.076559</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64990">
+          <NODE1_ID>62102</NODE1_ID>
+          <NODE1_NAME>SPDTLaTeuleria</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>2.489</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312941,42.084023 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65221">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>57237</NODE2_ID>
+          <NODE2_NAME>SPDTxevigili</NODE2_NAME>
+          <KMS>0.343</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293329,42.074276</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65230">
+          <NODE1_ID>25204</NODE1_ID>
+          <NODE1_NAME>SPDTEFont</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.584</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292919,42.079923 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65760">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>17197</NODE2_ID>
+          <NODE2_NAME>SPDTMAGandullo</NODE2_NAME>
+          <KMS>0.241</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.294673,42.074396</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65904">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>45709</NODE2_ID>
+          <NODE2_NAME>SPDTJSerrallonga</NODE2_NAME>
+          <KMS>0.554</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.291704,42.078666</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66555">
+          <NODE1_ID>63201</NODE1_ID>
+          <NODE1_NAME>SPTAngeloA</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.606</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292831,42.080119 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66709">
+          <NODE1_ID>32477</NODE1_ID>
+          <NODE1_NAME>SPDTJEsteban</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.322</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293171,42.075994 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66958">
+          <NODE1_ID>27294</NODE1_ID>
+          <NODE1_NAME>SPDTJGinebra</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295298,42.073043 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67306">
+          <NODE1_ID>63886</NODE1_ID>
+          <NODE1_NAME>SPDTMFornieles</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294544,42.074623 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67467">
+          <NODE1_ID>38665</NODE1_ID>
+          <NODE1_NAME>SPDTElCasal</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297521,42.075152 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67842">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>64271</NODE2_ID>
+          <NODE2_NAME>SPDTJoanVaque</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293075,42.073488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68170">
+          <NODE1_ID>17717</NODE1_ID>
+          <NODE1_NAME>SPDTVigas</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295807,42.072240 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69260">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>29332</NODE2_ID>
+          <NODE2_NAME>SPDTManelFamili</NODE2_NAME>
+          <KMS>0.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.304140,42.071406</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69625">
+          <NODE1_ID>65554</NODE1_ID>
+          <NODE1_NAME>SPDTXevi</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293122,42.075653 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69850">
+          <NODE1_ID>22261</NODE1_ID>
+          <NODE1_NAME>SPDTMAngelsV</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.239</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295051,42.077219 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69884">
+          <NODE1_ID>25753</NODE1_ID>
+          <NODE1_NAME>SVDTPepR</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>2.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.275254,42.064457 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70943">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>66540</NODE2_ID>
+          <NODE2_NAME>SPDTAPrat</NODE2_NAME>
+          <KMS>1.491</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.301834,42.062715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71237">
+          <NODE1_ID>66774</NODE1_ID>
+          <NODE1_NAME>SPDTPGalobardes</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293114,42.079051 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71290">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>8303</NODE2_ID>
+          <NODE2_NAME>SPDTPFornieles</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293208,42.078741</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71458">
+          <NODE1_ID>7147</NODE1_ID>
+          <NODE1_NAME>SPDTSAmat</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.295027,42.077278 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71956">
+          <NODE1_ID>39290</NODE1_ID>
+          <NODE1_NAME>SPDTBonay</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296126,42.075122 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72135">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>67532</NODE2_ID>
+          <NODE2_NAME>SPDTPPgdrrjls</NODE2_NAME>
+          <KMS>0.465</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.292957,42.078528</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72362">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7175</NODE2_ID>
+          <NODE2_NAME>SPDTXSuri</NODE2_NAME>
+          <KMS>0.754</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.304091,42.071359</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72363">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>63027</NODE2_ID>
+          <NODE2_NAME>SPDTTPulido</NODE2_NAME>
+          <KMS>0.261</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.295302,42.073694</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72392">
+          <NODE1_ID>26745</NODE1_ID>
+          <NODE1_NAME>SPDTConxitaPla</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296025,42.072807 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72549">
+          <NODE1_ID>3851</NODE1_ID>
+          <NODE1_NAME>SVDTDipMitg</NODE1_NAME>
+          <NODE2_ID>44823</NODE2_ID>
+          <NODE2_NAME>SPDTAMateu</NODE2_NAME>
+          <KMS>2.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273803,42.063843 2.296222,42.073971</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72553">
+          <NODE1_ID>33740</NODE1_ID>
+          <NODE1_NAME>SPDTJRoger</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.525</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292771,42.079156 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73223">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>18357</NODE2_ID>
+          <NODE2_NAME>SPDTCSanchez</NODE2_NAME>
+          <KMS>0.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.293694,42.074657</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74384">
+          <NODE1_ID>42843</NODE1_ID>
+          <NODE1_NAME>SPDTGBufi</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296300,42.075177 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74385">
+          <NODE1_ID>56545</NODE1_ID>
+          <NODE1_NAME>SPDTASAhmed</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.296097,42.074632 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77319">
+          <NODE1_ID>45024</NODE1_ID>
+          <NODE1_NAME>SPDTJmToneu</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294641,42.073225 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77809">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>12293</NODE2_ID>
+          <NODE2_NAME>SPDTAxilone</NODE2_NAME>
+          <KMS>1.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.287710,42.068155</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78617">
+          <NODE1_ID>73249</NODE1_ID>
+          <NODE1_NAME>SPDTMarcC</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293133,42.073396 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78776">
+          <NODE1_ID>73278</NODE1_ID>
+          <NODE1_NAME>SPDTLaiaS</NODE1_NAME>
+          <NODE2_ID>3064</NODE2_ID>
+          <NODE2_NAME>SMSEscaneraTorreta</NODE2_NAME>
+          <KMS>5.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.333511,42.057302 2.328792,42.010708</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79800">
+          <NODE1_ID>74159</NODE1_ID>
+          <NODE1_NAME>SPDTCanPanosa</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>1.806</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.287707,42.060960 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80437">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>70154</NODE2_ID>
+          <NODE2_NAME>SVDTPrs</NODE2_NAME>
+          <KMS>2.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.273381,42.065438</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81035">
+          <NODE1_ID>8373</NODE1_ID>
+          <NODE1_NAME>SPTMCarmeS</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297443,42.075282 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81036">
+          <NODE1_ID>75211</NODE1_ID>
+          <NODE1_NAME>SPTToniTrd1</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.42</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292758,42.077681 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122736">
+          <NODE1_ID>76637</NODE1_ID>
+          <NODE1_NAME>SPTAinaVerdeguer</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293074,42.073405 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122874">
+          <NODE1_ID>70154</NODE1_ID>
+          <NODE1_NAME>SVDTPrs</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>2.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273381,42.065438 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122965">
+          <NODE1_ID>76834</NODE1_ID>
+          <NODE1_NAME>SPDTJG</NODE1_NAME>
+          <NODE2_ID>5743</NODE2_ID>
+          <NODE2_NAME>SPDTCampanar</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297225,42.074452 2.297041,42.075659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123622">
+          <NODE1_ID>5743</NODE1_ID>
+          <NODE1_NAME>SPDTCampanar</NODE1_NAME>
+          <NODE2_ID>7129</NODE2_ID>
+          <NODE2_NAME>SPDTJPuig</NODE2_NAME>
+          <KMS>0.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.297041,42.075659 2.296148,42.072444</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

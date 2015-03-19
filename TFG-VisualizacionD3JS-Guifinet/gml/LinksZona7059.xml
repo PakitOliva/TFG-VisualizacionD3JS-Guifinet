@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.110695</gml:X><gml:Y>41.409145</gml:Y></gml:coord>
+<gml:coord><gml:X>2.375472</gml:X><gml:Y>41.663341</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="8347">
+          <NODE1_ID>9646</NODE1_ID>
+          <NODE1_NAME>CdmMPonsInka</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.539</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.201189,41.632291 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17278">
+          <NODE1_ID>8747</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCanXicota</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>5.694</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259386,41.614122 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17284">
+          <NODE1_ID>7362</NODE1_ID>
+          <NODE1_NAME>SBDFira</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>12.051</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.117199,41.546447 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26129">
+          <NODE1_ID>29784</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCalartigYet</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>2.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.210714,41.620804 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26745">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>32068</NODE2_ID>
+          <NODE2_NAME>MAYOR29</NODE2_NAME>
+          <KMS>5.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.210655,41.590909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28187">
+          <NODE1_ID>32951</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCanRovira</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>3.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.193983,41.604453 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29117">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>33405</NODE2_ID>
+          <NODE2_NAME>SPdMValleslona</NODE2_NAME>
+          <KMS>12.909</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.183580,41.520737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41870">
+          <NODE1_ID>44750</NODE1_ID>
+          <NODE1_NAME>CdmMPonsPineda26</NODE1_NAME>
+          <NODE2_ID>8747</NODE2_ID>
+          <NODE2_NAME>LlicaMuntCanXicota</NODE2_NAME>
+          <KMS>5.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.200214,41.633598 2.259386,41.614122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53309">
+          <NODE1_ID>53714</NODE1_ID>
+          <NODE1_NAME>CdmADMarina</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>1.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.177154,41.633294 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60661">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>33490</NODE2_ID>
+          <NODE2_NAME>SERvallbona15</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.201391,41.639357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60662">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>58920</NODE2_ID>
+          <NODE2_NAME>CdmMPonsDiposits-I</NODE2_NAME>
+          <KMS>0</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.197895,41.636469</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60663">
+          <NODE1_ID>17692</NODE1_ID>
+          <NODE1_NAME>RoCanMasponsDeLaVall</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.826</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.206321,41.640391 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62915">
+          <NODE1_ID>38970</NODE1_ID>
+          <NODE1_NAME>BCNhondures33</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>24.045</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.189214,41.420066 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65147">
+          <NODE1_ID>61320</NODE1_ID>
+          <NODE1_NAME>BiRCastellMontbui229</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>3.256</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.182284,41.663341 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65670">
+          <NODE1_ID>62269</NODE1_ID>
+          <NODE1_NAME>BiRRegasol34</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>3.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180747,41.662533 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67393">
+          <NODE1_ID>59873</NODE1_ID>
+          <NODE1_NAME>SERAngels</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>4.36</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.250216,41.635718 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68477">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>15.444</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73000">
+          <NODE1_ID>68313</NODE1_ID>
+          <NODE1_NAME>CdMBonavistes18</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197646,41.636118 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73573">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>68886</NODE2_ID>
+          <NODE2_NAME>BCNCapdevila7</NODE2_NAME>
+          <KMS>25.261</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.188010,41.409145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75071">
+          <NODE1_ID>69145</NODE1_ID>
+          <NODE1_NAME>CdmFiguera64</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>13.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.172706,41.659376 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75854">
+          <NODE1_ID>67541</NODE1_ID>
+          <NODE1_NAME>LFDVPoligon10</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>9.399</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308561,41.620130 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76750">
+          <NODE1_ID>71723</NODE1_ID>
+          <NODE1_NAME>CdMLesVinyes13</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.200216,41.634497 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77139">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>8747</NODE2_ID>
+          <NODE2_NAME>LlicaMuntCanXicota</NODE2_NAME>
+          <KMS>5.694</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.259386,41.614122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77342">
+          <NODE1_ID>8747</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCanXicota</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>5.694</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259386,41.614122 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77699">
+          <NODE1_ID>72450</NODE1_ID>
+          <NODE1_NAME>CdMLaVall43</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.200649,41.635749 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77905">
+          <NODE1_ID>72326</NODE1_ID>
+          <NODE1_NAME>SERVallbona19</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.202023,41.638794 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78637">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>20656</NODE2_ID>
+          <NODE2_NAME>SERCanFont</NODE2_NAME>
+          <KMS>4.017</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.245248,41.643271</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78691">
+          <NODE1_ID>73380</NODE1_ID>
+          <NODE1_NAME>SERABermudez</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.199507,41.640037 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80268">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>74697</NODE2_ID>
+          <NODE2_NAME>BiRPGrande</NODE2_NAME>
+          <KMS>3.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.179379,41.661957</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80284">
+          <NODE1_ID>74699</NODE1_ID>
+          <NODE1_NAME>CDeMNVazquez</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>0.968</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.193419,41.644509 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81279">
+          <NODE1_ID>75389</NODE1_ID>
+          <NODE1_NAME>BiRPJHernandez</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>3.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.177869,41.659516 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121923">
+          <NODE1_ID>75929</NODE1_ID>
+          <NODE1_NAME>BiRPardal1</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>2.779</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.181999,41.658463 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121968">
+          <NODE1_ID>75898</NODE1_ID>
+          <NODE1_NAME>BiRJJPerez</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>3.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.184861,41.662393 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122506">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>76490</NODE2_ID>
+          <NODE2_NAME>BiRJHernandez</NODE2_NAME>
+          <KMS>2.669</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.185740,41.658703</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122585">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>76539</NODE2_ID>
+          <NODE2_NAME>BiRPFenollar</NODE2_NAME>
+          <KMS>2.562</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.184594,41.657265</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123103">
+          <NODE1_ID>8969</NODE1_ID>
+          <NODE1_NAME>CDeMPonsDiposits</NODE1_NAME>
+          <NODE2_ID>56715</NODE2_ID>
+          <NODE2_NAME>BIRPerdiu01</NODE2_NAME>
+          <KMS>3.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197896,41.636467 2.178445,41.660666</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123204">
+          <NODE1_ID>77037</NODE1_ID>
+          <NODE1_NAME>BiRJRosa</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>3.158</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.179784,41.661441 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

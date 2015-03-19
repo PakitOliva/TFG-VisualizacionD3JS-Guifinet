@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.742320</gml:X><gml:Y>41.676013</gml:Y></gml:coord>
+<gml:coord><gml:X>1.849244</gml:X><gml:Y>41.814807</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="37662">
+          <NODE1_ID>41476</NODE1_ID>
+          <NODE1_NAME>SSGPinyot-PereGrau</NODE1_NAME>
+          <NODE2_ID>39986</NODE2_ID>
+          <NODE2_NAME>MNBufalvent</NODE2_NAME>
+          <KMS>5.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.789996,41.685061 1.849244,41.707911</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57496">
+          <NODE1_ID>56680</NODE1_ID>
+          <NODE1_NAME>SAL-OllerMas</NODE1_NAME>
+          <NODE2_ID>39986</NODE2_ID>
+          <NODE2_NAME>MNBufalvent</NODE2_NAME>
+          <KMS>3.853</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.803094,41.705161 1.849244,41.707911</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58792">
+          <NODE1_ID>46413</NODE1_ID>
+          <NODE1_NAME>MNCalCardona</NODE1_NAME>
+          <NODE2_ID>57247</NODE2_ID>
+          <NODE2_NAME>SSGPinsRodons1</NODE2_NAME>
+          <KMS>7.549</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.819203,41.712060 1.742320,41.676013</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63744">
+          <NODE1_ID>61058</NODE1_ID>
+          <NODE1_NAME>SSGAjuntament</NODE1_NAME>
+          <NODE2_ID>46413</NODE2_ID>
+          <NODE2_NAME>MNCalCardona</NODE2_NAME>
+          <KMS>5.705</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767080,41.678715 1.819203,41.712060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63749">
+          <NODE1_ID>61061</NODE1_ID>
+          <NODE1_NAME>SSGEscola</NODE1_NAME>
+          <NODE2_ID>61058</NODE2_ID>
+          <NODE2_NAME>SSGAjuntament</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767765,41.676446 1.767080,41.678715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63750">
+          <NODE1_ID>61060</NODE1_ID>
+          <NODE1_NAME>SSGEscolaBressol</NODE1_NAME>
+          <NODE2_ID>61058</NODE2_ID>
+          <NODE2_NAME>SSGAjuntament</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767325,41.678059 1.767080,41.678715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64331">
+          <NODE1_ID>61058</NODE1_ID>
+          <NODE1_NAME>SSGAjuntament</NODE1_NAME>
+          <NODE2_ID>61059</NODE2_ID>
+          <NODE2_NAME>SSGPoliesportiu</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767080,41.678715 1.768417,41.678418</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64694">
+          <NODE1_ID>61510</NODE1_ID>
+          <NODE1_NAME>SSGSal-NarcisMontu25</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>1.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.791710,41.697288 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64782">
+          <NODE1_ID>61825</NODE1_ID>
+          <NODE1_NAME>SSGEnricdelaSerra</NODE1_NAME>
+          <NODE2_ID>54631</NODE2_ID>
+          <NODE2_NAME>SSGSal-NarcisMont8</NODE2_NAME>
+          <KMS>1.796</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.804786,41.684075 1.792794,41.697518</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64786">
+          <NODE1_ID>61904</NODE1_ID>
+          <NODE1_NAME>SSGSal-JosepUro37N10</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>1.901</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.790088,41.697173 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64918">
+          <NODE1_ID>61996</NODE1_ID>
+          <NODE1_NAME>SSGSal-ArqHoms1</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>2.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.790568,41.700476 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65716">
+          <NODE1_ID>38197</NODE1_ID>
+          <NODE1_NAME>SSGSal-1</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>2.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787961,41.705946 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66177">
+          <NODE1_ID>61825</NODE1_ID>
+          <NODE1_NAME>SSGEnricdelaSerra</NODE1_NAME>
+          <NODE2_ID>61429</NODE2_ID>
+          <NODE2_NAME>SSGSal-Golf</NODE2_NAME>
+          <KMS>2.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.804786,41.684075 1.797755,41.703675</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66426">
+          <NODE1_ID>63135</NODE1_ID>
+          <NODE1_NAME>SSGSalCasaFont</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>2.484</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.784479,41.700462 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66586">
+          <NODE1_ID>63180</NODE1_ID>
+          <NODE1_NAME>SJVPasseigGallifa</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>4.917</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.794469,41.727667 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66771">
+          <NODE1_ID>63377</NODE1_ID>
+          <NODE1_NAME>SSGSal-Ponsa</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>2.807</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.783022,41.703378 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66965">
+          <NODE1_ID>61825</NODE1_ID>
+          <NODE1_NAME>SSGEnricdelaSerra</NODE1_NAME>
+          <NODE2_ID>63588</NODE2_ID>
+          <NODE2_NAME>SSGSal-Soldes</NODE2_NAME>
+          <KMS>2.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.804786,41.684075 1.791548,41.700220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67338">
+          <NODE1_ID>61901</NODE1_ID>
+          <NODE1_NAME>CSTLL9TorrePinedes</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>14.577</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.820187,41.814807 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67946">
+          <NODE1_ID>64322</NODE1_ID>
+          <NODE1_NAME>SSGSal-Edison1</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>1.915</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.793768,41.699214 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69456">
+          <NODE1_ID>56680</NODE1_ID>
+          <NODE1_NAME>SAL-OllerMas</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>2.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.803094,41.705161 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70723">
+          <NODE1_ID>46413</NODE1_ID>
+          <NODE1_NAME>MNCalCardona</NODE1_NAME>
+          <NODE2_ID>54266</NODE2_ID>
+          <NODE2_NAME>SSGPinyotPPla</NODE2_NAME>
+          <KMS>4.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.819203,41.712060 1.789956,41.681550</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70724">
+          <NODE1_ID>46413</NODE1_ID>
+          <NODE1_NAME>MNCalCardona</NODE1_NAME>
+          <NODE2_ID>54266</NODE2_ID>
+          <NODE2_NAME>SSGPinyotPPla</NODE2_NAME>
+          <KMS>4.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.819203,41.712060 1.789956,41.681550</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70725">
+          <NODE1_ID>54266</NODE1_ID>
+          <NODE1_NAME>SSGPinyotPPla</NODE1_NAME>
+          <NODE2_ID>46413</NODE2_ID>
+          <NODE2_NAME>MNCalCardona</NODE2_NAME>
+          <KMS>4.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.789956,41.681550 1.819203,41.712060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70726">
+          <NODE1_ID>46413</NODE1_ID>
+          <NODE1_NAME>MNCalCardona</NODE1_NAME>
+          <NODE2_ID>54266</NODE2_ID>
+          <NODE2_NAME>SSGPinyotPPla</NODE2_NAME>
+          <KMS>4.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.819203,41.712060 1.789956,41.681550</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70728">
+          <NODE1_ID>56133</NODE1_ID>
+          <NODE1_NAME>SSGPinyotJSabater</NODE1_NAME>
+          <NODE2_ID>46413</NODE2_ID>
+          <NODE2_NAME>MNCalCardona</NODE2_NAME>
+          <KMS>4.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.789387,41.682360 1.819203,41.712060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72463">
+          <NODE1_ID>67782</NODE1_ID>
+          <NODE1_NAME>SSGSalMasats</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>2.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.793727,41.702387 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72841">
+          <NODE1_ID>54487</NODE1_ID>
+          <NODE1_NAME>MNAngelGuimera74</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>5.294</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.823034,41.729737 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73721">
+          <NODE1_ID>68659</NODE1_ID>
+          <NODE1_NAME>SSGSalNarMonturiol22</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>1.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.792512,41.697233 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75008">
+          <NODE1_ID>69959</NODE1_ID>
+          <NODE1_NAME>MNCalCuques</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>4.995</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.782882,41.725947 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75312">
+          <NODE1_ID>61058</NODE1_ID>
+          <NODE1_NAME>SSGAjuntament</NODE1_NAME>
+          <NODE2_ID>70106</NODE2_ID>
+          <NODE2_NAME>SSGCamiFabrica</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.767080,41.678715 1.770237,41.682161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75577">
+          <NODE1_ID>62637</NODE1_ID>
+          <NODE1_NAME>CSTLL9Montserrat</NODE1_NAME>
+          <NODE2_ID>53638</NODE2_ID>
+          <NODE2_NAME>SSGPinyotDBelmonte</NODE2_NAME>
+          <KMS>13.552</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.833357,41.799251 1.788883,41.681868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76111">
+          <NODE1_ID>70907</NODE1_ID>
+          <NODE1_NAME>SSGSalLaCabanya</NODE1_NAME>
+          <NODE2_ID>46413</NODE2_ID>
+          <NODE2_NAME>MNCalCardona</NODE2_NAME>
+          <KMS>2.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.793407,41.707029 1.819203,41.712060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78516">
+          <NODE1_ID>61825</NODE1_ID>
+          <NODE1_NAME>SSGEnricdelaSerra</NODE1_NAME>
+          <NODE2_ID>61510</NODE2_ID>
+          <NODE2_NAME>SSGSal-NarcisMontu25</NODE2_NAME>
+          <KMS>1.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.804786,41.684075 1.791710,41.697288</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79827">
+          <NODE1_ID>74333</NODE1_ID>
+          <NODE1_NAME>SSGPinyotR</NODE1_NAME>
+          <NODE2_ID>39986</NODE2_ID>
+          <NODE2_NAME>MNBufalvent</NODE2_NAME>
+          <KMS>5.447</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.789854,41.687325 1.849244,41.707911</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80839">
+          <NODE1_ID>75060</NODE1_ID>
+          <NODE1_NAME>SSGSalMarconi</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>1.814</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.790619,41.696487 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121450">
+          <NODE1_ID>61471</NODE1_ID>
+          <NODE1_NAME>SSGSal-Vinya20</NODE1_NAME>
+          <NODE2_ID>61825</NODE2_ID>
+          <NODE2_NAME>SSGEnricdelaSerra</NODE2_NAME>
+          <KMS>1.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.796321,41.699774 1.804786,41.684075</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122087">
+          <NODE1_ID>76191</NODE1_ID>
+          <NODE1_NAME>SSGMasUrpina</NODE1_NAME>
+          <NODE2_ID>61058</NODE2_ID>
+          <NODE2_NAME>SSGAjuntament</NODE2_NAME>
+          <KMS>1.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.750512,41.677313 1.767080,41.678715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

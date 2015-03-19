@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.025462</gml:X><gml:Y>42.142521</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.070086</gml:X><gml:Y>42.166435</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="21734">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.065459,42.142521</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21734</NODE_ID>
+      <NODE_NAME>VenQuintana</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56592">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.025462,42.147123</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56592</NODE_ID>
+      <NODE_NAME>VenHortdeLaBassa26</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66585">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.070086,42.166435</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66585</NODE_ID>
+      <NODE_NAME>ventallo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70456">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.070082,42.166430</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70456</NODE_ID>
+      <NODE_NAME>ventxiprer15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

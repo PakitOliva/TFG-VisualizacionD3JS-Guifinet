@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.959800</gml:X><gml:Y>42.250303</gml:Y></gml:coord>
+<gml:coord><gml:X>2.983687</gml:X><gml:Y>42.284147</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="22181">
+          <NODE1_ID>27417</NODE1_ID>
+          <NODE1_NAME>VilabertranAbadia12</NODE1_NAME>
+          <NODE2_ID>24649</NODE2_ID>
+          <NODE2_NAME>Vlf-CCLesForques</NODE2_NAME>
+          <KMS>3.932</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.978341,42.282909 2.959800,42.250303</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34434">
+          <NODE1_ID>39207</NODE1_ID>
+          <NODE1_NAME>VlbrtrnPerelada4</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>1.919</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.983687,42.283908 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37018">
+          <NODE1_ID>41257</NODE1_ID>
+          <NODE1_NAME>VlbrtrnJRP60A</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>1.853</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.982317,42.284102 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64617">
+          <NODE1_ID>37318</NODE1_ID>
+          <NODE1_NAME>FgrsVentura</NODE1_NAME>
+          <NODE2_ID>61705</NODE2_ID>
+          <NODE2_NAME>VlbrtrnJRP60C</NODE2_NAME>
+          <KMS>2.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967103,42.269122 2.982426,42.284147</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

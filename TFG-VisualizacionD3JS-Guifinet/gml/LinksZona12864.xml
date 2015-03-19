@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.661650</gml:X><gml:Y>41.419158</gml:Y></gml:coord>
+<gml:coord><gml:X>1.832378</gml:X><gml:Y>41.467168</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="23460">
+          <NODE1_ID>19878</NODE1_ID>
+          <NODE1_NAME>SPR-Ajuntament</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.639</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702087,41.453609 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23595">
+          <NODE1_ID>28791</NODE1_ID>
+          <NODE1_NAME>SPR-Esglesia</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703235,41.453697 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24469">
+          <NODE1_ID>29727</NODE1_ID>
+          <NODE1_NAME>SPR-MireiaR</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700617,41.452564 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25424">
+          <NODE1_ID>19878</NODE1_ID>
+          <NODE1_NAME>SPR-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30693</NODE2_ID>
+          <NODE2_NAME>SPR-MagdalenaE</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702087,41.453609 1.703962,41.451777</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25425">
+          <NODE1_ID>30694</NODE1_ID>
+          <NODE1_NAME>SPR-AngelsS</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702386,41.454238 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25431">
+          <NODE1_ID>19878</NODE1_ID>
+          <NODE1_NAME>SPR-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30703</NODE2_ID>
+          <NODE2_NAME>SPR-LaiaR</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702087,41.453609 1.703962,41.450947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25478">
+          <NODE1_ID>30750</NODE1_ID>
+          <NODE1_NAME>SPR-JordiG</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706963,41.447154 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25553">
+          <NODE1_ID>19878</NODE1_ID>
+          <NODE1_NAME>SPR-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30462</NODE2_ID>
+          <NODE2_NAME>SPR-MerceQ</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702087,41.453609 1.702965,41.450489</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25593">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>29777</NODE2_ID>
+          <NODE2_NAME>SPR-JosepS</NODE2_NAME>
+          <KMS>0.577</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.702988,41.451955</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26133">
+          <NODE1_ID>31547</NODE1_ID>
+          <NODE1_NAME>SPR-AnnaR</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703846,41.455370 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26913">
+          <NODE1_ID>32248</NODE1_ID>
+          <NODE1_NAME>SPR-JosefaG</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.259</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703122,41.455805 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26952">
+          <NODE1_ID>32277</NODE1_ID>
+          <NODE1_NAME>SPR-MontseM</NODE1_NAME>
+          <NODE2_ID>28791</NODE2_ID>
+          <NODE2_NAME>SPR-Esglesia</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.704104,41.452971 1.703235,41.453697</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27167">
+          <NODE1_ID>32504</NODE1_ID>
+          <NODE1_NAME>SPR-MarcoA</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.761</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706561,41.447644 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28101">
+          <NODE1_ID>33399</NODE1_ID>
+          <NODE1_NAME>SPR-DavidT</NODE1_NAME>
+          <NODE2_ID>28791</NODE2_ID>
+          <NODE2_NAME>SPR-Esglesia</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702697,41.454266 1.703235,41.453697</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29008">
+          <NODE1_ID>34280</NODE1_ID>
+          <NODE1_NAME>SPR-GregorioR</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705585,41.447297 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29197">
+          <NODE1_ID>19878</NODE1_ID>
+          <NODE1_NAME>SPR-Ajuntament</NODE1_NAME>
+          <NODE2_ID>34536</NODE2_ID>
+          <NODE2_NAME>SPR-AndresC</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702087,41.453609 1.700649,41.454305</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29583">
+          <NODE1_ID>34890</NODE1_ID>
+          <NODE1_NAME>SPR-ElMustapha</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.8</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701269,41.455748 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31498">
+          <NODE1_ID>36579</NODE1_ID>
+          <NODE1_NAME>SPR-AntoniJ</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.751</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705877,41.447920 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32110">
+          <NODE1_ID>37147</NODE1_ID>
+          <NODE1_NAME>SPR-Llarinfants</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.453</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701667,41.451428 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33280">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>3.564</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34022">
+          <NODE1_ID>38914</NODE1_ID>
+          <NODE1_NAME>SPR-MaElenaG</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700251,41.452624 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34243">
+          <NODE1_ID>39013</NODE1_ID>
+          <NODE1_NAME>SPR-MonicaN</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.225</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.704595,41.452883 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34877">
+          <NODE1_ID>38654</NODE1_ID>
+          <NODE1_NAME>SQM-PouAigua</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>1.455</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.684218,41.458123 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36123">
+          <NODE1_ID>40544</NODE1_ID>
+          <NODE1_NAME>SPR-ElenaM</NODE1_NAME>
+          <NODE2_ID>28791</NODE2_ID>
+          <NODE2_NAME>SPR-Esglesia</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702811,41.453775 1.703235,41.453697</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38285">
+          <NODE1_ID>39123</NODE1_ID>
+          <NODE1_NAME>SPR-IsaacR</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.669</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705067,41.449577 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40375">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>30198</NODE2_ID>
+          <NODE2_NAME>SPR-MiaMontse</NODE2_NAME>
+          <KMS>0.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.704941,41.450008</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41392">
+          <NODE1_ID>31707</NODE1_ID>
+          <NODE1_NAME>SPR-LLuisR</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.711</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705542,41.449832 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42110">
+          <NODE1_ID>45402</NODE1_ID>
+          <NODE1_NAME>SPR-DanielS</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705053,41.453076 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42727">
+          <NODE1_ID>45911</NODE1_ID>
+          <NODE1_NAME>SPR-MariaC</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701854,41.453880 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44864">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>33581</NODE2_ID>
+          <NODE2_NAME>SPR-TeresaB</NODE2_NAME>
+          <KMS>0.702</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.704740,41.451847</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49476">
+          <NODE1_ID>28791</NODE1_ID>
+          <NODE1_NAME>SPR-Esglesia</NODE1_NAME>
+          <NODE2_ID>50488</NODE2_ID>
+          <NODE2_NAME>SPRjoanaltet18</NODE2_NAME>
+          <KMS>0.184</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703235,41.453697 1.704422,41.455095</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51503">
+          <NODE1_ID>52405</NODE1_ID>
+          <NODE1_NAME>SPR-RogerF</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.624</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701164,41.453969 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56640">
+          <NODE1_ID>55993</NODE1_ID>
+          <NODE1_NAME>SPR-JoseZamora</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.791</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705437,41.452597 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56696">
+          <NODE1_ID>43208</NODE1_ID>
+          <NODE1_NAME>SPR-AssumptaC</NODE1_NAME>
+          <NODE2_ID>19878</NODE2_ID>
+          <NODE2_NAME>SPR-Ajuntament</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702090,41.452537 1.702087,41.453609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57626">
+          <NODE1_ID>56759</NODE1_ID>
+          <NODE1_NAME>SUB-MonicaS</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>11.794</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.832378,41.419158 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61650">
+          <NODE1_ID>59561</NODE1_ID>
+          <NODE1_NAME>SPR-MartaM</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.844</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702599,41.455633 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61697">
+          <NODE1_ID>31396</NODE1_ID>
+          <NODE1_NAME>SPR-ManuelB</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.700606,41.451786 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61699">
+          <NODE1_ID>36436</NODE1_ID>
+          <NODE1_NAME>SPR-MarcLL</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.841</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706869,41.447574 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62656">
+          <NODE1_ID>51868</NODE1_ID>
+          <NODE1_NAME>SPR-MMarti</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.712</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705574,41.449676 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62764">
+          <NODE1_ID>60391</NODE1_ID>
+          <NODE1_NAME>SPR-AmtoniLL</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.802</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706374,41.447513 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63428">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>31137</NODE2_ID>
+          <NODE2_NAME>SPR-MerceR</NODE2_NAME>
+          <KMS>0.624</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.704493,41.449826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64375">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>61565</NODE2_ID>
+          <NODE2_NAME>SPR-NuriaC</NODE2_NAME>
+          <KMS>1.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.702771,41.457635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64435">
+          <NODE1_ID>61630</NODE1_ID>
+          <NODE1_NAME>SPR-Poliesportiu</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.174</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.699131,41.449095 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64555">
+          <NODE1_ID>61710</NODE1_ID>
+          <NODE1_NAME>SP-GemmaM</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.824</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706605,41.447401 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64880">
+          <NODE1_ID>61986</NODE1_ID>
+          <NODE1_NAME>SPR-MAngelsH</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.798</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706129,41.447009 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66000">
+          <NODE1_ID>62858</NODE1_ID>
+          <NODE1_NAME>SP-XavierF</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.608</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.704315,41.449789 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70651">
+          <NODE1_ID>63832</NODE1_ID>
+          <NODE1_NAME>SPR-EscolaEstel</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703285,41.453541 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71201">
+          <NODE1_ID>49365</NODE1_ID>
+          <NODE1_NAME>SPR-CeliaB</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.624</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.704335,41.447978 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71202">
+          <NODE1_ID>66742</NODE1_ID>
+          <NODE1_NAME>SPR-DomenechF</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.655</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.704844,41.448551 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71204">
+          <NODE1_ID>66743</NODE1_ID>
+          <NODE1_NAME>SPR-AlexandraP</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.676</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703846,41.452591 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73088">
+          <NODE1_ID>37671</NODE1_ID>
+          <NODE1_NAME>SPR-JoanR</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.906</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.703741,41.455698 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74721">
+          <NODE1_ID>69557</NODE1_ID>
+          <NODE1_NAME>SPR-DavidMB</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>1.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.691190,41.458473 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77918">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>34791</NODE2_ID>
+          <NODE2_NAME>SPR-CarlesS</NODE2_NAME>
+          <KMS>0.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.705252,41.452150</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79112">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>66740</NODE2_ID>
+          <NODE2_NAME>TLV-Diposit</NODE2_NAME>
+          <KMS>2.674</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.728520,41.453715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79559">
+          <NODE1_ID>36915</NODE1_ID>
+          <NODE1_NAME>SPR-MontseF</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>1.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706380,41.456193 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80807">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>30914</NODE2_ID>
+          <NODE2_NAME>SPR-JudithR</NODE2_NAME>
+          <KMS>0.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.704099,41.451130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80915">
+          <NODE1_ID>75115</NODE1_ID>
+          <NODE1_NAME>SP-AnaLC</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>1.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706070,41.456050 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81208">
+          <NODE1_ID>37021</NODE1_ID>
+          <NODE1_NAME>SPR-JosepC</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.678</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705123,41.449998 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121575">
+          <NODE1_ID>75829</NODE1_ID>
+          <NODE1_NAME>SP-RamonRC</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.704256,41.447678 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121914">
+          <NODE1_ID>43577</NODE1_ID>
+          <NODE1_NAME>SPR-SegundoP</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.728</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.705062,41.451873 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122792">
+          <NODE1_ID>76687</NODE1_ID>
+          <NODE1_NAME>SPR-MontserratBS</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702670,41.454080 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122802">
+          <NODE1_ID>73374</NODE1_ID>
+          <NODE1_NAME>SPR-RobertMM</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>2.864</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.726200,41.462857 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122827">
+          <NODE1_ID>76714</NODE1_ID>
+          <NODE1_NAME>SPR-CartronatgesRO</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.699888,41.451979 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123675">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>46598</NODE2_ID>
+          <NODE2_NAME>SPR-CarmeM</NODE2_NAME>
+          <KMS>0.69</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.704815,41.447125</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

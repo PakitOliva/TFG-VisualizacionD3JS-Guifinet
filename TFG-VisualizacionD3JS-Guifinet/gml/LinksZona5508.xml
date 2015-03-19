@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.061248</gml:X><gml:Y>41.853904</gml:Y></gml:coord>
+<gml:coord><gml:X>2.298243</gml:X><gml:Y>42.007495</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="4571">
+          <NODE1_ID>2231</NODE1_ID>
+          <NODE1_NAME>TonaCastell</NODE1_NAME>
+          <NODE2_ID>2743</NODE2_ID>
+          <NODE2_NAME>MunterLaFabrega</NODE2_NAME>
+          <KMS>2.987</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.224624,41.853904 2.207002,41.877348</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="4831">
+          <NODE1_ID>2743</NODE1_ID>
+          <NODE1_NAME>MunterLaFabrega</NODE1_NAME>
+          <NODE2_ID>4210</NODE2_ID>
+          <NODE2_NAME>TonaElPla</NODE2_NAME>
+          <KMS>1.557</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.207002,41.877348 2.221646,41.868584</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6283">
+          <NODE1_ID>7387</NODE1_ID>
+          <NODE1_NAME>MuntanyolaMontse</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.182748,41.873696 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6478">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>9009</NODE2_ID>
+          <NODE2_NAME>MuntanyolaEnric</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.182457,41.872625</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6798">
+          <NODE1_ID>9630</NODE1_ID>
+          <NODE1_NAME>MuntanyolaLluis</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.603</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180486,41.857664 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6906">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>7016</NODE2_ID>
+          <NODE2_NAME>MuntanyolaArnau</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.186144,41.870324</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7285">
+          <NODE1_ID>10351</NODE1_ID>
+          <NODE1_NAME>MuntanyolaPovedano</NODE1_NAME>
+          <NODE2_ID>2231</NODE2_ID>
+          <NODE2_NAME>TonaCastell</NODE2_NAME>
+          <KMS>3.3</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.187325,41.864175 2.224624,41.853904</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7582">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>10614</NODE2_ID>
+          <NODE2_NAME>MuntanyolaJoanR</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.186011,41.870033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8938">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>12439</NODE2_ID>
+          <NODE2_NAME>MuntanyolaCarme</NODE2_NAME>
+          <KMS>0.482</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.187878,41.869311</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9183">
+          <NODE1_ID>11639</NODE1_ID>
+          <NODE1_NAME>MuntanyolaAlsina</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.576</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180079,41.857957 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9643">
+          <NODE1_ID>13319</NODE1_ID>
+          <NODE1_NAME>MuntanyolaCarles</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.788</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.181746,41.855890 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10753">
+          <NODE1_ID>14390</NODE1_ID>
+          <NODE1_NAME>MuntanyolaVilavendre</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.171524,41.867413 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11292">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>15232</NODE2_ID>
+          <NODE2_NAME>TarAnt</NODE2_NAME>
+          <KMS>8.943</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.290678,41.865867</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12936">
+          <NODE1_ID>16191</NODE1_ID>
+          <NODE1_NAME>Muntercasadeleseres</NODE1_NAME>
+          <NODE2_ID>4833</NODE2_ID>
+          <NODE2_NAME>MallaLaRoca</NODE2_NAME>
+          <KMS>1.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.222041,41.879631 2.221744,41.889363</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13342">
+          <NODE1_ID>17504</NODE1_ID>
+          <NODE1_NAME>MuntanyolaOrtiz</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.743</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.176521,41.857091 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13419">
+          <NODE1_ID>17445</NODE1_ID>
+          <NODE1_NAME>MuntanyolaDavid</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.179513,41.858489 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13621">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>17862</NODE2_ID>
+          <NODE2_NAME>MuntanyolaRubenCassa</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.183388,41.873779</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14698">
+          <NODE1_ID>19105</NODE1_ID>
+          <NODE1_NAME>MuntanyolaRosaMP</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.182868,41.873321 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15263">
+          <NODE1_ID>19847</NODE1_ID>
+          <NODE1_NAME>MuntanyolaMiquelC</NODE1_NAME>
+          <NODE2_ID>8520</NODE2_ID>
+          <NODE2_NAME>SERAntenes</NODE2_NAME>
+          <KMS>2.286</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.177578,41.896850 2.187375,41.916090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17011">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>21600</NODE2_ID>
+          <NODE2_NAME>MuntanyolaCastella</NODE2_NAME>
+          <KMS>1.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.177943,41.857285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17100">
+          <NODE1_ID>21633</NODE1_ID>
+          <NODE1_NAME>MuntanyolaMireia</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.487</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.188296,41.869697 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17182">
+          <NODE1_ID>19586</NODE1_ID>
+          <NODE1_NAME>MuntanyolaPVila</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.182417,41.871807 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17809">
+          <NODE1_ID>22358</NODE1_ID>
+          <NODE1_NAME>Muntanyolaxevi</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.177079,41.863399 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17921">
+          <NODE1_ID>22479</NODE1_ID>
+          <NODE1_NAME>MuntanyolaQuim</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.853</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180577,41.855390 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18024">
+          <NODE1_ID>22607</NODE1_ID>
+          <NODE1_NAME>MuntanyolaJMartinez</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.177578,41.855950 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22478">
+          <NODE1_ID>24101</NODE1_ID>
+          <NODE1_NAME>munterElpuig</NODE1_NAME>
+          <NODE2_ID>2743</NODE2_ID>
+          <NODE2_NAME>MunterLaFabrega</NODE2_NAME>
+          <KMS>0.603</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.211082,41.872858 2.207002,41.877348</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22600">
+          <NODE1_ID>27830</NODE1_ID>
+          <NODE1_NAME>MuntanyolaMari</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.185602,41.869746 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23482">
+          <NODE1_ID>28651</NODE1_ID>
+          <NODE1_NAME>MuntanyolaPerdaltes</NODE1_NAME>
+          <NODE2_ID>7702</NODE2_ID>
+          <NODE2_NAME>OristaDip</NODE2_NAME>
+          <KMS>4.492</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110673,41.918335 2.061248,41.934862</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24720">
+          <NODE1_ID>29951</NODE1_ID>
+          <NODE1_NAME>MunColl521</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.714</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.176192,41.857448 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26053">
+          <NODE1_ID>29427</NODE1_ID>
+          <NODE1_NAME>MuntanyolaJPeso</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.184879,41.868183 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26124">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>11594</NODE2_ID>
+          <NODE2_NAME>MuntanyolaPereB</NODE2_NAME>
+          <KMS>1.619</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.175842,41.858466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26778">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>32097</NODE2_ID>
+          <NODE2_NAME>MuntanyolaSPeso</NODE2_NAME>
+          <KMS>0.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.185947,41.869430</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38857">
+          <NODE1_ID>42671</NODE1_ID>
+          <NODE1_NAME>MunterColomer</NODE1_NAME>
+          <NODE2_ID>2743</NODE2_ID>
+          <NODE2_NAME>MunterLaFabrega</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.208204,41.879027 2.207002,41.877348</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40937">
+          <NODE1_ID>5721</NODE1_ID>
+          <NODE1_NAME>MuntanyolMMatavaques</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.885</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.178630,41.855334 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42902">
+          <NODE1_ID>45745</NODE1_ID>
+          <NODE1_NAME>MuntanyolaAnna</NODE1_NAME>
+          <NODE2_ID>8520</NODE2_ID>
+          <NODE2_NAME>SERAntenes</NODE2_NAME>
+          <KMS>4.606</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180985,41.874898 2.187375,41.916090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50946">
+          <NODE1_ID>52021</NODE1_ID>
+          <NODE1_NAME>MuntanyolaMiquelP</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.184874,41.872164 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57975">
+          <NODE1_ID>2231</NODE1_ID>
+          <NODE1_NAME>TonaCastell</NODE1_NAME>
+          <NODE2_ID>56984</NODE2_ID>
+          <NODE2_NAME>MunterLaSerra</NODE2_NAME>
+          <KMS>3.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.224624,41.853904 2.216696,41.883613</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60423">
+          <NODE1_ID>58692</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTino</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>0.453</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.179306,41.874750 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63443">
+          <NODE1_ID>14343</NODE1_ID>
+          <NODE1_NAME>MunterLaFabrega2</NODE1_NAME>
+          <NODE2_ID>2231</NODE2_ID>
+          <NODE2_NAME>TonaCastell</NODE2_NAME>
+          <KMS>2.977</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.206944,41.877222 2.224624,41.853904</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65454">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>62464</NODE2_ID>
+          <NODE2_NAME>MuntanyolaJOSE1</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.184874,41.871744</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67899">
+          <NODE1_ID>64194</NODE1_ID>
+          <NODE1_NAME>MuntanyolaNord43</NODE1_NAME>
+          <NODE2_ID>43192</NODE2_ID>
+          <NODE2_NAME>ManlleuSerratDelMunt</NODE2_NAME>
+          <KMS>18.248</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165418,41.859939 2.278491,42.000874</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70197">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>65996</NODE2_ID>
+          <NODE2_NAME>MuntCollsuspina562</NODE2_NAME>
+          <KMS>1.608</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.176667,41.858333</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70786">
+          <NODE1_ID>17786</NODE1_ID>
+          <NODE1_NAME>MunterLluis</NODE1_NAME>
+          <NODE2_ID>4833</NODE2_ID>
+          <NODE2_NAME>MallaLaRoca</NODE2_NAME>
+          <KMS>0.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.215419,41.883876 2.221744,41.889363</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72134">
+          <NODE1_ID>67530</NODE1_ID>
+          <NODE1_NAME>MuntanyolaMSerra</NODE1_NAME>
+          <NODE2_ID>8520</NODE2_ID>
+          <NODE2_NAME>SERAntenes</NODE2_NAME>
+          <KMS>2.797</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.184183,41.891020 2.187375,41.916090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121424">
+          <NODE1_ID>74191</NODE1_ID>
+          <NODE1_NAME>MuntaPuigSaurina</NODE1_NAME>
+          <NODE2_ID>68805</NODE2_ID>
+          <NODE2_NAME>ManlleuLogway2007</NODE2_NAME>
+          <KMS>18.856</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.162042,41.871559 2.298243,42.007495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122020">
+          <NODE1_ID>16066</NODE1_ID>
+          <NODE1_NAME>MuntanyolaVila</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.179686,41.857973 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122022">
+          <NODE1_ID>20937</NODE1_ID>
+          <NODE1_NAME>MuntanyolaVilafortCa</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.733</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180625,41.856473 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122023">
+          <NODE1_ID>42649</NODE1_ID>
+          <NODE1_NAME>MuntanyolaJEsposa</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.705</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180185,41.856773 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122024">
+          <NODE1_ID>52896</NODE1_ID>
+          <NODE1_NAME>MuntanyolaGerard</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.368</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175334,41.861148 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122025">
+          <NODE1_ID>56804</NODE1_ID>
+          <NODE1_NAME>MuntanyolaSerrabassa</NODE1_NAME>
+          <NODE2_ID>6827</NODE2_ID>
+          <NODE2_NAME>MuntanyolaTelecentre</NODE2_NAME>
+          <KMS>1.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.178986,41.858143 2.183267,41.871948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122775">
+          <NODE1_ID>6827</NODE1_ID>
+          <NODE1_NAME>MuntanyolaTelecentre</NODE1_NAME>
+          <NODE2_ID>76074</NODE2_ID>
+          <NODE2_NAME>MuntanyolaGeorgina</NODE2_NAME>
+          <KMS>1.772</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183267,41.871948 2.177436,41.856605</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

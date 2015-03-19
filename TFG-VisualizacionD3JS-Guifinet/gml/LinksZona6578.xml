@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.151067</gml:X><gml:Y>41.542001</gml:Y></gml:coord>
+<gml:coord><gml:X>2.298301</gml:X><gml:Y>41.703229</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="46686">
+          <NODE1_ID>6576</NODE1_ID>
+          <NODE1_NAME>SFelDCjvilac</NODE1_NAME>
+          <NODE2_ID>48772</NODE2_ID>
+          <NODE2_NAME>SFelDCcanBarber</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.166456,41.687839 2.163979,41.686610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46769">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>0.171</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46770">
+          <NODE1_ID>48826</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVellbis</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165154,41.688850 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46771">
+          <NODE1_ID>48826</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVellbis</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165154,41.688850 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49657">
+          <NODE1_ID>49134</NODE1_ID>
+          <NODE1_NAME>SFelDCTravessia12</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163863,41.687952 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51169">
+          <NODE1_ID>8747</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCanXicota</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>11.438</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259386,41.614122 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54357">
+          <NODE1_ID>39625</NODE1_ID>
+          <NODE1_NAME>SFelDCSantoDomingo</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.158914,41.691244 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54527">
+          <NODE1_ID>36982</NODE1_ID>
+          <NODE1_NAME>SFelDConacodinenca</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160562,41.689170 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55042">
+          <NODE1_ID>53935</NODE1_ID>
+          <NODE1_NAME>SFelDCSaviaDesign</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.162069,41.690183 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56035">
+          <NODE1_ID>54666</NODE1_ID>
+          <NODE1_NAME>SFelDCjvilac-bis</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.166495,41.688024 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56042">
+          <NODE1_ID>37083</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanes</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>1.252</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151223,41.684810 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56048">
+          <NODE1_ID>51677</NODE1_ID>
+          <NODE1_NAME>SFelDCJosepPla8</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163015,41.690925 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56050">
+          <NODE1_ID>53805</NODE1_ID>
+          <NODE1_NAME>SFelDCSantCliment11</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.201</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163219,41.690818 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56051">
+          <NODE1_ID>54455</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanesbis</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151067,41.684763 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56129">
+          <NODE1_ID>53448</NODE1_ID>
+          <NODE1_NAME>SFelDCCimdAligues</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>2.171</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.173579,41.694875 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56180">
+          <NODE1_ID>45628</NODE1_ID>
+          <NODE1_NAME>SFelDCcanpinya</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163067,41.683121 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56369">
+          <NODE1_ID>53661</NODE1_ID>
+          <NODE1_NAME>SFelDCAmargura1</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.371</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165652,41.690757 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56447">
+          <NODE1_ID>55843</NODE1_ID>
+          <NODE1_NAME>SFelDCEstric26</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164238,41.690444 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57434">
+          <NODE1_ID>56632</NODE1_ID>
+          <NODE1_NAME>SFelDCTravessia14</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.177</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163738,41.687850 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57588">
+          <NODE1_ID>56733</NODE1_ID>
+          <NODE1_NAME>SFelDCsantpau</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164071,41.689176 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59471">
+          <NODE1_ID>37083</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanes</NODE1_NAME>
+          <NODE2_ID>45556</NODE2_ID>
+          <NODE2_NAME>SFelDCpompeufabra11</NODE2_NAME>
+          <KMS>0.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151223,41.684810 2.159656,41.685172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59473">
+          <NODE1_ID>57490</NODE1_ID>
+          <NODE1_NAME>SFelDCSantAntoni17</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165876,41.689892 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60435">
+          <NODE1_ID>57889</NODE1_ID>
+          <NODE1_NAME>SFelDCPlSagrera</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.858</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160712,41.687816 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64087">
+          <NODE1_ID>61158</NODE1_ID>
+          <NODE1_NAME>SFelDCDrAReig10</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.007</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.162896,41.687191 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64088">
+          <NODE1_ID>61279</NODE1_ID>
+          <NODE1_NAME>SFelDCLlorArt35</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.987</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159490,41.691181 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64434">
+          <NODE1_ID>37083</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanes</NODE1_NAME>
+          <NODE2_ID>61479</NODE2_ID>
+          <NODE2_NAME>SFelDCEsquirol25</NODE2_NAME>
+          <KMS>1.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151223,41.684810 2.163457,41.690599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64675">
+          <NODE1_ID>61820</NODE1_ID>
+          <NODE1_NAME>SFelDCEsquirol70</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164950,41.691908 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65244">
+          <NODE1_ID>60251</NODE1_ID>
+          <NODE1_NAME>SFelDCAtletic</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151083,41.683909 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65290">
+          <NODE1_ID>62347</NODE1_ID>
+          <NODE1_NAME>SFelDCOnzeSetembre7</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165209,41.687068 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65291">
+          <NODE1_ID>62348</NODE1_ID>
+          <NODE1_NAME>SFelDCLesRoques0</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.598</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159213,41.692044 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65293">
+          <NODE1_ID>62349</NODE1_ID>
+          <NODE1_NAME>SFelDCSantJoan0</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163630,41.686033 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65791">
+          <NODE1_ID>58656</NODE1_ID>
+          <NODE1_NAME>SFelDCAgustiSCruz105</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163298,41.682496 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66736">
+          <NODE1_ID>37083</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanes</NODE1_NAME>
+          <NODE2_ID>59098</NODE2_ID>
+          <NODE2_NAME>BiRMirador</NODE2_NAME>
+          <KMS>4.625</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151223,41.684810 2.205216,41.694610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67715">
+          <NODE1_ID>64203</NODE1_ID>
+          <NODE1_NAME>BiRANavas</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>1.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.170155,41.676910 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68036">
+          <NODE1_ID>59098</NODE1_ID>
+          <NODE1_NAME>BiRMirador</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.866</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.205216,41.694610 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70227">
+          <NODE1_ID>64299</NODE1_ID>
+          <NODE1_NAME>SFelDCSantJoan39-2</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163872,41.686582 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70653">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>66305</NODE2_ID>
+          <NODE2_NAME>SFelDCJVallcorba</NODE2_NAME>
+          <KMS>0.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.158104,41.690622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71119">
+          <NODE1_ID>64442</NODE1_ID>
+          <NODE1_NAME>BiRVallBlanca</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>2.075</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.200785,41.703229 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71558">
+          <NODE1_ID>54455</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanesbis</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151067,41.684763 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71563">
+          <NODE1_ID>62547</NODE1_ID>
+          <NODE1_NAME>BiRNGumila</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.321</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197089,41.696078 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71567">
+          <NODE1_ID>23906</NODE1_ID>
+          <NODE1_NAME>SFelDCbarcelona54</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.974</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.162649,41.682919 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71621">
+          <NODE1_ID>61319</NODE1_ID>
+          <NODE1_NAME>SFelDCDrFleming25</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165173,41.679697 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71682">
+          <NODE1_ID>67145</NODE1_ID>
+          <NODE1_NAME>BiRRPla</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.573</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198344,41.698602 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71692">
+          <NODE1_ID>67154</NODE1_ID>
+          <NODE1_NAME>BiRPCano</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.196120,41.697044 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71841">
+          <NODE1_ID>67265</NODE1_ID>
+          <NODE1_NAME>BiRMPeiro</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.187248,41.690110 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71843">
+          <NODE1_ID>67267</NODE1_ID>
+          <NODE1_NAME>BiRRCapdevila</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198687,41.694070 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71844">
+          <NODE1_ID>67269</NODE1_ID>
+          <NODE1_NAME>BiRCAlsina</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.941</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.205991,41.694995 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71881">
+          <NODE1_ID>67304</NODE1_ID>
+          <NODE1_NAME>BiRPAlba</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.202027,41.698371 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71882">
+          <NODE1_ID>61673</NODE1_ID>
+          <NODE1_NAME>BiRERoca</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.677</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.199961,41.698583 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71883">
+          <NODE1_ID>67306</NODE1_ID>
+          <NODE1_NAME>BiRXLavilla</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198363,41.698354 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71989">
+          <NODE1_ID>64376</NODE1_ID>
+          <NODE1_NAME>SFelDCRaco</NODE1_NAME>
+          <NODE2_ID>61706</NODE2_ID>
+          <NODE2_NAME>BiRNewCamp</NODE2_NAME>
+          <KMS>1.94</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183847,41.689524 2.205032,41.696809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71990">
+          <NODE1_ID>64376</NODE1_ID>
+          <NODE1_NAME>SFelDCRaco</NODE1_NAME>
+          <NODE2_ID>67409</NODE2_ID>
+          <NODE2_NAME>BiRYCires</NODE2_NAME>
+          <KMS>1.929</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183847,41.689524 2.205520,41.695675</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72169">
+          <NODE1_ID>67558</NODE1_ID>
+          <NODE1_NAME>BiRConta99Ofi</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.566</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198403,41.698452 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72173">
+          <NODE1_ID>67561</NODE1_ID>
+          <NODE1_NAME>BiRConta99Casa</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.731</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.200822,41.698525 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72195">
+          <NODE1_ID>67572</NODE1_ID>
+          <NODE1_NAME>BiRICarreas</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.704</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.200234,41.698723 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72473">
+          <NODE1_ID>67788</NODE1_ID>
+          <NODE1_NAME>BiRMAlemany</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.196488,41.695112 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72478">
+          <NODE1_ID>67790</NODE1_ID>
+          <NODE1_NAME>BiRDFeijen</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.762</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.201579,41.698191 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72658">
+          <NODE1_ID>67766</NODE1_ID>
+          <NODE1_NAME>SFelDCPompeuFabra1</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.894</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.161946,41.685169 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72848">
+          <NODE1_ID>64376</NODE1_ID>
+          <NODE1_NAME>SFelDCRaco</NODE1_NAME>
+          <NODE2_ID>68136</NODE2_ID>
+          <NODE2_NAME>BiRJGarrido</NODE2_NAME>
+          <KMS>1.965</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183847,41.689524 2.204194,41.698490</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72849">
+          <NODE1_ID>68137</NODE1_ID>
+          <NODE1_NAME>BiRJBaules</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.203400,41.697844 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72932">
+          <NODE1_ID>60785</NODE1_ID>
+          <NODE1_NAME>BiRJSilva</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>2.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.204679,41.698536 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73032">
+          <NODE1_ID>68355</NODE1_ID>
+          <NODE1_NAME>BiRGValldosera</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.928</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198887,41.702724 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73034">
+          <NODE1_ID>67727</NODE1_ID>
+          <NODE1_NAME>SFelDCAmargura12</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.166114,41.690839 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73058">
+          <NODE1_ID>68368</NODE1_ID>
+          <NODE1_NAME>BiRMReinon</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.83</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.202868,41.697778 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73060">
+          <NODE1_ID>68370</NODE1_ID>
+          <NODE1_NAME>BiRVictor</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.199121,41.693366 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73293">
+          <NODE1_ID>68680</NODE1_ID>
+          <NODE1_NAME>BiRMRibera</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>2.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.205108,41.698493 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73368">
+          <NODE1_ID>68741</NODE1_ID>
+          <NODE1_NAME>BiRTCabello</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.896</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.205012,41.695821 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73459">
+          <NODE1_ID>68584</NODE1_ID>
+          <NODE1_NAME>SFelDCSantJoan11</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164749,41.687798 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73460">
+          <NODE1_ID>44595</NODE1_ID>
+          <NODE1_NAME>SFelDCSantJoan39</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.286</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163981,41.686611 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73671">
+          <NODE1_ID>69000</NODE1_ID>
+          <NODE1_NAME>BiRELopez</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.952</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.204172,41.698289 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74010">
+          <NODE1_ID>69041</NODE1_ID>
+          <NODE1_NAME>BiRERuiz</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.843</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.199032,41.701597 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74098">
+          <NODE1_ID>69320</NODE1_ID>
+          <NODE1_NAME>BiRFCarrete</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.856</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.203500,41.697422 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74100">
+          <NODE1_ID>69322</NODE1_ID>
+          <NODE1_NAME>BiRJSimon</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.196075,41.696265 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74175">
+          <NODE1_ID>37083</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanes</NODE1_NAME>
+          <NODE2_ID>67739</NODE2_ID>
+          <NODE2_NAME>SFelDCCanPanxa</NODE2_NAME>
+          <KMS>1.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151223,41.684810 2.167327,41.688783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74332">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>69442</NODE2_ID>
+          <NODE2_NAME>SFelDCcreus25</NODE2_NAME>
+          <KMS>0.171</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.163433,41.689860</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74465">
+          <NODE1_ID>63648</NODE1_ID>
+          <NODE1_NAME>SFelDCCamiLloberes0</NODE1_NAME>
+          <NODE2_ID>59098</NODE2_ID>
+          <NODE2_NAME>BiRMirador</NODE2_NAME>
+          <KMS>2.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180314,41.691213 2.205216,41.694610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75047">
+          <NODE1_ID>69988</NODE1_ID>
+          <NODE1_NAME>SFelDCLlevant17</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.823</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160274,41.687791 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75145">
+          <NODE1_ID>70072</NODE1_ID>
+          <NODE1_NAME>BiRPJoan</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.529</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198870,41.697438 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75146">
+          <NODE1_ID>70069</NODE1_ID>
+          <NODE1_NAME>BiRJNavarro</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.59</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197815,41.699288 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75244">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>44595</NODE2_ID>
+          <NODE2_NAME>SFelDCSantJoan39</NODE2_NAME>
+          <KMS>0.286</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.163981,41.686611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75349">
+          <NODE1_ID>67566</NODE1_ID>
+          <NODE1_NAME>SFelDCbarcelona50</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>0.974</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.162687,41.683070 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75774">
+          <NODE1_ID>70558</NODE1_ID>
+          <NODE1_NAME>SFelDCLaTrufa</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.794</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164859,41.697319 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76180">
+          <NODE1_ID>70967</NODE1_ID>
+          <NODE1_NAME>BIRCamiCQLaura</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.203442,41.697562 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76621">
+          <NODE1_ID>71481</NODE1_ID>
+          <NODE1_NAME>SFelDCAgustiStaCruz3</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163586,41.687126 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76997">
+          <NODE1_ID>61238</NODE1_ID>
+          <NODE1_NAME>SFelDCCinglesBerti8</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.594</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159062,41.691809 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77409">
+          <NODE1_ID>37083</NODE1_ID>
+          <NODE1_NAME>SFelDCsolanes</NODE1_NAME>
+          <NODE2_ID>72121</NODE2_ID>
+          <NODE2_NAME>SFelDCDrFleming23</NODE2_NAME>
+          <KMS>1.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151223,41.684810 2.165414,41.679633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77462">
+          <NODE1_ID>70403</NODE1_ID>
+          <NODE1_NAME>BiRurgell40</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>2.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.171697,41.674420 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77800">
+          <NODE1_ID>72706</NODE1_ID>
+          <NODE1_NAME>BiRLChristophe</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.838</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.204344,41.695665 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77832">
+          <NODE1_ID>72707</NODE1_ID>
+          <NODE1_NAME>BiRMVila</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.922</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.203800,41.698231 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77858">
+          <NODE1_ID>64203</NODE1_ID>
+          <NODE1_NAME>BiRANavas</NODE1_NAME>
+          <NODE2_ID>6576</NODE2_ID>
+          <NODE2_NAME>SFelDCjvilac</NODE2_NAME>
+          <KMS>1.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.170155,41.676910 2.166456,41.687839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78884">
+          <NODE1_ID>73154</NODE1_ID>
+          <NODE1_NAME>SFelDCstllorenc11</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.161010,41.688682 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78888">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>72999</NODE2_ID>
+          <NODE2_NAME>SFelDCplanots2</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.164602,41.692551</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79226">
+          <NODE1_ID>64954</NODE1_ID>
+          <NODE1_NAME>SFelDCDepuradora</NODE1_NAME>
+          <NODE2_ID>59098</NODE2_ID>
+          <NODE2_NAME>BiRMirador</NODE2_NAME>
+          <KMS>2.697</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.174821,41.686198 2.205216,41.694610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79504">
+          <NODE1_ID>74089</NODE1_ID>
+          <NODE1_NAME>BiRRMillet</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.795</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.203181,41.696686 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79511">
+          <NODE1_ID>74094</NODE1_ID>
+          <NODE1_NAME>BiRMMunoz</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.955</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.204900,41.697333 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79872">
+          <NODE1_ID>74374</NODE1_ID>
+          <NODE1_NAME>BiRMBlanc</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.833</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.202338,41.698476 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80286">
+          <NODE1_ID>74701</NODE1_ID>
+          <NODE1_NAME>BiRCAlonso</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.205169,41.696202 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80670">
+          <NODE1_ID>74588</NODE1_ID>
+          <NODE1_NAME>SFelDChospital64A</NODE1_NAME>
+          <NODE2_ID>45466</NODE2_ID>
+          <NODE2_NAME>SFelDCAjVell</NODE2_NAME>
+          <KMS>0.529</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159053,41.690338 2.165165,41.689032</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81025">
+          <NODE1_ID>75193</NODE1_ID>
+          <NODE1_NAME>BiRJMPeinado</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.577</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.198321,41.698679 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121319">
+          <NODE1_ID>75598</NODE1_ID>
+          <NODE1_NAME>BiRJPerez</NODE1_NAME>
+          <NODE2_ID>64376</NODE2_ID>
+          <NODE2_NAME>SFelDCRaco</NODE2_NAME>
+          <KMS>1.92</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.204502,41.697223 2.183847,41.689524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121520">
+          <NODE1_ID>64376</NODE1_ID>
+          <NODE1_NAME>SFelDCRaco</NODE1_NAME>
+          <NODE2_ID>75792</NODE2_ID>
+          <NODE2_NAME>BiRAIero</NODE2_NAME>
+          <KMS>1.875</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183847,41.689524 2.203820,41.697327</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121571">
+          <NODE1_ID>75795</NODE1_ID>
+          <NODE1_NAME>BiRGarraf5</NODE1_NAME>
+          <NODE2_ID>37083</NODE2_ID>
+          <NODE2_NAME>SFelDCsolanes</NODE2_NAME>
+          <KMS>1.836</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.168312,41.674370 2.151223,41.684810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123093">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>62042</NODE2_ID>
+          <NODE2_NAME>VdVCanRabassa</NODE2_NAME>
+          <KMS>19.744</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.298301,41.542001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123655">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>77267</NODE2_ID>
+          <NODE2_NAME>SFelDCbarcelona20</NODE2_NAME>
+          <KMS>0.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.163110,41.684614</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123661">
+          <NODE1_ID>64376</NODE1_ID>
+          <NODE1_NAME>SFelDCRaco</NODE1_NAME>
+          <NODE2_ID>52808</NODE2_ID>
+          <NODE2_NAME>CanBerga_Riells</NODE2_NAME>
+          <KMS>2.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183847,41.689524 2.212168,41.701087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123719">
+          <NODE1_ID>64376</NODE1_ID>
+          <NODE1_NAME>SFelDCRaco</NODE1_NAME>
+          <NODE2_ID>77312</NODE2_ID>
+          <NODE2_NAME>BiRJCapella</NODE2_NAME>
+          <KMS>1.817</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.183847,41.689524 2.201891,41.698734</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

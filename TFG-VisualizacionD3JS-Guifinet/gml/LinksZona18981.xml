@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.787848</gml:X><gml:Y>42.101964</gml:Y></gml:coord>
+<gml:coord><gml:X>1.945703</gml:X><gml:Y>42.235102</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="68085">
+          <NODE1_ID>9716</NODE1_ID>
+          <NODE1_NAME>CAPPortet</NODE1_NAME>
+          <NODE2_ID>35382</NODE2_ID>
+          <NODE2_NAME>SJCMalPas</NODE2_NAME>
+          <KMS>14.577</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787848,42.101964 1.892433,42.207633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68086">
+          <NODE1_ID>35382</NODE1_ID>
+          <NODE1_NAME>SJCMalPas</NODE1_NAME>
+          <NODE2_ID>21744</NODE2_ID>
+          <NODE2_NAME>PobSFalgars</NODE2_NAME>
+          <KMS>4.918</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.892433,42.207633 1.945703,42.227437</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68089">
+          <NODE1_ID>18982</NODE1_ID>
+          <NODE1_NAME>SJCNoguera</NODE1_NAME>
+          <NODE2_ID>35382</NODE2_ID>
+          <NODE2_NAME>SJCMalPas</NODE2_NAME>
+          <KMS>1.531</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.894117,42.221359 1.892433,42.207633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68181">
+          <NODE1_ID>64525</NODE1_ID>
+          <NODE1_NAME>GDeBMoixero2</NODE1_NAME>
+          <NODE2_ID>35382</NODE2_ID>
+          <NODE2_NAME>SJCMalPas</NODE2_NAME>
+          <KMS>3.301</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.877180,42.235102 1.892433,42.207633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.122953</gml:X><gml:Y>42.033811</gml:Y></gml:coord>
+<gml:coord><gml:X>2.192933</gml:X><gml:Y>42.078400</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="6843">
+          <NODE1_ID>9719</NODE1_ID>
+          <NODE1_NAME>SBLLSSalvadorCasa</NODE1_NAME>
+          <NODE2_ID>5030</NODE2_ID>
+          <NODE2_NAME>SBLLSSalvador</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.192738,42.059316 2.192933,42.059041</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7209">
+          <NODE1_ID>5417</NODE1_ID>
+          <NODE1_NAME>SBLLAjuntament</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151809,42.058755 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7348">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>2.744</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7584">
+          <NODE1_ID>5030</NODE1_ID>
+          <NODE1_NAME>SBLLSSalvador</NODE1_NAME>
+          <NODE2_ID>6129</NODE2_ID>
+          <NODE2_NAME>SBLLMarcel</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.192933,42.059041 2.192384,42.058635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8400">
+          <NODE1_ID>11793</NODE1_ID>
+          <NODE1_NAME>SBLLcarme</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150158,42.059847 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8502">
+          <NODE1_ID>11933</NODE1_ID>
+          <NODE1_NAME>SBLLcalmet</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151194,42.059001 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8589">
+          <NODE1_ID>12034</NODE1_ID>
+          <NODE1_NAME>SBLLmanresa</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150455,42.059572 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8649">
+          <NODE1_ID>12091</NODE1_ID>
+          <NODE1_NAME>SBLLCalBiel</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.177</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150380,42.056573 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8911">
+          <NODE1_ID>12415</NODE1_ID>
+          <NODE1_NAME>SBLLSubirana</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.502</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147709,42.061083 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9286">
+          <NODE1_ID>12881</NODE1_ID>
+          <NODE1_NAME>SBLLArgamo</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153003,42.055725 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9620">
+          <NODE1_ID>13293</NODE1_ID>
+          <NODE1_NAME>SBLLCunill</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150140,42.056272 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10555">
+          <NODE1_ID>14449</NODE1_ID>
+          <NODE1_NAME>SALLCanColl</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.129413,42.072688 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10579">
+          <NODE1_ID>14504</NODE1_ID>
+          <NODE1_NAME>SBLLCodinach</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>1.337</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.139217,42.065282 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11189">
+          <NODE1_ID>15122</NODE1_ID>
+          <NODE1_NAME>SBLLMontseFernandez</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.459</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148482,42.061061 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11707">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>13366</NODE2_ID>
+          <NODE2_NAME>SBLLfontsendra</NODE2_NAME>
+          <KMS>1.8</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.130863,42.062113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11742">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>11980</NODE2_ID>
+          <NODE2_NAME>SBLLcalamongia</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.151240,42.057159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11967">
+          <NODE1_ID>15838</NODE1_ID>
+          <NODE1_NAME>SBLLFrancesc</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153112,42.056505 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12367">
+          <NODE1_ID>11797</NODE1_ID>
+          <NODE1_NAME>	SBLLNiljan</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149969,42.058329 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12453">
+          <NODE1_ID>16312</NODE1_ID>
+          <NODE1_NAME>SBLLCanLlado</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149904,42.058186 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12468">
+          <NODE1_ID>16315</NODE1_ID>
+          <NODE1_NAME>SBLLCalBruch</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151337,42.056368 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12473">
+          <NODE1_ID>16334</NODE1_ID>
+          <NODE1_NAME>SBLLBessones</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.276</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149348,42.059424 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12587">
+          <NODE1_ID>16446</NODE1_ID>
+          <NODE1_NAME>SBLLJordiLlado</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150088,42.058085 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12611">
+          <NODE1_ID>16500</NODE1_ID>
+          <NODE1_NAME>SBLLCalAndreu</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151631,42.057381 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14612">
+          <NODE1_ID>7405</NODE1_ID>
+          <NODE1_NAME>SALXaletVentos</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>3.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.122953,42.074634 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15229">
+          <NODE1_ID>14384</NODE1_ID>
+          <NODE1_NAME>SBLLMaria</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150341,42.059425 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15505">
+          <NODE1_ID>17356</NODE1_ID>
+          <NODE1_NAME>SBLLSalvador</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.171</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149871,42.058276 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16125">
+          <NODE1_ID>20674</NODE1_ID>
+          <NODE1_NAME>SBLLPereM</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151220,42.056582 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17491">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>22121</NODE2_ID>
+          <NODE2_NAME>SBLLalbertClavell</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.150439,42.059167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17955">
+          <NODE1_ID>22433</NODE1_ID>
+          <NODE1_NAME>SBLLAndreaGC</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152875,42.056247 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18495">
+          <NODE1_ID>23155</NODE1_ID>
+          <NODE1_NAME>SBLLElena</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150894,42.057806 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20353">
+          <NODE1_ID>25449</NODE1_ID>
+          <NODE1_NAME>SBLLCollTriador</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>1.379</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.135232,42.056590 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21440">
+          <NODE1_ID>26637</NODE1_ID>
+          <NODE1_NAME>SBLLcalQuerrano</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151770,42.057131 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22531">
+          <NODE1_ID>27769</NODE1_ID>
+          <NODE1_NAME>SBLLse32</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149538,42.059274 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23077">
+          <NODE1_ID>27973</NODE1_ID>
+          <NODE1_NAME>SBLLlesmagnolies</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.543</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149342,42.062282 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23664">
+          <NODE1_ID>28850</NODE1_ID>
+          <NODE1_NAME>SBLLcalcliment</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151034,42.057508 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24730">
+          <NODE1_ID>30054</NODE1_ID>
+          <NODE1_NAME>SBLLjulio</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150185,42.057942 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26549">
+          <NODE1_ID>31900</NODE1_ID>
+          <NODE1_NAME>SBLLPereMontserrat</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151231,42.056582 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28741">
+          <NODE1_ID>20674</NODE1_ID>
+          <NODE1_NAME>SBLLPereM</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151220,42.056582 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28742">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>33680</NODE2_ID>
+          <NODE2_NAME>SBLLLidia15</NODE2_NAME>
+          <KMS>0.409</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.148744,42.060642</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28745">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>33680</NODE2_ID>
+          <NODE2_NAME>SBLLLidia15</NODE2_NAME>
+          <KMS>0.409</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.148744,42.060642</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28746">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>33680</NODE2_ID>
+          <NODE2_NAME>SBLLLidia15</NODE2_NAME>
+          <KMS>0.409</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.148744,42.060642</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28747">
+          <NODE1_ID>33680</NODE1_ID>
+          <NODE1_NAME>SBLLLidia15</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.409</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148744,42.060642 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30351">
+          <NODE1_ID>25018</NODE1_ID>
+          <NODE1_NAME>SBLLEDARSantBoi</NODE1_NAME>
+          <NODE2_ID>32578</NODE2_ID>
+          <NODE2_NAME>SBLLEBARSantBoi</NODE2_NAME>
+          <KMS>0.821</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152832,42.046170 2.146583,42.051909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30490">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>35634</NODE2_ID>
+          <NODE2_NAME>SBLLsilvia</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.148189,42.060941</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31790">
+          <NODE1_ID>25018</NODE1_ID>
+          <NODE1_NAME>SBLLEDARSantBoi</NODE1_NAME>
+          <NODE2_ID>20230</NODE2_ID>
+          <NODE2_NAME>SALLCanComa</NODE2_NAME>
+          <KMS>1.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152832,42.046170 2.141787,42.060804</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36245">
+          <NODE1_ID>40645</NODE1_ID>
+          <NODE1_NAME>SBLLMatiCamacho</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151912,42.058040 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37157">
+          <NODE1_ID>41244</NODE1_ID>
+          <NODE1_NAME>SBLLEnricSola</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148026,42.061421 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39495">
+          <NODE1_ID>43323</NODE1_ID>
+          <NODE1_NAME>SBLLoscar</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.058</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151482,42.057291 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40390">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>43692</NODE2_ID>
+          <NODE2_NAME>SBLLPares</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.150834,42.057636</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40552">
+          <NODE1_ID>8159</NODE1_ID>
+          <NODE1_NAME>SobremuntDip</NODE1_NAME>
+          <NODE2_ID>31900</NODE2_ID>
+          <NODE2_NAME>SBLLPereMontserrat</NODE2_NAME>
+          <KMS>2.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169725,42.036970 2.151231,42.056582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40734">
+          <NODE1_ID>40373</NODE1_ID>
+          <NODE1_NAME>SBLLCalAlejandro</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151491,42.057665 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43223">
+          <NODE1_ID>46301</NODE1_ID>
+          <NODE1_NAME>SbllQuimTina</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150660,42.056651 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46102">
+          <NODE1_ID>48130</NODE1_ID>
+          <NODE1_NAME>SbllMarcal</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148035,42.060981 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46466">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>43691</NODE2_ID>
+          <NODE2_NAME>SBLLMiquelAnna</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.151730,42.058114</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48377">
+          <NODE1_ID>36976</NODE1_ID>
+          <NODE1_NAME>SBGsasha</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150594,42.059422 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50770">
+          <NODE1_ID>51914</NODE1_ID>
+          <NODE1_NAME>SBLLPepAgusti</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.141</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150778,42.056745 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50783">
+          <NODE1_ID>51921</NODE1_ID>
+          <NODE1_NAME>SbllTelecentre</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.358</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152044,42.060971 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52270">
+          <NODE1_ID>52910</NODE1_ID>
+          <NODE1_NAME>SbllMontrodo</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152591,42.057108 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52271">
+          <NODE1_ID>52988</NODE1_ID>
+          <NODE1_NAME>SobremuntCalMoliner</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.535</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163258,42.036584 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52272">
+          <NODE1_ID>13871</NODE1_ID>
+          <NODE1_NAME>SobremuntLesHeures</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.161715,42.033811 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52833">
+          <NODE1_ID>53102</NODE1_ID>
+          <NODE1_NAME>SBLLPareGallifa9</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150914,42.059568 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54201">
+          <NODE1_ID>54303</NODE1_ID>
+          <NODE1_NAME>SbllDili</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150348,42.059155 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54641">
+          <NODE1_ID>12742</NODE1_ID>
+          <NODE1_NAME>SBLLBressol</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.256</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152581,42.059986 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56960">
+          <NODE1_ID>14794</NODE1_ID>
+          <NODE1_NAME>SBLLJosepGinebra</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148518,42.061135 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58057">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>57065</NODE2_ID>
+          <NODE2_NAME>SbllMAguilar</NODE2_NAME>
+          <KMS>0.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.150863,42.059677</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60203">
+          <NODE1_ID>58555</NODE1_ID>
+          <NODE1_NAME>SBDLLmnrs21</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150638,42.056578 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61405">
+          <NODE1_ID>59429</NODE1_ID>
+          <NODE1_NAME>SbllRodon</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153090,42.057255 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63149">
+          <NODE1_ID>60677</NODE1_ID>
+          <NODE1_NAME>SbllViladecans</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>1.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165140,42.047402 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63822">
+          <NODE1_ID>61099</NODE1_ID>
+          <NODE1_NAME>SBLLCalPlanella</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152113,42.056303 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64272">
+          <NODE1_ID>61481</NODE1_ID>
+          <NODE1_NAME>SbllJBalaguer</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153499,42.057181 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66999">
+          <NODE1_ID>10336</NODE1_ID>
+          <NODE1_NAME>SALLMuntsRest</NODE1_NAME>
+          <NODE2_ID>25018</NODE2_ID>
+          <NODE2_NAME>SBLLEDARSantBoi</NODE2_NAME>
+          <KMS>3.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.152162,42.078400 2.152832,42.046170</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68149">
+          <NODE1_ID>64484</NODE1_ID>
+          <NODE1_NAME>SobremuntLaRabassola</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.81</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163105,42.033894 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69707">
+          <NODE1_ID>6129</NODE1_ID>
+          <NODE1_NAME>SBLLMarcel</NODE1_NAME>
+          <NODE2_ID>5030</NODE2_ID>
+          <NODE2_NAME>SBLLSSalvador</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.192384,42.058635 2.192933,42.059041</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

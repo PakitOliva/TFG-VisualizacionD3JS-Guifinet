@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.405932</gml:X><gml:Y>43.496809</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.399136</gml:X><gml:Y>43.527795</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="79179">
+          <NODE1_ID>73708</NODE1_ID>
+          <NODE1_NAME>VLLVCSLineruValdesa</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>3.486</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.399136,43.527795 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79414">
+          <NODE1_ID>74006</NODE1_ID>
+          <NODE1_NAME>VLLVCSLineruForcad32</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>3.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.404726,43.525301 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80819">
+          <NODE1_ID>71722</NODE1_ID>
+          <NODE1_NAME>VLLVCSLineru31</NODE1_NAME>
+          <NODE2_ID>61748</NODE2_ID>
+          <NODE2_NAME>VLLVCSPando</NODE2_NAME>
+          <KMS>3.301</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.403537,43.526468 -5.405932,43.496809</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

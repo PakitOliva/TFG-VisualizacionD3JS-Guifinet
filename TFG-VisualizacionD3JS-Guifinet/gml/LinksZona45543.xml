@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.298664</gml:X><gml:Y>40.353645</gml:Y></gml:coord>
+<gml:coord><gml:X>0.328485</gml:X><gml:Y>40.382799</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="42736">
+          <NODE1_ID>45544</NODE1_ID>
+          <NODE1_NAME>SMdPCSocial</NODE1_NAME>
+          <NODE2_ID>45545</NODE2_ID>
+          <NODE2_NAME>SMdPAjunt</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301231,40.355573 0.302773,40.356298</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42738">
+          <NODE1_ID>45544</NODE1_ID>
+          <NODE1_NAME>SMdPCSocial</NODE1_NAME>
+          <NODE2_ID>45546</NODE2_ID>
+          <NODE2_NAME>SMdPPiscina</NODE2_NAME>
+          <KMS>0.265</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301231,40.355573 0.304114,40.354663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42739">
+          <NODE1_ID>45546</NODE1_ID>
+          <NODE1_NAME>SMdPPiscina</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304114,40.354663 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42740">
+          <NODE1_ID>45547</NODE1_ID>
+          <NODE1_NAME>SMdPCoop</NODE1_NAME>
+          <NODE2_ID>45545</NODE2_ID>
+          <NODE2_NAME>SMdPAjunt</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304790,40.356468 0.302773,40.356298</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43711">
+          <NODE1_ID>46612</NODE1_ID>
+          <NODE1_NAME>SMdPLudoteca</NODE1_NAME>
+          <NODE2_ID>45546</NODE2_ID>
+          <NODE2_NAME>SMdPPiscina</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304232,40.355260 0.304114,40.354663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44629">
+          <NODE1_ID>47219</NODE1_ID>
+          <NODE1_NAME>SMdPMolino</NODE1_NAME>
+          <NODE2_ID>45546</NODE2_ID>
+          <NODE2_NAME>SMdPPiscina</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304026,40.355644 0.304114,40.354663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45289">
+          <NODE1_ID>47703</NODE1_ID>
+          <NODE1_NAME>SMdPCTRA34</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300037,40.357598 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45314">
+          <NODE1_ID>47759</NODE1_ID>
+          <NODE1_NAME>SMdPESCOLES17</NODE1_NAME>
+          <NODE2_ID>45546</NODE2_ID>
+          <NODE2_NAME>SMdPPiscina</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303661,40.355487 0.304114,40.354663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45315">
+          <NODE1_ID>47760</NODE1_ID>
+          <NODE1_NAME>SMdPLESERES9</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.171</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303248,40.355593 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45317">
+          <NODE1_ID>47762</NODE1_ID>
+          <NODE1_NAME>SMdPSBERNAR40</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304372,40.357083 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45318">
+          <NODE1_ID>47763</NODE1_ID>
+          <NODE1_NAME>SMdPMAYOR1</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303018,40.356431 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45319">
+          <NODE1_ID>47764</NODE1_ID>
+          <NODE1_NAME>SMdPSANPERE20</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.302762,40.355027 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45320">
+          <NODE1_ID>47766</NODE1_ID>
+          <NODE1_NAME>SMdPESCOLES2</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303347,40.355865 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45444">
+          <NODE1_ID>47881</NODE1_ID>
+          <NODE1_NAME>SMdPPOZOS6</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301639,40.357302 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45445">
+          <NODE1_ID>45547</NODE1_ID>
+          <NODE1_NAME>SMdPCoop</NODE1_NAME>
+          <NODE2_ID>47882</NODE2_ID>
+          <NODE2_NAME>SMdPMOLINO8</NODE2_NAME>
+          <KMS>0.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304790,40.356468 0.303562,40.356542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45680">
+          <NODE1_ID>48050</NODE1_ID>
+          <NODE1_NAME>SMdPNUEVA2</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304012,40.356576 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45684">
+          <NODE1_ID>48054</NODE1_ID>
+          <NODE1_NAME>SMdPLTORRESMO118</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.305522,40.356125 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45689">
+          <NODE1_ID>48057</NODE1_ID>
+          <NODE1_NAME>SMdPESTACION11</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300588,40.358665 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45723">
+          <NODE1_ID>48079</NODE1_ID>
+          <NODE1_NAME>SMdPLESERES31-B</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301201,40.354462 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46081">
+          <NODE1_ID>48299</NODE1_ID>
+          <NODE1_NAME>SMdPERMITA21</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303175,40.355869 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46082">
+          <NODE1_ID>48300</NODE1_ID>
+          <NODE1_NAME>SMdPERMITA41</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.302129,40.355371 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46083">
+          <NODE1_ID>48302</NODE1_ID>
+          <NODE1_NAME>SMdPSBERNAR28</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304168,40.357002 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46087">
+          <NODE1_ID>48305</NODE1_ID>
+          <NODE1_NAME>SMdPCTRA17</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.281</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300772,40.358081 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46326">
+          <NODE1_ID>48511</NODE1_ID>
+          <NODE1_NAME>SMdPALCALA57</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.221</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.298664,40.355227 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46329">
+          <NODE1_ID>48513</NODE1_ID>
+          <NODE1_NAME>SMdPCTRA10</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300799,40.358432 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46331">
+          <NODE1_ID>48516</NODE1_ID>
+          <NODE1_NAME>SMdPLIBERTAT1</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300434,40.355211 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46332">
+          <NODE1_ID>48517</NODE1_ID>
+          <NODE1_NAME>SMdPALCALA68</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300305,40.355321 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46333">
+          <NODE1_ID>48518</NODE1_ID>
+          <NODE1_NAME>SMdPLTORRESMO117</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.305440,40.356275 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46457">
+          <NODE1_ID>48631</NODE1_ID>
+          <NODE1_NAME>SMdPERMITA41B</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.302100,40.355342 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46926">
+          <NODE1_ID>48932</NODE1_ID>
+          <NODE1_NAME>SMdPMAYOR5</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.302736,40.356544 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46928">
+          <NODE1_ID>48935</NODE1_ID>
+          <NODE1_NAME>SMdPMOLINO17</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303798,40.356364 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46929">
+          <NODE1_ID>48936</NODE1_ID>
+          <NODE1_NAME>SMdPCASTELL6</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303712,40.356583 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46952">
+          <NODE1_ID>48955</NODE1_ID>
+          <NODE1_NAME>SMdPNUEVA26</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304822,40.356875 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47459">
+          <NODE1_ID>49359</NODE1_ID>
+          <NODE1_NAME>SMdPBARRIOPOZOSS/N</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301014,40.357290 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47460">
+          <NODE1_ID>49360</NODE1_ID>
+          <NODE1_NAME>SMdPCDADPULPIS1</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.300735,40.353645 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47760">
+          <NODE1_ID>48633</NODE1_ID>
+          <NODE1_NAME>SMdPMASVALTERRA</NODE1_NAME>
+          <NODE2_ID>45546</NODE2_ID>
+          <NODE2_NAME>SMdPPiscina</NODE2_NAME>
+          <KMS>3.748</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.328485,40.382799 0.304114,40.354663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49372">
+          <NODE1_ID>45547</NODE1_ID>
+          <NODE1_NAME>SMdPCoop</NODE1_NAME>
+          <NODE2_ID>50749</NODE2_ID>
+          <NODE2_NAME>SMdPSPASCUAL25</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304790,40.356468 0.303679,40.357153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49516">
+          <NODE1_ID>50751</NODE1_ID>
+          <NODE1_NAME>SMdPSBERNAR3</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.24</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303523,40.356838 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49602">
+          <NODE1_ID>50908</NODE1_ID>
+          <NODE1_NAME>SMdPLESERES31-1K</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301077,40.354424 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49710">
+          <NODE1_ID>50909</NODE1_ID>
+          <NODE1_NAME>SMdPLESERES4</NODE1_NAME>
+          <NODE2_ID>45546</NODE2_ID>
+          <NODE2_NAME>SMdPPiscina</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303389,40.355758 0.304114,40.354663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52817">
+          <NODE1_ID>53332</NODE1_ID>
+          <NODE1_NAME>SMdPSBARBARA1</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303198,40.357095 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53946">
+          <NODE1_ID>54135</NODE1_ID>
+          <NODE1_NAME>SMdPSBARBARA36</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304120,40.357688 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58562">
+          <NODE1_ID>57425</NODE1_ID>
+          <NODE1_NAME>Eugeni-Cervera</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301582,40.355781 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60499">
+          <NODE1_ID>58764</NODE1_ID>
+          <NODE1_NAME>SMdPESTACION2</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.329</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301153,40.358539 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61950">
+          <NODE1_ID>59808</NODE1_ID>
+          <NODE1_NAME>SMdPMAYOR8</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.302948,40.356542 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62510">
+          <NODE1_ID>60202</NODE1_ID>
+          <NODE1_NAME>SMdPSBERNARD17</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303664,40.356914 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65550">
+          <NODE1_ID>62542</NODE1_ID>
+          <NODE1_NAME>SMdPBARRIOPOZOS17</NODE1_NAME>
+          <NODE2_ID>45544</NODE2_ID>
+          <NODE2_NAME>SMdPCSocial</NODE2_NAME>
+          <KMS>0.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301379,40.357951 0.301231,40.355573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65650">
+          <NODE1_ID>62633</NODE1_ID>
+          <NODE1_NAME>SMdPNUEVA14Rd1</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304455,40.356791 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73001">
+          <NODE1_ID>45544</NODE1_ID>
+          <NODE1_NAME>SMdPCSocial</NODE1_NAME>
+          <NODE2_ID>68254</NODE2_ID>
+          <NODE2_NAME>SMdPestacio3</NODE2_NAME>
+          <KMS>0.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301231,40.355573 0.300696,40.358619</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76238">
+          <NODE1_ID>45544</NODE1_ID>
+          <NODE1_NAME>SMdPCSocial</NODE1_NAME>
+          <NODE2_ID>71005</NODE2_ID>
+          <NODE2_NAME>SMdPParras7</NODE2_NAME>
+          <KMS>0.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.301231,40.355573 0.303087,40.356778</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79443">
+          <NODE1_ID>74029</NODE1_ID>
+          <NODE1_NAME>SMdPmolino1</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303409,40.356556 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121216">
+          <NODE1_ID>75514</NODE1_ID>
+          <NODE1_NAME>SMdPNUEVA27</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.304655,40.356973 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121517">
+          <NODE1_ID>48542</NODE1_ID>
+          <NODE1_NAME>SMdPSPASCUAL17</NODE1_NAME>
+          <NODE2_ID>45547</NODE2_ID>
+          <NODE2_NAME>SMdPCoop</NODE2_NAME>
+          <KMS>0.125</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.303572,40.357100 0.304790,40.356468</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

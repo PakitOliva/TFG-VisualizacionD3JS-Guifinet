@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.675375</gml:X><gml:Y>41.315203</gml:Y></gml:coord>
+<gml:coord><gml:X>1.770371</gml:X><gml:Y>41.366364</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="12417">
+          <NODE1_ID>15419</NODE1_ID>
+          <NODE1_NAME>OL-CentreR</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>2.951</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.722662,41.319734 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13359">
+          <NODE1_ID>16302</NODE1_ID>
+          <NODE1_NAME>OL-Matxater</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.339</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739901,41.339372 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18376">
+          <NODE1_ID>23022</NODE1_ID>
+          <NODE1_NAME>OL-FinaR</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741531,41.336536 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21803">
+          <NODE1_ID>26938</NODE1_ID>
+          <NODE1_NAME>OL-JosepG</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.505</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741258,41.346086 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23574">
+          <NODE1_ID>28708</NODE1_ID>
+          <NODE1_NAME>OL-Ernestina</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.736121,41.340034 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26245">
+          <NODE1_ID>30895</NODE1_ID>
+          <NODE1_NAME>OL-LaBarquera</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>1.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739358,41.331201 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29619">
+          <NODE1_ID>34848</NODE1_ID>
+          <NODE1_NAME>OL-JoanQ</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741475,41.337676 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30299">
+          <NODE1_ID>21208</NODE1_ID>
+          <NODE1_NAME>OL-SP-LaNau</NODE1_NAME>
+          <NODE2_ID>8013</NODE2_ID>
+          <NODE2_NAME>LC-Diposits</NODE2_NAME>
+          <KMS>4.111</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737444,41.356751 1.690003,41.366364</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30300">
+          <NODE1_ID>21204</NODE1_ID>
+          <NODE1_NAME>OL-LaXarxa</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>5.137</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693504,41.324455 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30457">
+          <NODE1_ID>32597</NODE1_ID>
+          <NODE1_NAME>OL-Albert</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741765,41.336451 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34555">
+          <NODE1_ID>34882</NODE1_ID>
+          <NODE1_NAME>VF-SantPau</NODE1_NAME>
+          <NODE2_ID>39189</NODE2_ID>
+          <NODE2_NAME>OL-Vilamotor</NODE2_NAME>
+          <KMS>4.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.675375,41.356655 1.724835,41.355954</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37592">
+          <NODE1_ID>41006</NODE1_ID>
+          <NODE1_NAME>OL-CalPastor</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.745802,41.338359 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44537">
+          <NODE1_ID>47140</NODE1_ID>
+          <NODE1_NAME>OL-RobertM</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>2.796</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.723706,41.320884 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47092">
+          <NODE1_ID>15421</NODE1_ID>
+          <NODE1_NAME>OL-Gatzara</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.853</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740461,41.349161 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47468">
+          <NODE1_ID>15420</NODE1_ID>
+          <NODE1_NAME>OL-Rectoria</NODE1_NAME>
+          <NODE2_ID>49368</NODE2_ID>
+          <NODE2_NAME>OL-MontseG</NODE2_NAME>
+          <KMS>0.525</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742588,41.341652 1.740858,41.346196</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55456">
+          <NODE1_ID>15420</NODE1_ID>
+          <NODE1_NAME>OL-Rectoria</NODE1_NAME>
+          <NODE2_ID>15419</NODE2_ID>
+          <NODE2_NAME>OL-CentreR</NODE2_NAME>
+          <KMS>2.951</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742588,41.341652 1.722662,41.319734</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56445">
+          <NODE1_ID>42763</NODE1_ID>
+          <NODE1_NAME>OL-EscolaRossend</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.732</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.738482,41.347467 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56604">
+          <NODE1_ID>42762</NODE1_ID>
+          <NODE1_NAME>OL-Consultori</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740683,41.348577 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57305">
+          <NODE1_ID>15421</NODE1_ID>
+          <NODE1_NAME>OL-Gatzara</NODE1_NAME>
+          <NODE2_ID>32590</NODE2_ID>
+          <NODE2_NAME>OL-JoseMP</NODE2_NAME>
+          <KMS>0.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740461,41.349161 1.738742,41.348820</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60076">
+          <NODE1_ID>41005</NODE1_ID>
+          <NODE1_NAME>OL-LaCaseta</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739882,41.338572 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60405">
+          <NODE1_ID>58682</NODE1_ID>
+          <NODE1_NAME>OL-JesusS</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.552</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740960,41.346468 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60534">
+          <NODE1_ID>58816</NODE1_ID>
+          <NODE1_NAME>OL-FransJ</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.736264,41.339877 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60613">
+          <NODE1_ID>15421</NODE1_ID>
+          <NODE1_NAME>OL-Gatzara</NODE1_NAME>
+          <NODE2_ID>21603</NODE2_ID>
+          <NODE2_NAME>OL-RSadurni</NODE2_NAME>
+          <KMS>0.894</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740461,41.349161 1.744211,41.341622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60619">
+          <NODE1_ID>21185</NODE1_ID>
+          <NODE1_NAME>VF-MoliRovira</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>3.032</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.706606,41.344826 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60815">
+          <NODE1_ID>58404</NODE1_ID>
+          <NODE1_NAME>OL-CarmeP</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739934,41.347056 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60859">
+          <NODE1_ID>59060</NODE1_ID>
+          <NODE1_NAME>OL-CanCastellvi</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742293,41.347111 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60860">
+          <NODE1_ID>39531</NODE1_ID>
+          <NODE1_NAME>OL-MaribelP</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740535,41.346328 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60909">
+          <NODE1_ID>59086</NODE1_ID>
+          <NODE1_NAME>OL-OlafZ</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741682,41.347586 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61337">
+          <NODE1_ID>59383</NODE1_ID>
+          <NODE1_NAME>OL-JosepMerce</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>2.794</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.724065,41.320719 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61889">
+          <NODE1_ID>59779</NODE1_ID>
+          <NODE1_NAME>OL-FermiR</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.992</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741191,41.350526 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62101">
+          <NODE1_ID>59914</NODE1_ID>
+          <NODE1_NAME>OL-MauricioE</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.48</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741581,41.345909 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63362">
+          <NODE1_ID>60847</NODE1_ID>
+          <NODE1_NAME>OL-GuillemT</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>3.837</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720428,41.324667 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63735">
+          <NODE1_ID>15421</NODE1_ID>
+          <NODE1_NAME>OL-Gatzara</NODE1_NAME>
+          <NODE2_ID>60671</NODE2_ID>
+          <NODE2_NAME>OLObservatoire</NODE2_NAME>
+          <KMS>2.273</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740461,41.349161 1.746325,41.329175</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64242">
+          <NODE1_ID>61434</NODE1_ID>
+          <NODE1_NAME>OL-RafaelG</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740806,41.348488 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64494">
+          <NODE1_ID>61671</NODE1_ID>
+          <NODE1_NAME>OL-ZacariasV</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740093,41.349050 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64645">
+          <NODE1_ID>61785</NODE1_ID>
+          <NODE1_NAME>OL-SP-Auc</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741678,41.336472 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65421">
+          <NODE1_ID>62434</NODE1_ID>
+          <NODE1_NAME>SCS-SergiP</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>1.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.750412,41.366261 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66034">
+          <NODE1_ID>15421</NODE1_ID>
+          <NODE1_NAME>OL-Gatzara</NODE1_NAME>
+          <NODE2_ID>60332</NODE2_ID>
+          <NODE2_NAME>OL-LluisL</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740461,41.349161 1.740801,41.347405</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66496">
+          <NODE1_ID>63183</NODE1_ID>
+          <NODE1_NAME>OL-JosepJ</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.738963,41.348861 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66921">
+          <NODE1_ID>63544</NODE1_ID>
+          <NODE1_NAME>OL-OscarSaez</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>0.793</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735388,41.349783 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66938">
+          <NODE1_ID>63556</NODE1_ID>
+          <NODE1_NAME>OL-AlbertV</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.646</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741084,41.347360 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67799">
+          <NODE1_ID>64242</NODE1_ID>
+          <NODE1_NAME>OL-GruesPenedes</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>0.859</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728456,41.353012 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68494">
+          <NODE1_ID>64761</NODE1_ID>
+          <NODE1_NAME>OL-JordiT</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.491</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741422,41.345985 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68876">
+          <NODE1_ID>21208</NODE1_ID>
+          <NODE1_NAME>OL-SP-LaNau</NODE1_NAME>
+          <NODE2_ID>28392</NODE2_ID>
+          <NODE2_NAME>VDelP-Pelegrina50</NODE2_NAME>
+          <KMS>2.831</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737444,41.356751 1.703644,41.355597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69060">
+          <NODE1_ID>65120</NODE1_ID>
+          <NODE1_NAME>OL-JLFilter</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740982,41.348711 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69326">
+          <NODE1_ID>65332</NODE1_ID>
+          <NODE1_NAME>OL-DavidR</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.747845,41.344266 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70368">
+          <NODE1_ID>66097</NODE1_ID>
+          <NODE1_NAME>OL-HananH</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>3.913</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.711705,41.315203 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70413">
+          <NODE1_ID>66131</NODE1_ID>
+          <NODE1_NAME>OL-MartaAng</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.513</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741046,41.346126 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70587">
+          <NODE1_ID>66256</NODE1_ID>
+          <NODE1_NAME>OL-AntonioGil</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740746,41.346609 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71082">
+          <NODE1_ID>66635</NODE1_ID>
+          <NODE1_NAME>OL-ManelGarcia</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741149,41.348954 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71275">
+          <NODE1_ID>49367</NODE1_ID>
+          <NODE1_NAME>OL-RosaliaR</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.537</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740748,41.346281 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71280">
+          <NODE1_ID>66826</NODE1_ID>
+          <NODE1_NAME>OL-AnaMaMunoz</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740021,41.349662 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72095">
+          <NODE1_ID>15420</NODE1_ID>
+          <NODE1_NAME>OL-Rectoria</NODE1_NAME>
+          <NODE2_ID>67488</NODE2_ID>
+          <NODE2_NAME>OL-SP-Auc2</NODE2_NAME>
+          <KMS>0.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742588,41.341652 1.741726,41.336455</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72159">
+          <NODE1_ID>21208</NODE1_ID>
+          <NODE1_NAME>OL-SP-LaNau</NODE1_NAME>
+          <NODE2_ID>67354</NODE2_ID>
+          <NODE2_NAME>AV-Schmersal</NODE2_NAME>
+          <KMS>2.479</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737444,41.356751 1.765870,41.363040</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72770">
+          <NODE1_ID>68059</NODE1_ID>
+          <NODE1_NAME>OL-EricEnguita</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741601,41.336528 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73111">
+          <NODE1_ID>15420</NODE1_ID>
+          <NODE1_NAME>OL-Rectoria</NODE1_NAME>
+          <NODE2_ID>68452</NODE2_ID>
+          <NODE2_NAME>OL.FrancescB</NODE2_NAME>
+          <KMS>0.554</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742588,41.341652 1.741532,41.336731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73458">
+          <NODE1_ID>68825</NODE1_ID>
+          <NODE1_NAME>OL-MontseSole</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741143,41.346118 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75178">
+          <NODE1_ID>28500</NODE1_ID>
+          <NODE1_NAME>OL-LLuisRovira</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.499</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741354,41.346044 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75506">
+          <NODE1_ID>68936</NODE1_ID>
+          <NODE1_NAME>OL-MiquelVendrell</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.730581,41.356420 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75508">
+          <NODE1_ID>70353</NODE1_ID>
+          <NODE1_NAME>VF-VidalDiaz</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>0.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735262,41.349892 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75640">
+          <NODE1_ID>70469</NODE1_ID>
+          <NODE1_NAME>OL-OscarMassana</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741175,41.347326 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75924">
+          <NODE1_ID>21208</NODE1_ID>
+          <NODE1_NAME>OL-SP-LaNau</NODE1_NAME>
+          <NODE2_ID>70727</NODE2_ID>
+          <NODE2_NAME>VF-OriolPainous</NODE2_NAME>
+          <KMS>3.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737444,41.356751 1.717113,41.332727</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77169">
+          <NODE1_ID>71974</NODE1_ID>
+          <NODE1_NAME>OL-JosepABertran</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.59</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741931,41.336363 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77494">
+          <NODE1_ID>72419</NODE1_ID>
+          <NODE1_NAME>SCS-GabrielG</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>2.53</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.770371,41.352452 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77885">
+          <NODE1_ID>72771</NODE1_ID>
+          <NODE1_NAME>OL-AixaCoral</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739052,41.348861 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78475">
+          <NODE1_ID>73218</NODE1_ID>
+          <NODE1_NAME>OL-PereML</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740467,41.346980 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78915">
+          <NODE1_ID>73571</NODE1_ID>
+          <NODE1_NAME>OL-MontseAdolfo</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.667</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739313,41.347125 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78916">
+          <NODE1_ID>73572</NODE1_ID>
+          <NODE1_NAME>OL-SilviaAdolfo</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.671</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.739256,41.347148 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78926">
+          <NODE1_ID>73579</NODE1_ID>
+          <NODE1_NAME>OL-RamonCastro</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741309,41.347056 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79345">
+          <NODE1_ID>15420</NODE1_ID>
+          <NODE1_NAME>OL-Rectoria</NODE1_NAME>
+          <NODE2_ID>73962</NODE2_ID>
+          <NODE2_NAME>OL-RosaMariaMAs</NODE2_NAME>
+          <KMS>0.944</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742588,41.341652 1.736961,41.349023</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79937">
+          <NODE1_ID>74464</NODE1_ID>
+          <NODE1_NAME>OL-CarlosC</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741289,41.348614 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79941">
+          <NODE1_ID>74469</NODE1_ID>
+          <NODE1_NAME>OL-AntoniB</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.75</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737604,41.347264 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122071">
+          <NODE1_ID>58634</NODE1_ID>
+          <NODE1_NAME>OL-JVentura</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>0.831</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.736713,41.349285 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122500">
+          <NODE1_ID>76481</NODE1_ID>
+          <NODE1_NAME>OL-CristinaCF</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>3.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.723300,41.318130 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122546">
+          <NODE1_ID>76520</NODE1_ID>
+          <NODE1_NAME>OL-JaumeBG</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>3.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721640,41.318280 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122839">
+          <NODE1_ID>73960</NODE1_ID>
+          <NODE1_NAME>OL-JesusSanchez</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.728</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.741570,41.348161 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123446">
+          <NODE1_ID>77155</NODE1_ID>
+          <NODE1_NAME>OL-RaimonSM</NODE1_NAME>
+          <NODE2_ID>15420</NODE2_ID>
+          <NODE2_NAME>OL-Rectoria</NODE2_NAME>
+          <KMS>0.638</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742183,41.347387 1.742588,41.341652</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

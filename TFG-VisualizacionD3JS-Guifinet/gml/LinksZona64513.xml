@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.142152</gml:X><gml:Y>41.403605</gml:Y></gml:coord>
+<gml:coord><gml:X>2.235754</gml:X><gml:Y>41.453830</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="40849">
+          <NODE1_ID>35934</NODE1_ID>
+          <NODE1_NAME>BCNBenlliure6</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>1.694</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.142152,41.431201 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46940">
+          <NODE1_ID>48944</NODE1_ID>
+          <NODE1_NAME>BCNArbos1</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>0.322</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.158921,41.421585 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52675">
+          <NODE1_ID>53219</NODE1_ID>
+          <NODE1_NAME>BCNAgudells37</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>0.473</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.158816,41.423503 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56064">
+          <NODE1_ID>55409</NODE1_ID>
+          <NODE1_NAME>BCNTolra33</NODE1_NAME>
+          <NODE2_ID>53219</NODE2_ID>
+          <NODE2_NAME>BCNAgudells37</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.156875,41.425983 2.158816,41.423503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56571">
+          <NODE1_ID>53219</NODE1_ID>
+          <NODE1_NAME>BCNAgudells37</NODE1_NAME>
+          <NODE2_ID>37892</NODE2_ID>
+          <NODE2_NAME>BCNFabraiPuig313</NODE2_NAME>
+          <KMS>1.049</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.158816,41.423503 2.167700,41.430171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58096">
+          <NODE1_ID>28151</NODE1_ID>
+          <NODE1_NAME>BCNSantuari125</NODE1_NAME>
+          <NODE2_ID>56691</NODE2_ID>
+          <NODE2_NAME>BCNMurtra135</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.155783,41.419909 2.155225,41.421034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60010">
+          <NODE1_ID>56224</NODE1_ID>
+          <NODE1_NAME>BCNdoctorbove138</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>0.342</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159782,41.420575 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60015">
+          <NODE1_ID>56190</NODE1_ID>
+          <NODE1_NAME>BCNpasserell3</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>0.283</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159132,41.420283 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60236">
+          <NODE1_ID>56272</NODE1_ID>
+          <NODE1_NAME>BCNDoctorBove113</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160701,41.421141 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65112">
+          <NODE1_ID>21209</NODE1_ID>
+          <NODE1_NAME>BCNlorda17</NODE1_NAME>
+          <NODE2_ID>49480</NODE2_ID>
+          <NODE2_NAME>BCNRembrandt</NODE2_NAME>
+          <KMS>1.587</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149638,41.422236 2.154286,41.436087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67507">
+          <NODE1_ID>39454</NODE1_ID>
+          <NODE1_NAME>SCG-Peru17QDyn</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>6.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.214775,41.453830 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68386">
+          <NODE1_ID>64682</NODE1_ID>
+          <NODE1_NAME>BCNTenerife49</NODE1_NAME>
+          <NODE2_ID>18213</NODE2_ID>
+          <NODE2_NAME>BCNxsf-coopCarmel</NODE2_NAME>
+          <KMS>0.308</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163647,41.416597 2.163108,41.419337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70719">
+          <NODE1_ID>65337</NODE1_ID>
+          <NODE1_NAME>BCNcongres71</NODE1_NAME>
+          <NODE2_ID>21209</NODE2_ID>
+          <NODE2_NAME>BCNlorda17</NODE2_NAME>
+          <KMS>1.886</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160609,41.437071 2.149638,41.422236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71766">
+          <NODE1_ID>67205</NODE1_ID>
+          <NODE1_NAME>BCNSantIscle35E</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>1.888</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.172039,41.431716 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73013">
+          <NODE1_ID>41444</NODE1_ID>
+          <NODE1_NAME>BDNBotey18</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>7.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.235754,41.450934 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75654">
+          <NODE1_ID>49480</NODE1_ID>
+          <NODE1_NAME>BCNRembrandt</NODE1_NAME>
+          <NODE2_ID>28151</NODE2_ID>
+          <NODE2_NAME>BCNSantuari125</NODE2_NAME>
+          <KMS>1.801</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154286,41.436087 2.155783,41.419909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77529">
+          <NODE1_ID>72198</NODE1_ID>
+          <NODE1_NAME>BCNSalses44</NODE1_NAME>
+          <NODE2_ID>49480</NODE2_ID>
+          <NODE2_NAME>BCNRembrandt</NODE2_NAME>
+          <KMS>0.42</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.158316,41.433822 2.154286,41.436087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79223">
+          <NODE1_ID>56410</NODE1_ID>
+          <NODE1_NAME>BCNArcdeSantMarti42</NODE1_NAME>
+          <NODE2_ID>49480</NODE2_ID>
+          <NODE2_NAME>BCNRembrandt</NODE2_NAME>
+          <KMS>1.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169623,41.426548 2.154286,41.436087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79444">
+          <NODE1_ID>49809</NODE1_ID>
+          <NODE1_NAME>BCNcastillejos352</NODE1_NAME>
+          <NODE2_ID>49480</NODE2_ID>
+          <NODE2_NAME>BCNRembrandt</NODE2_NAME>
+          <KMS>3.156</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.172493,41.411197 2.154286,41.436087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81054">
+          <NODE1_ID>49480</NODE1_ID>
+          <NODE1_NAME>BCNRembrandt</NODE1_NAME>
+          <NODE2_ID>56604</NODE2_ID>
+          <NODE2_NAME>BCNUPFp9</NODE2_NAME>
+          <KMS>4.886</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154286,41.436087 2.193709,41.403605</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121815">
+          <NODE1_ID>76015</NODE1_ID>
+          <NODE1_NAME>BCNMari2</NODE1_NAME>
+          <NODE2_ID>21209</NODE2_ID>
+          <NODE2_NAME>BCNlorda17</NODE2_NAME>
+          <KMS>0.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160094,41.424932 2.149638,41.422236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122019">
+          <NODE1_ID>76158</NODE1_ID>
+          <NODE1_NAME>BCNMontCas24</NODE1_NAME>
+          <NODE2_ID>49480</NODE2_ID>
+          <NODE2_NAME>BCNRembrandt</NODE2_NAME>
+          <KMS>1.791</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.168279,41.423874 2.154286,41.436087</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122472">
+          <NODE1_ID>76462</NODE1_ID>
+          <NODE1_NAME>BCNR.Rocafull58</NODE1_NAME>
+          <NODE2_ID>21209</NODE2_ID>
+          <NODE2_NAME>BCNlorda17</NODE2_NAME>
+          <KMS>0.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153296,41.423282 2.149638,41.422236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122744">
+          <NODE1_ID>76651</NODE1_ID>
+          <NODE1_NAME>BCNAgudells40</NODE1_NAME>
+          <NODE2_ID>53219</NODE2_ID>
+          <NODE2_NAME>BCNAgudells37</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.157978,41.423398 2.158816,41.423503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123728">
+          <NODE1_ID>49480</NODE1_ID>
+          <NODE1_NAME>BCNRembrandt</NODE1_NAME>
+          <NODE2_ID>65859</NODE2_ID>
+          <NODE2_NAME>STAKangelGuimera6</NODE2_NAME>
+          <KMS>4.848</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154286,41.436087 2.211195,41.444541</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

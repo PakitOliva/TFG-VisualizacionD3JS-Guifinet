@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.814977</gml:X><gml:Y>41.554360</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.826665</gml:X><gml:Y>41.566763</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="53710">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.814977,41.566763</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53710</NODE_ID>
+      <NODE_NAME>PROBCOLLBATO</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42412">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.826665,41.554360</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42412</NODE_ID>
+      <NODE_NAME>CLLB-masia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42413">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.823307,41.560857</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42413</NODE_ID>
+      <NODE_NAME>CLLB-travessia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

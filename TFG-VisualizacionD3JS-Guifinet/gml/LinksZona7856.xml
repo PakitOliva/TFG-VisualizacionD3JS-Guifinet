@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.193977</gml:X><gml:Y>41.425889</gml:Y></gml:coord>
+<gml:coord><gml:X>2.225759</gml:X><gml:Y>41.451064</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="8189">
+          <NODE1_ID>8440</NODE1_ID>
+          <NODE1_NAME>SABMonges11</NODE1_NAME>
+          <NODE2_ID>5076</NODE2_ID>
+          <NODE2_NAME>BDNctraStaColoma22</NODE2_NAME>
+          <KMS>0.158</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.214859,41.433168 2.215955,41.434328</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21830">
+          <NODE1_ID>22443</NODE1_ID>
+          <NODE1_NAME>SABtallersGuinardoE1</NODE1_NAME>
+          <NODE2_ID>22444</NODE2_ID>
+          <NODE2_NAME>SABtallersGuinardoE2</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.206716,41.426460 2.207923,41.425889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23265">
+          <NODE1_ID>28290</NODE1_ID>
+          <NODE1_NAME>SABMonges6_32</NODE1_NAME>
+          <NODE2_ID>5076</NODE2_ID>
+          <NODE2_NAME>BDNctraStaColoma22</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.215000,41.433539 2.215955,41.434328</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30969">
+          <NODE1_ID>36103</NODE1_ID>
+          <NODE1_NAME>BCNSegre84</NODE1_NAME>
+          <NODE2_ID>11308</NODE2_ID>
+          <NODE2_NAME>BCNonzedeSetembre11</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.193977,41.431740 2.194542,41.429689</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31209">
+          <NODE1_ID>36304</NODE1_ID>
+          <NODE1_NAME>SABMajor22</NODE1_NAME>
+          <NODE2_ID>5076</NODE2_ID>
+          <NODE2_NAME>BDNctraStaColoma22</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.214646,41.434193 2.215955,41.434328</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35495">
+          <NODE1_ID>37035</NODE1_ID>
+          <NODE1_NAME>SABPiGibert20</NODE1_NAME>
+          <NODE2_ID>5078</NODE2_ID>
+          <NODE2_NAME>BDNvergedeLaSalut</NODE2_NAME>
+          <KMS>1.907</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.224088,41.427701 2.225759,41.444824</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52490">
+          <NODE1_ID>53093</NODE1_ID>
+          <NODE1_NAME>SCGpsjBthvn34</NODE1_NAME>
+          <NODE2_ID>22443</NODE2_ID>
+          <NODE2_NAME>SABtallersGuinardoE1</NODE2_NAME>
+          <KMS>3.007</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.221735,41.451064 2.206716,41.426460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

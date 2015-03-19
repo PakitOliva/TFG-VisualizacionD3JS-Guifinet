@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.369413</gml:X><gml:Y>40.360956</gml:Y></gml:coord>
+<gml:coord><gml:X>0.466933</gml:X><gml:Y>40.465632</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="50522">
+          <NODE1_ID>51711</NODE1_ID>
+          <NODE1_NAME>pnsabellers39</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>4.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.391739,40.381041 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51453">
+          <NODE1_ID>36164</NODE1_ID>
+          <NODE1_NAME>PNSurvoliveres14</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>5.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.377247,40.388771 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52652">
+          <NODE1_ID>52908</NODE1_ID>
+          <NODE1_NAME>PNSLaVolta</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>2.866</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.393982,40.406506 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59671">
+          <NODE1_ID>48172</NODE1_ID>
+          <NODE1_NAME>BNCLcampanar</NODE1_NAME>
+          <NODE2_ID>55393</NODE2_ID>
+          <NODE2_NAME>PNSPenisol12</NODE2_NAME>
+          <KMS>6.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.423760,40.418672 0.394245,40.363549</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62065">
+          <NODE1_ID>53602</NODE1_ID>
+          <NODE1_NAME>PNSC_MaestroB-Felix</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>6.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.400264,40.360956 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62096">
+          <NODE1_ID>59645</NODE1_ID>
+          <NODE1_NAME>PNSC_N037CM</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>2.877</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.393662,40.406765 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62760">
+          <NODE1_ID>48172</NODE1_ID>
+          <NODE1_NAME>BNCLcampanar</NODE1_NAME>
+          <NODE2_ID>60390</NODE2_ID>
+          <NODE2_NAME>PNSC_N038CM</NODE2_NAME>
+          <KMS>5.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.423760,40.418672 0.373760,40.390195</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62768">
+          <NODE1_ID>60394</NODE1_ID>
+          <NODE1_NAME>PNSC_N039CM</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>6.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.394526,40.363595 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63341">
+          <NODE1_ID>60750</NODE1_ID>
+          <NODE1_NAME>PNSBonsai</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>4.988</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.369413,40.401585 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65601">
+          <NODE1_ID>62596</NODE1_ID>
+          <NODE1_NAME>PNSCJANCKER</NODE1_NAME>
+          <NODE2_ID>48172</NODE2_ID>
+          <NODE2_NAME>BNCLcampanar</NODE2_NAME>
+          <KMS>5.67</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.386201,40.376451 0.423760,40.418672</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73871">
+          <NODE1_ID>48172</NODE1_ID>
+          <NODE1_NAME>BNCLcampanar</NODE1_NAME>
+          <NODE2_ID>50045</NODE2_ID>
+          <NODE2_NAME>PNSUrbLlomaBella</NODE2_NAME>
+          <KMS>5.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.423760,40.418672 0.384999,40.377518</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74704">
+          <NODE1_ID>69729</NODE1_ID>
+          <NODE1_NAME>PNSAvValencia143</NODE1_NAME>
+          <NODE2_ID>69282</NODE2_ID>
+          <NODE2_NAME>BNCLCarabela</NODE2_NAME>
+          <KMS>2.444</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.408797,40.383849 0.420755,40.403871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75401">
+          <NODE1_ID>36166</NODE1_ID>
+          <NODE1_NAME>VNRAvCastello</NODE1_NAME>
+          <NODE2_ID>54426</NODE2_ID>
+          <NODE2_NAME>PNSGuifiMaestratHP</NODE2_NAME>
+          <KMS>12.853</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.466933,40.465632 0.402170,40.361008</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80484">
+          <NODE1_ID>50045</NODE1_ID>
+          <NODE1_NAME>PNSUrbLlomaBella</NODE1_NAME>
+          <NODE2_ID>48578</NODE2_ID>
+          <NODE2_NAME>BNCLcompanyiadelport</NODE2_NAME>
+          <KMS>5.456</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.384999,40.377518 0.429027,40.413314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122754">
+          <NODE1_ID>76654</NODE1_ID>
+          <NODE1_NAME>PNS_AUGM_PROBA</NODE1_NAME>
+          <NODE2_ID>54426</NODE2_ID>
+          <NODE2_NAME>PNSGuifiMaestratHP</NODE2_NAME>
+          <KMS>1.434</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.385705,40.363863 0.402170,40.361008</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123308">
+          <NODE1_ID>54426</NODE1_ID>
+          <NODE1_NAME>PNSGuifiMaestratHP</NODE1_NAME>
+          <NODE2_ID>77077</NODE2_ID>
+          <NODE2_NAME>PNSTestIt</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.402170,40.361008 0.400325,40.361433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

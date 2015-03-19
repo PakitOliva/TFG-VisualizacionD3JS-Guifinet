@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.578339</gml:X><gml:Y>41.549800</gml:Y></gml:coord>
+<gml:coord><gml:X>1.737943</gml:X><gml:Y>41.598298</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="10379">
+          <NODE1_ID>1801</NODE1_ID>
+          <NODE1_NAME>IgualadaSerraMarsal</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>3.275</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.628092,41.579172 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10381">
+          <NODE1_ID>14077</NODE1_ID>
+          <NODE1_NAME>MontbuiCalAlemany</NODE1_NAME>
+          <NODE2_ID>14076</NODE2_ID>
+          <NODE2_NAME>IgualadaRedRec</NODE2_NAME>
+          <KMS>4.231</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.591200,41.549800 1.627890,41.576100</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10985">
+          <NODE1_ID>14903</NODE1_ID>
+          <NODE1_NAME>IgualadaStFrancesc</NODE1_NAME>
+          <NODE2_ID>1801</NODE2_ID>
+          <NODE2_NAME>IgualadaSerraMarsal</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.621549,41.582845 1.628092,41.579172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15729">
+          <NODE1_ID>19100</NODE1_ID>
+          <NODE1_NAME>IgualadaArian</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622214,41.581646 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16088">
+          <NODE1_ID>1801</NODE1_ID>
+          <NODE1_NAME>IgualadaSerraMarsal</NODE1_NAME>
+          <NODE2_ID>16426</NODE2_ID>
+          <NODE2_NAME>IgualadaPoblesec</NODE2_NAME>
+          <KMS>0.672</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.628092,41.579172 1.622062,41.583191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16092">
+          <NODE1_ID>20644</NODE1_ID>
+          <NODE1_NAME>IgualadaIgnasiR</NODE1_NAME>
+          <NODE2_ID>2108</NODE2_ID>
+          <NODE2_NAME>IgualadaMarius</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.614312,41.583714 1.618019,41.581713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18395">
+          <NODE1_ID>22886</NODE1_ID>
+          <NODE1_NAME>IgualadaSantAgusti</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.611984,41.579783 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21182">
+          <NODE1_ID>25921</NODE1_ID>
+          <NODE1_NAME>Igualada7Camins</NODE1_NAME>
+          <NODE2_ID>14095</NODE2_ID>
+          <NODE2_NAME>IgualadaPratsDeRei</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.613166,41.588533 1.612570,41.587572</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21531">
+          <NODE1_ID>23861</NODE1_ID>
+          <NODE1_NAME>IgualadaPujades</NODE1_NAME>
+          <NODE2_ID>1801</NODE2_ID>
+          <NODE2_NAME>IgualadaSerraMarsal</NODE2_NAME>
+          <KMS>0.283</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.629260,41.581561 1.628092,41.579172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21579">
+          <NODE1_ID>25898</NODE1_ID>
+          <NODE1_NAME>Igualadargent</NODE1_NAME>
+          <NODE2_ID>2108</NODE2_ID>
+          <NODE2_NAME>IgualadaMarius</NODE2_NAME>
+          <KMS>0.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.615916,41.578858 1.618019,41.581713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22458">
+          <NODE1_ID>27636</NODE1_ID>
+          <NODE1_NAME>IgualadaCervantes</NODE1_NAME>
+          <NODE2_ID>2108</NODE2_ID>
+          <NODE2_NAME>IgualadaMarius</NODE2_NAME>
+          <KMS>0.339</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.613960,41.581818 1.618019,41.581713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23726">
+          <NODE1_ID>28897</NODE1_ID>
+          <NODE1_NAME>Igualadamontserrat</NODE1_NAME>
+          <NODE2_ID>14077</NODE2_ID>
+          <NODE2_NAME>MontbuiCalAlemany</NODE2_NAME>
+          <KMS>4.822</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.632736,41.579995 1.591200,41.549800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29534">
+          <NODE1_ID>23428</NODE1_ID>
+          <NODE1_NAME>IgualadaXipreret</NODE1_NAME>
+          <NODE2_ID>1801</NODE2_ID>
+          <NODE2_NAME>IgualadaSerraMarsal</NODE2_NAME>
+          <KMS>0.532</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622897,41.581950 1.628092,41.579172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29785">
+          <NODE1_ID>27636</NODE1_ID>
+          <NODE1_NAME>IgualadaCervantes</NODE1_NAME>
+          <NODE2_ID>23428</NODE2_ID>
+          <NODE2_NAME>IgualadaXipreret</NODE2_NAME>
+          <KMS>0.745</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.613960,41.581818 1.622897,41.581950</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30402">
+          <NODE1_ID>29244</NODE1_ID>
+          <NODE1_NAME>IgualadaAlmudena5</NODE1_NAME>
+          <NODE2_ID>14095</NODE2_ID>
+          <NODE2_NAME>IgualadaPratsDeRei</NODE2_NAME>
+          <KMS>0.691</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604304,41.587123 1.612570,41.587572</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31175">
+          <NODE1_ID>27899</NODE1_ID>
+          <NODE1_NAME>OdenaBohigas</NODE1_NAME>
+          <NODE2_ID>23428</NODE2_ID>
+          <NODE2_NAME>IgualadaXipreret</NODE2_NAME>
+          <KMS>3.33</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.656382,41.598298 1.622897,41.581950</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35966">
+          <NODE1_ID>40426</NODE1_ID>
+          <NODE1_NAME>IgualadaBisbeRobuste</NODE1_NAME>
+          <NODE2_ID>1801</NODE2_ID>
+          <NODE2_NAME>IgualadaSerraMarsal</NODE2_NAME>
+          <KMS>0.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.631318,41.576858 1.628092,41.579172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36211">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>40619</NODE2_ID>
+          <NODE2_NAME>OriginalBuff</NODE2_NAME>
+          <KMS>5.897</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.630366,41.589579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36212">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>14076</NODE2_ID>
+          <NODE2_NAME>IgualadaRedRec</NODE2_NAME>
+          <KMS>4.828</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.627890,41.576100</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36303">
+          <NODE1_ID>40623</NODE1_ID>
+          <NODE1_NAME>OriginalBuffMagatzem</NODE1_NAME>
+          <NODE2_ID>40619</NODE2_ID>
+          <NODE2_NAME>OriginalBuff</NODE2_NAME>
+          <KMS>0.629</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.631428,41.595183 1.630366,41.589579</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38825">
+          <NODE1_ID>42783</NODE1_ID>
+          <NODE1_NAME>IgualadaGasparCamps</NODE1_NAME>
+          <NODE2_ID>1801</NODE2_ID>
+          <NODE2_NAME>IgualadaSerraMarsal</NODE2_NAME>
+          <KMS>0.537</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.633106,41.576133 1.628092,41.579172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39980">
+          <NODE1_ID>43671</NODE1_ID>
+          <NODE1_NAME>IgualadaEquipCeramic</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.621878,41.590797 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40158">
+          <NODE1_ID>43751</NODE1_ID>
+          <NODE1_NAME>IgualadaPlCastells</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.609985,41.580894 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46122">
+          <NODE1_ID>32613</NODE1_ID>
+          <NODE1_NAME>MontbuiIomo</NODE1_NAME>
+          <NODE2_ID>2108</NODE2_ID>
+          <NODE2_NAME>IgualadaMarius</NODE2_NAME>
+          <KMS>1.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.608272,41.573329 1.618019,41.581713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49695">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>23428</NODE2_ID>
+          <NODE2_NAME>IgualadaXipreret</NODE2_NAME>
+          <KMS>4.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.622897,41.581950</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51359">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>51084</NODE2_ID>
+          <NODE2_NAME>PieraCanMarti</NODE2_NAME>
+          <KMS>9.056</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.737943,41.575854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51361">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51756">
+          <NODE1_ID>52497</NODE1_ID>
+          <NODE1_NAME>IgualadaFFCC</NODE1_NAME>
+          <NODE2_ID>52312</NODE2_ID>
+          <NODE2_NAME>IguanaHQ</NODE2_NAME>
+          <KMS>1.104</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.631684,41.577176 1.630381,41.587067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55468">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>14075</NODE2_ID>
+          <NODE2_NAME>MontbuiVictorQ</NODE2_NAME>
+          <KMS>4.111</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.604870,41.555400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57160">
+          <NODE1_ID>56415</NODE1_ID>
+          <NODE1_NAME>VDCAjuntament</NODE1_NAME>
+          <NODE2_ID>52497</NODE2_ID>
+          <NODE2_NAME>IgualadaFFCC</NODE2_NAME>
+          <KMS>0.584</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.633970,41.572210 1.631684,41.577176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58193">
+          <NODE1_ID>52312</NODE1_ID>
+          <NODE1_NAME>IguanaHQ</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630381,41.587067 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58580">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>57435</NODE2_ID>
+          <NODE2_NAME>IBoi1</NODE2_NAME>
+          <KMS>4.858</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.628385,41.576003</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58754">
+          <NODE1_ID>56935</NODE1_ID>
+          <NODE1_NAME>IGDCapellades29</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>5.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622774,41.585703 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59201">
+          <NODE1_ID>53608</NODE1_ID>
+          <NODE1_NAME>IGUVIRTUT12</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>4.606</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.622692,41.578336 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60109">
+          <NODE1_ID>56415</NODE1_ID>
+          <NODE1_NAME>VDCAjuntament</NODE1_NAME>
+          <NODE2_ID>52497</NODE2_ID>
+          <NODE2_NAME>IgualadaFFCC</NODE2_NAME>
+          <KMS>0.584</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.633970,41.572210 1.631684,41.577176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61882">
+          <NODE1_ID>14075</NODE1_ID>
+          <NODE1_NAME>MontbuiVictorQ</NODE1_NAME>
+          <NODE2_ID>59773</NODE2_ID>
+          <NODE2_NAME>ILaF</NODE2_NAME>
+          <KMS>2.674</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604870,41.555400 1.610338,41.579124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61883">
+          <NODE1_ID>56415</NODE1_ID>
+          <NODE1_NAME>VDCAjuntament</NODE1_NAME>
+          <NODE2_ID>59773</NODE2_ID>
+          <NODE2_NAME>ILaF</NODE2_NAME>
+          <KMS>2.115</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.633970,41.572210 1.610338,41.579124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62582">
+          <NODE1_ID>2108</NODE1_ID>
+          <NODE1_NAME>IgualadaMarius</NODE1_NAME>
+          <NODE2_ID>56415</NODE2_ID>
+          <NODE2_NAME>VDCAjuntament</NODE2_NAME>
+          <KMS>1.698</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.618019,41.581713 1.633970,41.572210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63585">
+          <NODE1_ID>52497</NODE1_ID>
+          <NODE1_NAME>IgualadaFFCC</NODE1_NAME>
+          <NODE2_ID>60992</NODE2_ID>
+          <NODE2_NAME>IEsc</NODE2_NAME>
+          <KMS>1.988</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.631684,41.577176 1.609083,41.582880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63586">
+          <NODE1_ID>52497</NODE1_ID>
+          <NODE1_NAME>IgualadaFFCC</NODE1_NAME>
+          <NODE2_ID>60992</NODE2_ID>
+          <NODE2_NAME>IEsc</NODE2_NAME>
+          <KMS>1.988</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.631684,41.577176 1.609083,41.582880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67123">
+          <NODE1_ID>40619</NODE1_ID>
+          <NODE1_NAME>OriginalBuff</NODE1_NAME>
+          <NODE2_ID>56415</NODE2_ID>
+          <NODE2_NAME>VDCAjuntament</NODE2_NAME>
+          <KMS>1.952</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.630366,41.589579 1.633970,41.572210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75581">
+          <NODE1_ID>31628</NODE1_ID>
+          <NODE1_NAME>MontbuiKurast</NODE1_NAME>
+          <NODE2_ID>59773</NODE2_ID>
+          <NODE2_NAME>ILaF</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605082,41.579393 1.610338,41.579124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

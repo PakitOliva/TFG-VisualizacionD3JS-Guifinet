@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.754910</gml:X><gml:Y>40.300134</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.703423</gml:X><gml:Y>40.319629</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="57039">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.703423,40.319629</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57039</NODE_ID>
+      <NODE_NAME>GETCOLODRA5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55628">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.754910,40.301024</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55628</NODE_ID>
+      <NODE_NAME>GETJavierBueno001</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61577">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.740389,40.300134</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61577</NODE_ID>
+      <NODE_NAME>GETpiedraspreciosas2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.202389</gml:X><gml:Y>40.655850</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.164987</gml:X><gml:Y>40.729364</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="32781">
+          <NODE1_ID>35031</NODE1_ID>
+          <NODE1_NAME>SoritaHostal</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.339</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165921,40.728795 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34808">
+          <NODE1_ID>39482</NODE1_ID>
+          <NODE1_NAME>Sorita-Baja20</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166823,40.728202 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34809">
+          <NODE1_ID>39483</NODE1_ID>
+          <NODE1_NAME>Sorita-Plaza45</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167488,40.728617 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34810">
+          <NODE1_ID>39484</NODE1_ID>
+          <NODE1_NAME>Sorita-Plaza40</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167574,40.728649 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34964">
+          <NODE1_ID>39610</NODE1_ID>
+          <NODE1_NAME>Zorita_Portalet7</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167702,40.729364 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34965">
+          <NODE1_ID>39611</NODE1_ID>
+          <NODE1_NAME>Zorita_Alta56</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.276</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167133,40.729291 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34966">
+          <NODE1_ID>39640</NODE1_ID>
+          <NODE1_NAME>Sorita_JoseBarberan</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167111,40.727616 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34967">
+          <NODE1_ID>39641</NODE1_ID>
+          <NODE1_NAME>Zorita_ManClem</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166919,40.729218 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40421">
+          <NODE1_ID>36903</NODE1_ID>
+          <NODE1_NAME>FrcllRptdr</NODE1_NAME>
+          <NODE2_ID>35031</NODE2_ID>
+          <NODE2_NAME>SoritaHostal</NODE2_NAME>
+          <KMS>8.667</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.202389,40.655850 -0.165921,40.728795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41533">
+          <NODE1_ID>44904</NODE1_ID>
+          <NODE1_NAME>Sorita_Lluis</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167304,40.728998 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41877">
+          <NODE1_ID>45231</NODE1_ID>
+          <NODE1_NAME>Sorita_FranBlas</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167391,40.728811 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41882">
+          <NODE1_ID>45244</NODE1_ID>
+          <NODE1_NAME>Sorita_LoliVilla</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167627,40.728754 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42528">
+          <NODE1_ID>45758</NODE1_ID>
+          <NODE1_NAME>Zorita_AnaCaba</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167713,40.728746 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42815">
+          <NODE1_ID>45972</NODE1_ID>
+          <NODE1_NAME>Zorita_JuanRaBar</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165470,40.728404 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42904">
+          <NODE1_ID>46046</NODE1_ID>
+          <NODE1_NAME>Sorita_LaDelBar</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166304,40.728795 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43311">
+          <NODE1_ID>46364</NODE1_ID>
+          <NODE1_NAME>Zorita_RamonManpel</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167938,40.728454 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43715">
+          <NODE1_ID>46615</NODE1_ID>
+          <NODE1_NAME>Sorita_AngelGuarch</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.332</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166017,40.728827 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44080">
+          <NODE1_ID>46888</NODE1_ID>
+          <NODE1_NAME>Sorita_rafaellopez</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166146,40.728884 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47124">
+          <NODE1_ID>39610</NODE1_ID>
+          <NODE1_NAME>Zorita_Portalet7</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.246</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167702,40.729364 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49722">
+          <NODE1_ID>51014</NODE1_ID>
+          <NODE1_NAME>Sorita_Rafa1</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166244,40.728884 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49757">
+          <NODE1_ID>51042</NODE1_ID>
+          <NODE1_NAME>Sorita_RoserReina</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.286</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166335,40.728108 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49758">
+          <NODE1_ID>51044</NODE1_ID>
+          <NODE1_NAME>Sorita_RobertoSanche</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167311,40.728637 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50030">
+          <NODE1_ID>51286</NODE1_ID>
+          <NODE1_NAME>Sorita_FranciscoPita</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166308,40.728848 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50205">
+          <NODE1_ID>51446</NODE1_ID>
+          <NODE1_NAME>Sorita_LuisGonAlcon</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167021,40.729198 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50206">
+          <NODE1_ID>51448</NODE1_ID>
+          <NODE1_NAME>Sorita_GabrielMartiB</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167118,40.728751 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50238">
+          <NODE1_ID>51482</NODE1_ID>
+          <NODE1_NAME>Sorita_JoseRamonMart</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167343,40.728507 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50290">
+          <NODE1_ID>51516</NODE1_ID>
+          <NODE1_NAME>Sorita_SantiagoSanch</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167075,40.728401 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51106">
+          <NODE1_ID>52148</NODE1_ID>
+          <NODE1_NAME>Jorda</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.167595,40.728875 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63774">
+          <NODE1_ID>61075</NODE1_ID>
+          <NODE1_NAME>Sorita_J.R.Blasco</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164987,40.728925 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63812">
+          <NODE1_ID>39576</NODE1_ID>
+          <NODE1_NAME>SoritaChimet</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166383,40.728901 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74922">
+          <NODE1_ID>35867</NODE1_ID>
+          <NODE1_NAME>SoritaAjuntament</NODE1_NAME>
+          <NODE2_ID>37801</NODE2_ID>
+          <NODE2_NAME>SoritaCasilla</NODE2_NAME>
+          <KMS>0.364</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165524,40.728576 -0.169687,40.727747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

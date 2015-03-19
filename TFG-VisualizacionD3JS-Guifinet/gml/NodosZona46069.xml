@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.615614</gml:X><gml:Y>41.195713</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.640801</gml:X><gml:Y>41.228678</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="32586">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.620408,41.201139</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32586</NODE_ID>
+      <NODE_NAME>CU.Sergy</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42143">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.615666,41.198823</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42143</NODE_ID>
+      <NODE_NAME>CunitOAtlantic</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60032">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.615614,41.196372</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60032</NODE_ID>
+      <NODE_NAME>CunitAvellaners2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64184">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.623207,41.207201</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64184</NODE_ID>
+      <NODE_NAME>CunitDeLaRosa5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67922">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.634595,41.201903</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67922</NODE_ID>
+      <NODE_NAME>CunitEnricGranados48</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70601">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.621562,41.223644</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70601</NODE_ID>
+      <NODE_NAME>Cunit-Ctti</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74672">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.640801,41.195713</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74672</NODE_ID>
+      <NODE_NAME>apartamentmanzano</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75650">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.621510,41.219015</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75650</NODE_ID>
+      <NODE_NAME>CUNIT-LosJardines</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76786">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.634454,41.228678</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76786</NODE_ID>
+      <NODE_NAME>CGhml</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

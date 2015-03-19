@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.744914</gml:X><gml:Y>41.715360</gml:Y></gml:coord>
+<gml:coord><gml:X>1.904148</gml:X><gml:Y>41.821312</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="51076">
+          <NODE1_ID>35484</NODE1_ID>
+          <NODE1_NAME>RiverPark1</NODE1_NAME>
+          <NODE2_ID>42812</NODE2_ID>
+          <NODE2_NAME>MNPalauFiral</NODE2_NAME>
+          <KMS>4.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.889831,41.715360 1.846948,41.738661</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76760">
+          <NODE1_ID>71738</NODE1_ID>
+          <NODE1_NAME>RiverPark-ST</NODE1_NAME>
+          <NODE2_ID>62637</NODE2_ID>
+          <NODE2_NAME>CSTLL9Montserrat</NODE2_NAME>
+          <KMS>10.857</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902327,41.716259 1.833357,41.799251</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76764">
+          <NODE1_ID>64502</NODE1_ID>
+          <NODE1_NAME>SFBStSebastia1</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>2.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.883359,41.738645 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76766">
+          <NODE1_ID>71738</NODE1_ID>
+          <NODE1_NAME>RiverPark-ST</NODE1_NAME>
+          <NODE2_ID>52791</NODE2_ID>
+          <NODE2_NAME>SLLCaravaning</NODE2_NAME>
+          <KMS>7.497</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902327,41.716259 1.887669,41.782861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76767">
+          <NODE1_ID>71742</NODE1_ID>
+          <NODE1_NAME>PVRPGeneta12</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900179,41.719422 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76768">
+          <NODE1_ID>71744</NODE1_ID>
+          <NODE1_NAME>MNCampingZA</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>4.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.860028,41.738440 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77461">
+          <NODE1_ID>68885</NODE1_ID>
+          <NODE1_NAME>SFBBrucardesNuria</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>2.877</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.887690,41.739730 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78665">
+          <NODE1_ID>71738</NODE1_ID>
+          <NODE1_NAME>RiverPark-ST</NODE1_NAME>
+          <NODE2_ID>73364</NODE2_ID>
+          <NODE2_NAME>PVRPDaina3</NODE2_NAME>
+          <KMS>0.313</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902327,41.716259 1.904148,41.718729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78714">
+          <NODE1_ID>70361</NODE1_ID>
+          <NODE1_NAME>FONMiradorCanet62Rd1</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>13.927</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744914,41.758940 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79262">
+          <NODE1_ID>73909</NODE1_ID>
+          <NODE1_NAME>PVRPDaina5</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.903730,41.718571 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79605">
+          <NODE1_ID>30651</NODE1_ID>
+          <NODE1_NAME>SLLTorreTel</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>11.669</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901154,41.821312 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79796">
+          <NODE1_ID>73976</NODE1_ID>
+          <NODE1_NAME>PVRPPodencs33</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902304,41.715879 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80822">
+          <NODE1_ID>73909</NODE1_ID>
+          <NODE1_NAME>PVRPDaina5</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.903730,41.718571 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80823">
+          <NODE1_ID>71738</NODE1_ID>
+          <NODE1_NAME>RiverPark-ST</NODE1_NAME>
+          <NODE2_ID>73909</NODE2_ID>
+          <NODE2_NAME>PVRPDaina5</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902327,41.716259 1.903730,41.718571</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81037">
+          <NODE1_ID>73364</NODE1_ID>
+          <NODE1_NAME>PVRPDaina3</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>0.313</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.904148,41.718729 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123088">
+          <NODE1_ID>71738</NODE1_ID>
+          <NODE1_NAME>RiverPark-ST</NODE1_NAME>
+          <NODE2_ID>76932</NODE2_ID>
+          <NODE2_NAME>SFBBrucardesStEloi2</NODE2_NAME>
+          <KMS>3.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902327,41.716259 1.882305,41.738885</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123497">
+          <NODE1_ID>76932</NODE1_ID>
+          <NODE1_NAME>SFBBrucardesStEloi2</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>3.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.882305,41.738885 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

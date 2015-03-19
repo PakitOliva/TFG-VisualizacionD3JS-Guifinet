@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>0.917609</gml:X><gml:Y>41.042720</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.114333</gml:X><gml:Y>41.100356</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="4533">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.085466,41.070085</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4533</NODE_ID>
+      <NODE_NAME>Esquirol</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23391">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.086074,41.100356</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23391</NODE_ID>
+      <NODE_NAME>CMBhrtg</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57483">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.092501,41.070526</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57483</NODE_ID>
+      <NODE_NAME>ReusMediterrani</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61992">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.114333,41.073861</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61992</NODE_ID>
+      <NODE_NAME>TabCam</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64459">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.071784,41.069776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64459</NODE_ID>
+      <NODE_NAME>CBRILS-Torre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73992">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.917609,41.042720</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73992</NODE_ID>
+      <NODE_NAME>GolfBonmont</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75423">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.099222,41.070542</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75423</NODE_ID>
+      <NODE_NAME>CamDip118</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

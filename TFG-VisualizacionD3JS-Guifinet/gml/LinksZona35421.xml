@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.585459</gml:X><gml:Y>40.963713</gml:Y></gml:coord>
+<gml:coord><gml:X>-3.582087</gml:X><gml:Y>40.966825</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="34626">
+          <NODE1_ID>39311</NODE1_ID>
+          <NODE1_NAME>MJRFresno20</NODE1_NAME>
+          <NODE2_ID>39310</NODE2_ID>
+          <NODE2_NAME>MJRIglesia16</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.585459,40.966524 -3.582358,40.963713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38310">
+          <NODE1_ID>40149</NODE1_ID>
+          <NODE1_NAME>MJRestrella8</NODE1_NAME>
+          <NODE2_ID>39310</NODE2_ID>
+          <NODE2_NAME>MJRIglesia16</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.583296,40.965417 -3.582358,40.963713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38320">
+          <NODE1_ID>42411</NODE1_ID>
+          <NODE1_NAME>MNJCanteras2</NODE1_NAME>
+          <NODE2_ID>39310</NODE2_ID>
+          <NODE2_NAME>MJRIglesia16</NODE2_NAME>
+          <KMS>0.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.582087,40.966825 -3.582358,40.963713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

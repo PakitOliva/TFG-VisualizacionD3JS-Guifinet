@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.133493</gml:X><gml:Y>41.754504</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.159371</gml:X><gml:Y>41.762471</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="42121">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.159371,41.754504</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42121</NODE_ID>
+      <NODE_NAME>OssoSioAjunament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43373">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.133493,41.762471</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43373</NODE_ID>
+      <NODE_NAME>OssoSioTDT</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

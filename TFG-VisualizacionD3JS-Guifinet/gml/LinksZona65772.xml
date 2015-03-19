@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.952045</gml:X><gml:Y>42.234436</gml:Y></gml:coord>
+<gml:coord><gml:X>2.957893</gml:X><gml:Y>42.260909</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="69888">
+          <NODE1_ID>65771</NODE1_ID>
+          <NODE1_NAME>StaLlogFigueres32</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>2.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.952045,42.234436 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

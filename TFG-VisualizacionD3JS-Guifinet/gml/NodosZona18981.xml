@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.892433</gml:X><gml:Y>42.203400</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.933183</gml:X><gml:Y>42.221359</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="18982">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.894117,42.221359</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18982</NODE_ID>
+      <NODE_NAME>SJCNoguera</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="21820">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.933183,42.203400</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21820</NODE_ID>
+      <NODE_NAME>SJCCSMiquel</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35382">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.892433,42.207633</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35382</NODE_ID>
+      <NODE_NAME>SJCMalPas</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

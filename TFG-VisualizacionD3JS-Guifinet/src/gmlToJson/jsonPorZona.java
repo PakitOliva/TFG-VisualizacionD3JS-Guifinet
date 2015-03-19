@@ -44,16 +44,16 @@ public class jsonPorZona {
 	        crearArchivoJSON(zona.zonaJSONtoString());
 	        
 	    }catch ( IOException io ) {
-	        System.out.println( io.getMessage() );
+	        //System.out.println( io.getMessage() );
 	    }catch ( JDOMException jdomex ) {
-	        System.out.println( jdomex.getMessage() );
+	        //System.out.println( jdomex.getMessage() );
 	    }
 	}
 	private void crearArchivoJSON(String texto){
 		FileWriter fichero = null;
         try
         {
-            fichero = new FileWriter("web/datos/guifi-zona-"+idZona+".json");
+            fichero = new FileWriter("web-d3js/datos/guifi-zona-"+idZona+".json");
             fichero.write(texto);
             fichero.flush();
         } catch (Exception e) {

@@ -24,7 +24,7 @@ public class GMLdownload {
 			URLConnection urlCon = url.openConnection();
 
 			// Sacamos por pantalla el tipo de fichero
-			System.out.println(urlCon.getContentType());
+			//System.out.println(urlCon.getContentType());
 
 			// Se obtiene el inputStream de la foto web y se abre el fichero
 			// local.

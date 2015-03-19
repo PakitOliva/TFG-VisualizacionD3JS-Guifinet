@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-8.234618</gml:X><gml:Y>43.477347</gml:Y></gml:coord>
+      <gml:coord><gml:X>-8.113527</gml:X><gml:Y>43.566628</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="20300">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.234618,43.484734</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20300</NODE_ID>
+      <NODE_NAME>cabazo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.113527,43.539244</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32557</NODE_ID>
+      <NODE_NAME>pedrosolinux</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32050">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.218913,43.488860</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32050</NODE_ID>
+      <NODE_NAME>FERUltramar3</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32051">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.200221,43.492324</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32051</NODE_ID>
+      <NODE_NAME>NARRuaVigo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32052">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.221523,43.492075</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32052</NODE_ID>
+      <NODE_NAME>FEREnxSanBort</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33843">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.141953,43.555678</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33843</NODE_ID>
+      <NODE_NAME>freixido</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38760">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.155750,43.565070</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38760</NODE_ID>
+      <NODE_NAME>VALBedoxa1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38768">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.158806,43.566628</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38768</NODE_ID>
+      <NODE_NAME>VALBedoxa2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43147">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.168794,43.477347</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43147</NODE_ID>
+      <NODE_NAME>FNtllrs55</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

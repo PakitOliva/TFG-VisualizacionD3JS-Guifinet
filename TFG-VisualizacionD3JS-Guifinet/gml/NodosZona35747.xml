@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.031667</gml:X><gml:Y>40.574667</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.981686</gml:X><gml:Y>40.623278</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="48315">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.981686,40.599452</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48315</NODE_ID>
+      <NODE_NAME>azeno</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35748">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.007580,40.575959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35748</NODE_ID>
+      <NODE_NAME>GALPradoMingo12Piura</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35886">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.003020,40.574667</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35886</NODE_ID>
+      <NODE_NAME>GalSaeta4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53667">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.031667,40.623278</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53667</NODE_ID>
+      <NODE_NAME>MADGalValladolid1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

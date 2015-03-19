@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.988472</gml:X><gml:Y>41.921193</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.029528</gml:X><gml:Y>41.964042</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="11486">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.029528,41.964042</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11486</NODE_ID>
+      <NODE_NAME>puigventos</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66327">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.015640,41.956708</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66327</NODE_ID>
+      <NODE_NAME>CMSSBordeta23</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41194">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.990459,41.956785</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41194</NODE_ID>
+      <NODE_NAME>CalRei</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41087">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.988472,41.959328</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41087</NODE_ID>
+      <NODE_NAME>LesFeixes</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42115">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.993662,41.949687</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42115</NODE_ID>
+      <NODE_NAME>CanCalo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48855">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.018579,41.921193</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48855</NODE_ID>
+      <NODE_NAME>CMSSRabiosesCanFiga</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49753">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.996179,41.957786</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49753</NODE_ID>
+      <NODE_NAME>LesPlantades</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56070">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.995065,41.958461</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56070</NODE_ID>
+      <NODE_NAME>Alsina</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72254">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.990808,41.956522</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72254</NODE_ID>
+      <NODE_NAME>calAiguader</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

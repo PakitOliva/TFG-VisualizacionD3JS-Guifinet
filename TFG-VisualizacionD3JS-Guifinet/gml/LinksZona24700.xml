@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-8.809479</gml:X><gml:Y>42.174649</gml:Y></gml:coord>
+<gml:coord><gml:X>-8.721857</gml:X><gml:Y>42.458239</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="19805">
+          <NODE1_ID>24740</NODE1_ID>
+          <NODE1_NAME>MeanhoSanBieito</NODE1_NAME>
+          <NODE2_ID>24739</NODE2_ID>
+          <NODE2_NAME>MeanhoCentroSocial</NODE2_NAME>
+          <KMS>2.918</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-8.785817,42.429570 -8.809479,42.449143</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19806">
+          <NODE1_ID>24739</NODE1_ID>
+          <NODE1_NAME>MeanhoCentroSocial</NODE1_NAME>
+          <NODE2_ID>24216</NODE2_ID>
+          <NODE2_NAME>basstboneone</NODE2_NAME>
+          <KMS>1.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-8.809479,42.449143 -8.806572,42.458239</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30976">
+          <NODE1_ID>28097</NODE1_ID>
+          <NODE1_NAME>VigoAlga-lab</NODE1_NAME>
+          <NODE2_ID>32668</NODE2_ID>
+          <NODE2_NAME>VIGOcvcValadares</NODE2_NAME>
+          <KMS>0.283</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-8.724400,42.176361 -8.721857,42.174649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

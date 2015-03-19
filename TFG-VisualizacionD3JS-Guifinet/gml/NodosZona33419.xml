@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.906278</gml:X><gml:Y>41.864158</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.950100</gml:X><gml:Y>41.903655</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="35878">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.923680,41.874444</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35878</NODE_ID>
+      <NODE_NAME>CORElGrane</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31036">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.942180,41.888314</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31036</NODE_ID>
+      <NODE_NAME>CORCornet</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33413">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.931534,41.886424</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33413</NODE_ID>
+      <NODE_NAME>COREscoles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33979">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.950100,41.897939</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33979</NODE_ID>
+      <NODE_NAME>SLLCornetPuigventos</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33980">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.943164,41.892708</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33980</NODE_ID>
+      <NODE_NAME>SLLCornetLaTorra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34757">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.937626,41.895458</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34757</NODE_ID>
+      <NODE_NAME>CORRectoria</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35017">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.926953,41.877944</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35017</NODE_ID>
+      <NODE_NAME>CORElPuig</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35742">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.936458,41.903655</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35742</NODE_ID>
+      <NODE_NAME>SLLCornetPratdeCorn</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35879">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.926620,41.875259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35879</NODE_ID>
+      <NODE_NAME>CORElMorral</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36480">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.909347,41.864158</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36480</NODE_ID>
+      <NODE_NAME>CORLaFont</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36588">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.906278,41.874449</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36588</NODE_ID>
+      <NODE_NAME>CORElsPlans</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73511">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.920079,41.877234</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73511</NODE_ID>
+      <NODE_NAME>CORManivertes</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

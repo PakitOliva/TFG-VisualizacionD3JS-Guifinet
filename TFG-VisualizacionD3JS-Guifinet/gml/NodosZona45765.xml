@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.129312</gml:X><gml:Y>41.338344</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.166616</gml:X><gml:Y>41.394380</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="45653">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.159874,41.376386</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45653</NODE_ID>
+      <NODE_NAME>MtbcXicoria</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47954">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.130776,41.338994</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47954</NODE_ID>
+      <NODE_NAME>rojals</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47956">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.130240,41.338344</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47956</NODE_ID>
+      <NODE_NAME>rojals1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47957">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.129312,41.338401</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47957</NODE_ID>
+      <NODE_NAME>rojals2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69523">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.166616,41.368319</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69523</NODE_ID>
+      <NODE_NAME>MONTmallorca4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73728">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.140937,41.394380</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73728</NODE_ID>
+      <NODE_NAME>MontblancVidre</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73910">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.164025,41.375929</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73910</NODE_ID>
+      <NODE_NAME>MTBJaumeII</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73911">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.164487,41.375760</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73911</NODE_ID>
+      <NODE_NAME>MTBCASAL</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74850">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.165889,41.367934</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74850</NODE_ID>
+      <NODE_NAME>MONTarago16</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76448">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.153516,41.374207</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76448</NODE_ID>
+      <NODE_NAME>MontJoanAmades</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

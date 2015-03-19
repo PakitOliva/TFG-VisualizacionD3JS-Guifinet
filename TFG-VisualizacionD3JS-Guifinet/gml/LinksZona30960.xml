@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.008988</gml:X><gml:Y>40.396764</gml:Y></gml:coord>
+<gml:coord><gml:X>0.202112</gml:X><gml:Y>40.584052</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="26025">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>2.049</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26046">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.268</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26047">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26056">
+          <NODE1_ID>31479</NODE1_ID>
+          <NODE1_NAME>SMat-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180089,40.465748 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26117">
+          <NODE1_ID>31530</NODE1_ID>
+          <NODE1_NAME>SMat-Palau</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180000,40.465876 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26578">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>31927</NODE2_ID>
+          <NODE2_NAME>SMat-Serv-Socials</NODE2_NAME>
+          <KMS>1.89</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.182417,40.464421</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26584">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>31933</NODE2_ID>
+          <NODE2_NAME>SMat-Escoleta</NODE2_NAME>
+          <KMS>0.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.178056,40.467290</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26984">
+          <NODE1_ID>31934</NODE1_ID>
+          <NODE1_NAME>SMat-CentreSalut</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179064,40.461062 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26985">
+          <NODE1_ID>32311</NODE1_ID>
+          <NODE1_NAME>SMat-Bliblioteca</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181199,40.465715 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26986">
+          <NODE1_ID>32312</NODE1_ID>
+          <NODE1_NAME>SMat-Jubilats</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178528,40.462826 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26987">
+          <NODE1_ID>32313</NODE1_ID>
+          <NODE1_NAME>SMat-Piscina</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.874</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180202,40.458671 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27662">
+          <NODE1_ID>33015</NODE1_ID>
+          <NODE1_NAME>SMat-Escola</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.858</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182740,40.464287 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27663">
+          <NODE1_ID>33016</NODE1_ID>
+          <NODE1_NAME>SMat-Auditori</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.942</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179257,40.457577 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27664">
+          <NODE1_ID>33017</NODE1_ID>
+          <NODE1_NAME>SMat-Poliesportiu</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.896</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181330,40.462768 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28111">
+          <NODE1_ID>33471</NODE1_ID>
+          <NODE1_NAME>SMatPortalCanetAngel</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180309,40.467878 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28270">
+          <NODE1_ID>33595</NODE1_ID>
+          <NODE1_NAME>SMat-StJoan</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.927</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.186274,40.468907 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28288">
+          <NODE1_ID>33626</NODE1_ID>
+          <NODE1_NAME>SMat-Montesa4</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.371</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179654,40.461895 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28385">
+          <NODE1_ID>33548</NODE1_ID>
+          <NODE1_NAME>SMat-La.Cort</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178899,40.465314 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28394">
+          <NODE1_ID>33699</NODE1_ID>
+          <NODE1_NAME>SMat-PortalXert20</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181049,40.468139 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28463">
+          <NODE1_ID>33782</NODE1_ID>
+          <NODE1_NAME>SMat-HistBeti22</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179751,40.466131 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28471">
+          <NODE1_ID>33202</NODE1_ID>
+          <NODE1_NAME>SMat-JoseMateo</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.55</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176001,40.461782 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28634">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>33920</NODE2_ID>
+          <NODE2_NAME>SMat-Cachano1</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.178313,40.463911</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28649">
+          <NODE1_ID>33917</NODE1_ID>
+          <NODE1_NAME>SMat-LaFira5</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177702,40.463348 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28881">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>34126</NODE2_ID>
+          <NODE2_NAME>SMat-PlMajor1</NODE2_NAME>
+          <KMS>0.239</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.180417,40.465592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28936">
+          <NODE1_ID>34194</NODE1_ID>
+          <NODE1_NAME>SMatOrdreDeMontesa3</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179901,40.461724 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29079">
+          <NODE1_ID>34415</NODE1_ID>
+          <NODE1_NAME>SMat-HistBeti37</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179569,40.466111 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29199">
+          <NODE1_ID>34538</NODE1_ID>
+          <NODE1_NAME>S.Mat-Llibertat14</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.817</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181100,40.459644 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29204">
+          <NODE1_ID>34546</NODE1_ID>
+          <NODE1_NAME>S.Mat-SantDomenec28</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181400,40.465700 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29484">
+          <NODE1_ID>34831</NODE1_ID>
+          <NODE1_NAME>S.Mat-Llibertat2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.655</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180138,40.459250 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29546">
+          <NODE1_ID>34866</NODE1_ID>
+          <NODE1_NAME>SMatValencia33</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179204,40.464270 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29770">
+          <NODE1_ID>35057</NODE1_ID>
+          <NODE1_NAME>SMat-MusicMorera</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180244,40.463160 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29830">
+          <NODE1_ID>35108</NODE1_ID>
+          <NODE1_NAME>SMat-Constitucio7</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.326</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178882,40.462573 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29937">
+          <NODE1_ID>35181</NODE1_ID>
+          <NODE1_NAME>Fira,28</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.301</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177587,40.463939 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30047">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>35288</NODE2_ID>
+          <NODE2_NAME>Bastida,10</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.180169,40.462303</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30208">
+          <NODE1_ID>35409</NODE1_ID>
+          <NODE1_NAME>SMatPartMolinsPol25</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.563</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.195973,40.469739 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30210">
+          <NODE1_ID>35411</NODE1_ID>
+          <NODE1_NAME>SMatAvdAngels39</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.647</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.184611,40.462899 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30320">
+          <NODE1_ID>35249</NODE1_ID>
+          <NODE1_NAME>SMat-SantDomenech</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180969,40.465726 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30478">
+          <NODE1_ID>35624</NODE1_ID>
+          <NODE1_NAME>Pza.Major,3</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.226</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180285,40.465516 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30679">
+          <NODE1_ID>35829</NODE1_ID>
+          <NODE1_NAME>SMatCantacorps29D</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177026,40.466384 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31190">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>34909</NODE2_ID>
+          <NODE2_NAME>SMATLaVerge6</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.176672,40.465212</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31191">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>36293</NODE2_ID>
+          <NODE2_NAME>Constitucio,40</NODE2_NAME>
+          <KMS>1.986</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.179004,40.459333</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31261">
+          <NODE1_ID>31479</NODE1_ID>
+          <NODE1_NAME>SMat-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180089,40.465748 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31262">
+          <NODE1_ID>31479</NODE1_ID>
+          <NODE1_NAME>SMat-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180089,40.465748 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31263">
+          <NODE1_ID>31530</NODE1_ID>
+          <NODE1_NAME>SMat-Palau</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180000,40.465876 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31395">
+          <NODE1_ID>36499</NODE1_ID>
+          <NODE1_NAME>SMatSantoDomingo12</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180770,40.465576 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31674">
+          <NODE1_ID>36774</NODE1_ID>
+          <NODE1_NAME>SMatLosAngeles48</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.861</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182412,40.463846 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31737">
+          <NODE1_ID>34175</NODE1_ID>
+          <NODE1_NAME>SMatPtdaCampsParc397</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.48</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182776,40.473216 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31909">
+          <NODE1_ID>36985</NODE1_ID>
+          <NODE1_NAME>SMatROSI</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>3.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.183034,40.481377 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31951">
+          <NODE1_ID>37018</NODE1_ID>
+          <NODE1_NAME>SMatCantacorps62</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176489,40.466189 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32124">
+          <NODE1_ID>37166</NODE1_ID>
+          <NODE1_NAME>SMatLaCort13</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179054,40.465242 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32481">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>37530</NODE2_ID>
+          <NODE2_NAME>stmngls76</NODE2_NAME>
+          <KMS>1.651</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.184300,40.462462</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32532">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>37524</NODE2_ID>
+          <NODE2_NAME>PSanM</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.178539,40.465246</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32713">
+          <NODE1_ID>37724</NODE1_ID>
+          <NODE1_NAME>SMatCachano17</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177873,40.463789 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32933">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>37949</NODE2_ID>
+          <NODE2_NAME>SMat-LaBastida18</NODE2_NAME>
+          <KMS>1.947</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.180620,40.462638</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33076">
+          <NODE1_ID>38060</NODE1_ID>
+          <NODE1_NAME>SMat.FisicGarciaMoli</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181117,40.464840 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33332">
+          <NODE1_ID>37952</NODE1_ID>
+          <NODE1_NAME>SMat-SantGil17</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178028,40.465778 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33433">
+          <NODE1_ID>38390</NODE1_ID>
+          <NODE1_NAME>S.Mateu-Virgen.Pilar</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.21</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178336,40.465435 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33659">
+          <NODE1_ID>38590</NODE1_ID>
+          <NODE1_NAME>SMat-BeatoJacinto25</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179200,40.465103 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33720">
+          <NODE1_ID>38641</NODE1_ID>
+          <NODE1_NAME>SMtSntMt4</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.474</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182176,40.460993 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33729">
+          <NODE1_ID>38652</NODE1_ID>
+          <NODE1_NAME>S.Mat-Morella,47</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177908,40.466050 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33763">
+          <NODE1_ID>34174</NODE1_ID>
+          <NODE1_NAME>SMatGallo1</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177916,40.464279 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34013">
+          <NODE1_ID>38884</NODE1_ID>
+          <NODE1_NAME>SMat-Parres22</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179687,40.466017 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34081">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>38962</NODE2_ID>
+          <NODE2_NAME>SMat-MJesusF16</NODE2_NAME>
+          <KMS>2.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.179239,40.463908</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34663">
+          <NODE1_ID>38819</NODE1_ID>
+          <NODE1_NAME>SMat-HBeti44</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179547,40.466615 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35293">
+          <NODE1_ID>39873</NODE1_ID>
+          <NODE1_NAME>S.Mat-Angels,44</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.895</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182077,40.464031 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35429">
+          <NODE1_ID>40018</NODE1_ID>
+          <NODE1_NAME>S.Mat-San.Francesc,5</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176696,40.465005 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35461">
+          <NODE1_ID>40052</NODE1_ID>
+          <NODE1_NAME>SMatMorella7</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179601,40.465389 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35514">
+          <NODE1_ID>40086</NODE1_ID>
+          <NODE1_NAME>SMatHBeti25</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179708,40.466001 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35572">
+          <NODE1_ID>40118</NODE1_ID>
+          <NODE1_NAME>SMat-SetOliveras</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.402</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174183,40.452864 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35588">
+          <NODE1_ID>40121</NODE1_ID>
+          <NODE1_NAME>SMat-Bellaguarda5</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.251</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177037,40.463111 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35697">
+          <NODE1_ID>40216</NODE1_ID>
+          <NODE1_NAME>SMat-SDomenech15</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180743,40.465672 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36074">
+          <NODE1_ID>39127</NODE1_ID>
+          <NODE1_NAME>MorTossalGros</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>21.646</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.008988,40.584052 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36495">
+          <NODE1_ID>40847</NODE1_ID>
+          <NODE1_NAME>SMatAvdAngels34</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.921</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181725,40.464001 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36645">
+          <NODE1_ID>40938</NODE1_ID>
+          <NODE1_NAME>SMatZaragoza33</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177026,40.465756 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36886">
+          <NODE1_ID>41095</NODE1_ID>
+          <NODE1_NAME>SMatBeatoJacinto25-2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179526,40.464156 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37016">
+          <NODE1_ID>41254</NODE1_ID>
+          <NODE1_NAME>SMateu-PalauMestres1</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181510,40.465989 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37345">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>41552</NODE2_ID>
+          <NODE2_NAME>S.Mat-Historiador.Be</NODE2_NAME>
+          <KMS>0.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.179765,40.466566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37364">
+          <NODE1_ID>41569</NODE1_ID>
+          <NODE1_NAME>SMatQuatremitjana9-2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178163,40.461968 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37397">
+          <NODE1_ID>41536</NODE1_ID>
+          <NODE1_NAME>SMatLaCort45-2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.239</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177970,40.464932 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37547">
+          <NODE1_ID>41678</NODE1_ID>
+          <NODE1_NAME>SMatBellaguarda15</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176768,40.463168 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37581">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>41739</NODE2_ID>
+          <NODE2_NAME>SMatSantFrancesc50</NODE2_NAME>
+          <KMS>0.316</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.177069,40.464874</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37626">
+          <NODE1_ID>41761</NODE1_ID>
+          <NODE1_NAME>SMat-MJesusF16Bis</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178847,40.464876 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37696">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>34173</NODE2_ID>
+          <NODE2_NAME>SMatSantBernat4</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.180191,40.465176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37706">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>41829</NODE2_ID>
+          <NODE2_NAME>SMat-PlaSantPere43</NODE2_NAME>
+          <KMS>7.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.177916,40.396764</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37727">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>39032</NODE2_ID>
+          <NODE2_NAME>SMatSantFrancesc39</NODE2_NAME>
+          <KMS>2.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.177004,40.464874</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37794">
+          <NODE1_ID>41925</NODE1_ID>
+          <NODE1_NAME>SMatArrabalBarce27B</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180545,40.465976 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37843">
+          <NODE1_ID>36064</NODE1_ID>
+          <NODE1_NAME>SMatPortalXert11</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180867,40.468352 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37900">
+          <NODE1_ID>36484</NODE1_ID>
+          <NODE1_NAME>SMatPortalXert5</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.24</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180427,40.467984 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37952">
+          <NODE1_ID>34176</NODE1_ID>
+          <NODE1_NAME>SMatSantDomingo16</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180953,40.465650 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38097">
+          <NODE1_ID>42122</NODE1_ID>
+          <NODE1_NAME>SMat-Cantacorps38</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>7.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176914,40.396764 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38098">
+          <NODE1_ID>42198</NODE1_ID>
+          <NODE1_NAME>SMat-LaBastida,43</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.897</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180920,40.461944 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38407">
+          <NODE1_ID>34851</NODE1_ID>
+          <NODE1_NAME>SMatPladeBaix9A</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.281</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178721,40.467111 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38437">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>42466</NODE2_ID>
+          <NODE2_NAME>SMat-StoDomingo,19</NODE2_NAME>
+          <KMS>2.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.180926,40.465642</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38481">
+          <NODE1_ID>42549</NODE1_ID>
+          <NODE1_NAME>SMatIldefonsoAleu9D</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176543,40.463870 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38718">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>38277</NODE2_ID>
+          <NODE2_NAME>SMat-SantGil14</NODE2_NAME>
+          <KMS>0.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.177991,40.465817</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39234">
+          <NODE1_ID>43097</NODE1_ID>
+          <NODE1_NAME>SMatDeLaBellaguarda5</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.248</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177004,40.462964 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39436">
+          <NODE1_ID>43267</NODE1_ID>
+          <NODE1_NAME>SMat-CasaRural</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177594,40.465332 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39559">
+          <NODE1_ID>34178</NODE1_ID>
+          <NODE1_NAME>SMatPladeBaix31</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178367,40.466850 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39969">
+          <NODE1_ID>43662</NODE1_ID>
+          <NODE1_NAME>SMatOrdreHospital,4</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181532,40.459740 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40154">
+          <NODE1_ID>43787</NODE1_ID>
+          <NODE1_NAME>SMatIldefonsoAleu3G</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177026,40.463666 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40305">
+          <NODE1_ID>43873</NODE1_ID>
+          <NODE1_NAME>SMatOrdreDeMontesa1</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179965,40.462132 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40941">
+          <NODE1_ID>33646</NODE1_ID>
+          <NODE1_NAME>SMatBellaguarda4</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177133,40.462866 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41003">
+          <NODE1_ID>44345</NODE1_ID>
+          <NODE1_NAME>SMat-CapitanCortes3</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.889</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182583,40.464654 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41551">
+          <NODE1_ID>44366</NODE1_ID>
+          <NODE1_NAME>SMatZaragoza32</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176927,40.465747 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41552">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>38098</NODE2_ID>
+          <NODE2_NAME>SMat-ElsAngels7</NODE2_NAME>
+          <KMS>1.955</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.181714,40.464671</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42399">
+          <NODE1_ID>45627</NODE1_ID>
+          <NODE1_NAME>SMat-PGSantaBarbara</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.461</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.188398,40.464434 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42709">
+          <NODE1_ID>45903</NODE1_ID>
+          <NODE1_NAME>SMat-FornVell24</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177778,40.466148 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43785">
+          <NODE1_ID>46670</NODE1_ID>
+          <NODE1_NAME>SMat-Morella45</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.262</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178131,40.466335 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43944">
+          <NODE1_ID>46831</NODE1_ID>
+          <NODE1_NAME>SMatZaragoza,28-2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.323</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177079,40.465821 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44021">
+          <NODE1_ID>33797</NODE1_ID>
+          <NODE1_NAME>S.Mateu-En.Sans.8</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179644,40.465813 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45039">
+          <NODE1_ID>47431</NODE1_ID>
+          <NODE1_NAME>SMat-LaBastida54</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.405</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181645,40.461540 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45392">
+          <NODE1_ID>47830</NODE1_ID>
+          <NODE1_NAME>SMat-LaCort18</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179150,40.465478 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45478">
+          <NODE1_ID>47913</NODE1_ID>
+          <NODE1_NAME>SMat-Constitucio10</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178624,40.462181 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46616">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>48753</NODE2_ID>
+          <NODE2_NAME>SMatOrdreHospital,2</NODE2_NAME>
+          <KMS>1.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.181725,40.459830</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46685">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>42391</NODE2_ID>
+          <NODE2_NAME>SMatPartidaMolins15</NODE2_NAME>
+          <KMS>2.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.179869,40.465168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46701">
+          <NODE1_ID>48779</NODE1_ID>
+          <NODE1_NAME>SMatSantIsidre6</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181307,40.464940 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46764">
+          <NODE1_ID>48824</NODE1_ID>
+          <NODE1_NAME>SMatAvdBastida50</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181510,40.461601 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46865">
+          <NODE1_ID>48890</NODE1_ID>
+          <NODE1_NAME>SMat-AnticForn</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179708,40.466017 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47019">
+          <NODE1_ID>48210</NODE1_ID>
+          <NODE1_NAME>pldbx12</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.276</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178539,40.466923 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47517">
+          <NODE1_ID>49398</NODE1_ID>
+          <NODE1_NAME>SMatBellaguarda4-2</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177337,40.463234 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49106">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>50552</NODE2_ID>
+          <NODE2_NAME>SMATErmitaCliente</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.202112,40.456322</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49271">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>50656</NODE2_ID>
+          <NODE2_NAME>SMat-Cantacorps36</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.176994,40.466540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49689">
+          <NODE1_ID>50978</NODE1_ID>
+          <NODE1_NAME>Sant.Mateu.Piscina</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.849</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180461,40.458444 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49691">
+          <NODE1_ID>50981</NODE1_ID>
+          <NODE1_NAME>SMat-RacoMarquesa12</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.918</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180662,40.461936 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49763">
+          <NODE1_ID>51050</NODE1_ID>
+          <NODE1_NAME>SMatSantFrancesc44</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.333</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176851,40.465029 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49886">
+          <NODE1_ID>51141</NODE1_ID>
+          <NODE1_NAME>SMatTapies10</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176642,40.465910 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50227">
+          <NODE1_ID>51469</NODE1_ID>
+          <NODE1_NAME>SMatSantBernat22-2-1</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180660,40.465024 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50414">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>51596</NODE2_ID>
+          <NODE2_NAME>SMat-Constitucio28</NODE2_NAME>
+          <KMS>2.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.179040,40.460726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50936">
+          <NODE1_ID>50395</NODE1_ID>
+          <NODE1_NAME>SantBernard,2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180016,40.465066 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50958">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>52036</NODE2_ID>
+          <NODE2_NAME>SMat-IdelfonsoAleu7A</NODE2_NAME>
+          <KMS>2.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.176692,40.464360</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51127">
+          <NODE1_ID>39764</NODE1_ID>
+          <NODE1_NAME>SMat-AvdaAngels32</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.927</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181843,40.464311 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52072">
+          <NODE1_ID>42467</NODE1_ID>
+          <NODE1_NAME>SMat-LaBastida6</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179246,40.462909 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52369">
+          <NODE1_ID>52596</NODE1_ID>
+          <NODE1_NAME>SMat-CapitanCortes1</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.895</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182378,40.464466 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52602">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>53197</NODE2_ID>
+          <NODE2_NAME>SMat-SanFrancesc9</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.177614,40.465356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52657">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>52378</NODE2_ID>
+          <NODE2_NAME>SMat-MusMor1</NODE2_NAME>
+          <KMS>2.026</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.179764,40.462922</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52771">
+          <NODE1_ID>30962</NODE1_ID>
+          <NODE1_NAME>SMat-SantPere</NODE1_NAME>
+          <NODE2_ID>43379</NODE2_ID>
+          <NODE2_NAME>SMatMorella34-1</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177750,40.464887 0.178689,40.465944</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52773">
+          <NODE1_ID>43367</NODE1_ID>
+          <NODE1_NAME>SMatIldefonsoAle52-2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176307,40.464581 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52847">
+          <NODE1_ID>53354</NODE1_ID>
+          <NODE1_NAME>SMat-Monges6</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178612,40.464091 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53031">
+          <NODE1_ID>33671</NODE1_ID>
+          <NODE1_NAME>SMatIldefonsoAleu9j</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176189,40.463372 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53076">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>53528</NODE2_ID>
+          <NODE2_NAME>SMatRossinyol,40-3</NODE2_NAME>
+          <KMS>0.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.181815,40.460034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53077">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>53529</NODE2_ID>
+          <NODE2_NAME>SMatBaixLaVilaVaquer</NODE2_NAME>
+          <KMS>0.954</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.190875,40.456895</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53254">
+          <NODE1_ID>36316</NODE1_ID>
+          <NODE1_NAME>SMatHistoriadorBeti2</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179815,40.465878 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53420">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>53823</NODE2_ID>
+          <NODE2_NAME>SMat-CapitanCortes3D</NODE2_NAME>
+          <KMS>1.889</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.182562,40.464624</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53712">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>53979</NODE2_ID>
+          <NODE2_NAME>SMat-Zaragoza31</NODE2_NAME>
+          <KMS>0.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.177075,40.465940</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53868">
+          <NODE1_ID>49721</NODE1_ID>
+          <NODE1_NAME>SMatLaCort27</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178711,40.465123 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53869">
+          <NODE1_ID>52323</NODE1_ID>
+          <NODE1_NAME>SMatBonaire31</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178493,40.464264 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53997">
+          <NODE1_ID>50855</NODE1_ID>
+          <NODE1_NAME>SMatGirasol15</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.349</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176949,40.466261 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54481">
+          <NODE1_ID>54477</NODE1_ID>
+          <NODE1_NAME>S.Mateu.Valencia,33-</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178984,40.464274 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55149">
+          <NODE1_ID>54871</NODE1_ID>
+          <NODE1_NAME>SMatPereJaumeEsteve8</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179965,40.463495 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56845">
+          <NODE1_ID>56151</NODE1_ID>
+          <NODE1_NAME>SMatMPacoBaila3</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178206,40.461258 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57885">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>56932</NODE2_ID>
+          <NODE2_NAME>SMATZaragoza47</NODE2_NAME>
+          <KMS>0.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.176438,40.465378</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58173">
+          <NODE1_ID>57150</NODE1_ID>
+          <NODE1_NAME>SMat-FornVell25</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177989,40.465344 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58657">
+          <NODE1_ID>57484</NODE1_ID>
+          <NODE1_NAME>SMat-PZMonjas9</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178485,40.464385 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59264">
+          <NODE1_ID>57926</NODE1_ID>
+          <NODE1_NAME>SMat-CapitanCortes37</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.892</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182583,40.464695 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59500">
+          <NODE1_ID>58091</NODE1_ID>
+          <NODE1_NAME>SMat-BeatoJacinto100</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179440,40.464336 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59662">
+          <NODE1_ID>58211</NODE1_ID>
+          <NODE1_NAME>SMatZaragoza,25</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.321</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177090,40.465764 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59717">
+          <NODE1_ID>57696</NODE1_ID>
+          <NODE1_NAME>SMat-LaBastida64</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180759,40.462377 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61498">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>59494</NODE2_ID>
+          <NODE2_NAME>SMat-Morella38</NODE2_NAME>
+          <KMS>0.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.178546,40.466327</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62148">
+          <NODE1_ID>59944</NODE1_ID>
+          <NODE1_NAME>SMatAvdAngels,12</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181280,40.464620 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62234">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>59990</NODE2_ID>
+          <NODE2_NAME>SMat-AvElsAngels28</NODE2_NAME>
+          <KMS>1.892</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.182185,40.464132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62235">
+          <NODE1_ID>34216</NODE1_ID>
+          <NODE1_NAME>SMatValencia2</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179815,40.465234 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62239">
+          <NODE1_ID>59988</NODE1_ID>
+          <NODE1_NAME>SMat-PlaSantPere10</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177100,40.464854 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62671">
+          <NODE1_ID>60256</NODE1_ID>
+          <NODE1_NAME>SMLaFira26</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.316</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177450,40.463844 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63007">
+          <NODE1_ID>60579</NODE1_ID>
+          <NODE1_NAME>SMatBellaguarda18</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.392</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176859,40.463257 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63141">
+          <NODE1_ID>60664</NODE1_ID>
+          <NODE1_NAME>SMatBonaire19</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.213</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178403,40.464513 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63250">
+          <NODE1_ID>60751</NODE1_ID>
+          <NODE1_NAME>SMat-Valencia40</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179020,40.464736 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63827">
+          <NODE1_ID>61101</NODE1_ID>
+          <NODE1_NAME>SMatAvdAngels,70</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.708</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.183865,40.462979 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65241">
+          <NODE1_ID>62311</NODE1_ID>
+          <NODE1_NAME>SMat-PzMonjas30</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178610,40.464417 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65446">
+          <NODE1_ID>62459</NODE1_ID>
+          <NODE1_NAME>SMatCSMat1</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.76</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182208,40.460943 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65580">
+          <NODE1_ID>62575</NODE1_ID>
+          <NODE1_NAME>SMat-OrdeHospital14</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.797</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181357,40.459732 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65980">
+          <NODE1_ID>39382</NODE1_ID>
+          <NODE1_NAME>SMatSantAntoni6</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177176,40.465609 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66840">
+          <NODE1_ID>63421</NODE1_ID>
+          <NODE1_NAME>SMatArrabalBarce6</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180910,40.466101 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67222">
+          <NODE1_ID>63803</NODE1_ID>
+          <NODE1_NAME>SMat-ElsAngels42</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.9</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182110,40.464176 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67862">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>63866</NODE2_ID>
+          <NODE2_NAME>SM-SYLM01</NODE2_NAME>
+          <KMS>0.308</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.177156,40.465003</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68304">
+          <NODE1_ID>30961</NODE1_ID>
+          <NODE1_NAME>SMat-Campanar</NODE1_NAME>
+          <NODE2_ID>64023</NODE2_ID>
+          <NODE2_NAME>SMatFontDeMorella3</NODE2_NAME>
+          <KMS>0.59</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.180781,40.465127 0.174085,40.466558</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68564">
+          <NODE1_ID>56201</NODE1_ID>
+          <NODE1_NAME>PlDBx81</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178796,40.467131 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69990">
+          <NODE1_ID>65851</NODE1_ID>
+          <NODE1_NAME>SMat-Rosinyol40-15</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.601</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181552,40.459748 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70273">
+          <NODE1_ID>66049</NODE1_ID>
+          <NODE1_NAME>SMat-Cantacorbs28</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.176965,40.466421 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70645">
+          <NODE1_ID>51537</NODE1_ID>
+          <NODE1_NAME>SMatAvdAngels,40-A</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.182044,40.464210 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71565">
+          <NODE1_ID>67069</NODE1_ID>
+          <NODE1_NAME>SMat-PlMonjes13</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178565,40.464060 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72912">
+          <NODE1_ID>68215</NODE1_ID>
+          <NODE1_NAME>SMatMorella,13</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179153,40.465647 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75046">
+          <NODE1_ID>69993</NODE1_ID>
+          <NODE1_NAME>SMatAvdLlibertat,3</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>1.922</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.179762,40.459337 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76635">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>71662</NODE2_ID>
+          <NODE2_NAME>SMatAvAngels30</NODE2_NAME>
+          <KMS>1.938</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.181702,40.464321</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76794">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>71749</NODE2_ID>
+          <NODE2_NAME>SMatSantBernat,22,1,</NODE2_NAME>
+          <KMS>2.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.180534,40.465035</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77764">
+          <NODE1_ID>72653</NODE1_ID>
+          <NODE1_NAME>SMat-PlaDeBaix7</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178715,40.467054 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78924">
+          <NODE1_ID>36096</NODE1_ID>
+          <NODE1_NAME>XertLaMola</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>8.961</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.163475,40.531578 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79956">
+          <NODE1_ID>74481</NODE1_ID>
+          <NODE1_NAME>SMat-SDomingo25</NODE1_NAME>
+          <NODE2_ID>30965</NODE2_ID>
+          <NODE2_NAME>SMat-Ermita</NODE2_NAME>
+          <KMS>2.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.181160,40.465941 0.202110,40.456466</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80016">
+          <NODE1_ID>34193</NODE1_ID>
+          <NODE1_NAME>SMatLaFira52</NODE1_NAME>
+          <NODE2_ID>30961</NODE2_ID>
+          <NODE2_NAME>SMat-Campanar</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.177294,40.464172 0.180781,40.465127</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121467">
+          <NODE1_ID>49722</NODE1_ID>
+          <NODE1_NAME>SMatParras2</NODE1_NAME>
+          <NODE2_ID>30962</NODE2_ID>
+          <NODE2_NAME>SMat-SantPere</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.178818,40.466203 0.177750,40.464887</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122464">
+          <NODE1_ID>30965</NODE1_ID>
+          <NODE1_NAME>SMat-Ermita</NODE1_NAME>
+          <NODE2_ID>76447</NODE2_ID>
+          <NODE2_NAME>SMat-SantDomingo30</NODE2_NAME>
+          <KMS>2.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.202110,40.456466 0.181442,40.465628</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

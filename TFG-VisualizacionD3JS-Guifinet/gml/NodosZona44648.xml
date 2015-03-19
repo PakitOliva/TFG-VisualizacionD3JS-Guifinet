@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.792947</gml:X><gml:Y>41.274908</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.789672</gml:X><gml:Y>41.282109</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="43406">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.792071,41.279018</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43406</NODE_ID>
+      <NODE_NAME>ALMOCUBAmolines2</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43408">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.789672,41.274908</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43408</NODE_ID>
+      <NODE_NAME>ALMOCUBAmolinoAP</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53027">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.792947,41.281955</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53027</NODE_ID>
+      <NODE_NAME>ALMOCUBAResakaVicio</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54474">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.791413,41.280637</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54474</NODE_ID>
+      <NODE_NAME>ALMOCUBAInfMartin1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65024">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.792480,41.282109</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65024</NODE_ID>
+      <NODE_NAME>ALMOCUBAMayor61</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

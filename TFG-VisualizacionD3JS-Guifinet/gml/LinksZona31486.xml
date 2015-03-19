@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.136994</gml:X><gml:Y>42.988247</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.662495</gml:X><gml:Y>43.420991</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="31147">
+          <NODE1_ID>36099</NODE1_ID>
+          <NODE1_NAME>LRBzubialde</NODE1_NAME>
+          <NODE2_ID>36083</NODE2_ID>
+          <NODE2_NAME>LRBgaztetxe</NODE2_NAME>
+          <KMS>0.514</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.790876,43.262603 -2.796066,43.259948</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31148">
+          <NODE1_ID>36098</NODE1_ID>
+          <NODE1_NAME>LRBeskola</NODE1_NAME>
+          <NODE2_ID>36099</NODE2_ID>
+          <NODE2_NAME>LRBzubialde</NODE2_NAME>
+          <KMS>0.587</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.797869,43.261271 -2.790876,43.262603</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40882">
+          <NODE1_ID>44041</NODE1_ID>
+          <NODE1_NAME>LRBandramari23</NODE1_NAME>
+          <NODE2_ID>44039</NODE2_ID>
+          <NODE2_NAME>LRBandramari18</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.796104,43.259869 -2.796124,43.260177</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42172">
+          <NODE1_ID>45462</NODE1_ID>
+          <NODE1_NAME>BRMIntxausti3</NODE1_NAME>
+          <NODE2_ID>45416</NODE2_ID>
+          <NODE2_NAME>BRMondarraburu5</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.723267,43.420370 -2.725607,43.417876</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42234">
+          <NODE1_ID>45522</NODE1_ID>
+          <NODE1_NAME>BRMAurrekoetxea5</NODE1_NAME>
+          <NODE2_ID>45462</NODE2_ID>
+          <NODE2_NAME>BRMIntxausti3</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.722752,43.420991 -2.723267,43.420370</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45082">
+          <NODE1_ID>47578</NODE1_ID>
+          <NODE1_NAME>ORTUcadegal</NODE1_NAME>
+          <NODE2_ID>47579</NODE2_ID>
+          <NODE2_NAME>ORTUotxartaga19</NODE2_NAME>
+          <KMS>0.703</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.057608,43.304561 -3.054583,43.310495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45083">
+          <NODE1_ID>47581</NODE1_ID>
+          <NODE1_NAME>ORTUcadegal-BIS</NODE1_NAME>
+          <NODE2_ID>47578</NODE2_ID>
+          <NODE2_NAME>ORTUcadegal</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.057670,43.304571 -3.057608,43.304561</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50366">
+          <NODE1_ID>51557</NODE1_ID>
+          <NODE1_NAME>ORTUMeatzari1</NODE1_NAME>
+          <NODE2_ID>47578</NODE2_ID>
+          <NODE2_NAME>ORTUcadegal</NODE2_NAME>
+          <KMS>1.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.074606,43.316071 -3.057608,43.304561</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50392">
+          <NODE1_ID>51576</NODE1_ID>
+          <NODE1_NAME>ORTUBlasco1bis</NODE1_NAME>
+          <NODE2_ID>47578</NODE2_ID>
+          <NODE2_NAME>ORTUcadegal</NODE2_NAME>
+          <KMS>1.907</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.073323,43.317327 -3.057608,43.304561</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57171">
+          <NODE1_ID>56430</NODE1_ID>
+          <NODE1_NAME>MRBTnafarroa</NODE1_NAME>
+          <NODE2_ID>56432</NODE2_ID>
+          <NODE2_NAME>MRBTetxano</NODE2_NAME>
+          <KMS>1.997</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.733605,43.218619 -2.711408,43.226336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57172">
+          <NODE1_ID>56430</NODE1_ID>
+          <NODE1_NAME>MRBTnafarroa</NODE1_NAME>
+          <NODE2_ID>56434</NODE2_ID>
+          <NODE2_NAME>MRBTdudea</NODE2_NAME>
+          <KMS>2.974</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.733605,43.218619 -2.699600,43.208711</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57173">
+          <NODE1_ID>56434</NODE1_ID>
+          <NODE1_NAME>MRBTdudea</NODE1_NAME>
+          <NODE2_ID>56436</NODE2_ID>
+          <NODE2_NAME>MRBTmikeldeuna</NODE2_NAME>
+          <KMS>0.463</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.699600,43.208711 -2.700845,43.204641</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57174">
+          <NODE1_ID>56434</NODE1_ID>
+          <NODE1_NAME>MRBTdudea</NODE1_NAME>
+          <NODE2_ID>56437</NODE2_ID>
+          <NODE2_NAME>MRBTeuba</NODE2_NAME>
+          <KMS>1.554</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.699600,43.208711 -2.696349,43.194931</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58344">
+          <NODE1_ID>57290</NODE1_ID>
+          <NODE1_NAME>RDNlaantigua9-reserv</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.014354,42.993779 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58375">
+          <NODE1_ID>57284</NODE1_ID>
+          <NODE1_NAME>RDNkarpa</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.013151,42.988247 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58376">
+          <NODE1_ID>57280</NODE1_ID>
+          <NODE1_NAME>RDNsanfrantzisko</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.009510,42.992658 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58377">
+          <NODE1_ID>57283</NODE1_ID>
+          <NODE1_NAME>RDNakanpalekua2</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.011734,42.990837 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58378">
+          <NODE1_ID>57282</NODE1_ID>
+          <NODE1_NAME>RDNakanpalekua1</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.011381,42.991528 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58397">
+          <NODE1_ID>57120</NODE1_ID>
+          <NODE1_NAME>RDNaisiaorduna</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.337</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.010533,42.994846 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60760">
+          <NODE1_ID>47578</NODE1_ID>
+          <NODE1_NAME>ORTUcadegal</NODE1_NAME>
+          <NODE2_ID>58996</NODE2_ID>
+          <NODE2_NAME>MUSPob</NODE2_NAME>
+          <KMS>8.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.057608,43.304561 -3.136994,43.349901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62042">
+          <NODE1_ID>59871</NODE1_ID>
+          <NODE1_NAME>LMOpenalemoa</NODE1_NAME>
+          <NODE2_ID>59869</NODE2_ID>
+          <NODE2_NAME>LMOudaletxea</NODE2_NAME>
+          <KMS>1.293</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.773312,43.217004 -2.773203,43.205366</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62958">
+          <NODE1_ID>56430</NODE1_ID>
+          <NODE1_NAME>MRBTnafarroa</NODE1_NAME>
+          <NODE2_ID>60531</NODE2_ID>
+          <NODE2_NAME>MRBTBoroa</NODE2_NAME>
+          <KMS>2.75</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.733605,43.218619 -2.749259,43.240566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62962">
+          <NODE1_ID>60532</NODE1_ID>
+          <NODE1_NAME>MRBTSaratzu</NODE1_NAME>
+          <NODE2_ID>56434</NODE2_ID>
+          <NODE2_NAME>MRBTdudea</NODE2_NAME>
+          <KMS>2.284</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.681737,43.192841 -2.699600,43.208711</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64089">
+          <NODE1_ID>61280</NODE1_ID>
+          <NODE1_NAME>lmofroga</NODE1_NAME>
+          <NODE2_ID>59869</NODE2_ID>
+          <NODE2_NAME>LMOudaletxea</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.772760,43.203876 -2.773203,43.205366</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73359">
+          <NODE1_ID>47578</NODE1_ID>
+          <NODE1_NAME>ORTUcadegal</NODE1_NAME>
+          <NODE2_ID>68177</NODE2_ID>
+          <NODE2_NAME>STZdenokinnbio</NODE2_NAME>
+          <KMS>2.005</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.057608,43.304561 -3.045156,43.320154</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73361">
+          <NODE1_ID>68175</NODE1_ID>
+          <NODE1_NAME>STZdenokinn</NODE1_NAME>
+          <NODE2_ID>68177</NODE2_ID>
+          <NODE2_NAME>STZdenokinnbio</NODE2_NAME>
+          <KMS>0.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.044879,43.320090 -3.045156,43.320154</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76041">
+          <NODE1_ID>50554</NODE1_ID>
+          <NODE1_NAME>GRKAstra</NODE1_NAME>
+          <NODE2_ID>70707</NODE2_ID>
+          <NODE2_NAME>GRKAjangiz</NODE2_NAME>
+          <KMS>1.194</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.676802,43.312449 -2.662495,43.309921</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76971">
+          <NODE1_ID>71633</NODE1_ID>
+          <NODE1_NAME>MRBTetxanoUra</NODE1_NAME>
+          <NODE2_ID>56430</NODE2_ID>
+          <NODE2_NAME>MRBTnafarroa</NODE2_NAME>
+          <KMS>1.993</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.710667,43.224967 -2.733605,43.218619</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121546">
+          <NODE1_ID>75455</NODE1_ID>
+          <NODE1_NAME>MRBEubakoParkea</NODE1_NAME>
+          <NODE2_ID>56434</NODE2_ID>
+          <NODE2_NAME>MRBTdudea</NODE2_NAME>
+          <KMS>1.817</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.695269,43.192663 -2.699600,43.208711</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121548">
+          <NODE1_ID>75454</NODE1_ID>
+          <NODE1_NAME>MRBUrritxe</NODE1_NAME>
+          <NODE2_ID>56430</NODE2_ID>
+          <NODE2_NAME>MRBTnafarroa</NODE2_NAME>
+          <KMS>0.732</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.725196,43.220990 -2.733605,43.218619</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

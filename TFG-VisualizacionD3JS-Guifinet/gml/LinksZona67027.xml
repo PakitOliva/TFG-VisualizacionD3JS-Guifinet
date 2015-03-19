@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.371219</gml:X><gml:Y>42.305821</gml:Y></gml:coord>
+<gml:coord><gml:X>2.450970</gml:X><gml:Y>42.338365</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="38304">
+          <NODE1_ID>42397</NODE1_ID>
+          <NODE1_NAME>RCBCstl</NODE1_NAME>
+          <NODE2_ID>42294</NODE2_ID>
+          <NODE2_NAME>FntRubiCllBtllia</NODE2_NAME>
+          <KMS>3.352</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.450970,42.338365 2.416590,42.322243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78626">
+          <NODE1_ID>73322</NODE1_ID>
+          <NODE1_NAME>FRCasanova</NODE1_NAME>
+          <NODE2_ID>13813</NODE2_ID>
+          <NODE2_NAME>Camprodon-StAntoni</NODE2_NAME>
+          <KMS>4.568</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416016,42.330033 2.371219,42.305821</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78632">
+          <NODE1_ID>73322</NODE1_ID>
+          <NODE1_NAME>FRCasanova</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>1.016</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416016,42.330033 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78633">
+          <NODE1_ID>73328</NODE1_ID>
+          <NODE1_NAME>FRTorreJane</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.842</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411682,42.318145 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78657">
+          <NODE1_ID>73328</NODE1_ID>
+          <NODE1_NAME>FRTorreJane</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411682,42.318145 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78658">
+          <NODE1_ID>73329</NODE1_ID>
+          <NODE1_NAME>FRRosalia</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411724,42.319478 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80201">
+          <NODE1_ID>62237</NODE1_ID>
+          <NODE1_NAME>FRPuigOu112</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422362,42.321626 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80264">
+          <NODE1_ID>73325</NODE1_ID>
+          <NODE1_NAME>FRPuigFranco</NODE1_NAME>
+          <NODE2_ID>74696</NODE2_ID>
+          <NODE2_NAME>FRReserva</NODE2_NAME>
+          <KMS>0.536</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.415748,42.318153 2.418724,42.322446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80265">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.536</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80266">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.536</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80267">
+          <NODE1_ID>73323</NODE1_ID>
+          <NODE1_NAME>FRMiniGolf</NODE1_NAME>
+          <NODE2_ID>74696</NODE2_ID>
+          <NODE2_NAME>FRReserva</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.420769,42.321598 2.418724,42.322446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80269">
+          <NODE1_ID>73323</NODE1_ID>
+          <NODE1_NAME>FRMiniGolf</NODE1_NAME>
+          <NODE2_ID>74696</NODE2_ID>
+          <NODE2_NAME>FRReserva</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.420769,42.321598 2.418724,42.322446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80270">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80271">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80272">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80273">
+          <NODE1_ID>73328</NODE1_ID>
+          <NODE1_NAME>FRTorreJane</NODE1_NAME>
+          <NODE2_ID>74696</NODE2_ID>
+          <NODE2_NAME>FRReserva</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411682,42.318145 2.418724,42.322446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80274">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80275">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80276">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80277">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80278">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80566">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80568">
+          <NODE1_ID>73328</NODE1_ID>
+          <NODE1_NAME>FRTorreJane</NODE1_NAME>
+          <NODE2_ID>74696</NODE2_ID>
+          <NODE2_NAME>FRReserva</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411682,42.318145 2.418724,42.322446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80618">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80963">
+          <NODE1_ID>74810</NODE1_ID>
+          <NODE1_NAME>FRPlaVidal1012</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.786</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.420372,42.323742 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81048">
+          <NODE1_ID>75222</NODE1_ID>
+          <NODE1_NAME>FRPuigOu1001</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.421505,42.321397 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81101">
+          <NODE1_ID>75230</NODE1_ID>
+          <NODE1_NAME>FRPuigOu103</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.421879,42.322052 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81103">
+          <NODE1_ID>74809</NODE1_ID>
+          <NODE1_NAME>FRSolana122</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.422419,42.320289 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81150">
+          <NODE1_ID>75291</NODE1_ID>
+          <NODE1_NAME>FRCasaRosalia</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411754,42.319452 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81179">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.536</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81196">
+          <NODE1_ID>75340</NODE1_ID>
+          <NODE1_NAME>FRCaLOriol</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416185,42.320124 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81198">
+          <NODE1_ID>74854</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova297</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411521,42.320707 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81212">
+          <NODE1_ID>75336</NODE1_ID>
+          <NODE1_NAME>FRPlFontRubi686</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.420211,42.322131 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81213">
+          <NODE1_ID>75309</NODE1_ID>
+          <NODE1_NAME>FRPuigFranco1107</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416015,42.319114 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121161">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121167">
+          <NODE1_ID>75440</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova369</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411816,42.318878 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121168">
+          <NODE1_ID>75442</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova370</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411821,42.318617 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121169">
+          <NODE1_ID>75443</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova371</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411786,42.318373 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121170">
+          <NODE1_ID>75444</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova864</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411303,42.317923 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121171">
+          <NODE1_ID>75445</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova865</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411008,42.317875 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121172">
+          <NODE1_ID>75446</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova866</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.410622,42.317844 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121173">
+          <NODE1_ID>75447</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova867</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.410354,42.317824 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121174">
+          <NODE1_ID>75448</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova868</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.137</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.410085,42.317804 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121381">
+          <NODE1_ID>75497</NODE1_ID>
+          <NODE1_NAME>FRPlaVidal10</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.824</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.420765,42.323508 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121473">
+          <NODE1_ID>75687</NODE1_ID>
+          <NODE1_NAME>FRDevesaNova296</NODE1_NAME>
+          <NODE2_ID>73328</NODE2_ID>
+          <NODE2_NAME>FRTorreJane</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.411539,42.320924 2.411682,42.318145</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121598">
+          <NODE1_ID>75836</NODE1_ID>
+          <NODE1_NAME>FRAssucaGran628</NODE1_NAME>
+          <NODE2_ID>73322</NODE2_ID>
+          <NODE2_NAME>FRCasanova</NODE2_NAME>
+          <KMS>0.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416543,42.322252 2.416016,42.330033</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121850">
+          <NODE1_ID>76031</NODE1_ID>
+          <NODE1_NAME>FRPuigFranco323</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416254,42.319716 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121851">
+          <NODE1_ID>76030</NODE1_ID>
+          <NODE1_NAME>FRPuigFranco324</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.416479,42.319812 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121969">
+          <NODE1_ID>76085</NODE1_ID>
+          <NODE1_NAME>FRPuigFranco331</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418135,42.320407 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122217">
+          <NODE1_ID>73325</NODE1_ID>
+          <NODE1_NAME>FRPuigFranco</NODE1_NAME>
+          <NODE2_ID>76267</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco1112</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.415748,42.318153 2.414851,42.318866</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122470">
+          <NODE1_ID>74696</NODE1_ID>
+          <NODE1_NAME>FRReserva</NODE1_NAME>
+          <NODE2_ID>73325</NODE2_ID>
+          <NODE2_NAME>FRPuigFranco</NODE2_NAME>
+          <KMS>0.536</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418724,42.322446 2.415748,42.318153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122735">
+          <NODE1_ID>76636</NODE1_ID>
+          <NODE1_NAME>FRElsOcells</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419510,42.321339 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122833">
+          <NODE1_ID>76720</NODE1_ID>
+          <NODE1_NAME>FRCanSunyer</NODE1_NAME>
+          <NODE2_ID>73323</NODE2_ID>
+          <NODE2_NAME>FRMiniGolf</NODE2_NAME>
+          <KMS>0.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.417136,42.321020 2.420769,42.321598</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

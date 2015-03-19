@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.789013</gml:X><gml:Y>42.399151</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.801240</gml:X><gml:Y>42.409960</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23397">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.799950,42.403817</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23397</NODE_ID>
+      <NODE_NAME>Vajol-Massanet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19982">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.791085,42.399151</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19982</NODE_ID>
+      <NODE_NAME>vajolNegrin</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23411">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.799816,42.403303</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23411</NODE_ID>
+      <NODE_NAME>vajol-can_sala</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23436">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.799175,42.403842</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23436</NODE_ID>
+      <NODE_NAME>Vajol-Ajuntament</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23992">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.800264,42.403515</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23992</NODE_ID>
+      <NODE_NAME>Vajol-darnius6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26747">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.800816,42.404062</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26747</NODE_ID>
+      <NODE_NAME>Vajol-mines1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32192">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.801240,42.403436</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32192</NODE_ID>
+      <NODE_NAME>vajol-antic</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38785">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.799888,42.402220</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38785</NODE_ID>
+      <NODE_NAME>vajol-terme5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45521">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.789013,42.409960</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45521</NODE_ID>
+      <NODE_NAME>Manrella</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

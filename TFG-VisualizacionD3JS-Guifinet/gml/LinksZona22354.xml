@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.344535</gml:X><gml:Y>40.218718</gml:Y></gml:coord>
+<gml:coord><gml:X>0.032044</gml:X><gml:Y>40.361592</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="19838">
+          <NODE1_ID>20427</NODE1_ID>
+          <NODE1_NAME>PlaMestra</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>9.829</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.267148,40.294059 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25121">
+          <NODE1_ID>30394</NODE1_ID>
+          <NODE1_NAME>Culla_Fernando</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>7.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.114262,40.282079 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25310">
+          <NODE1_ID>18676</NODE1_ID>
+          <NODE1_NAME>AtzTele</NODE1_NAME>
+          <NODE2_ID>30578</NODE2_ID>
+          <NODE2_NAME>Culla_Emeterio</NODE2_NAME>
+          <KMS>7.792</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.141535,40.218718 -0.113854,40.285609</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25840">
+          <NODE1_ID>22445</NODE1_ID>
+          <NODE1_NAME>Vistbll-Preso</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>11.783</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292758,40.294073 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29562">
+          <NODE1_ID>30979</NODE1_ID>
+          <NODE1_NAME>Vistbll-Calvari</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>12.202</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.296953,40.292025 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33432">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>38352</NODE2_ID>
+          <NODE2_NAME>CullaAyuntamiento</NODE2_NAME>
+          <KMS>0.266</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.165444,40.336915</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33687">
+          <NODE1_ID>18676</NODE1_ID>
+          <NODE1_NAME>AtzTele</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>10.503</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.141535,40.218718 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33689">
+          <NODE1_ID>34833</NODE1_ID>
+          <NODE1_NAME>Culla_Mina</NODE1_NAME>
+          <NODE2_ID>38612</NODE2_ID>
+          <NODE2_NAME>Vdc-Carpa</NODE2_NAME>
+          <KMS>6.211</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103309,40.308662 -0.066999,40.357204</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34934">
+          <NODE1_ID>39614</NODE1_ID>
+          <NODE1_NAME>cullapaquita</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>7.846</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.109048,40.284848 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42373">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>45603</NODE2_ID>
+          <NODE2_NAME>CullaNanoBridge</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.162939,40.334989</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42385">
+          <NODE1_ID>45614</NODE1_ID>
+          <NODE1_NAME>Culla_Martires35</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164559,40.338485 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42396">
+          <NODE1_ID>45604</NODE1_ID>
+          <NODE1_NAME>Culla_LuisMol</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165417,40.336756 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42397">
+          <NODE1_ID>45612</NODE1_ID>
+          <NODE1_NAME>Culla_29Maig15</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164999,40.336588 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42476">
+          <NODE1_ID>45708</NODE1_ID>
+          <NODE1_NAME>Culla_LaSetena14</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165240,40.337518 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42506">
+          <NODE1_ID>22335</NODE1_ID>
+          <NODE1_NAME>CullaVstbllAjnmt</NODE1_NAME>
+          <NODE2_ID>38352</NODE2_ID>
+          <NODE2_NAME>CullaAyuntamiento</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165761,40.336621 -0.165444,40.336915</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42579">
+          <NODE1_ID>45795</NODE1_ID>
+          <NODE1_NAME>Culla_29Maig11</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164908,40.336662 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42591">
+          <NODE1_ID>45805</NODE1_ID>
+          <NODE1_NAME>Culla_saulons6</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.273</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165479,40.337060 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42632">
+          <NODE1_ID>45835</NODE1_ID>
+          <NODE1_NAME>Culla_MasOms</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>1.284</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.176682,40.332642 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42730">
+          <NODE1_ID>45914</NODE1_ID>
+          <NODE1_NAME>Culla_DrAgut23</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164522,40.337208 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42732">
+          <NODE1_ID>30691</NODE1_ID>
+          <NODE1_NAME>Culla_Consultori</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>7.552</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112492,40.282989 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42867">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>46019</NODE2_ID>
+          <NODE2_NAME>Culla_DelSol6</NODE2_NAME>
+          <KMS>0.281</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.165439,40.337369</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45264">
+          <NODE1_ID>47722</NODE1_ID>
+          <NODE1_NAME>Vistbll-MiM2012-Peny</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>18.726</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.344535,40.238154 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45373">
+          <NODE1_ID>47813</NODE1_ID>
+          <NODE1_NAME>Culla_Fontanelles9</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164591,40.337569 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45408">
+          <NODE1_ID>47130</NODE1_ID>
+          <NODE1_NAME>Culla_SanJoaquin2</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.404</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166147,40.338628 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45871">
+          <NODE1_ID>48161</NODE1_ID>
+          <NODE1_NAME>Culla_drAgut21</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164745,40.337262 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45880">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>48011</NODE2_ID>
+          <NODE2_NAME>CULLA_Fontanelles38</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.163978,40.337183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46277">
+          <NODE1_ID>48445</NODE1_ID>
+          <NODE1_NAME>Culla_Martires20</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164202,40.337234 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46337">
+          <NODE1_ID>47560</NODE1_ID>
+          <NODE1_NAME>Culla_MasLinoBatalla</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>4.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.111322,40.247990 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46537">
+          <NODE1_ID>48703</NODE1_ID>
+          <NODE1_NAME>CULLA_29demaig7</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164642,40.336805 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46550">
+          <NODE1_ID>48710</NODE1_ID>
+          <NODE1_NAME>Culla_29Maig19</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165098,40.336521 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47090">
+          <NODE1_ID>49115</NODE1_ID>
+          <NODE1_NAME>MASOMS37</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>1.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.176741,40.332679 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48623">
+          <NODE1_ID>50189</NODE1_ID>
+          <NODE1_NAME>CullaMolinell</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>4.243</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112763,40.340610 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48630">
+          <NODE1_ID>50190</NODE1_ID>
+          <NODE1_NAME>Culla_Hospital3</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165916,40.337503 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48631">
+          <NODE1_ID>50188</NODE1_ID>
+          <NODE1_NAME>Culla_29Maig1</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164468,40.337035 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48983">
+          <NODE1_ID>39942</NODE1_ID>
+          <NODE1_NAME>Culla_ForquesOrenga</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.72</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.154506,40.334022 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48984">
+          <NODE1_ID>50450</NODE1_ID>
+          <NODE1_NAME>Culla_MolinellCovarc</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>0.934</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.123643,40.341796 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48988">
+          <NODE1_ID>50453</NODE1_ID>
+          <NODE1_NAME>Culla_MoliToni</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>0.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.105994,40.341416 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48989">
+          <NODE1_ID>50454</NODE1_ID>
+          <NODE1_NAME>Culla_AlbergueMoline</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>0.647</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.105147,40.340606 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49464">
+          <NODE1_ID>50819</NODE1_ID>
+          <NODE1_NAME>Culla_Martires8</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164198,40.337333 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49498">
+          <NODE1_ID>50833</NODE1_ID>
+          <NODE1_NAME>Culla_Pla28</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166194,40.338474 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50064">
+          <NODE1_ID>51306</NODE1_ID>
+          <NODE1_NAME>Culla_carrerpla17</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166115,40.338346 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50413">
+          <NODE1_ID>51595</NODE1_ID>
+          <NODE1_NAME>CULLA_Carrerpl24</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.39</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166061,40.338512 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51074">
+          <NODE1_ID>52118</NODE1_ID>
+          <NODE1_NAME>Culla_SortBoix</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>1.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.125199,40.341418 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51208">
+          <NODE1_ID>50189</NODE1_ID>
+          <NODE1_NAME>CullaMolinell</NODE1_NAME>
+          <NODE2_ID>52210</NODE2_ID>
+          <NODE2_NAME>Culla_LMoliner</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112763,40.340610 -0.113505,40.341332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51303">
+          <NODE1_ID>50189</NODE1_ID>
+          <NODE1_NAME>CullaMolinell</NODE1_NAME>
+          <NODE2_ID>52268</NODE2_ID>
+          <NODE2_NAME>Culla_MolinellRVidal</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112763,40.340610 -0.114535,40.340870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51594">
+          <NODE1_ID>43313</NODE1_ID>
+          <NODE1_NAME>CullaMolinellEscola</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>0.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112771,40.340725 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51595">
+          <NODE1_ID>52484</NODE1_ID>
+          <NODE1_NAME>Culla_MolinellConsul</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112992,40.340718 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52021">
+          <NODE1_ID>35901</NODE1_ID>
+          <NODE1_NAME>Albo_Repetidor</NODE1_NAME>
+          <NODE2_ID>52273</NODE2_ID>
+          <NODE2_NAME>Culla_MasSastre</NODE2_NAME>
+          <KMS>2.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.018180,40.361592 -0.034937,40.348596</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52110">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>51991</NODE2_ID>
+          <NODE2_NAME>Culla_Cantonets1</NODE2_NAME>
+          <KMS>2.839</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.129689,40.331162</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52284">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>5.891</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53050">
+          <NODE1_ID>53026</NODE1_ID>
+          <NODE1_NAME>Culla_MasSales</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>4.962</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103108,40.252330 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53051">
+          <NODE1_ID>50451</NODE1_ID>
+          <NODE1_NAME>Culla_MasInsa</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>4.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.092125,40.349642 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53053">
+          <NODE1_ID>52995</NODE1_ID>
+          <NODE1_NAME>Culla_MasSabater</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>2.874</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.136595,40.313209 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53054">
+          <NODE1_ID>34833</NODE1_ID>
+          <NODE1_NAME>Culla_Mina</NODE1_NAME>
+          <NODE2_ID>52305</NODE2_ID>
+          <NODE2_NAME>Culla_MasColau</NODE2_NAME>
+          <KMS>2.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103309,40.308662 -0.104234,40.290631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53055">
+          <NODE1_ID>52331</NODE1_ID>
+          <NODE1_NAME>Culla_MinaVictoria</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103033,40.307894 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53056">
+          <NODE1_ID>52269</NODE1_ID>
+          <NODE1_NAME>Culla_MasVell</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>5.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159306,40.322607 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53057">
+          <NODE1_ID>52275</NODE1_ID>
+          <NODE1_NAME>Culla_MasMezquita</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>2.261</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.107389,40.328782 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53166">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>35900</NODE2_ID>
+          <NODE2_NAME>Albo_Ajuntament</NODE2_NAME>
+          <KMS>16.034</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 0.024263,40.357719</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53167">
+          <NODE1_ID>39553</NODE1_ID>
+          <NODE1_NAME>Albo_Esperanza</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>16.545</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.032044,40.344455 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53410">
+          <NODE1_ID>53809</NODE1_ID>
+          <NODE1_NAME>Culla_Carrasca2</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>4.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112064,40.330630 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53411">
+          <NODE1_ID>53807</NODE1_ID>
+          <NODE1_NAME>Culla_Carrasca</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>4.347</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.111785,40.330679 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53811">
+          <NODE1_ID>54056</NODE1_ID>
+          <NODE1_NAME>Culla_masiamancha9</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>3.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112523,40.276950 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53851">
+          <NODE1_ID>35901</NODE1_ID>
+          <NODE1_NAME>Albo_Repetidor</NODE1_NAME>
+          <NODE2_ID>53978</NODE2_ID>
+          <NODE2_NAME>Culla_masjoanet4</NODE2_NAME>
+          <KMS>2.297</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.018180,40.361592 -0.036144,40.346134</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55001">
+          <NODE1_ID>54809</NODE1_ID>
+          <NODE1_NAME>Culla_masiamancha7Rd</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>3.625</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.111212,40.276583 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55925">
+          <NODE1_ID>55371</NODE1_ID>
+          <NODE1_NAME>Culla_Ullalet</NODE1_NAME>
+          <NODE2_ID>50189</NODE2_ID>
+          <NODE2_NAME>CullaMolinell</NODE2_NAME>
+          <KMS>0.674</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.118575,40.344747 -0.112763,40.340610</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57983">
+          <NODE1_ID>50189</NODE1_ID>
+          <NODE1_NAME>CullaMolinell</NODE1_NAME>
+          <NODE2_ID>57002</NODE2_ID>
+          <NODE2_NAME>Culla_MolinellVidalP</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.112763,40.340610 -0.113683,40.341294</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58371">
+          <NODE1_ID>57310</NODE1_ID>
+          <NODE1_NAME>Atz_MasiaCinto</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>4.469</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.094722,40.268958 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58979">
+          <NODE1_ID>57730</NODE1_ID>
+          <NODE1_NAME>Culla_MasVilella</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.831</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.172155,40.336887 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59673">
+          <NODE1_ID>53091</NODE1_ID>
+          <NODE1_NAME>Culla_CovaPalla</NODE1_NAME>
+          <NODE2_ID>34183</NODE2_ID>
+          <NODE2_NAME>Ros-Supernode1</NODE2_NAME>
+          <KMS>2.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.061936,40.293720 -0.037894,40.293442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60893">
+          <NODE1_ID>34833</NODE1_ID>
+          <NODE1_NAME>Culla_Mina</NODE1_NAME>
+          <NODE2_ID>58755</NODE2_ID>
+          <NODE2_NAME>MasiaMatafam</NODE2_NAME>
+          <KMS>2.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103309,40.308662 -0.108871,40.284861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62735">
+          <NODE1_ID>60374</NODE1_ID>
+          <NODE1_NAME>CullaFutbol</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>1.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.171565,40.330353 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63054">
+          <NODE1_ID>60606</NODE1_ID>
+          <NODE1_NAME>Culla_SanJoaquin8</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166420,40.338727 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64229">
+          <NODE1_ID>61422</NODE1_ID>
+          <NODE1_NAME>culla_VeroBarreda</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165862,40.337823 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66108">
+          <NODE1_ID>34833</NODE1_ID>
+          <NODE1_NAME>Culla_Mina</NODE1_NAME>
+          <NODE2_ID>62947</NODE2_ID>
+          <NODE2_NAME>Culla_Sabater2</NODE2_NAME>
+          <KMS>2.88</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.103309,40.308662 -0.136701,40.313027</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69761">
+          <NODE1_ID>64571</NODE1_ID>
+          <NODE1_NAME>Culla_Martires24</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164163,40.337450 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71443">
+          <NODE1_ID>66974</NODE1_ID>
+          <NODE1_NAME>Culla_BertaRoig</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164932,40.337523 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71582">
+          <NODE1_ID>67086</NODE1_ID>
+          <NODE1_NAME>Culla_Pla22</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166042,40.338410 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75901">
+          <NODE1_ID>38353</NODE1_ID>
+          <NODE1_NAME>CullaRepetidor</NODE1_NAME>
+          <NODE2_ID>70675</NODE2_ID>
+          <NODE2_NAME>Culla_Fontanelles16</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.162392,40.336395 -0.164714,40.337834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76089">
+          <NODE1_ID>70872</NODE1_ID>
+          <NODE1_NAME>Vistb_MasSalvadorRd3</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>9.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.275520,40.320114 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76157">
+          <NODE1_ID>70870</NODE1_ID>
+          <NODE1_NAME>Vistb_MasSalvadorRd1</NODE1_NAME>
+          <NODE2_ID>22335</NODE2_ID>
+          <NODE2_NAME>CullaVstbllAjnmt</NODE2_NAME>
+          <KMS>9.506</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.275520,40.320114 -0.165761,40.336621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76174">
+          <NODE1_ID>70962</NODE1_ID>
+          <NODE1_NAME>Culla_lafuente4</NODE1_NAME>
+          <NODE2_ID>38353</NODE2_ID>
+          <NODE2_NAME>CullaRepetidor</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.165241,40.337912 -0.162392,40.336395</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81337">
+          <NODE1_ID>73958</NODE1_ID>
+          <NODE1_NAME>IbarsosLaVolta1</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>5.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.076054,40.259989 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121114">
+          <NODE1_ID>73958</NODE1_ID>
+          <NODE1_NAME>IbarsosLaVolta1</NODE1_NAME>
+          <NODE2_ID>34833</NODE2_ID>
+          <NODE2_NAME>Culla_Mina</NODE2_NAME>
+          <KMS>5.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.076054,40.259989 -0.103309,40.308662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

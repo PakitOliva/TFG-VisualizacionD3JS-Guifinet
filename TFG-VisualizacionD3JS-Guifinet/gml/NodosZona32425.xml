@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.036687</gml:X><gml:Y>41.444574</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.117631</gml:X><gml:Y>41.472623</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="14125">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.058327,41.464447</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14125</NODE_ID>
+      <NODE_NAME>SantCugatPepes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29849">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.061471,41.463220</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29849</NODE_ID>
+      <NODE_NAME>STCbarraca</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38273">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.117631,41.444574</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38273</NODE_ID>
+      <NODE_NAME>CanJane</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41294">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.036687,41.465645</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41294</NODE_ID>
+      <NODE_NAME>MasJane</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44389">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.041478,41.467170</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44389</NODE_ID>
+      <NODE_NAME>StCugatJDuro</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50337">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.066338,41.472601</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50337</NODE_ID>
+      <NODE_NAME>MSAntoniAgraz16</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56503">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.048910,41.472540</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56503</NODE_ID>
+      <NODE_NAME>MIRnode</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72289">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.049102,41.472623</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72289</NODE_ID>
+      <NODE_NAME>SC-MSol-Alps</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

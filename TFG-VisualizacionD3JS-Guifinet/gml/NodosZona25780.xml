@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.928999</gml:X><gml:Y>39.394611</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.051667</gml:X><gml:Y>39.526413</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23805">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.943113,39.407686</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23805</NODE_ID>
+      <NODE_NAME>siroco</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36907">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.020012,39.430720</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36907</NODE_ID>
+      <NODE_NAME>CMPOSAjuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37927">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.051667,39.413554</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37927</NODE_ID>
+      <NODE_NAME>tornode</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38604">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.928999,39.526413</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38604</NODE_ID>
+      <NODE_NAME>ALGmonestircura</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56032">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.965338,39.394611</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56032</NODE_ID>
+      <NODE_NAME>SValent</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

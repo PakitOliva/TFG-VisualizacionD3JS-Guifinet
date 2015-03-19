@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.129312</gml:X><gml:Y>41.284240</gml:Y></gml:coord>
+<gml:coord><gml:X>1.247887</gml:X><gml:Y>41.411251</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="45557">
+          <NODE1_ID>47954</NODE1_ID>
+          <NODE1_NAME>rojals</NODE1_NAME>
+          <NODE2_ID>47956</NODE2_ID>
+          <NODE2_NAME>rojals1</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.130776,41.338994 1.130240,41.338344</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58906">
+          <NODE1_ID>47954</NODE1_ID>
+          <NODE1_NAME>rojals</NODE1_NAME>
+          <NODE2_ID>54834</NODE2_ID>
+          <NODE2_NAME>VallsBlat</NODE2_NAME>
+          <KMS>11.539</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.130776,41.338994 1.247887,41.284240</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77112">
+          <NODE1_ID>47954</NODE1_ID>
+          <NODE1_NAME>rojals</NODE1_NAME>
+          <NODE2_ID>47957</NODE2_ID>
+          <NODE2_NAME>rojals2</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.130776,41.338994 1.129312,41.338401</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121409">
+          <NODE1_ID>63697</NODE1_ID>
+          <NODE1_NAME>BdelaCMajor17</NODE1_NAME>
+          <NODE2_ID>73728</NODE2_ID>
+          <NODE2_NAME>MontblancVidre</NODE2_NAME>
+          <KMS>7.53</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.228157,41.411251 1.140937,41.394380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121638">
+          <NODE1_ID>74850</NODE1_ID>
+          <NODE1_NAME>MONTarago16</NODE1_NAME>
+          <NODE2_ID>63697</NODE2_ID>
+          <NODE2_NAME>BdelaCMajor17</NODE2_NAME>
+          <KMS>7.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.165889,41.367934 1.228157,41.411251</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123739">
+          <NODE1_ID>63697</NODE1_ID>
+          <NODE1_NAME>BdelaCMajor17</NODE1_NAME>
+          <NODE2_ID>69523</NODE2_ID>
+          <NODE2_NAME>MONTmallorca4</NODE2_NAME>
+          <KMS>7.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.228157,41.411251 1.166616,41.368319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

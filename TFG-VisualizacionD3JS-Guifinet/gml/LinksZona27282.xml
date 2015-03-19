@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.050165</gml:X><gml:Y>42.429566</gml:Y></gml:coord>
+<gml:coord><gml:X>-3.045917</gml:X><gml:Y>42.432618</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="75568">
+          <NODE1_ID>54730</NODE1_ID>
+          <NODE1_NAME>VQ-TorreIglesia</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.045957,42.432618 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75571">
+          <NODE1_ID>54730</NODE1_ID>
+          <NODE1_NAME>VQ-TorreIglesia</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.045957,42.432618 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75831">
+          <NODE1_ID>54729</NODE1_ID>
+          <NODE1_NAME>VQ-Ayto1</NODE1_NAME>
+          <NODE2_ID>54730</NODE2_ID>
+          <NODE2_NAME>VQ-TorreIglesia</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.049223,42.429825 -3.045957,42.432618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75833">
+          <NODE1_ID>54730</NODE1_ID>
+          <NODE1_NAME>VQ-TorreIglesia</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.045957,42.432618 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75834">
+          <NODE1_ID>54730</NODE1_ID>
+          <NODE1_NAME>VQ-TorreIglesia</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.045957,42.432618 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77677">
+          <NODE1_ID>72585</NODE1_ID>
+          <NODE1_NAME>VQ-SANISIDRO1</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.050165,42.429566 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77723">
+          <NODE1_ID>27283</NODE1_ID>
+          <NODE1_NAME>VQ-Iglesia2</NODE1_NAME>
+          <NODE2_ID>54730</NODE2_ID>
+          <NODE2_NAME>VQ-TorreIglesia</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.045917,42.432136 -3.045957,42.432618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78481">
+          <NODE1_ID>54730</NODE1_ID>
+          <NODE1_NAME>VQ-TorreIglesia</NODE1_NAME>
+          <NODE2_ID>73224</NODE2_ID>
+          <NODE2_NAME>VQ-IGLESIA1</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.045957,42.432618 -3.046297,42.432508</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79391">
+          <NODE1_ID>72572</NODE1_ID>
+          <NODE1_NAME>VQ-REAL14</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.203</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.047633,42.431217 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79406">
+          <NODE1_ID>72570</NODE1_ID>
+          <NODE1_NAME>VQ-REAL22</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.048070,42.430677 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80579">
+          <NODE1_ID>74895</NODE1_ID>
+          <NODE1_NAME>VQ-ELENA</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.050074,42.429657 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81289">
+          <NODE1_ID>75400</NODE1_ID>
+          <NODE1_NAME>VQ-callereal15</NODE1_NAME>
+          <NODE2_ID>54730</NODE2_ID>
+          <NODE2_NAME>VQ-TorreIglesia</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.046525,42.432043 -3.045957,42.432618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81300">
+          <NODE1_ID>75411</NODE1_ID>
+          <NODE1_NAME>VQ-Iglesiareal15</NODE1_NAME>
+          <NODE2_ID>54730</NODE2_ID>
+          <NODE2_NAME>VQ-TorreIglesia</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.046569,42.431999 -3.045957,42.432618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81328">
+          <NODE1_ID>75426</NODE1_ID>
+          <NODE1_NAME>VQ-LAPLAZA-14</NODE1_NAME>
+          <NODE2_ID>54729</NODE2_ID>
+          <NODE2_NAME>VQ-Ayto1</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.049734,42.429586 -3.049223,42.429825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

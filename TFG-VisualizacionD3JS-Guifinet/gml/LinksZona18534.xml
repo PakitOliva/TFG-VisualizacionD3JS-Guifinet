@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.379924</gml:X><gml:Y>42.063169</gml:Y></gml:coord>
+<gml:coord><gml:X>2.686096</gml:X><gml:Y>42.203104</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="19622">
+          <NODE1_ID>23853</NODE1_ID>
+          <NODE1_NAME>RuidaEnric</NODE1_NAME>
+          <NODE2_ID>24499</NODE2_ID>
+          <NODE2_NAME>LprsVracomas</NODE2_NAME>
+          <KMS>7.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419481,42.196756 2.474037,42.148346</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20306">
+          <NODE1_ID>25388</NODE1_ID>
+          <NODE1_NAME>RuidaCbob</NODE1_NAME>
+          <NODE2_ID>24499</NODE2_ID>
+          <NODE2_NAME>LprsVracomas</NODE2_NAME>
+          <KMS>7.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419063,42.196814 2.474037,42.148346</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21958">
+          <NODE1_ID>24499</NODE1_ID>
+          <NODE1_NAME>LprsVracomas</NODE1_NAME>
+          <NODE2_ID>27174</NODE2_ID>
+          <NODE2_NAME>RuidaCanCasals</NODE2_NAME>
+          <KMS>7.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474037,42.148346 2.414728,42.195659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23569">
+          <NODE1_ID>25498</NODE1_ID>
+          <NODE1_NAME>RidauraWifi</NODE1_NAME>
+          <NODE2_ID>18593</NODE2_ID>
+          <NODE2_NAME>Olotmontsacopa</NODE2_NAME>
+          <KMS>6.992</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408323,42.197495 2.490420,42.182167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23758">
+          <NODE1_ID>28936</NODE1_ID>
+          <NODE1_NAME>Ruidacmuntanya</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>0.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408645,42.194249 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23767">
+          <NODE1_ID>28507</NODE1_ID>
+          <NODE1_NAME>RuidaMasPujolassos</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>1.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.423236,42.186245 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23854">
+          <NODE1_ID>22144</NODE1_ID>
+          <NODE1_NAME>Olot-A217</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>6.99</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.490431,42.182292 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24003">
+          <NODE1_ID>28632</NODE1_ID>
+          <NODE1_NAME>RuidaAjunt</NODE1_NAME>
+          <NODE2_ID>28631</NODE2_ID>
+          <NODE2_NAME>RuidaCmapanar</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406934,42.188703 2.408602,42.187649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24171">
+          <NODE1_ID>29418</NODE1_ID>
+          <NODE1_NAME>RiudaMRiu</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>1.125</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406499,42.187462 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24419">
+          <NODE1_ID>29692</NODE1_ID>
+          <NODE1_NAME>Pnyllavor2</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>3.366</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.445188,42.184582 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26805">
+          <NODE1_ID>25498</NODE1_ID>
+          <NODE1_NAME>RidauraWifi</NODE1_NAME>
+          <NODE2_ID>32140</NODE2_ID>
+          <NODE2_NAME>RiudaMQuel</NODE2_NAME>
+          <KMS>3.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408323,42.197495 2.444930,42.188344</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30698">
+          <NODE1_ID>35846</NODE1_ID>
+          <NODE1_NAME>RJoaC9</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>0.956</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406435,42.189001 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30849">
+          <NODE1_ID>24339</NODE1_ID>
+          <NODE1_NAME>Lpresvolraco</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>7.729</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474032,42.147977 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31017">
+          <NODE1_ID>36017</NODE1_ID>
+          <NODE1_NAME>RuidCmarti</NODE1_NAME>
+          <NODE2_ID>18593</NODE2_ID>
+          <NODE2_NAME>Olotmontsacopa</NODE2_NAME>
+          <KMS>5.696</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424459,42.197119 2.490420,42.182167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31027">
+          <NODE1_ID>36017</NODE1_ID>
+          <NODE1_NAME>RuidCmarti</NODE1_NAME>
+          <NODE2_ID>18593</NODE2_ID>
+          <NODE2_NAME>Olotmontsacopa</NODE2_NAME>
+          <KMS>5.696</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424459,42.197119 2.490420,42.182167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31199">
+          <NODE1_ID>27174</NODE1_ID>
+          <NODE1_NAME>RuidaCanCasals</NODE1_NAME>
+          <NODE2_ID>18593</NODE2_ID>
+          <NODE2_NAME>Olotmontsacopa</NODE2_NAME>
+          <KMS>6.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.414728,42.195659 2.490420,42.182167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31201">
+          <NODE1_ID>24339</NODE1_ID>
+          <NODE1_NAME>Lpresvolraco</NODE1_NAME>
+          <NODE2_ID>23853</NODE2_ID>
+          <NODE2_NAME>RuidaEnric</NODE2_NAME>
+          <KMS>7.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474032,42.147977 2.419481,42.196756</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31202">
+          <NODE1_ID>25388</NODE1_ID>
+          <NODE1_NAME>RuidaCbob</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>7.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.419063,42.196814 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31617">
+          <NODE1_ID>18535</NODE1_ID>
+          <NODE1_NAME>Riudacanfet</NODE1_NAME>
+          <NODE2_ID>18593</NODE2_ID>
+          <NODE2_NAME>Olotmontsacopa</NODE2_NAME>
+          <KMS>3.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.446797,42.189673 2.490420,42.182167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32011">
+          <NODE1_ID>37070</NODE1_ID>
+          <NODE1_NAME>BatetRepeCentrSocial</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>9.119</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.516443,42.180925 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33066">
+          <NODE1_ID>38052</NODE1_ID>
+          <NODE1_NAME>RuidauraSurita22</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>0.891</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406256,42.189621 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34895">
+          <NODE1_ID>39566</NODE1_ID>
+          <NODE1_NAME>RuidaJordi</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>1.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408259,42.188369 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35344">
+          <NODE1_ID>36017</NODE1_ID>
+          <NODE1_NAME>RuidCmarti</NODE1_NAME>
+          <NODE2_ID>9174</NODE2_ID>
+          <NODE2_NAME>GIRRocacorba</NODE2_NAME>
+          <KMS>25.663</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424459,42.197119 2.686096,42.072803</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35724">
+          <NODE1_ID>40248</NODE1_ID>
+          <NODE1_NAME>RuidaNou6</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>1.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.407556,42.188360 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42928">
+          <NODE1_ID>46075</NODE1_ID>
+          <NODE1_NAME>RuidaPLtiradors4</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>1.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408344,42.187779 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53569">
+          <NODE1_ID>24339</NODE1_ID>
+          <NODE1_NAME>Lpresvolraco</NODE1_NAME>
+          <NODE2_ID>36017</NODE2_ID>
+          <NODE2_NAME>RuidCmarti</NODE2_NAME>
+          <KMS>6.824</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.474032,42.147977 2.424459,42.197119</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57013">
+          <NODE1_ID>56274</NODE1_ID>
+          <NODE1_NAME>Gredera10Olot</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>6.921</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.490443,42.185141 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57189">
+          <NODE1_ID>17642</NODE1_ID>
+          <NODE1_NAME>PlHoLaSalut</NODE1_NAME>
+          <NODE2_ID>36017</NODE2_ID>
+          <NODE2_NAME>RuidCmarti</NODE2_NAME>
+          <KMS>16.017</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.496171,42.063169 2.424459,42.197119</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58853">
+          <NODE1_ID>45369</NODE1_ID>
+          <NODE1_NAME>OlotVolcaSafont18</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>7.635</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.497414,42.179184 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58873">
+          <NODE1_ID>29692</NODE1_ID>
+          <NODE1_NAME>Pnyllavor2</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>3.366</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.445188,42.184582 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59776">
+          <NODE1_ID>35702</NODE1_ID>
+          <NODE1_NAME>Lpresavcons20</NODE1_NAME>
+          <NODE2_ID>36017</NODE2_ID>
+          <NODE2_NAME>RuidCmarti</NODE2_NAME>
+          <KMS>6.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.462225,42.146952 2.424459,42.197119</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60009">
+          <NODE1_ID>36017</NODE1_ID>
+          <NODE1_NAME>RuidCmarti</NODE1_NAME>
+          <NODE2_ID>22123</NODE2_ID>
+          <NODE2_NAME>PnyLaVall</NODE2_NAME>
+          <KMS>3.292</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424459,42.197119 2.435660,42.168681</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60163">
+          <NODE1_ID>19892</NODE1_ID>
+          <NODE1_NAME>OlotSaiols</NODE1_NAME>
+          <NODE2_ID>36017</NODE2_ID>
+          <NODE2_NAME>RuidCmarti</NODE2_NAME>
+          <KMS>2.75</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.457724,42.198137 2.424459,42.197119</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64408">
+          <NODE1_ID>28631</NODE1_ID>
+          <NODE1_NAME>RuidaCmapanar</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>1.094</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408602,42.187649 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71259">
+          <NODE1_ID>66789</NODE1_ID>
+          <NODE1_NAME>RiudauraAlex</NODE1_NAME>
+          <NODE2_ID>29692</NODE2_ID>
+          <NODE2_NAME>Pnyllavor2</NODE2_NAME>
+          <KMS>2.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418682,42.194081 2.445188,42.184582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72806">
+          <NODE1_ID>11698</NODE1_ID>
+          <NODE1_NAME>knoppix</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>7.2</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.493210,42.182791 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74379">
+          <NODE1_ID>69493</NODE1_ID>
+          <NODE1_NAME>RiudauraLaCantina</NODE1_NAME>
+          <NODE2_ID>37650</NODE2_ID>
+          <NODE2_NAME>SntpSerrat13</NODE2_NAME>
+          <KMS>12.039</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.379924,42.203104 2.512742,42.158504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74380">
+          <NODE1_ID>69493</NODE1_ID>
+          <NODE1_NAME>RiudauraLaCantina</NODE1_NAME>
+          <NODE2_ID>24339</NODE2_ID>
+          <NODE2_NAME>Lpresvolraco</NODE2_NAME>
+          <KMS>9.897</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.379924,42.203104 2.474032,42.147977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75239">
+          <NODE1_ID>18537</NODE1_ID>
+          <NODE1_NAME>OlotcJoanet</NODE1_NAME>
+          <NODE2_ID>28631</NODE2_ID>
+          <NODE2_NAME>RuidaCmapanar</NODE2_NAME>
+          <KMS>5.043</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.468748,42.195460 2.408602,42.187649</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75240">
+          <NODE1_ID>28631</NODE1_ID>
+          <NODE1_NAME>RuidaCmapanar</NODE1_NAME>
+          <NODE2_ID>59117</NODE2_ID>
+          <NODE2_NAME>OlotCamimontsacop41</NODE2_NAME>
+          <KMS>6.766</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.408602,42.187649 2.490436,42.185182</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79055">
+          <NODE1_ID>71731</NODE1_ID>
+          <NODE1_NAME>BatetElPla</NODE1_NAME>
+          <NODE2_ID>25498</NODE2_ID>
+          <NODE2_NAME>RidauraWifi</NODE2_NAME>
+          <KMS>10.791</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.536039,42.177090 2.408323,42.197495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79992">
+          <NODE1_ID>29692</NODE1_ID>
+          <NODE1_NAME>Pnyllavor2</NODE1_NAME>
+          <NODE2_ID>53318</NODE2_ID>
+          <NODE2_NAME>RiudaTania</NODE2_NAME>
+          <KMS>2.108</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.445188,42.184582 2.424211,42.195391</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79993">
+          <NODE1_ID>53318</NODE1_ID>
+          <NODE1_NAME>RiudaTania</NODE1_NAME>
+          <NODE2_ID>22144</NODE2_ID>
+          <NODE2_NAME>Olot-A217</NODE2_NAME>
+          <KMS>5.66</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424211,42.195391 2.490431,42.182292</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121759">
+          <NODE1_ID>53318</NODE1_ID>
+          <NODE1_NAME>RiudaTania</NODE1_NAME>
+          <NODE2_ID>71731</NODE2_ID>
+          <NODE2_NAME>BatetElPla</NODE2_NAME>
+          <KMS>9.459</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424211,42.195391 2.536039,42.177090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121833">
+          <NODE1_ID>36017</NODE1_ID>
+          <NODE1_NAME>RuidCmarti</NODE1_NAME>
+          <NODE2_ID>53318</NODE2_ID>
+          <NODE2_NAME>RiudaTania</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.424459,42.197119 2.424211,42.195391</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122717">
+          <NODE1_ID>45369</NODE1_ID>
+          <NODE1_NAME>OlotVolcaSafont18</NODE1_NAME>
+          <NODE2_ID>53318</NODE2_ID>
+          <NODE2_NAME>RiudaTania</NODE2_NAME>
+          <KMS>6.309</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.497414,42.179184 2.424211,42.195391</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122907">
+          <NODE1_ID>18593</NODE1_ID>
+          <NODE1_NAME>Olotmontsacopa</NODE1_NAME>
+          <NODE2_ID>53318</NODE2_ID>
+          <NODE2_NAME>RiudaTania</NODE2_NAME>
+          <KMS>5.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.490420,42.182167 2.424211,42.195391</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

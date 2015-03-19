@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.038828</gml:X><gml:Y>41.495165</gml:Y></gml:coord>
+<gml:coord><gml:X>2.132289</gml:X><gml:Y>41.607774</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="47747">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>49518</NODE2_ID>
+          <NODE2_NAME>MtdprXiprer48</NODE2_NAME>
+          <KMS>9.095</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.038828,41.607585</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47764">
+          <NODE1_ID>46012</NODE1_ID>
+          <NODE1_NAME>MtdprXiprer54</NODE1_NAME>
+          <NODE2_ID>49518</NODE2_ID>
+          <NODE2_NAME>MtdprXiprer48</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.039466,41.607774 2.038828,41.607585</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66599">
+          <NODE1_ID>48058</NODE1_ID>
+          <NODE1_NAME>CDVpalmeres1</NODE1_NAME>
+          <NODE2_ID>46012</NODE2_ID>
+          <NODE2_NAME>MtdprXiprer54</NODE2_NAME>
+          <KMS>14.71</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.132289,41.495165 2.039466,41.607774</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

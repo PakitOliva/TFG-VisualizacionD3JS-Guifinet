@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.049416</gml:X><gml:Y>40.456581</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.017505</gml:X><gml:Y>40.475583</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="66727">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.048300,40.458279</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66727</NODE_ID>
+      <NODE_NAME>Rasputin</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67034">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.017505,40.475583</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67034</NODE_ID>
+      <NODE_NAME>Mengaz</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66670">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.049129,40.457690</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66670</NODE_ID>
+      <NODE_NAME>AYTOCPD</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66697">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.049416,40.457152</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66697</NODE_ID>
+      <NODE_NAME>TROP31</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66698">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.049369,40.456581</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66698</NODE_ID>
+      <NODE_NAME>MARAGATO</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77352">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.041531,40.462621</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77352</NODE_ID>
+      <NODE_NAME>CDPDpst</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.715267</gml:X><gml:Y>40.955940</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.712950</gml:X><gml:Y>40.959687</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="60893">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.713068,40.956002</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60893</NODE_ID>
+      <NODE_NAME>GDLAcacia34</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59154">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.715267,40.957870</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59154</NODE_ID>
+      <NODE_NAME>GDLDhs</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60940">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.715106,40.955940</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60940</NODE_ID>
+      <NODE_NAME>GDLEstacion15</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60720">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.713540,40.956386</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60720</NODE_ID>
+      <NODE_NAME>GDLAcacia30</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60721">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.712950,40.959687</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60721</NODE_ID>
+      <NODE_NAME>GDLCircular2</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

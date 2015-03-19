@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.011721</gml:X><gml:Y>41.362573</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.057260</gml:X><gml:Y>41.367601</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="22382">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.052225,41.367601</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22382</NODE_ID>
+      <NODE_NAME>SJD06</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="14412">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.053144,41.366268</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14412</NODE_ID>
+      <NODE_NAME>SJD01</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18142">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.052459,41.366924</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18142</NODE_ID>
+      <NODE_NAME>SJD02</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18242">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.054771,41.364410</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18242</NODE_ID>
+      <NODE_NAME>SJD03</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18496">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.056193,41.362573</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18496</NODE_ID>
+      <NODE_NAME>SJD05</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18571">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.052440,41.366345</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18571</NODE_ID>
+      <NODE_NAME>SJD04</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24064">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.053075,41.366618</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24064</NODE_ID>
+      <NODE_NAME>SJD07</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24098">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.011721,41.364519</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24098</NODE_ID>
+      <NODE_NAME>SJD08</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28972">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.057260,41.363048</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28972</NODE_ID>
+      <NODE_NAME>SJD10</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35547">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.054347,41.366209</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35547</NODE_ID>
+      <NODE_NAME>SJDGoytisolo10</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48157">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.053789,41.364812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48157</NODE_ID>
+      <NODE_NAME>SJD12</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57623">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.057233,41.364671</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57623</NODE_ID>
+      <NODE_NAME>SJD13</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

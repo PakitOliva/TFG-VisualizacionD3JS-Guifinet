@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.713087</gml:X><gml:Y>41.707911</gml:Y></gml:coord>
+<gml:coord><gml:X>1.978723</gml:X><gml:Y>41.776927</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="25973">
+          <NODE1_ID>30617</NODE1_ID>
+          <NODE1_NAME>TALTorreFoc</NODE1_NAME>
+          <NODE2_ID>30618</NODE2_ID>
+          <NODE2_NAME>TALFundacio</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.970627,41.741227 1.977056,41.738051</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27337">
+          <NODE1_ID>32691</NODE1_ID>
+          <NODE1_NAME>TALMarsa</NODE1_NAME>
+          <NODE2_ID>30618</NODE2_ID>
+          <NODE2_NAME>TALFundacio</NODE2_NAME>
+          <KMS>0.273</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.974792,41.736270 1.977056,41.738051</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27344">
+          <NODE1_ID>32696</NODE1_ID>
+          <NODE1_NAME>TALcalGuerris</NODE1_NAME>
+          <NODE2_ID>30618</NODE2_ID>
+          <NODE2_NAME>TALFundacio</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976970,41.737400 1.977056,41.738051</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27896">
+          <NODE1_ID>33244</NODE1_ID>
+          <NODE1_NAME>TALCalPetronilla</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.717</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977314,41.737161 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28865">
+          <NODE1_ID>34103</NODE1_ID>
+          <NODE1_NAME>TALAvQuintana26</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.579</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976265,41.738165 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30763">
+          <NODE1_ID>35895</NODE1_ID>
+          <NODE1_NAME>TAL-Bosquet9</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.975645,41.735549 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30768">
+          <NODE1_ID>35899</NODE1_ID>
+          <NODE1_NAME>TAL-Padro11</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.728</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977276,41.736970 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30775">
+          <NODE1_ID>35906</NODE1_ID>
+          <NODE1_NAME>TAL-Bosquet2</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.735</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976091,41.736029 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30777">
+          <NODE1_ID>35908</NODE1_ID>
+          <NODE1_NAME>TAL-Bosquet4</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.732</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.975903,41.735949 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32764">
+          <NODE1_ID>37789</NODE1_ID>
+          <NODE1_NAME>TALPadro6</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>0.722</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977491,41.737253 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38434">
+          <NODE1_ID>40294</NODE1_ID>
+          <NODE1_NAME>CGNv</NODE1_NAME>
+          <NODE2_ID>30617</NODE2_ID>
+          <NODE2_NAME>TALTorreFoc</NODE2_NAME>
+          <KMS>5.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.904036,41.749519 1.970627,41.741227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46140">
+          <NODE1_ID>48346</NODE1_ID>
+          <NODE1_NAME>TALsantllorenc32</NODE1_NAME>
+          <NODE2_ID>30618</NODE2_ID>
+          <NODE2_NAME>TALFundacio</NODE2_NAME>
+          <KMS>0.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973003,41.736859 1.977056,41.738051</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49224">
+          <NODE1_ID>44018</NODE1_ID>
+          <NODE1_NAME>TALNou1</NODE1_NAME>
+          <NODE2_ID>30618</NODE2_ID>
+          <NODE2_NAME>TALFundacio</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976996,41.737102 1.977056,41.738051</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65875">
+          <NODE1_ID>30619</NODE1_ID>
+          <NODE1_NAME>TALSellares</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978723,41.735031 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66031">
+          <NODE1_ID>62889</NODE1_ID>
+          <NODE1_NAME>TALBosquet15</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.322</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973988,41.735480 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66353">
+          <NODE1_ID>63077</NODE1_ID>
+          <NODE1_NAME>TALNou22</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977045,41.737255 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66451">
+          <NODE1_ID>63142</NODE1_ID>
+          <NODE1_NAME>TALQuintana50</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.389</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973229,41.738514 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67048">
+          <NODE1_ID>63626</NODE1_ID>
+          <NODE1_NAME>TALStLLorencM32</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973178,41.737426 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67071">
+          <NODE1_ID>62756</NODE1_ID>
+          <NODE1_NAME>TALKouten</NODE1_NAME>
+          <NODE2_ID>36585</NODE2_ID>
+          <NODE2_NAME>TALRaval21</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977370,41.736890 1.978290,41.736041</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67651">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>22.425</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67752">
+          <NODE1_ID>63980</NODE1_ID>
+          <NODE1_NAME>TALRocafort160</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.974818,41.737100 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69317">
+          <NODE1_ID>65327</NODE1_ID>
+          <NODE1_NAME>TALNou20</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976978,41.737204 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74185">
+          <NODE1_ID>62756</NODE1_ID>
+          <NODE1_NAME>TALKouten</NODE1_NAME>
+          <NODE2_ID>69390</NODE2_ID>
+          <NODE2_NAME>TALLesVoltes</NODE2_NAME>
+          <KMS>0.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977370,41.736890 1.978375,41.735834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80851">
+          <NODE1_ID>62756</NODE1_ID>
+          <NODE1_NAME>TALKouten</NODE1_NAME>
+          <NODE2_ID>39986</NODE2_ID>
+          <NODE2_NAME>MNBufalvent</NODE2_NAME>
+          <KMS>11.137</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977370,41.736890 1.849244,41.707911</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

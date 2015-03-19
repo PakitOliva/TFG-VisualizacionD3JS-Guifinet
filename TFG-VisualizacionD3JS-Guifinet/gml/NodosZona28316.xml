@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.367430</gml:X><gml:Y>39.504677</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.359109</gml:X><gml:Y>39.510552</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="35096">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.359109,39.507123</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35096</NODE_ID>
+      <NODE_NAME>TavBlaZZ</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35428">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.367430,39.504677</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35428</NODE_ID>
+      <NODE_NAME>TBomayer</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55305">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.363852,39.508591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55305</NODE_ID>
+      <NODE_NAME>TBFrancesc</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55702">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.361654,39.507381</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55702</NODE_ID>
+      <NODE_NAME>TBGarciaLorca</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65843">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.364861,39.510552</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65843</NODE_ID>
+      <NODE_NAME>TBCardenalBenlloch21</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66365">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.361642,39.507326</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66365</NODE_ID>
+      <NODE_NAME>TBReverendoJoseMaria</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

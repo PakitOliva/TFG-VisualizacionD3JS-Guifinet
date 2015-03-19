@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.950590</gml:X><gml:Y>41.271732</gml:Y></gml:coord>
+<gml:coord><gml:X>1.983526</gml:X><gml:Y>41.344417</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="70609">
+          <NODE1_ID>66268</NODE1_ID>
+          <NODE1_NAME>CstlldflsPiedad30</NODE1_NAME>
+          <NODE2_ID>61866</NODE2_ID>
+          <NODE2_NAME>CstlldflsMNG26</NODE2_NAME>
+          <KMS>0.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.975938,41.286199 1.982702,41.285599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70610">
+          <NODE1_ID>66269</NODE1_ID>
+          <NODE1_NAME>CstlldflsPalafox</NODE1_NAME>
+          <NODE2_ID>61866</NODE2_ID>
+          <NODE2_NAME>CstlldflsMNG26</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983321,41.286706 1.982702,41.285599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73168">
+          <NODE1_ID>67081</NODE1_ID>
+          <NODE1_NAME>CstlldflsBellamar</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>8.531</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.950590,41.271732 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122253">
+          <NODE1_ID>76295</NODE1_ID>
+          <NODE1_NAME>CstlldflsMNG85</NODE1_NAME>
+          <NODE2_ID>61866</NODE2_ID>
+          <NODE2_NAME>CstlldflsMNG26</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977751,41.285380 1.982702,41.285599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

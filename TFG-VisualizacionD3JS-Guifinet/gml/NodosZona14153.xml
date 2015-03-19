@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.753534</gml:X><gml:Y>42.244505</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.829419</gml:X><gml:Y>42.275716</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="14154">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813197,42.249053</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14154</NODE_ID>
+      <NODE_NAME>lladoalusur</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30107">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.766623,42.272740</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30107</NODE_ID>
+      <NODE_NAME>CllDGmr</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22115">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.829419,42.250076</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22115</NODE_ID>
+      <NODE_NAME>LLad-Teulera</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27481">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.807742,42.254427</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27481</NODE_ID>
+      <NODE_NAME>llad-canserra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27309">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.809217,42.253799</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27309</NODE_ID>
+      <NODE_NAME>Llado-Pujol</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27397">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813911,42.248868</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27397</NODE_ID>
+      <NODE_NAME>Llado-Torre</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27398">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.814243,42.249036</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27398</NODE_ID>
+      <NODE_NAME>LldCnxcmrl</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27550">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.772202,42.269114</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27550</NODE_ID>
+      <NODE_NAME>Llado-solabados</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28082">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.807586,42.247989</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28082</NODE_ID>
+      <NODE_NAME>LladPlaVi11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28408">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.807887,42.254552</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28408</NODE_ID>
+      <NODE_NAME>LladPujol9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28870">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813814,42.249204</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28870</NODE_ID>
+      <NODE_NAME>LldCampanar</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28872">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813589,42.248021</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28872</NODE_ID>
+      <NODE_NAME>LldAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29870">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813031,42.249241</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29870</NODE_ID>
+      <NODE_NAME>LldCnoves9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30124">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.820509,42.267476</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30124</NODE_ID>
+      <NODE_NAME>LldMasBorgonyo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30073">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.811569,42.246383</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30073</NODE_ID>
+      <NODE_NAME>LLado-La_Feixa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31634">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.811891,42.247040</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31634</NODE_ID>
+      <NODE_NAME>Milli</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31635">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.811891,42.247040</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31635</NODE_ID>
+      <NODE_NAME>Millisi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34014">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.821485,42.256095</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34014</NODE_ID>
+      <NODE_NAME>LladAforesMarc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32835">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813230,42.249138</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32835</NODE_ID>
+      <NODE_NAME>Lldcasesnoves</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33506">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.802007,42.254441</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33506</NODE_ID>
+      <NODE_NAME>Lladcnou25</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42962">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.816359,42.247875</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42962</NODE_ID>
+      <NODE_NAME>LladFig35</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34875">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.820450,42.267519</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34875</NODE_ID>
+      <NODE_NAME>LldCnabosc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35546">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.812371,42.245355</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35546</NODE_ID>
+      <NODE_NAME>LLadser33</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35635">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.812245,42.247134</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35635</NODE_ID>
+      <NODE_NAME>Lldbesalu14</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35883">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.808938,42.247046</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35883</NODE_ID>
+      <NODE_NAME>LladPDelV9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43431">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.814217,42.247866</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43431</NODE_ID>
+      <NODE_NAME>LldCnMacia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43432">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.790007,42.275716</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43432</NODE_ID>
+      <NODE_NAME>LldCnBallart</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46312">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.817414,42.246368</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46312</NODE_ID>
+      <NODE_NAME>LladEmporda11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46808">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.812256,42.245177</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46808</NODE_ID>
+      <NODE_NAME>LladSerr28</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55584">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.812208,42.246118</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55584</NODE_ID>
+      <NODE_NAME>LLadSer15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57502">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.801117,42.265515</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57502</NODE_ID>
+      <NODE_NAME>LldMasOlives</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61626">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.753534,42.263791</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61626</NODE_ID>
+      <NODE_NAME>LladoCanSerra</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64600">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.820480,42.267505</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64600</NODE_ID>
+      <NODE_NAME>LldCanPares</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69524">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.807854,42.254487</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69524</NODE_ID>
+      <NODE_NAME>LLadoCanpins</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73685">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.820478,42.267442</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73685</NODE_ID>
+      <NODE_NAME>LldCalEscola</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76290">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.812449,42.245275</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76290</NODE_ID>
+      <NODE_NAME>LladoSerrallo37</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76728">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.813973,42.249580</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76728</NODE_ID>
+      <NODE_NAME>LldStLlorenc10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77230">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.812229,42.244505</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77230</NODE_ID>
+      <NODE_NAME>LldMont28</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

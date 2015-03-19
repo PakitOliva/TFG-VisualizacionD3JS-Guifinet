@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.335501</gml:X><gml:Y>39.538948</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.535790</gml:X><gml:Y>40.071755</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="33190">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.333505,39.538948</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33190</NODE_ID>
+      <NODE_NAME>SPMonN1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33243">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.335501,39.541482</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33243</NODE_ID>
+      <NODE_NAME>SPMonN2</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68676">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.920829,40.071755</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68676</NODE_ID>
+      <NODE_NAME>guificantos</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49729">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.535790,39.889473</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49729</NODE_ID>
+      <NODE_NAME>CdYEPESAyunt</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

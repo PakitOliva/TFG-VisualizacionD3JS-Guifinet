@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.482918</gml:X><gml:Y>42.164203</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.536039</gml:X><gml:Y>42.184196</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="71731">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.536039,42.177090</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71731</NODE_ID>
+      <NODE_NAME>BatetElPla</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19958">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.515109,42.182075</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19958</NODE_ID>
+      <NODE_NAME>BatetPG</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22134">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.513970,42.167726</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22134</NODE_ID>
+      <NODE_NAME>Btts-Masbo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28263">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.520939,42.174198</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28263</NODE_ID>
+      <NODE_NAME>BSCSAMBALES</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32919">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.525332,42.172942</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32919</NODE_ID>
+      <NODE_NAME>Batetcomavall</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37070">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.516443,42.180925</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37070</NODE_ID>
+      <NODE_NAME>BatetRepeCentrSocial</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39592">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.517517,42.164203</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39592</NODE_ID>
+      <NODE_NAME>BttsCalermita</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42876">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.525233,42.164461</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42876</NODE_ID>
+      <NODE_NAME>BatetCanFelix</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43175">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.522950,42.179896</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43175</NODE_ID>
+      <NODE_NAME>Batetcalcabrer</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44184">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.482918,42.184196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44184</NODE_ID>
+      <NODE_NAME>OlotStBernat4</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54000">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.513565,42.175822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54000</NODE_ID>
+      <NODE_NAME>BttsCanJosep</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

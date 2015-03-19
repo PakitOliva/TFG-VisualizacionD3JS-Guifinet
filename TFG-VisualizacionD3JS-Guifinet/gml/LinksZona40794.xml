@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.108882</gml:X><gml:Y>38.778449</gml:Y></gml:coord>
+<gml:coord><gml:X>0.015437</gml:X><gml:Y>38.826488</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="36441">
+          <NODE1_ID>40814</NODE1_ID>
+          <NODE1_NAME>campell</NODE1_NAME>
+          <NODE2_ID>40819</NODE2_ID>
+          <NODE2_NAME>fontilles</NODE2_NAME>
+          <KMS>1.066</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.104612,38.782207 -0.092365,38.781646</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41967">
+          <NODE1_ID>44817</NODE1_ID>
+          <NODE1_NAME>orba</NODE1_NAME>
+          <NODE2_ID>40815</NODE2_ID>
+          <NODE2_NAME>fleix</NODE2_NAME>
+          <KMS>3.837</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064738,38.779205 -0.108882,38.778449</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57170">
+          <NODE1_ID>40815</NODE1_ID>
+          <NODE1_NAME>fleix</NODE1_NAME>
+          <NODE2_ID>56438</NODE2_ID>
+          <NODE2_NAME>OndDrFleming1</NODE2_NAME>
+          <KMS>12.044</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.108882,38.778449 0.015437,38.826488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

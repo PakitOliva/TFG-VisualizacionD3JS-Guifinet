@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.159192</gml:X><gml:Y>38.727059</gml:Y></gml:coord>
+<gml:coord><gml:X>1.277574</gml:X><gml:Y>38.915713</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="42048">
+          <NODE1_ID>40049</NODE1_ID>
+          <NODE1_NAME>AJBenitatxellCumbre</NODE1_NAME>
+          <NODE2_ID>23206</NODE2_ID>
+          <NODE2_NAME>IBZatalaiaSantJosep</NODE2_NAME>
+          <KMS>99.356</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.159192,38.727059 1.277574,38.915713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.269848</gml:X><gml:Y>38.776467</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.177251</gml:X><gml:Y>38.830470</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="34171">
+          <NODE1_ID>36762</NODE1_ID>
+          <NODE1_NAME>ValcalaNucli</NODE1_NAME>
+          <NODE2_ID>33611</NODE2_ID>
+          <NODE2_NAME>gallineraxillibre</NODE2_NAME>
+          <KMS>7.642</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252342,38.794594 -0.177251,38.830470</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34402">
+          <NODE1_ID>39172</NODE1_ID>
+          <NODE1_NAME>ValcalaCOOP</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251704,38.794839 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34660">
+          <NODE1_ID>36762</NODE1_ID>
+          <NODE1_NAME>ValcalaNucli</NODE1_NAME>
+          <NODE2_ID>39364</NODE2_ID>
+          <NODE2_NAME>VAlcalaEnrique</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252342,38.794594 -0.250776,38.795495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35561">
+          <NODE1_ID>39698</NODE1_ID>
+          <NODE1_NAME>VAlcala2Beniaia</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252836,38.793906 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35562">
+          <NODE1_ID>39698</NODE1_ID>
+          <NODE1_NAME>VAlcala2Beniaia</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>2.321</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252836,38.793906 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36908">
+          <NODE1_ID>41173</NODE1_ID>
+          <NODE1_NAME>VALCCarrerMoli12Fust</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251398,38.794918 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37129">
+          <NODE1_ID>41366</NODE1_ID>
+          <NODE1_NAME>VALCLaTorre22b</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251574,38.793438 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37132">
+          <NODE1_ID>41368</NODE1_ID>
+          <NODE1_NAME>VALCElsAmetlers6</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252763,38.793792 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38312">
+          <NODE1_ID>42406</NODE1_ID>
+          <NODE1_NAME>VALCMajor20</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.253099,38.793998 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38338">
+          <NODE1_ID>36762</NODE1_ID>
+          <NODE1_NAME>ValcalaNucli</NODE1_NAME>
+          <NODE2_ID>42442</NODE2_ID>
+          <NODE2_NAME>VALCctraForestalSN</NODE2_NAME>
+          <KMS>0.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252342,38.794594 -0.254104,38.793960</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38343">
+          <NODE1_ID>42445</NODE1_ID>
+          <NODE1_NAME>VALCampingAlcala</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.343</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.256290,38.794560 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38345">
+          <NODE1_ID>42449</NODE1_ID>
+          <NODE1_NAME>VALCLaTorre26</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251661,38.793568 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38563">
+          <NODE1_ID>42634</NODE1_ID>
+          <NODE1_NAME>VALCMoli12</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.250647,38.795343 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38569">
+          <NODE1_ID>36762</NODE1_ID>
+          <NODE1_NAME>ValcalaNucli</NODE1_NAME>
+          <NODE2_ID>42625</NODE2_ID>
+          <NODE2_NAME>VALCLatrre5</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252342,38.794594 -0.251707,38.794047</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38573">
+          <NODE1_ID>42636</NODE1_ID>
+          <NODE1_NAME>VALCMajor17B</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.253002,38.793947 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38739">
+          <NODE1_ID>36762</NODE1_ID>
+          <NODE1_NAME>ValcalaNucli</NODE1_NAME>
+          <NODE2_ID>42655</NODE2_ID>
+          <NODE2_NAME>VALCbisbevilaplana9</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252342,38.794594 -0.252305,38.794237</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38743">
+          <NODE1_ID>42589</NODE1_ID>
+          <NODE1_NAME>VALCSantJosep30</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252117,38.795431 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38969">
+          <NODE1_ID>41163</NODE1_ID>
+          <NODE1_NAME>VALCPaisValencia2</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.253597,38.794157 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39016">
+          <NODE1_ID>42927</NODE1_ID>
+          <NODE1_NAME>VALCBaix3</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268481,38.777062 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39017">
+          <NODE1_ID>42928</NODE1_ID>
+          <NODE1_NAME>VALCEsglesia6</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.006</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268645,38.777048 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39018">
+          <NODE1_ID>42929</NODE1_ID>
+          <NODE1_NAME>VALCMajor4</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252731,38.794321 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39030">
+          <NODE1_ID>42937</NODE1_ID>
+          <NODE1_NAME>VAlcalaLatorre8</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252044,38.794074 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39045">
+          <NODE1_ID>42953</NODE1_ID>
+          <NODE1_NAME>VALCMoli8</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.250966,38.795238 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39363">
+          <NODE1_ID>43218</NODE1_ID>
+          <NODE1_NAME>VALCLaFont5</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.269640,38.776468 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39365">
+          <NODE1_ID>43219</NODE1_ID>
+          <NODE1_NAME>VALCLaFont7</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.269782,38.776467 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39369">
+          <NODE1_ID>43222</NODE1_ID>
+          <NODE1_NAME>VALCVergeMiracle3</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.253517,38.793921 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39924">
+          <NODE1_ID>43633</NODE1_ID>
+          <NODE1_NAME>VALCPIglesia4</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268913,38.777182 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40263">
+          <NODE1_ID>43856</NODE1_ID>
+          <NODE1_NAME>VALCLaFont10</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.269720,38.776539 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40264">
+          <NODE1_ID>43857</NODE1_ID>
+          <NODE1_NAME>VALCLaFont8</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.269661,38.776539 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40266">
+          <NODE1_ID>43860</NODE1_ID>
+          <NODE1_NAME>VALCLaFont2A</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.269278,38.776572 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40592">
+          <NODE1_ID>42444</NODE1_ID>
+          <NODE1_NAME>VALCSantJosep10</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252104,38.795122 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40693">
+          <NODE1_ID>44174</NODE1_ID>
+          <NODE1_NAME>VALCLaTorre6</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251784,38.793915 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40900">
+          <NODE1_ID>44193</NODE1_ID>
+          <NODE1_NAME>VALCLatorre4</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251763,38.794015 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40969">
+          <NODE1_ID>44373</NODE1_ID>
+          <NODE1_NAME>VALCBaix17</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268068,38.777200 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40972">
+          <NODE1_ID>44375</NODE1_ID>
+          <NODE1_NAME>VALCLaFont9</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.269848,38.776475 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40973">
+          <NODE1_ID>44376</NODE1_ID>
+          <NODE1_NAME>VALCBaix4</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268579,38.776958 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41293">
+          <NODE1_ID>44672</NODE1_ID>
+          <NODE1_NAME>VALCLaTorre19</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251772,38.793878 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41600">
+          <NODE1_ID>44971</NODE1_ID>
+          <NODE1_NAME>VALCParc313</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.254947,38.794803 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42147">
+          <NODE1_ID>45453</NODE1_ID>
+          <NODE1_NAME>VALCSantJosep7</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252205,38.795202 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42549">
+          <NODE1_ID>42443</NODE1_ID>
+          <NODE1_NAME>VALCMajor3</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252616,38.794260 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42588">
+          <NODE1_ID>45802</NODE1_ID>
+          <NODE1_NAME>VALCBaix9</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268346,38.777096 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42980">
+          <NODE1_ID>42609</NODE1_ID>
+          <NODE1_NAME>VALCMajor10</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252927,38.794214 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43479">
+          <NODE1_ID>46460</NODE1_ID>
+          <NODE1_NAME>VALCItinerante</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252423,38.794444 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43593">
+          <NODE1_ID>46530</NODE1_ID>
+          <NODE1_NAME>VALCLaTorre7</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251446,38.793857 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46390">
+          <NODE1_ID>48559</NODE1_ID>
+          <NODE1_NAME>VALCSanJose28</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252004,38.795449 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46391">
+          <NODE1_ID>48560</NODE1_ID>
+          <NODE1_NAME>VALCCamiMoli14</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.250443,38.795428 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46392">
+          <NODE1_ID>48561</NODE1_ID>
+          <NODE1_NAME>VALCAmetlers13</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251701,38.793653 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46393">
+          <NODE1_ID>48562</NODE1_ID>
+          <NODE1_NAME>VALCMajor9a</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252782,38.794195 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46716">
+          <NODE1_ID>48794</NODE1_ID>
+          <NODE1_NAME>valcala-vergepilar6</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252364,38.794929 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46989">
+          <NODE1_ID>48563</NODE1_ID>
+          <NODE1_NAME>VALCVirgenPilar1</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252176,38.794937 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47733">
+          <NODE1_ID>49581</NODE1_ID>
+          <NODE1_NAME>VALCElsAmetlers26</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251720,38.793605 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47999">
+          <NODE1_ID>49794</NODE1_ID>
+          <NODE1_NAME>VALCXaletNorman</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.250452,38.794938 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48419">
+          <NODE1_ID>50061</NODE1_ID>
+          <NODE1_NAME>VALCAmetlers2</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252868,38.793751 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48855">
+          <NODE1_ID>50339</NODE1_ID>
+          <NODE1_NAME>VALCSantJosep24</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251943,38.795404 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49343">
+          <NODE1_ID>50731</NODE1_ID>
+          <NODE1_NAME>VALCBaix8</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268237,38.777009 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50389">
+          <NODE1_ID>42476</NODE1_ID>
+          <NODE1_NAME>VALCSantJosep9</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252176,38.795239 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56168">
+          <NODE1_ID>44176</NODE1_ID>
+          <NODE1_NAME>VALCLaTorre12</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251763,38.793831 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57801">
+          <NODE1_ID>36849</NODE1_ID>
+          <NODE1_NAME>ValcalaPedania</NODE1_NAME>
+          <NODE2_ID>56887</NODE2_ID>
+          <NODE2_NAME>VALCEsglesia5</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268704,38.777082 -0.268771,38.777128</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57850">
+          <NODE1_ID>42407</NODE1_ID>
+          <NODE1_NAME>VALCSanJose13</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252149,38.795286 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62129">
+          <NODE1_ID>59930</NODE1_ID>
+          <NODE1_NAME>VALCVergePilar6B</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252369,38.794941 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66920">
+          <NODE1_ID>45559</NODE1_ID>
+          <NODE1_NAME>VALCVergeMiracle9</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.253297,38.793848 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66923">
+          <NODE1_ID>63546</NODE1_ID>
+          <NODE1_NAME>VALCBisbeVilaplana5</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.006</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252270,38.794582 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66924">
+          <NODE1_ID>42439</NODE1_ID>
+          <NODE1_NAME>VALCSantJosep22</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.251889,38.795338 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71154">
+          <NODE1_ID>66685</NODE1_ID>
+          <NODE1_NAME>VALCHotelLaFont</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252374,38.794354 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71196">
+          <NODE1_ID>66738</NODE1_ID>
+          <NODE1_NAME>VALCDespoblados3</NODE1_NAME>
+          <NODE2_ID>36849</NODE2_ID>
+          <NODE2_NAME>ValcalaPedania</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.268698,38.776874 -0.268704,38.777082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74883">
+          <NODE1_ID>69845</NODE1_ID>
+          <NODE1_NAME>VALCEdBadia</NODE1_NAME>
+          <NODE2_ID>36762</NODE2_ID>
+          <NODE2_NAME>ValcalaNucli</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.252737,38.794218 -0.252342,38.794594</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

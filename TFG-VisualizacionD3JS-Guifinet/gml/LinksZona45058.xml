@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.064552</gml:X><gml:Y>38.733134</gml:Y></gml:coord>
+<gml:coord><gml:X>0.017797</gml:X><gml:Y>38.754236</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="41706">
+          <NODE1_ID>45065</NODE1_ID>
+          <NODE1_NAME>AJXaloBiblioMun</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.486</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.008417,38.742461 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41722">
+          <NODE1_ID>42730</NODE1_ID>
+          <NODE1_NAME>AlcaliTorreMedieval</NODE1_NAME>
+          <NODE2_ID>45065</NODE2_ID>
+          <NODE2_NAME>AJXaloBiblioMun</NODE2_NAME>
+          <KMS>2.967</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.041256,38.749748 -0.008417,38.742461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43002">
+          <NODE1_ID>46138</NODE1_ID>
+          <NODE1_NAME>XaloEsglesia22</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.646</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012354,38.739574 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43003">
+          <NODE1_ID>46139</NODE1_ID>
+          <NODE1_NAME>XaloGalan11</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.009216,38.733476 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43019">
+          <NODE1_ID>46148</NODE1_ID>
+          <NODE1_NAME>XaloMauri3</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.016174,38.735953 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45990">
+          <NODE1_ID>48186</NODE1_ID>
+          <NODE1_NAME>XaloFondo244</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.743</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.010096,38.750331 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46732">
+          <NODE1_ID>48807</NODE1_ID>
+          <NODE1_NAME>XaloCastellet9</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.007448,38.747442 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46775">
+          <NODE1_ID>48833</NODE1_ID>
+          <NODE1_NAME>XaloGata9</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.597</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013521,38.739808 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48025">
+          <NODE1_ID>49793</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara40b</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>0.958</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.030534,38.751758 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48247">
+          <NODE1_ID>49835</NODE1_ID>
+          <NODE1_NAME>XaloOques</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013255,38.740069 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49669">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>50960</NODE2_ID>
+          <NODE2_NAME>XaloCutes14</NODE2_NAME>
+          <KMS>2.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.002773,38.738544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49762">
+          <NODE1_ID>51039</NODE1_ID>
+          <NODE1_NAME>XaloTraella39</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.018375,38.753864 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50172">
+          <NODE1_ID>51410</NODE1_ID>
+          <NODE1_NAME>xaloAlmazara43</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029877,38.752013 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50914">
+          <NODE1_ID>48540</NODE1_ID>
+          <NODE1_NAME>JalonTap</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.007172,38.733134 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51017">
+          <NODE1_ID>52075</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso8</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.151</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.016090,38.752939 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51298">
+          <NODE1_ID>52260</NODE1_ID>
+          <NODE1_NAME>XaloCutes17</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.001809,38.739463 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51629">
+          <NODE1_ID>52519</NODE1_ID>
+          <NODE1_NAME>XaloManya9</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.294</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.008077,38.734532 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53147">
+          <NODE1_ID>53587</NODE1_ID>
+          <NODE1_NAME>XaloMento20</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.711</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029765,38.741926 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53580">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>53925</NODE2_ID>
+          <NODE2_NAME>XaloTraella37</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.017881,38.753696</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54440">
+          <NODE1_ID>54446</NODE1_ID>
+          <NODE1_NAME>XaloSolana23</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.016970,38.751780 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54640">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>54560</NODE2_ID>
+          <NODE2_NAME>XaloSequiaTorres25</NODE2_NAME>
+          <KMS>1.84</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.009770,38.738403</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55167">
+          <NODE1_ID>54901</NODE1_ID>
+          <NODE1_NAME>XaloDuquesa6</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.555</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.010851,38.740828 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55195">
+          <NODE1_ID>54902</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso98</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>4.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012130,38.754183 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55725">
+          <NODE1_ID>55382</NODE1_ID>
+          <NODE1_NAME>LlibCarrSenija</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>3.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.017797,38.738998 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56408">
+          <NODE1_ID>55783</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara62</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029921,38.752807 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56409">
+          <NODE1_ID>55782</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara83</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>3.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029306,38.753679 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56646">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>55996</NODE2_ID>
+          <NODE2_NAME>XaloVParaiso42</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.017536,38.753923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56951">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>56251</NODE2_ID>
+          <NODE2_NAME>XaloCutes10</NODE2_NAME>
+          <KMS>2.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.003031,38.736795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57060">
+          <NODE1_ID>56339</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara1</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029652,38.751277 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57104">
+          <NODE1_ID>56380</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara44</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.029657,38.752103 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57339">
+          <NODE1_ID>56514</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso90</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>2.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012255,38.753813 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57340">
+          <NODE1_ID>56513</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso96</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>4.695</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.011598,38.754236 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57347">
+          <NODE1_ID>56515</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso89</NODE1_NAME>
+          <NODE2_ID>50289</NODE2_ID>
+          <NODE2_NAME>ParEsglesia</NODE2_NAME>
+          <KMS>4.619</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012384,38.753836 -0.064552,38.745925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57670">
+          <NODE1_ID>56801</NODE1_ID>
+          <NODE1_NAME>XaloSanRafael37</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.516</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.008971,38.741905 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57672">
+          <NODE1_ID>56803</NODE1_ID>
+          <NODE1_NAME>XaloCementeri10</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.010174,38.735796 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58989">
+          <NODE1_ID>57737</NODE1_ID>
+          <NODE1_NAME>XaloCristobal15</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.011238,38.742471 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60631">
+          <NODE1_ID>58910</NODE1_ID>
+          <NODE1_NAME>XaloMoliLliber12</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.499</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.001981,38.747733 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60701">
+          <NODE1_ID>58952</NODE1_ID>
+          <NODE1_NAME>XaloSalamanca6</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.603</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.009138,38.740948 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61367">
+          <NODE1_ID>59382</NODE1_ID>
+          <NODE1_NAME>XaloPasula1</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.62</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.020247,38.739468 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61408">
+          <NODE1_ID>59430</NODE1_ID>
+          <NODE1_NAME>XaloPlanet1</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.005144,38.737325 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61760">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>49323</NODE2_ID>
+          <NODE2_NAME>XaloCorrales</NODE2_NAME>
+          <KMS>1.141</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.006828,38.747720</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62099">
+          <NODE1_ID>59911</NODE1_ID>
+          <NODE1_NAME>XaloBernia8</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013369,38.735954 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63178">
+          <NODE1_ID>56571</NODE1_ID>
+          <NODE1_NAME>XaloJudas25</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.49</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.010925,38.741434 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63865">
+          <NODE1_ID>61122</NODE1_ID>
+          <NODE1_NAME>XaloMarti3B</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.914</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.014385,38.736794 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65448">
+          <NODE1_ID>62468</NODE1_ID>
+          <NODE1_NAME>XaloFondo219</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.955</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.010943,38.746890 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66617">
+          <NODE1_ID>50289</NODE1_ID>
+          <NODE1_NAME>ParEsglesia</NODE1_NAME>
+          <NODE2_ID>63242</NODE2_ID>
+          <NODE2_NAME>XaloVParaiso99</NODE2_NAME>
+          <KMS>4.634</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.064552,38.745925 -0.012298,38.754169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66802">
+          <NODE1_ID>63397</NODE1_ID>
+          <NODE1_NAME>XaloSDomingo13</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.531</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013416,38.740437 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67500">
+          <NODE1_ID>64051</NODE1_ID>
+          <NODE1_NAME>XaloCutes13c</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.002280,38.738544 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70896">
+          <NODE1_ID>66486</NODE1_ID>
+          <NODE1_NAME>XaloLadislao16</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.964</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.011455,38.746522 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71245">
+          <NODE1_ID>66782</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso17</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017035,38.753198 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72701">
+          <NODE1_ID>67972</NODE1_ID>
+          <NODE1_NAME>XaloCutes11</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.003109,38.736610 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73092">
+          <NODE1_ID>68432</NODE1_ID>
+          <NODE1_NAME>XaloCastellet9C</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.007555,38.747947 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73977">
+          <NODE1_ID>67969</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso24</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.016610,38.753418 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74124">
+          <NODE1_ID>69345</NODE1_ID>
+          <NODE1_NAME>XaloLaMica2</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>2.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.005098,38.735485 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74173">
+          <NODE1_ID>69177</NODE1_ID>
+          <NODE1_NAME>XaloNou19</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.751</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.010603,38.739017 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74506">
+          <NODE1_ID>69594</NODE1_ID>
+          <NODE1_NAME>XaloSalamanca11</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.646</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.009016,38.740560 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75795">
+          <NODE1_ID>70573</NODE1_ID>
+          <NODE1_NAME>XaloTaraza3</NODE1_NAME>
+          <NODE2_ID>42730</NODE2_ID>
+          <NODE2_NAME>AlcaliTorreMedieval</NODE2_NAME>
+          <KMS>1.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.030942,38.742723 -0.041256,38.749748</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76413">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>52471</NODE2_ID>
+          <NODE2_NAME>XaloVParaiso16</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.016840,38.753153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78896">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>73546</NODE2_ID>
+          <NODE2_NAME>XaloEsglesia23</NODE2_NAME>
+          <KMS>1.656</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.012116,38.739531</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79320">
+          <NODE1_ID>45059</NODE1_ID>
+          <NODE1_NAME>AJXaloSNPou</NODE1_NAME>
+          <NODE2_ID>69829</NODE2_ID>
+          <NODE2_NAME>XaloFondo13</NODE2_NAME>
+          <KMS>0.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.017340,38.753881 -0.013276,38.749199</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80299">
+          <NODE1_ID>74617</NODE1_ID>
+          <NODE1_NAME>XaloSNEsglesia</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.646</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012354,38.739576 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80391">
+          <NODE1_ID>74598</NODE1_ID>
+          <NODE1_NAME>XaloAlmazara99</NODE1_NAME>
+          <NODE2_ID>74617</NODE2_ID>
+          <NODE2_NAME>XaloSNEsglesia</NODE2_NAME>
+          <KMS>2.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.028445,38.753258 -0.012354,38.739576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80474">
+          <NODE1_ID>74617</NODE1_ID>
+          <NODE1_NAME>XaloSNEsglesia</NODE1_NAME>
+          <NODE2_ID>66012</NODE2_ID>
+          <NODE2_NAME>XaloInstitut37</NODE2_NAME>
+          <KMS>0.379</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012354,38.739576 -0.012337,38.736160</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80789">
+          <NODE1_ID>74617</NODE1_ID>
+          <NODE1_NAME>XaloSNEsglesia</NODE1_NAME>
+          <NODE2_ID>64330</NODE2_ID>
+          <NODE2_NAME>XaloAlmazara97</NODE2_NAME>
+          <KMS>2.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012354,38.739576 -0.028652,38.753198</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81077">
+          <NODE1_ID>75251</NODE1_ID>
+          <NODE1_NAME>XaloPovil2</NODE1_NAME>
+          <NODE2_ID>45059</NODE2_ID>
+          <NODE2_NAME>AJXaloSNPou</NODE2_NAME>
+          <KMS>1.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.007616,38.745233 -0.017340,38.753881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121541">
+          <NODE1_ID>72132</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso14-9</NODE1_NAME>
+          <NODE2_ID>74617</NODE2_ID>
+          <NODE2_NAME>XaloSNEsglesia</NODE2_NAME>
+          <KMS>1.592</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013059,38.753908 -0.012354,38.739576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121547">
+          <NODE1_ID>74617</NODE1_ID>
+          <NODE1_NAME>XaloSNEsglesia</NODE1_NAME>
+          <NODE2_ID>69593</NODE2_ID>
+          <NODE2_NAME>XaloVParaiso14</NODE2_NAME>
+          <KMS>1.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012354,38.739576 -0.012909,38.753817</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121549">
+          <NODE1_ID>75819</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso14-11</NODE1_NAME>
+          <NODE2_ID>74617</NODE2_ID>
+          <NODE2_NAME>XaloSNEsglesia</NODE2_NAME>
+          <KMS>1.598</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012997,38.753963 -0.012354,38.739576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121856">
+          <NODE1_ID>74617</NODE1_ID>
+          <NODE1_NAME>XaloSNEsglesia</NODE1_NAME>
+          <NODE2_ID>75851</NODE2_ID>
+          <NODE2_NAME>XaloLliber10</NODE2_NAME>
+          <KMS>1.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012354,38.739576 -0.002392,38.745553</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122783">
+          <NODE1_ID>76678</NODE1_ID>
+          <NODE1_NAME>XaloRahals10</NODE1_NAME>
+          <NODE2_ID>74617</NODE2_ID>
+          <NODE2_NAME>XaloSNEsglesia</NODE2_NAME>
+          <KMS>1.598</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013455,38.753947 -0.012354,38.739576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122829">
+          <NODE1_ID>76716</NODE1_ID>
+          <NODE1_NAME>XaloVparaiso14-10</NODE1_NAME>
+          <NODE2_ID>74617</NODE2_ID>
+          <NODE2_NAME>XaloSNEsglesia</NODE2_NAME>
+          <KMS>1.596</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.013030,38.753943 -0.012354,38.739576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123179">
+          <NODE1_ID>77018</NODE1_ID>
+          <NODE1_NAME>XaloVParaiso14-13</NODE1_NAME>
+          <NODE2_ID>74617</NODE2_ID>
+          <NODE2_NAME>XaloSNEsglesia</NODE2_NAME>
+          <KMS>1.586</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.012887,38.753856 -0.012354,38.739576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

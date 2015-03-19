@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.666667</gml:X><gml:Y>41.421877</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.746987</gml:X><gml:Y>41.453715</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="1550">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.727821,41.451762</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>1550</NODE_ID>
+      <NODE_NAME>OriolHome</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="3338">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.666667,41.450000</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>3338</NODE_ID>
+      <NODE_NAME>APRupu</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52202">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.705949,41.434120</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52202</NODE_ID>
+      <NODE_NAME>TLV-OrlandoV</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="15041">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728415,41.450671</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15041</NODE_ID>
+      <NODE_NAME>CotsLaVit</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74467">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731650,41.446410</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74467</NODE_ID>
+      <NODE_NAME>TRV-LourdesA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33943">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.745421,41.423087</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33943</NODE_ID>
+      <NODE_NAME>TLV-Dip.CanRossell</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34526">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.732717,41.440664</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34526</NODE_ID>
+      <NODE_NAME>TLV-DipositPoligon</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75259">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730669,41.443752</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75259</NODE_ID>
+      <NODE_NAME>TRV-ManelSC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43595">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.744139,41.427434</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43595</NODE_ID>
+      <NODE_NAME>CRossell2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44913">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.726566,41.446740</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44913</NODE_ID>
+      <NODE_NAME>TorCarles</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53736">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.705112,41.434144</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53736</NODE_ID>
+      <NODE_NAME>TLV-Naveran</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53783">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.733661,41.445143</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53783</NODE_ID>
+      <NODE_NAME>TLV-CalPlanas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54357">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.746987,41.421877</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54357</NODE_ID>
+      <NODE_NAME>TORPARANYSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75582">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730925,41.446645</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75582</NODE_ID>
+      <NODE_NAME>TRV-PereJV</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66739">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729384,41.448259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66739</NODE_ID>
+      <NODE_NAME>TLV-Poliesportiu</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66740">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728520,41.453715</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66740</NODE_ID>
+      <NODE_NAME>TLV-Diposit</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75297">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729700,41.444556</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75297</NODE_ID>
+      <NODE_NAME>TRV-AntoniMR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74468">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731650,41.446410</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74468</NODE_ID>
+      <NODE_NAME>TRV-MAngelsH</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74285">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730157,41.444305</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74285</NODE_ID>
+      <NODE_NAME>TRV-MarcM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74349">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728750,41.451230</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74349</NODE_ID>
+      <NODE_NAME>TRV-JordiR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74389">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728410,41.451470</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74389</NODE_ID>
+      <NODE_NAME>TRV-JoanPerona</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74611">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728044,41.443682</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74611</NODE_ID>
+      <NODE_NAME>TRV-XaviJ</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74621">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730210,41.443800</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74621</NODE_ID>
+      <NODE_NAME>TRV-OlgaR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74633">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.726447,41.447731</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74633</NODE_ID>
+      <NODE_NAME>TRV-JoanCornella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74638">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729885,41.440880</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74638</NODE_ID>
+      <NODE_NAME>TLV-CFont</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74659">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731350,41.444320</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74659</NODE_ID>
+      <NODE_NAME>TRV-MarcMM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74660">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.727950,41.452110</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74660</NODE_ID>
+      <NODE_NAME>TRV-JoaquimF</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74663">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729508,41.443360</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74663</NODE_ID>
+      <NODE_NAME>TRV-MontseSP</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74664">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.726953,41.447079</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74664</NODE_ID>
+      <NODE_NAME>TRV-JosepEM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74666">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742266,41.441998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74666</NODE_ID>
+      <NODE_NAME>TRV-TissunionE</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74668">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730460,41.444380</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74668</NODE_ID>
+      <NODE_NAME>TRV-NuriaFE</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74879">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728740,41.451280</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74879</NODE_ID>
+      <NODE_NAME>TRV-JoanCarlesTL</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75579">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731156,41.446648</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75579</NODE_ID>
+      <NODE_NAME>TRV-JordiMT</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75101">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730113,41.444223</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75101</NODE_ID>
+      <NODE_NAME>TRV-RamonRB</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75102">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731406,41.444822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75102</NODE_ID>
+      <NODE_NAME>TRV-CoraPQ</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75118">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730900,41.444030</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75118</NODE_ID>
+      <NODE_NAME>TRV-JosepJB</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75120">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730180,41.444450</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75120</NODE_ID>
+      <NODE_NAME>TRV-CeliaPO</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75135">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728800,41.451860</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75135</NODE_ID>
+      <NODE_NAME>TRV-AssumpcioGA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75167">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.727812,41.451884</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75167</NODE_ID>
+      <NODE_NAME>TRV-OriolRC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75244">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.716614,41.448986</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75244</NODE_ID>
+      <NODE_NAME>TRV-MRosaMN</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75268">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729060,41.442910</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75268</NODE_ID>
+      <NODE_NAME>TRV-RamonSM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730311,41.444512</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75280</NODE_ID>
+      <NODE_NAME>TRV-JosepMR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75292">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.726745,41.448084</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75292</NODE_ID>
+      <NODE_NAME>TRV-AntoniBP</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75298">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.735107,41.438701</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75298</NODE_ID>
+      <NODE_NAME>TRV-AutoPlanxaT</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75349">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728917,41.442501</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75349</NODE_ID>
+      <NODE_NAME>TRV-JoanAntoniGS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75351">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730623,41.446878</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75351</NODE_ID>
+      <NODE_NAME>TRV-GemmaCG</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75353">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731001,41.443604</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75353</NODE_ID>
+      <NODE_NAME>TRV-JordiRS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75383">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731506,41.443867</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75383</NODE_ID>
+      <NODE_NAME>TRV-JosepMariaTP</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75395">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731644,41.444591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75395</NODE_ID>
+      <NODE_NAME>TRV-FabiaBD</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75479">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728860,41.451250</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75479</NODE_ID>
+      <NODE_NAME>TRV-JordiPJ</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75501">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.727786,41.443169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75501</NODE_ID>
+      <NODE_NAME>TRV-JuliaGM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75502">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731318,41.444860</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75502</NODE_ID>
+      <NODE_NAME>TRV-FerranRC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75518">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.724097,41.446449</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75518</NODE_ID>
+      <NODE_NAME>TRV-FidelSI</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75669">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729016,41.449710</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75669</NODE_ID>
+      <NODE_NAME>TRV-CarlaCF</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75805">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.732800,41.444718</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75805</NODE_ID>
+      <NODE_NAME>TRV-AntoniCR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75983">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728890,41.443472</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75983</NODE_ID>
+      <NODE_NAME>TRV-DolorsGA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75984">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728842,41.443355</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75984</NODE_ID>
+      <NODE_NAME>TRV-JorgeBN</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76196">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728097,41.443834</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76196</NODE_ID>
+      <NODE_NAME>TRV-JoseMS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76360">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730290,41.444760</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76360</NODE_ID>
+      <NODE_NAME>TRV-RafaelFC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76410">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729250,41.442614</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76410</NODE_ID>
+      <NODE_NAME>TRV-JoanCS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76547">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728780,41.441362</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76547</NODE_ID>
+      <NODE_NAME>TRV-JosepMariaVA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76648">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728737,41.450595</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76648</NODE_ID>
+      <NODE_NAME>TRV-MarcAR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76980">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730781,41.446393</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76980</NODE_ID>
+      <NODE_NAME>TLV-PaperCarbo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77061">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.730704,41.443743</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77061</NODE_ID>
+      <NODE_NAME>TRV-RaquelBC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

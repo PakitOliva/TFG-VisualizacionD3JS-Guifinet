@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.125094</gml:X><gml:Y>41.980616</gml:Y></gml:coord>
+<gml:coord><gml:X>2.268800</gml:X><gml:Y>42.078400</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="6350">
+          <NODE1_ID>8159</NODE1_ID>
+          <NODE1_NAME>SobremuntDip</NODE1_NAME>
+          <NODE2_ID>8890</NODE2_ID>
+          <NODE2_NAME>SobremuntJCasas</NODE2_NAME>
+          <KMS>0.31</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169725,42.036970 2.165984,42.037113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7348">
+          <NODE1_ID>6130</NODE1_ID>
+          <NODE1_NAME>SBLLCampanar</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>2.744</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151813,42.057752 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8238">
+          <NODE1_ID>11608</NODE1_ID>
+          <NODE1_NAME>SobremuntCanRigola</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.434</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164770,42.035704 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8892">
+          <NODE1_ID>12381</NODE1_ID>
+          <NODE1_NAME>SobremuntPortelles</NODE1_NAME>
+          <NODE2_ID>9991</NODE2_ID>
+          <NODE2_NAME>SBGTorre</NODE2_NAME>
+          <KMS>6.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.179252,42.035105 2.173866,41.980616</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11563">
+          <NODE1_ID>5929</NODE1_ID>
+          <NODE1_NAME>SobremuntAngel</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.453</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165032,42.034875 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12903">
+          <NODE1_ID>16914</NODE1_ID>
+          <NODE1_NAME>SobremuntLluis</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164972,42.036759 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16465">
+          <NODE1_ID>21039</NODE1_ID>
+          <NODE1_NAME>SobremuntArmengol</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164999,42.036297 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17578">
+          <NODE1_ID>22192</NODE1_ID>
+          <NODE1_NAME>PerafitaElCel</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>3.75</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.125720,42.028986 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18742">
+          <NODE1_ID>7861</NODE1_ID>
+          <NODE1_NAME>SobremuntAjuntament</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.167533,42.035231 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22674">
+          <NODE1_ID>5930</NODE1_ID>
+          <NODE1_NAME>SobremuntJoan</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.431</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165055,42.035254 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24612">
+          <NODE1_ID>6102</NODE1_ID>
+          <NODE1_NAME>SobremuntReixac</NODE1_NAME>
+          <NODE2_ID>9945</NODE2_ID>
+          <NODE2_NAME>SBGMasVilaseca</NODE2_NAME>
+          <KMS>1.866</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151667,42.022500 2.151725,42.005702</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35908">
+          <NODE1_ID>40381</NODE1_ID>
+          <NODE1_NAME>SobremuntCanCreu</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.447</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164967,42.035069 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40552">
+          <NODE1_ID>8159</NODE1_ID>
+          <NODE1_NAME>SobremuntDip</NODE1_NAME>
+          <NODE2_ID>31900</NODE2_ID>
+          <NODE2_NAME>SBLLPereMontserrat</NODE2_NAME>
+          <KMS>2.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169725,42.036970 2.151231,42.056582</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41651">
+          <NODE1_ID>44880</NODE1_ID>
+          <NODE1_NAME>SobremuntLaFarigola</NODE1_NAME>
+          <NODE2_ID>9945</NODE2_ID>
+          <NODE2_NAME>SBGMasVilaseca</NODE2_NAME>
+          <KMS>2.725</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.161089,42.029223 2.151725,42.005702</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52271">
+          <NODE1_ID>52988</NODE1_ID>
+          <NODE1_NAME>SobremuntCalMoliner</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.535</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163258,42.036584 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52272">
+          <NODE1_ID>13871</NODE1_ID>
+          <NODE1_NAME>SobremuntLesHeures</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.783</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.161715,42.033811 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57714">
+          <NODE1_ID>2984</NODE1_ID>
+          <NODE1_NAME>TorelloDipSud</NODE1_NAME>
+          <NODE2_ID>3770</NODE2_ID>
+          <NODE2_NAME>SbrLlucia</NODE2_NAME>
+          <KMS>6.99</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.268800,42.040098 2.185711,42.028999</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58917">
+          <NODE1_ID>27929</NODE1_ID>
+          <NODE1_NAME>PerafitaVilaltella</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>3.725</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.125094,42.032804 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65442">
+          <NODE1_ID>10902</NODE1_ID>
+          <NODE1_NAME>SobremuntCalaGrida</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165171,42.036368 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66421">
+          <NODE1_ID>8159</NODE1_ID>
+          <NODE1_NAME>SobremuntDip</NODE1_NAME>
+          <NODE2_ID>10336</NODE2_ID>
+          <NODE2_NAME>SALLMuntsRest</NODE2_NAME>
+          <KMS>4.826</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169725,42.036970 2.152162,42.078400</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66978">
+          <NODE1_ID>8159</NODE1_ID>
+          <NODE1_NAME>SobremuntDip</NODE1_NAME>
+          <NODE2_ID>63236</NODE2_ID>
+          <NODE2_NAME>SobremuntRectoria</NODE2_NAME>
+          <KMS>0.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.169725,42.036970 2.167280,42.035986</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67879">
+          <NODE1_ID>5030</NODE1_ID>
+          <NODE1_NAME>SBLLSSalvador</NODE1_NAME>
+          <NODE2_ID>63237</NODE2_ID>
+          <NODE2_NAME>SobremuntCanCalet</NODE2_NAME>
+          <KMS>2.608</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.192933,42.059041 2.183863,42.036560</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68149">
+          <NODE1_ID>64484</NODE1_ID>
+          <NODE1_NAME>SobremuntLaRabassola</NODE1_NAME>
+          <NODE2_ID>6130</NODE2_ID>
+          <NODE2_NAME>SBLLCampanar</NODE2_NAME>
+          <KMS>2.81</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163105,42.033894 2.151813,42.057752</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68159">
+          <NODE1_ID>64492</NODE1_ID>
+          <NODE1_NAME>SobremuntLluisSola</NODE1_NAME>
+          <NODE2_ID>8159</NODE2_ID>
+          <NODE2_NAME>SobremuntDip</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165055,42.038719 2.169725,42.036970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

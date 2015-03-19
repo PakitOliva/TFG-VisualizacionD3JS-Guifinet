@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.526488</gml:X><gml:Y>41.848242</gml:Y></gml:coord>
+<gml:coord><gml:X>2.013857</gml:X><gml:Y>42.214618</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="5770">
+          <NODE1_ID>6461</NODE1_ID>
+          <NODE1_NAME>CAPCCaubet</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>2.294</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.808200,42.093220 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5915">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>8144</NODE2_ID>
+          <NODE2_NAME>CAPBarons</NODE2_NAME>
+          <KMS>2.725</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.784290,42.079354</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6000">
+          <NODE1_ID>8489</NODE1_ID>
+          <NODE1_NAME>CAPXalet</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>0.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787424,42.095382 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6031">
+          <NODE1_ID>8536</NODE1_ID>
+          <NODE1_NAME>CAPSorribes</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>1.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.793092,42.091757 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6078">
+          <NODE1_ID>6461</NODE1_ID>
+          <NODE1_NAME>CAPCCaubet</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>4.546</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.808200,42.093220 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6098">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>8594</NODE2_ID>
+          <NODE2_NAME>CAPAvia</NODE2_NAME>
+          <KMS>3.45</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.815830,42.079076</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6108">
+          <NODE1_ID>8690</NODE1_ID>
+          <NODE1_NAME>PratsCalAndalo</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>21.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.013857,42.020948 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6170">
+          <NODE1_ID>8728</NODE1_ID>
+          <NODE1_NAME>CAPFites</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>1.732</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.800349,42.090435 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6193">
+          <NODE1_ID>8733</NODE1_ID>
+          <NODE1_NAME>CAPVila</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>0.568</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.754810,42.083312 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6194">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>8734</NODE2_ID>
+          <NODE2_NAME>CAPRectoria</NODE2_NAME>
+          <KMS>1.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.753140,42.078249</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6195">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>8735</NODE2_ID>
+          <NODE2_NAME>CAPLlengot</NODE2_NAME>
+          <KMS>1.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.751858,42.076235</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6196">
+          <NODE1_ID>8766</NODE1_ID>
+          <NODE1_NAME>CAPArderiu</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>3.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721583,42.109553 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6394">
+          <NODE1_ID>6478</NODE1_ID>
+          <NODE1_NAME>CAPPla</NODE1_NAME>
+          <NODE2_ID>6461</NODE2_ID>
+          <NODE2_NAME>CAPCCaubet</NODE2_NAME>
+          <KMS>1.93</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.795550,42.078622 1.808200,42.093220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6395">
+          <NODE1_ID>8724</NODE1_ID>
+          <NODE1_NAME>CAPBalart</NODE1_NAME>
+          <NODE2_ID>6478</NODE2_ID>
+          <NODE2_NAME>CAPPla</NODE2_NAME>
+          <KMS>1.694</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.794917,42.093863 1.795550,42.078622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6769">
+          <NODE1_ID>8731</NODE1_ID>
+          <NODE1_NAME>CAPGuixera</NODE1_NAME>
+          <NODE2_ID>8144</NODE2_ID>
+          <NODE2_NAME>CAPBarons</NODE2_NAME>
+          <KMS>2.349</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.769030,42.097189 1.784290,42.079354</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6799">
+          <NODE1_ID>8729</NODE1_ID>
+          <NODE1_NAME>CAPSerreta</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>0.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.781014,42.088090 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6948">
+          <NODE1_ID>9931</NODE1_ID>
+          <NODE1_NAME>CAPCantina</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>3.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.721583,42.109553 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6976">
+          <NODE1_ID>6478</NODE1_ID>
+          <NODE1_NAME>CAPPla</NODE1_NAME>
+          <NODE2_ID>8725</NODE2_ID>
+          <NODE2_NAME>CAPRiera</NODE2_NAME>
+          <KMS>1.795</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.795550,42.078622 1.799398,42.094527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7522">
+          <NODE1_ID>6478</NODE1_ID>
+          <NODE1_NAME>CAPPla</NODE1_NAME>
+          <NODE2_ID>8726</NODE2_ID>
+          <NODE2_NAME>CAPAjuntament</NODE2_NAME>
+          <KMS>1.923</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.795550,42.078622 1.799170,42.095723</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7567">
+          <NODE1_ID>10699</NODE1_ID>
+          <NODE1_NAME>CAPLesFonts</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>2.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.751205,42.066998 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7689">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>10527</NODE2_ID>
+          <NODE2_NAME>CAPAviaCentre</NODE2_NAME>
+          <KMS>3.935</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.821334,42.077405</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8122">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>8732</NODE2_ID>
+          <NODE2_NAME>CAPMezquita</NODE2_NAME>
+          <KMS>1.923</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.772733,42.098236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9188">
+          <NODE1_ID>8730</NODE1_ID>
+          <NODE1_NAME>CAPSolanelles</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>0.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.774576,42.090751 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10925">
+          <NODE1_ID>14823</NODE1_ID>
+          <NODE1_NAME>CAPAviaTubau</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>3.682</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.820169,42.080504 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10943">
+          <NODE1_ID>14854</NODE1_ID>
+          <NODE1_NAME>CAPDomoCam</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780602,42.097110 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10971">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>14887</NODE2_ID>
+          <NODE2_NAME>AVBallus</NODE2_NAME>
+          <KMS>3.94</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.822043,42.078201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11015">
+          <NODE1_ID>14920</NODE1_ID>
+          <NODE1_NAME>AVMGraus</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>3.981</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.821345,42.076633 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11060">
+          <NODE1_ID>14965</NODE1_ID>
+          <NODE1_NAME>AVCampsComa</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>4.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.824430,42.074485 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11624">
+          <NODE1_ID>15460</NODE1_ID>
+          <NODE1_NAME>CaskanuNode</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.518</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.838784,42.011584 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11832">
+          <NODE1_ID>15731</NODE1_ID>
+          <NODE1_NAME>BRGAnna</NODE1_NAME>
+          <NODE2_ID>6478</NODE2_ID>
+          <NODE2_NAME>CAPPla</NODE2_NAME>
+          <KMS>6.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.855959,42.108836 1.795550,42.078622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12435">
+          <NODE1_ID>16219</NODE1_ID>
+          <NODE1_NAME>BRDreta</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>6.437</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.858171,42.090481 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12989">
+          <NODE1_ID>16501</NODE1_ID>
+          <NODE1_NAME>CASLauNode</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.841937,42.013903 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13164">
+          <NODE1_ID>17262</NODE1_ID>
+          <NODE1_NAME>CAPGuineu</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>3.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.723148,42.108451 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13288">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>16998</NODE2_ID>
+          <NODE2_NAME>SMOlaplana</NODE2_NAME>
+          <KMS>33.474</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 2.011013,41.848242</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13321">
+          <NODE1_ID>16469</NODE1_ID>
+          <NODE1_NAME>GRLL-StMarco</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.880239,42.042293 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17432">
+          <NODE1_ID>22028</NODE1_ID>
+          <NODE1_NAME>CASJudit</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>10.852</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.838247,42.013725 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17484">
+          <NODE1_ID>22109</NODE1_ID>
+          <NODE1_NAME>GRLL-Andy</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.532</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.875433,42.032499 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19217">
+          <NODE1_ID>11211</NODE1_ID>
+          <NODE1_NAME>CAPCurtics</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>1.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.772221,42.087654 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22467">
+          <NODE1_ID>27710</NODE1_ID>
+          <NODE1_NAME>GRLLPimpi</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.882632,42.040766 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26572">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>31922</NODE2_ID>
+          <NODE2_NAME>AVBep</NODE2_NAME>
+          <KMS>5.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.831418,42.068305</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27738">
+          <NODE1_ID>33076</NODE1_ID>
+          <NODE1_NAME>CAPNeu</NODE1_NAME>
+          <NODE2_ID>6478</NODE2_ID>
+          <NODE2_NAME>CAPPla</NODE2_NAME>
+          <KMS>1.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.794875,42.093788 1.795550,42.078622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28030">
+          <NODE1_ID>9716</NODE1_ID>
+          <NODE1_NAME>CAPPortet</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>26.957</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787848,42.101964 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28031">
+          <NODE1_ID>9716</NODE1_ID>
+          <NODE1_NAME>CAPPortet</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>0.905</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787848,42.101964 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29270">
+          <NODE1_ID>34595</NODE1_ID>
+          <NODE1_NAME>CAPComa</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>1.519</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.782749,42.082209 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29392">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>34783</NODE2_ID>
+          <NODE2_NAME>CASsantaprop</NODE2_NAME>
+          <KMS>8.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.816188,42.031805</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29662">
+          <NODE1_ID>34966</NODE1_ID>
+          <NODE1_NAME>AVGPalau</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>7.474</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.857849,42.060816 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31681">
+          <NODE1_ID>36780</NODE1_ID>
+          <NODE1_NAME>AVCopava</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>6.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.851760,42.065987 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34170">
+          <NODE1_ID>11248</NODE1_ID>
+          <NODE1_NAME>BRGCasaenPons</NODE1_NAME>
+          <NODE2_ID>6461</NODE2_ID>
+          <NODE2_NAME>CAPCCaubet</NODE2_NAME>
+          <KMS>4.802</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.865535,42.099952 1.808200,42.093220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35771">
+          <NODE1_ID>40283</NODE1_ID>
+          <NODE1_NAME>CAPLa_Ribera</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>4.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.714854,42.114007 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36176">
+          <NODE1_ID>10305</NODE1_ID>
+          <NODE1_NAME>CAPGrau</NODE1_NAME>
+          <NODE2_ID>21504</NODE2_ID>
+          <NODE2_NAME>AVSalvans</NODE2_NAME>
+          <KMS>2.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.796891,42.088861 1.821097,42.077681</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36248">
+          <NODE1_ID>6461</NODE1_ID>
+          <NODE1_NAME>CAPCCaubet</NODE1_NAME>
+          <NODE2_ID>20941</NODE2_ID>
+          <NODE2_NAME>BRGCVSonia</NODE2_NAME>
+          <KMS>4.187</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.808200,42.093220 1.856518,42.104456</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36249">
+          <NODE1_ID>40585</NODE1_ID>
+          <NODE1_NAME>CAPCasaNova</NODE1_NAME>
+          <NODE2_ID>6461</NODE2_ID>
+          <NODE2_NAME>CAPCCaubet</NODE2_NAME>
+          <KMS>1.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.791988,42.084705 1.808200,42.093220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36554">
+          <NODE1_ID>40872</NODE1_ID>
+          <NODE1_NAME>CAPCalAlen</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>1.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.793175,42.090500 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36770">
+          <NODE1_ID>40398</NODE1_ID>
+          <NODE1_NAME>CAPlarectoria</NODE1_NAME>
+          <NODE2_ID>6478</NODE2_ID>
+          <NODE2_NAME>CAPPla</NODE2_NAME>
+          <KMS>1.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.792164,42.091031 1.795550,42.078622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37761">
+          <NODE1_ID>39880</NODE1_ID>
+          <NODE1_NAME>SagasArmengol</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>17.739</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.961961,42.050757 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40424">
+          <NODE1_ID>43771</NODE1_ID>
+          <NODE1_NAME>LAVpistesSky</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>23.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.526488,42.214618 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43708">
+          <NODE1_ID>46608</NODE1_ID>
+          <NODE1_NAME>CAPPallerRectoria</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>1.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752550,42.078393 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46631">
+          <NODE1_ID>9716</NODE1_ID>
+          <NODE1_NAME>CAPPortet</NODE1_NAME>
+          <NODE2_ID>11901</NODE2_ID>
+          <NODE2_NAME>CRMPuigventos</NODE2_NAME>
+          <KMS>1.926</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787848,42.101964 1.779167,42.118056</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46632">
+          <NODE1_ID>48754</NODE1_ID>
+          <NODE1_NAME>CRSubi</NODE1_NAME>
+          <NODE2_ID>9716</NODE2_ID>
+          <NODE2_NAME>CAPPortet</NODE2_NAME>
+          <KMS>1.971</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.777157,42.117826 1.787848,42.101964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55402">
+          <NODE1_ID>53582</NODE1_ID>
+          <NODE1_NAME>LQRStMaria</NODE1_NAME>
+          <NODE2_ID>6461</NODE2_ID>
+          <NODE2_NAME>CAPCCaubet</NODE2_NAME>
+          <KMS>13.756</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973628,42.105793 1.808200,42.093220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60840">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>59044</NODE2_ID>
+          <NODE2_NAME>AVPinedaGrauges</NODE2_NAME>
+          <KMS>9.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.857934,42.055407</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68085">
+          <NODE1_ID>9716</NODE1_ID>
+          <NODE1_NAME>CAPPortet</NODE1_NAME>
+          <NODE2_ID>35382</NODE2_ID>
+          <NODE2_NAME>SJCMalPas</NODE2_NAME>
+          <KMS>14.577</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787848,42.101964 1.892433,42.207633</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74352">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>28347</NODE2_ID>
+          <NODE2_NAME>AVCoromines</NODE2_NAME>
+          <KMS>4.644</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.827773,42.073045</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80744">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>74967</NODE2_ID>
+          <NODE2_NAME>CASPtgeCardona3</NODE2_NAME>
+          <KMS>10.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.841109,42.013726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122668">
+          <NODE1_ID>10305</NODE1_ID>
+          <NODE1_NAME>CAPGrau</NODE1_NAME>
+          <NODE2_ID>21504</NODE2_ID>
+          <NODE2_NAME>AVSalvans</NODE2_NAME>
+          <KMS>2.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.796891,42.088861 1.821097,42.077681</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123788">
+          <NODE1_ID>68629</NODE1_ID>
+          <NODE1_NAME>CAPGrau2</NODE1_NAME>
+          <NODE2_ID>21504</NODE2_ID>
+          <NODE2_NAME>AVSalvans</NODE2_NAME>
+          <KMS>2.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.796974,42.089072 1.821097,42.077681</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

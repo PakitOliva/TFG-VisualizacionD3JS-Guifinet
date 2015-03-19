@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.371219</gml:X><gml:Y>42.305821</gml:Y></gml:coord>
+<gml:coord><gml:X>2.406270</gml:X><gml:Y>42.379528</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="21508">
+          <NODE1_ID>13813</NODE1_ID>
+          <NODE1_NAME>Camprodon-StAntoni</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>7.893</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.371219,42.305821 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21512">
+          <NODE1_ID>26712</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordi</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.881</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399102,42.377843 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24954">
+          <NODE1_ID>26712</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordi</NODE1_NAME>
+          <NODE2_ID>30252</NODE2_ID>
+          <NODE2_NAME>EspinavellRefilat</NODE2_NAME>
+          <KMS>0.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399102,42.377843 2.400082,42.378668</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25112">
+          <NODE1_ID>30383</NODE1_ID>
+          <NODE1_NAME>EspinavellCanGensol</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.951</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.398887,42.378535 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25113">
+          <NODE1_ID>30382</NODE1_ID>
+          <NODE1_NAME>EspinavellCanGallart</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>1.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.395154,42.379528 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25114">
+          <NODE1_ID>30384</NODE1_ID>
+          <NODE1_NAME>EspinabellFerrer</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.935</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399011,42.378424 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25120">
+          <NODE1_ID>30391</NODE1_ID>
+          <NODE1_NAME>EspinabellCarol</NODE1_NAME>
+          <NODE2_ID>26712</NODE2_ID>
+          <NODE2_NAME>EspinavellCanJordi</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399791,42.378480 2.399102,42.377843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25270">
+          <NODE1_ID>26712</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordi</NODE1_NAME>
+          <NODE2_ID>30548</NODE2_ID>
+          <NODE2_NAME>EspinavellCanTomas</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399102,42.377843 2.399917,42.378595</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25276">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>30555</NODE2_ID>
+          <NODE2_NAME>EspinavellCanBatllo</NODE2_NAME>
+          <KMS>0.918</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.398414,42.377811</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25284">
+          <NODE1_ID>26712</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordi</NODE1_NAME>
+          <NODE2_ID>30557</NODE2_ID>
+          <NODE2_NAME>EspinavellCanXanaut</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399102,42.377843 2.398941,42.378238</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25295">
+          <NODE1_ID>26712</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordi</NODE1_NAME>
+          <NODE2_ID>30562</NODE2_ID>
+          <NODE2_NAME>EspinavellCanNavarro</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399102,42.377843 2.400566,42.378828</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25304">
+          <NODE1_ID>26712</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordi</NODE1_NAME>
+          <NODE2_ID>30569</NODE2_ID>
+          <NODE2_NAME>EspinavellCanCalet</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399102,42.377843 2.400599,42.379007</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25309">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>30573</NODE2_ID>
+          <NODE2_NAME>EspinavellMGardella</NODE2_NAME>
+          <KMS>1.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.396286,42.378353</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25471">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>30573</NODE2_ID>
+          <NODE2_NAME>EspinavellMGardella</NODE2_NAME>
+          <KMS>1.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.396286,42.378353</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25610">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>26702</NODE2_ID>
+          <NODE2_NAME>MolloAjuntament</NODE2_NAME>
+          <KMS>2.825</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.404627,42.346550</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25651">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>13813</NODE2_ID>
+          <NODE2_NAME>Camprodon-StAntoni</NODE2_NAME>
+          <KMS>7.893</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.371219,42.305821</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26410">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>31785</NODE2_ID>
+          <NODE2_NAME>EspinavellCalSort</NODE2_NAME>
+          <KMS>0.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.399174,42.377070</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27741">
+          <NODE1_ID>33077</NODE1_ID>
+          <NODE1_NAME>EspinavellCanRespect</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>1.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.398871,42.379137 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27746">
+          <NODE1_ID>33084</NODE1_ID>
+          <NODE1_NAME>EspinavellCanJordiVe</NODE1_NAME>
+          <NODE2_ID>26712</NODE2_ID>
+          <NODE2_NAME>EspinavellCanJordi</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399142,42.378179 2.399102,42.377843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28941">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>30572</NODE2_ID>
+          <NODE2_NAME>EspinavellCanSola</NODE2_NAME>
+          <KMS>0.897</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.399510,42.378287</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35945">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>26702</NODE2_ID>
+          <NODE2_NAME>MolloAjuntament</NODE2_NAME>
+          <KMS>2.825</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.404627,42.346550</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36235">
+          <NODE1_ID>40643</NODE1_ID>
+          <NODE1_NAME>EspinavellElClos</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.849</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399228,42.377532 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44320">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>46957</NODE2_ID>
+          <NODE2_NAME>EspinavellCanCama</NODE2_NAME>
+          <KMS>0.948</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.398735,42.378407</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49704">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>30570</NODE2_ID>
+          <NODE2_NAME>EspinavellGinestera</NODE2_NAME>
+          <KMS>0.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.398893,42.376839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56764">
+          <NODE1_ID>30561</NODE1_ID>
+          <NODE1_NAME>EspinavellCanFreixa</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>1.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.402460,42.362788 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58255">
+          <NODE1_ID>57138</NODE1_ID>
+          <NODE1_NAME>EspinavellCalLlarg</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.802</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399316,42.377008 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58256">
+          <NODE1_ID>57233</NODE1_ID>
+          <NODE1_NAME>EspinavellCanPep</NODE1_NAME>
+          <NODE2_ID>26712</NODE2_ID>
+          <NODE2_NAME>EspinavellCanJordi</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399644,42.377154 2.399102,42.377843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62524">
+          <NODE1_ID>26704</NODE1_ID>
+          <NODE1_NAME>Espinavell-LaPerdiu</NODE1_NAME>
+          <NODE2_ID>60208</NODE2_ID>
+          <NODE2_NAME>EspinavellCanGanica</NODE2_NAME>
+          <KMS>0.813</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406265,42.371949 2.399255,42.377098</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69128">
+          <NODE1_ID>65121</NODE1_ID>
+          <NODE1_NAME>EspinavellCanFranco</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399005,42.377066 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79132">
+          <NODE1_ID>73695</NODE1_ID>
+          <NODE1_NAME>EspinavellEstudis</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.398988,42.377467 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121389">
+          <NODE1_ID>30568</NODE1_ID>
+          <NODE1_NAME>EspinavCGuerris</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>0.923</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.399037,42.378301 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122691">
+          <NODE1_ID>30544</NODE1_ID>
+          <NODE1_NAME>MolloMolloParc</NODE1_NAME>
+          <NODE2_ID>26704</NODE2_ID>
+          <NODE2_NAME>Espinavell-LaPerdiu</NODE2_NAME>
+          <KMS>2.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406270,42.352775 2.406265,42.371949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

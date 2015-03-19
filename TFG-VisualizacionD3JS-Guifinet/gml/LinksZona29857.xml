@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.372880</gml:X><gml:Y>40.714567</gml:Y></gml:coord>
+<gml:coord><gml:X>0.578120</gml:X><gml:Y>40.786653</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="60295">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>56927</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaSole</NODE2_NAME>
+          <KMS>3.345</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.513262,40.760481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60937">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>58660</NODE2_ID>
+          <NODE2_NAME>CampredoAlvaro170OAM</NODE2_NAME>
+          <KMS>0.671</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.557765,40.765344</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61628">
+          <NODE1_ID>58878</NODE1_ID>
+          <NODE1_NAME>CampredoJaca6OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.21</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.554890,40.759481 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62550">
+          <NODE1_ID>59174</NODE1_ID>
+          <NODE1_NAME>CampredoAlvaro136OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.556691,40.764155 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63004">
+          <NODE1_ID>59997</NODE1_ID>
+          <NODE1_NAME>CmprdFranLlopMa46DGM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.554649,40.759707 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65842">
+          <NODE1_ID>62621</NODE1_ID>
+          <NODE1_NAME>CampCovesGuille20DGM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552428,40.761347 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65946">
+          <NODE1_ID>58880</NODE1_ID>
+          <NODE1_NAME>CampredoAvila15OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552884,40.760765 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65950">
+          <NODE1_ID>62841</NODE1_ID>
+          <NODE1_NAME>CampCoveGuillem16DGM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552109,40.761235 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66339">
+          <NODE1_ID>60644</NODE1_ID>
+          <NODE1_NAME>CampredoMosFederiDGM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552455,40.760890 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68177">
+          <NODE1_ID>64524</NODE1_ID>
+          <NODE1_NAME>CampredoJMarza15OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.553564,40.761574 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69634">
+          <NODE1_ID>65560</NODE1_ID>
+          <NODE1_NAME>CampredoAvila5OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552660,40.760557 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70295">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>66063</NODE2_ID>
+          <NODE2_NAME>CampredoCamiParada</NODE2_NAME>
+          <KMS>1.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.568714,40.761326</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70926">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>25350</NODE2_ID>
+          <NODE2_NAME>SBrbCentreCultural</NODE2_NAME>
+          <KMS>6.995</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.492416,40.717377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71322">
+          <NODE1_ID>66871</NODE1_ID>
+          <NODE1_NAME>CprdoEscardoValls37</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>5.787</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.551600,40.761431 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71797">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>67149</NODE2_ID>
+          <NODE2_NAME>CampredoBenic41OAM</NODE2_NAME>
+          <KMS>0.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.554410,40.759628</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72036">
+          <NODE1_ID>67444</NODE1_ID>
+          <NODE1_NAME>CampredoRavalPOM</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>7.338</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.568650,40.756059 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72053">
+          <NODE1_ID>67457</NODE1_ID>
+          <NODE1_NAME>CampPlantEstorachDGM</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.512</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.544912,40.762007 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72752">
+          <NODE1_ID>68047</NODE1_ID>
+          <NODE1_NAME>CampEscardoValls29</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.551984,40.761390 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73242">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>68558</NODE2_ID>
+          <NODE2_NAME>CampredoEcija1</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.552853,40.760099</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73311">
+          <NODE1_ID>68247</NODE1_ID>
+          <NODE1_NAME>CampredoLlumOAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.556230,40.757874 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73586">
+          <NODE1_ID>68945</NODE1_ID>
+          <NODE1_NAME>TorPolCampredo1TD</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.657</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.555640,40.766660 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74025">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74426">
+          <NODE1_ID>60013</NODE1_ID>
+          <NODE1_NAME>CampredoHackTheWorld</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>1.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.568382,40.768480 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74428">
+          <NODE1_ID>64637</NODE1_ID>
+          <NODE1_NAME>CampredoDiseminatDGM</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>1.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.563350,40.766952 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74429">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>65681</NODE2_ID>
+          <NODE2_NAME>CampredoDonAlvaroABC</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.555995,40.763692</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74467">
+          <NODE1_ID>69563</NODE1_ID>
+          <NODE1_NAME>CampredoCoves20TD</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552390,40.761370 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74737">
+          <NODE1_ID>58400</NODE1_ID>
+          <NODE1_NAME>CampredoCristobalGNM</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>1.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.556584,40.771736 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75335">
+          <NODE1_ID>49044</NODE1_ID>
+          <NODE1_NAME>CmpFrnLlpMrqs29ABC</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.554537,40.759994 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75548">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>70379</NODE2_ID>
+          <NODE2_NAME>CampredoCarrerX9DS</NODE2_NAME>
+          <KMS>1.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.565265,40.753952</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76420">
+          <NODE1_ID>71492</NODE1_ID>
+          <NODE1_NAME>CampredoD44</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>5.657</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550508,40.762359 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76627">
+          <NODE1_ID>49044</NODE1_ID>
+          <NODE1_NAME>CmpFrnLlpMrqs29ABC</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.554537,40.759994 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77070">
+          <NODE1_ID>71951</NODE1_ID>
+          <NODE1_NAME>CampredoBarMachiDGM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.555118,40.759079 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77848">
+          <NODE1_ID>72716</NODE1_ID>
+          <NODE1_NAME>CampredoDiseminat14D</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.554810,40.763761 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78041">
+          <NODE1_ID>72897</NODE1_ID>
+          <NODE1_NAME>CampredoBonavista28</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>5.787</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.551307,40.761033 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78406">
+          <NODE1_ID>73157</NODE1_ID>
+          <NODE1_NAME>CampredoDLOAM</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>1.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.556501,40.771173 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79805">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>73970</NODE2_ID>
+          <NODE2_NAME>CampredoPROAM</NODE2_NAME>
+          <KMS>2.132</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.574827,40.768236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79818">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>25352</NODE2_ID>
+          <NODE2_NAME>SBrbCampanar</NODE2_NAME>
+          <KMS>7.193</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.492869,40.714567</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79821">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>15.352</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79999">
+          <NODE1_ID>74523</NODE1_ID>
+          <NODE1_NAME>CmprdImpremtaQuerol</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.553232,40.764468 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80528">
+          <NODE1_ID>74844</NODE1_ID>
+          <NODE1_NAME>CampredoGranjaSNOAM</NODE1_NAME>
+          <NODE2_ID>73970</NODE2_ID>
+          <NODE2_NAME>CampredoPROAM</NODE2_NAME>
+          <KMS>0.662</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.571618,40.762797 0.574827,40.768236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80529">
+          <NODE1_ID>74845</NODE1_ID>
+          <NODE1_NAME>CampredoMasDDNOAM</NODE1_NAME>
+          <NODE2_ID>73970</NODE2_ID>
+          <NODE2_NAME>CampredoPROAM</NODE2_NAME>
+          <KMS>1.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.568674,40.759509 0.574827,40.768236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81237">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>75368</NODE2_ID>
+          <NODE2_NAME>CmpredoAvDnAlvaro188</NODE2_NAME>
+          <KMS>0.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.558121,40.765849</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81278">
+          <NODE1_ID>75364</NODE1_ID>
+          <NODE1_NAME>CampredoPomNV</NODE1_NAME>
+          <NODE2_ID>73970</NODE2_ID>
+          <NODE2_NAME>CampredoPROAM</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.578120,40.769903 0.574827,40.768236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121260">
+          <NODE1_ID>73970</NODE1_ID>
+          <NODE1_NAME>CampredoPROAM</NODE1_NAME>
+          <NODE2_ID>62954</NODE2_ID>
+          <NODE2_NAME>CampredoMuntanyetOAM</NODE2_NAME>
+          <KMS>0.794</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.574827,40.768236 0.570100,40.762060</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121528">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>3.842</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121676">
+          <NODE1_ID>75871</NODE1_ID>
+          <NODE1_NAME>CampredoLlop27OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.554476,40.760059 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122151">
+          <NODE1_ID>76232</NODE1_ID>
+          <NODE1_NAME>CampredoStLluisOAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.553531,40.761402 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122803">
+          <NODE1_ID>76693</NODE1_ID>
+          <NODE1_NAME>CampredoGrupQuDGM</NODE1_NAME>
+          <NODE2_ID>66527</NODE2_ID>
+          <NODE2_NAME>CampredoEscardoValls</NODE2_NAME>
+          <KMS>0.691</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.556081,40.766780 0.550979,40.761917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122864">
+          <NODE1_ID>76746</NODE1_ID>
+          <NODE1_NAME>CampredoLlop9OAM</NODE1_NAME>
+          <NODE2_ID>58628</NODE2_ID>
+          <NODE2_NAME>CampredoCentre</NODE2_NAME>
+          <KMS>0.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.553489,40.760648 0.552873,40.760586</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123681">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>77289</NODE2_ID>
+          <NODE2_NAME>CampredoCami5DGM</NODE2_NAME>
+          <KMS>1.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.556632,40.771174</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

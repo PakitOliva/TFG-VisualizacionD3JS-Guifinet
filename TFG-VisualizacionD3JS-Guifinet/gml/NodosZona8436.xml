@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.705800</gml:X><gml:Y>42.097331</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.789884</gml:X><gml:Y>42.149182</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="65004">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.783639,42.102582</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65004</NODE_ID>
+      <NODE_NAME>PrqrsAmadeuVives38</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="12316">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.714288,42.097331</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>12316</NODE_ID>
+      <NODE_NAME>PrqrsPujarnol</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="12520">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.733611,42.102222</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>12520</NODE_ID>
+      <NODE_NAME>PrqrsFabregas</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="13800">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.763714,42.106676</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>13800</NODE_ID>
+      <NODE_NAME>PrqrsTrapelles</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="14466">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.789755,42.102871</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14466</NODE_ID>
+      <NODE_NAME>PrqrsAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23049">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.769869,42.117833</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23049</NODE_ID>
+      <NODE_NAME>PrqrsCLAM</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23089">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.713999,42.101622</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23089</NODE_ID>
+      <NODE_NAME>PrqrsCanSotira</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23093">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.773195,42.102974</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23093</NODE_ID>
+      <NODE_NAME>PrqrsMRodoreda5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.714130,42.101729</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23557</NODE_ID>
+      <NODE_NAME>PrqrsCanSotira2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23559">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.717056,42.101605</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23559</NODE_ID>
+      <NODE_NAME>PrqrsCanSopa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23562">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.709653,42.104478</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23562</NODE_ID>
+      <NODE_NAME>PrqrsCanVila</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23581">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.713081,42.108009</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23581</NODE_ID>
+      <NODE_NAME>PrqrsElPuig</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23582">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.727415,42.099884</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23582</NODE_ID>
+      <NODE_NAME>PrqrsELCalc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40919">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.711603,42.100684</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40919</NODE_ID>
+      <NODE_NAME>PqrsCHFierro2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25196">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.711483,42.101472</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25196</NODE_ID>
+      <NODE_NAME>PqrsCHFierro</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25188">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.708538,42.102921</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25188</NODE_ID>
+      <NODE_NAME>PrqsLesOliveres</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25580">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.777540,42.101952</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25580</NODE_ID>
+      <NODE_NAME>Prqrs-MartaiJordi</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26762">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.733683,42.138652</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26762</NODE_ID>
+      <NODE_NAME>PrqrsCsllsDavallUrb</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70815">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.736368,42.120626</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70815</NODE_ID>
+      <NODE_NAME>PrqrsCanGuardaBosc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28716">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.780413,42.103482</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28716</NODE_ID>
+      <NODE_NAME>PrqsEstacio40</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29013">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.787169,42.102676</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29013</NODE_ID>
+      <NODE_NAME>PrqrsSpereRoda6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31474">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.779954,42.104057</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31474</NODE_ID>
+      <NODE_NAME>PrqrsSert32</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31546">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.778731,42.105952</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31546</NODE_ID>
+      <NODE_NAME>PrqrsRamonAvellana26</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54732">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.739849,42.145318</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54732</NODE_ID>
+      <NODE_NAME>PrqrsCasellesavall2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33513">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.780717,42.106043</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33513</NODE_ID>
+      <NODE_NAME>PrqrsMataPorqueres</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33670">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.785638,42.101070</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33670</NODE_ID>
+      <NODE_NAME>vcatala19</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37806">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.733954,42.144780</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37806</NODE_ID>
+      <NODE_NAME>PrqrsCaselles_mic</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37201">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.789884,42.103126</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37201</NODE_ID>
+      <NODE_NAME>PqrsCCRCPorqueres</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37234">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.788280,42.102561</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37234</NODE_ID>
+      <NODE_NAME>PrqrsCalamaria</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38080">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.763802,42.104418</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38080</NODE_ID>
+      <NODE_NAME>PrqsPsgMediterranea</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39926">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.748157,42.145046</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39926</NODE_ID>
+      <NODE_NAME>PRQSUSALL2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55930">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.745997,42.101900</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55930</NODE_ID>
+      <NODE_NAME>PrqrsSantPatll14</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42678">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.717308,42.099044</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42678</NODE_ID>
+      <NODE_NAME>PrqrsCrtGI5247Km4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43239">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.733815,42.143933</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43239</NODE_ID>
+      <NODE_NAME>PrqrsPuig8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45631">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.733128,42.136345</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45631</NODE_ID>
+      <NODE_NAME>PrqrsCanllaminera</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48051">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.769685,42.104682</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48051</NODE_ID>
+      <NODE_NAME>PrqrsPedreres28</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48593">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.705800,42.149182</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48593</NODE_ID>
+      <NODE_NAME>PqrsCanSoler</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49109">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.708116,42.101927</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49109</NODE_ID>
+      <NODE_NAME>PrqrsLaTorre</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56085">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.779966,42.105997</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56085</NODE_ID>
+      <NODE_NAME>Prqrsramllib17</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52048">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.762602,42.104993</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52048</NODE_ID>
+      <NODE_NAME>PrqrsCampFutbol</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52831">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.736827,42.144235</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52831</NODE_ID>
+      <NODE_NAME>PrqrsPCalrei16</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56124">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.733965,42.144456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56124</NODE_ID>
+      <NODE_NAME>PrqrsIlla10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56623">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.732774,42.145309</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56623</NODE_ID>
+      <NODE_NAME>PrqrsPuig24</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58649">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.786270,42.101054</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58649</NODE_ID>
+      <NODE_NAME>PrqrsVicCat9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65050">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.747762,42.106969</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65050</NODE_ID>
+      <NODE_NAME>PqrsCrtpujarnolKM1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69949">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.783647,42.102592</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69949</NODE_ID>
+      <NODE_NAME>PorquerAmadeuVives38</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70196">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.765872,42.104946</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70196</NODE_ID>
+      <NODE_NAME>NBOSCH</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

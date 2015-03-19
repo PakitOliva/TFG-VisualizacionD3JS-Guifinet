@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.406888</gml:X><gml:Y>41.584057</gml:Y></gml:coord>
+<gml:coord><gml:X>2.438490</gml:X><gml:Y>41.626635</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="40288">
+          <NODE1_ID>41420</NODE1_ID>
+          <NODE1_NAME>DSRSCanyamasLaCaseta</NODE1_NAME>
+          <NODE2_ID>41422</NODE2_ID>
+          <NODE2_NAME>DSRSCanyamarsCalGaig</NODE2_NAME>
+          <KMS>0.538</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.438490,41.586790 2.433162,41.584057</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79296">
+          <NODE1_ID>64348</NODE1_ID>
+          <NODE1_NAME>DSRSRc84</NODE1_NAME>
+          <NODE2_ID>20742</NODE2_ID>
+          <NODE2_NAME>LDelVcastellvell</NODE2_NAME>
+          <KMS>1.347</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.418802,41.618444 2.406888,41.626635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

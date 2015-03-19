@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.208878</gml:X><gml:Y>40.218718</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.141535</gml:X><gml:Y>40.249568</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="122767">
+          <NODE1_ID>76670</NODE1_ID>
+          <NODE1_NAME>drewstest</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>6.677</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208878,40.249568 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

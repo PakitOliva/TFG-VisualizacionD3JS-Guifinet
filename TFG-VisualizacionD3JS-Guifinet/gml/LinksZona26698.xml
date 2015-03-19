@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.286889</gml:X><gml:Y>42.305821</gml:Y></gml:coord>
+<gml:coord><gml:X>2.376711</gml:X><gml:Y>42.343513</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="35182">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>1.906</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35192">
+          <NODE1_ID>13813</NODE1_ID>
+          <NODE1_NAME>Camprodon-StAntoni</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>3.388</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.371219,42.305821 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35204">
+          <NODE1_ID>39715</NODE1_ID>
+          <NODE1_NAME>TreguraEstudis</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>4.779</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286889,42.341996 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35216">
+          <NODE1_ID>39635</NODE1_ID>
+          <NODE1_NAME>LlanarsCooperativa</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.751</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.344342,42.320190 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35448">
+          <NODE1_ID>39579</NODE1_ID>
+          <NODE1_NAME>Camprodon_El_Prat</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.363</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364354,42.314173 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35927">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35928">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35929">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35930">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35931">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.588</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35932">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>1.942</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35934">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39579</NODE2_ID>
+          <NODE2_NAME>Camprodon_El_Prat</NODE2_NAME>
+          <KMS>2.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.364354,42.314173</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35935">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>4.919</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35960">
+          <NODE1_ID>40416</NODE1_ID>
+          <NODE1_NAME>LlanarsElMorer</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.341585,42.321984 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35963">
+          <NODE1_ID>40423</NODE1_ID>
+          <NODE1_NAME>LlanarsHorta</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340079,42.322215 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36199">
+          <NODE1_ID>40489</NODE1_ID>
+          <NODE1_NAME>LlanarsMascarella</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342558,42.321977 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36201">
+          <NODE1_ID>40534</NODE1_ID>
+          <NODE1_NAME>LlanarsRaquelRuiz</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.345240,42.322094 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36205">
+          <NODE1_ID>40621</NODE1_ID>
+          <NODE1_NAME>LlanarsAdelaIsern</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.341756,42.321224 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36207">
+          <NODE1_ID>40474</NODE1_ID>
+          <NODE1_NAME>FeitusCanRata</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.355773,42.341778 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36208">
+          <NODE1_ID>40536</NODE1_ID>
+          <NODE1_NAME>LlanarsJoanSubirana</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342301,42.321404 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36209">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>40494</NODE2_ID>
+          <NODE2_NAME>LlanarsJaumeBosch</NODE2_NAME>
+          <KMS>0.733</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.345310,42.320712</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36213">
+          <NODE1_ID>40482</NODE1_ID>
+          <NODE1_NAME>FeitusCanSolfa</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.356538,42.343513 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36217">
+          <NODE1_ID>40491</NODE1_ID>
+          <NODE1_NAME>LlanarsPaquitaPonzan</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.343323,42.320595 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36221">
+          <NODE1_ID>40530</NODE1_ID>
+          <NODE1_NAME>LlanarsJaumeCosta</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342598,42.322687 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36224">
+          <NODE1_ID>40628</NODE1_ID>
+          <NODE1_NAME>LlanarsJordiRosello</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.341241,42.321985 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36489">
+          <NODE1_ID>40485</NODE1_ID>
+          <NODE1_NAME>LlanarsCanTresic</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342451,42.320036 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36511">
+          <NODE1_ID>40477</NODE1_ID>
+          <NODE1_NAME>FeitusCanJanot</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.355618,42.342997 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36513">
+          <NODE1_ID>40476</NODE1_ID>
+          <NODE1_NAME>FeitusElGirbau</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.354974,42.342448 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36518">
+          <NODE1_ID>39684</NODE1_ID>
+          <NODE1_NAME>FeitusLaMoixa</NODE1_NAME>
+          <NODE2_ID>40478</NODE2_ID>
+          <NODE2_NAME>FeitusCanMonjo</NODE2_NAME>
+          <KMS>0.54</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.357714,42.338319 2.355401,42.342868</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36519">
+          <NODE1_ID>40492</NODE1_ID>
+          <NODE1_NAME>LlanarsSilvestreSole</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342499,42.320841 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36534">
+          <NODE1_ID>40865</NODE1_ID>
+          <NODE1_NAME>LlanarsToniCasas</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.344080,42.320654 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36539">
+          <NODE1_ID>40525</NODE1_ID>
+          <NODE1_NAME>LlanarsPereLicus</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.782</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.347671,42.321487 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36543">
+          <NODE1_ID>40493</NODE1_ID>
+          <NODE1_NAME>LlanarsPereNogue</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.733</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.344846,42.320533 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36544">
+          <NODE1_ID>40595</NODE1_ID>
+          <NODE1_NAME>LlanarsArsBlanc</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.675</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.345388,42.321355 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36545">
+          <NODE1_ID>40528</NODE1_ID>
+          <NODE1_NAME>LlanarsLEsconDalt</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.634</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.343985,42.321224 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36546">
+          <NODE1_ID>40527</NODE1_ID>
+          <NODE1_NAME>LlanarsConradRigat</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.849</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.348381,42.321168 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36547">
+          <NODE1_ID>40487</NODE1_ID>
+          <NODE1_NAME>LlanarsJuanPabloBlan</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.341169,42.321668 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36549">
+          <NODE1_ID>40535</NODE1_ID>
+          <NODE1_NAME>LlanarsEstherGel</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.871</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.346179,42.319653 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36550">
+          <NODE1_ID>40488</NODE1_ID>
+          <NODE1_NAME>LlanarsCescCampayo</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.339935,42.321011 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36552">
+          <NODE1_ID>40490</NODE1_ID>
+          <NODE1_NAME>LlanarsBellabrigaBai</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>1.459</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.356610,42.320315 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36555">
+          <NODE1_ID>40526</NODE1_ID>
+          <NODE1_NAME>LlanarsAnnaSola</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.347392,42.321704 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36558">
+          <NODE1_ID>40622</NODE1_ID>
+          <NODE1_NAME>LlanarsAnaBienzobas</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.341499,42.321162 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37284">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37296">
+          <NODE1_ID>40479</NODE1_ID>
+          <NODE1_NAME>FeitusLaIlla</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.902</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.348411,42.332434 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38961">
+          <NODE1_ID>42881</NODE1_ID>
+          <NODE1_NAME>CamprodonJosepMoret</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364542,42.314201 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40353">
+          <NODE1_ID>43388</NODE1_ID>
+          <NODE1_NAME>LlanarsPilarPalomera</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342121,42.320288 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40710">
+          <NODE1_ID>43930</NODE1_ID>
+          <NODE1_NAME>LaRocaCalRei</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.87</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.332240,42.322090 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40950">
+          <NODE1_ID>44358</NODE1_ID>
+          <NODE1_NAME>LlanarsFerranPalomer</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342207,42.320226 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40994">
+          <NODE1_ID>40532</NODE1_ID>
+          <NODE1_NAME>LlanarsCalFerrer</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.344087,42.320867 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45728">
+          <NODE1_ID>48049</NODE1_ID>
+          <NODE1_NAME>Abella_Joan_Nebot</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316213,42.319331 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46583">
+          <NODE1_ID>48535</NODE1_ID>
+          <NODE1_NAME>LlanarsCalGordoRifrt</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.838</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342131,42.318986 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46688">
+          <NODE1_ID>39579</NODE1_ID>
+          <NODE1_NAME>Camprodon_El_Prat</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.363</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364354,42.314173 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47454">
+          <NODE1_ID>49354</NODE1_ID>
+          <NODE1_NAME>Abella_Jordi_Sola</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.38</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313821,42.319204 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49263">
+          <NODE1_ID>40480</NODE1_ID>
+          <NODE1_NAME>FeitusElMoli</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>1.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.351611,42.334541 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57342">
+          <NODE1_ID>56565</NODE1_ID>
+          <NODE1_NAME>CamprodonJoanSala</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.339</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363096,42.313283 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61919">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>40874</NODE2_ID>
+          <NODE2_NAME>FeitusMasLaMoixa</NODE2_NAME>
+          <KMS>1.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.356337,42.337603</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61920">
+          <NODE1_ID>39683</NODE1_ID>
+          <NODE1_NAME>LlanarsLaCreu</NODE1_NAME>
+          <NODE2_ID>59622</NODE2_ID>
+          <NODE2_NAME>FeitusLaIlla2</NODE2_NAME>
+          <KMS>0.9</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.340978,42.326478 2.348307,42.332484</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63077">
+          <NODE1_ID>59984</NODE1_ID>
+          <NODE1_NAME>LlanarsCanXarles</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.343088,42.322275 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64133">
+          <NODE1_ID>60467</NODE1_ID>
+          <NODE1_NAME>camprodonMonicaRoig</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364185,42.314178 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66888">
+          <NODE1_ID>63432</NODE1_ID>
+          <NODE1_NAME>LlanarsCarlesGarriga</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.774</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.347652,42.321572 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67610">
+          <NODE1_ID>40481</NODE1_ID>
+          <NODE1_NAME>FeitusCanDarrer</NODE1_NAME>
+          <NODE2_ID>39684</NODE2_ID>
+          <NODE2_NAME>FeitusLaMoixa</NODE2_NAME>
+          <KMS>0.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.354593,42.341647 2.357714,42.338319</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67611">
+          <NODE1_ID>63433</NODE1_ID>
+          <NODE1_NAME>LlanarsJoanMorera</NODE1_NAME>
+          <NODE2_ID>39635</NODE2_ID>
+          <NODE2_NAME>LlanarsCooperativa</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342797,42.322076 2.344342,42.320190</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71478">
+          <NODE1_ID>66961</NODE1_ID>
+          <NODE1_NAME>CamprodonXaviSala</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364990,42.313712 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72980">
+          <NODE1_ID>67651</NODE1_ID>
+          <NODE1_NAME>CamprodonCVacanegra</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>3.453</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.376711,42.310256 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76073">
+          <NODE1_ID>70292</NODE1_ID>
+          <NODE1_NAME>LlanarsRifred</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>1.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342883,42.312382 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77543">
+          <NODE1_ID>72467</NODE1_ID>
+          <NODE1_NAME>LaRocaJosepTriadu</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330109,42.322901 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77685">
+          <NODE1_ID>72564</NODE1_ID>
+          <NODE1_NAME>CamprodonJSubirana</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>2.708</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.368727,42.313437 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79848">
+          <NODE1_ID>74358</NODE1_ID>
+          <NODE1_NAME>LlanarsSolaDAmunt</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.701</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.348375,42.323362 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81194">
+          <NODE1_ID>40849</NODE1_ID>
+          <NODE1_NAME>LlanarsBellabrigaDal</NODE1_NAME>
+          <NODE2_ID>42529</NODE2_ID>
+          <NODE2_NAME>CamprodonAJ</NODE2_NAME>
+          <KMS>1.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.356808,42.323053 2.364646,42.311800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

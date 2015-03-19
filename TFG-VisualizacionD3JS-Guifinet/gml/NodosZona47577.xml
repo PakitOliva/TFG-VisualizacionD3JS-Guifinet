@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.074606</gml:X><gml:Y>43.304561</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.054583</gml:X><gml:Y>43.317327</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="47578">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.057608,43.304561</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47578</NODE_ID>
+      <NODE_NAME>ORTUcadegal</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47579">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.054583,43.310495</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47579</NODE_ID>
+      <NODE_NAME>ORTUotxartaga19</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47581">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.057670,43.304571</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47581</NODE_ID>
+      <NODE_NAME>ORTUcadegal-BIS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.074606,43.316071</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51557</NODE_ID>
+      <NODE_NAME>ORTUMeatzari1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51576">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.073323,43.317327</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51576</NODE_ID>
+      <NODE_NAME>ORTUBlasco1bis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.791085</gml:X><gml:Y>42.231092</gml:Y></gml:coord>
+<gml:coord><gml:X>3.243640</gml:X><gml:Y>42.399151</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="24886">
+          <NODE1_ID>29559</NODE1_ID>
+          <NODE1_NAME>Fgrs-Monturiol</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>20.486</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.970301,42.271353 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25050">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>29559</NODE2_ID>
+          <NODE2_NAME>Fgrs-Monturiol</NODE2_NAME>
+          <KMS>14.534</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 2.970301,42.271353</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29245">
+          <NODE1_ID>28475</NODE1_ID>
+          <NODE1_NAME>FgrsEB3FIS</NODE1_NAME>
+          <NODE2_ID>34570</NODE2_ID>
+          <NODE2_NAME>FgrsLleida20</NODE2_NAME>
+          <KMS>0.555</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.957893,42.260909 2.951396,42.262212</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30593">
+          <NODE1_ID>35744</NODE1_ID>
+          <NODE1_NAME>VilfCat25</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959352,42.250019 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31128">
+          <NODE1_ID>26058</NODE1_ID>
+          <NODE1_NAME>Vlf-Tremoleda</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.469</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959110,42.247711 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33869">
+          <NODE1_ID>38791</NODE1_ID>
+          <NODE1_NAME>Vlf-Girona8</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.276</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.958785,42.249437 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33948">
+          <NODE1_ID>25462</NODE1_ID>
+          <NODE1_NAME>Vlf-ReqNog</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.806</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.954153,42.254209 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34409">
+          <NODE1_ID>39170</NODE1_ID>
+          <NODE1_NAME>FgrsTallaferro9</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.3</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.955419,42.262883 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34434">
+          <NODE1_ID>39207</NODE1_ID>
+          <NODE1_NAME>VlbrtrnPerelada4</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>1.919</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.983687,42.283908 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34855">
+          <NODE1_ID>29970</NODE1_ID>
+          <NODE1_NAME>FgrsSanti</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>0.679</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.958874,42.274059 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34872">
+          <NODE1_ID>29506</NODE1_ID>
+          <NODE1_NAME>FgrsUrbanX72</NODE1_NAME>
+          <NODE2_ID>29971</NODE2_ID>
+          <NODE2_NAME>FgrsVane</NODE2_NAME>
+          <KMS>0.541</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966680,42.272126 2.960510,42.273779</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35440">
+          <NODE1_ID>39963</NODE1_ID>
+          <NODE1_NAME>Vsacra-Fortia17B</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>4.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.016406,42.262770 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35503">
+          <NODE1_ID>40076</NODE1_ID>
+          <NODE1_NAME>FigAVmiragnane10</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>0.789</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.957199,42.271223 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35844">
+          <NODE1_ID>33560</NODE1_ID>
+          <NODE1_NAME>FgrsTamRos8</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959120,42.259555 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35893">
+          <NODE1_ID>40333</NODE1_ID>
+          <NODE1_NAME>Vlf-StMontseny33</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.942126,42.252489 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37018">
+          <NODE1_ID>41257</NODE1_ID>
+          <NODE1_NAME>VlbrtrnJRP60A</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>1.853</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.982317,42.284102 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38262">
+          <NODE1_ID>42037</NODE1_ID>
+          <NODE1_NAME>Psv-Muntanyeta9</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>15.942</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147034,42.309260 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39191">
+          <NODE1_ID>30733</NODE1_ID>
+          <NODE1_NAME>OrdisAeroclub</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>6.454</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.885149,42.231092 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40347">
+          <NODE1_ID>42230</NODE1_ID>
+          <NODE1_NAME>fgrsATPKpirineus</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.955639,42.264033 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41916">
+          <NODE1_ID>45260</NODE1_ID>
+          <NODE1_NAME>FgrsMrd</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.535</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.952377,42.266935 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42089">
+          <NODE1_ID>45136</NODE1_ID>
+          <NODE1_NAME>FgrsLlog</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.961427,42.261097 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42498">
+          <NODE1_ID>30877</NODE1_ID>
+          <NODE1_NAME>FgrsBruch18</NODE1_NAME>
+          <NODE2_ID>38801</NODE2_ID>
+          <NODE2_NAME>VltnimSerg</NODE2_NAME>
+          <KMS>2.583</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967121,42.256831 2.993506,42.269338</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42935">
+          <NODE1_ID>28475</NODE1_ID>
+          <NODE1_NAME>FgrsEB3FIS</NODE1_NAME>
+          <NODE2_ID>46078</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat4Suprem</NODE2_NAME>
+          <KMS>0.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.957893,42.260909 2.951198,42.262218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43884">
+          <NODE1_ID>29506</NODE1_ID>
+          <NODE1_NAME>FgrsUrbanX72</NODE1_NAME>
+          <NODE2_ID>45613</NODE2_ID>
+          <NODE2_NAME>FgrsAzemar2</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966680,42.272126 2.966137,42.273462</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44007">
+          <NODE1_ID>46860</NODE1_ID>
+          <NODE1_NAME>rykngRd2</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>0.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966698,42.256013 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47568">
+          <NODE1_ID>49437</NODE1_ID>
+          <NODE1_NAME>FgrsEroGas</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>0.523</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.960856,42.257562 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48330">
+          <NODE1_ID>49811</NODE1_ID>
+          <NODE1_NAME>FgrsTerreres34</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>1.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959852,42.264287 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48404">
+          <NODE1_ID>28377</NODE1_ID>
+          <NODE1_NAME>FgrsRocaberti31</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>22.841</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.968100,42.260608 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51083">
+          <NODE1_ID>50565</NODE1_ID>
+          <NODE1_NAME>FgrsColom36</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967108,42.268456 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52791">
+          <NODE1_ID>52059</NODE1_ID>
+          <NODE1_NAME>Roses-GI610Km2</NODE1_NAME>
+          <NODE2_ID>28377</NODE2_ID>
+          <NODE2_NAME>FgrsRocaberti31</NODE2_NAME>
+          <KMS>15.583</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.154629,42.282743 2.968100,42.260608</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53651">
+          <NODE1_ID>51970</NODE1_ID>
+          <NODE1_NAME>FgrsPVentura7</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>0.692</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959332,42.266781 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54849">
+          <NODE1_ID>54672</NODE1_ID>
+          <NODE1_NAME>fgrsATPKtaure1</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>1.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.981762,42.268883 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56196">
+          <NODE1_ID>55547</NODE1_ID>
+          <NODE1_NAME>VltnimNou25</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.604</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.994115,42.268975 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57972">
+          <NODE1_ID>37318</NODE1_ID>
+          <NODE1_NAME>FgrsVentura</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967103,42.269122 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59629">
+          <NODE1_ID>58179</NODE1_ID>
+          <NODE1_NAME>EFarD-Paolo</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>3.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.977815,42.242400 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59987">
+          <NODE1_ID>56890</NODE1_ID>
+          <NODE1_NAME>Cholbi</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>5.612</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.015377,42.307419 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60323">
+          <NODE1_ID>52555</NODE1_ID>
+          <NODE1_NAME>FgrsLaPipaPlena</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>0.696</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.961776,42.267028 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60908">
+          <NODE1_ID>32013</NODE1_ID>
+          <NODE1_NAME>Vlf-EA3HIX</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959547,42.249799 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61012">
+          <NODE1_ID>43013</NODE1_ID>
+          <NODE1_NAME>FgrsLlobregat2</NODE1_NAME>
+          <NODE2_ID>59169</NODE2_ID>
+          <NODE2_NAME>Vlf-Vilamalla5</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.951202,42.262202 2.952778,42.260233</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62319">
+          <NODE1_ID>29506</NODE1_ID>
+          <NODE1_NAME>FgrsUrbanX72</NODE1_NAME>
+          <NODE2_ID>60060</NODE2_ID>
+          <NODE2_NAME>FgrsFerretti</NODE2_NAME>
+          <KMS>1.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966680,42.272126 2.979620,42.268642</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63336">
+          <NODE1_ID>30877</NODE1_ID>
+          <NODE1_NAME>FgrsBruch18</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.886</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967121,42.256831 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64617">
+          <NODE1_ID>37318</NODE1_ID>
+          <NODE1_NAME>FgrsVentura</NODE1_NAME>
+          <NODE2_ID>61705</NODE2_ID>
+          <NODE2_NAME>VlbrtrnJRP60C</NODE2_NAME>
+          <KMS>2.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967103,42.269122 2.982426,42.284147</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66089">
+          <NODE1_ID>62933</NODE1_ID>
+          <NODE1_NAME>EFarDSiurana6</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.636</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997766,42.250146 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67656">
+          <NODE1_ID>64160</NODE1_ID>
+          <NODE1_NAME>FgrsAforesSusana</NODE1_NAME>
+          <NODE2_ID>52555</NODE2_ID>
+          <NODE2_NAME>FgrsLaPipaPlena</NODE2_NAME>
+          <KMS>3.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.965660,42.295298 2.961776,42.267028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68705">
+          <NODE1_ID>63276</NODE1_ID>
+          <NODE1_NAME>PrldaGolfJM</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>7.818</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.035180,42.320788 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69261">
+          <NODE1_ID>65274</NODE1_ID>
+          <NODE1_NAME>Fgrsdelarosa5</NODE1_NAME>
+          <NODE2_ID>52555</NODE2_ID>
+          <NODE2_NAME>FgrsLaPipaPlena</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959276,42.265128 2.961776,42.267028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69760">
+          <NODE1_ID>65657</NODE1_ID>
+          <NODE1_NAME>HLlersMoreneta4</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>2.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.942196,42.288005 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69888">
+          <NODE1_ID>65771</NODE1_ID>
+          <NODE1_NAME>StaLlogFigueres32</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>2.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.952045,42.234436 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71102">
+          <NODE1_ID>41318</NODE1_ID>
+          <NODE1_NAME>Frgsvlnvamuga23</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>0.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.971205,42.268102 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71103">
+          <NODE1_ID>52747</NODE1_ID>
+          <NODE1_NAME>FgrsErnestLluch1</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967068,42.268211 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71104">
+          <NODE1_ID>37318</NODE1_ID>
+          <NODE1_NAME>FgrsVentura</NODE1_NAME>
+          <NODE2_ID>64558</NODE2_ID>
+          <NODE2_NAME>FgrsRequesens2</NODE2_NAME>
+          <KMS>0.406</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967103,42.269122 2.970705,42.266636</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71106">
+          <NODE1_ID>38801</NODE1_ID>
+          <NODE1_NAME>VltnimSerg</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>2.178</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.993506,42.269338 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72211">
+          <NODE1_ID>28377</NODE1_ID>
+          <NODE1_NAME>FgrsRocaberti31</NODE1_NAME>
+          <NODE2_ID>67469</NODE2_ID>
+          <NODE2_NAME>VsacraOfiweb</NODE2_NAME>
+          <KMS>4.225</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.968100,42.260608 3.018912,42.265297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72212">
+          <NODE1_ID>67469</NODE1_ID>
+          <NODE1_NAME>VsacraOfiweb</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>4.376</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.018912,42.265297 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73051">
+          <NODE1_ID>68362</NODE1_ID>
+          <NODE1_NAME>FgrsCarabaningCB</NODE1_NAME>
+          <NODE2_ID>52555</NODE2_ID>
+          <NODE2_NAME>FgrsLaPipaPlena</NODE2_NAME>
+          <KMS>2.603</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.947168,42.287802 2.961776,42.267028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73155">
+          <NODE1_ID>30877</NODE1_ID>
+          <NODE1_NAME>FgrsBruch18</NODE1_NAME>
+          <NODE2_ID>24526</NODE2_ID>
+          <NODE2_NAME>VilarnadalDip</NODE2_NAME>
+          <KMS>9.555</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967121,42.256831 2.956135,42.342461</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73157">
+          <NODE1_ID>30877</NODE1_ID>
+          <NODE1_NAME>FgrsBruch18</NODE1_NAME>
+          <NODE2_ID>36720</NODE2_ID>
+          <NODE2_NAME>FgrsElectrocat</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967121,42.256831 2.966411,42.258780</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73282">
+          <NODE1_ID>28475</NODE1_ID>
+          <NODE1_NAME>FgrsEB3FIS</NODE1_NAME>
+          <NODE2_ID>35035</NODE2_ID>
+          <NODE2_NAME>FgrsDrFerran2</NODE2_NAME>
+          <KMS>0.702</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.957893,42.260909 2.951783,42.265306</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73947">
+          <NODE1_ID>37318</NODE1_ID>
+          <NODE1_NAME>FgrsVentura</NODE1_NAME>
+          <NODE2_ID>69212</NODE2_ID>
+          <NODE2_NAME>Fgs-Ernestlluch1CB3</NODE2_NAME>
+          <KMS>0.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967103,42.269122 2.966767,42.268393</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74264">
+          <NODE1_ID>69447</NODE1_ID>
+          <NODE1_NAME>FgrsMar27</NODE1_NAME>
+          <NODE2_ID>37318</NODE2_ID>
+          <NODE2_NAME>FgrsVentura</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.967658,42.266589 2.967103,42.269122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74989">
+          <NODE1_ID>42478</NODE1_ID>
+          <NODE1_NAME>FgrsTamRos4</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.959059,42.259552 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75942">
+          <NODE1_ID>70753</NODE1_ID>
+          <NODE1_NAME>EfarDMonturiol16</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.715</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.996438,42.245749 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76609">
+          <NODE1_ID>24119</NODE1_ID>
+          <NODE1_NAME>Vlf-Piscina</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>1.351</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.946643,42.252074 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77596">
+          <NODE1_ID>72512</NODE1_ID>
+          <NODE1_NAME>FgrsAusiasMarcSN</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>0.596</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.961690,42.253293 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77916">
+          <NODE1_ID>43013</NODE1_ID>
+          <NODE1_NAME>FgrsLlobregat2</NODE1_NAME>
+          <NODE2_ID>28475</NODE2_ID>
+          <NODE2_NAME>FgrsEB3FIS</NODE2_NAME>
+          <KMS>0.57</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.951202,42.262202 2.957893,42.260909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78163">
+          <NODE1_ID>72995</NODE1_ID>
+          <NODE1_NAME>ElFarFonolledes3</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997483,42.250124 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78517">
+          <NODE1_ID>67469</NODE1_ID>
+          <NODE1_NAME>VsacraOfiweb</NODE1_NAME>
+          <NODE2_ID>72943</NODE2_ID>
+          <NODE2_NAME>FgrsN138</NODE2_NAME>
+          <KMS>4.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.018912,42.265297 2.966043,42.261073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79294">
+          <NODE1_ID>29506</NODE1_ID>
+          <NODE1_NAME>FgrsUrbanX72</NODE1_NAME>
+          <NODE2_ID>73508</NODE2_ID>
+          <NODE2_NAME>PSVCanigo</NODE2_NAME>
+          <KMS>15.837</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966680,42.272126 3.152058,42.309332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79746">
+          <NODE1_ID>35851</NODE1_ID>
+          <NODE1_NAME>Vlf-PepVentura5</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.953423,42.258646 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79855">
+          <NODE1_ID>74338</NODE1_ID>
+          <NODE1_NAME>FgrsLlobregat2Baix</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.001</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.951188,42.262205 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79921">
+          <NODE1_ID>65190</NODE1_ID>
+          <NODE1_NAME>ElFarVlscr</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.578</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997287,42.250790 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80320">
+          <NODE1_ID>74472</NODE1_ID>
+          <NODE1_NAME>FgrsAVSalvDali134</NODE1_NAME>
+          <NODE2_ID>24119</NODE2_ID>
+          <NODE2_NAME>Vlf-Piscina</NODE2_NAME>
+          <KMS>1.93</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.958161,42.267197 2.946643,42.252074</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80321">
+          <NODE1_ID>28377</NODE1_ID>
+          <NODE1_NAME>FgrsRocaberti31</NODE1_NAME>
+          <NODE2_ID>74472</NODE2_ID>
+          <NODE2_NAME>FgrsAVSalvDali134</NODE2_NAME>
+          <KMS>1.099</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.968100,42.260608 2.958161,42.267197</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80471">
+          <NODE1_ID>74472</NODE1_ID>
+          <NODE1_NAME>FgrsAVSalvDali134</NODE1_NAME>
+          <NODE2_ID>52555</NODE2_ID>
+          <NODE2_NAME>FgrsLaPipaPlena</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.958161,42.267197 2.961776,42.267028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80517">
+          <NODE1_ID>74837</NODE1_ID>
+          <NODE1_NAME>FgrsMntrl5</NODE1_NAME>
+          <NODE2_ID>52555</NODE2_ID>
+          <NODE2_NAME>FgrsLaPipaPlena</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.962539,42.266863 2.961776,42.267028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80518">
+          <NODE1_ID>73126</NODE1_ID>
+          <NODE1_NAME>STrullol</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>0.541</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.961110,42.254885 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80814">
+          <NODE1_ID>55217</NODE1_ID>
+          <NODE1_NAME>CbnsCampanar</NODE1_NAME>
+          <NODE2_ID>74472</NODE2_ID>
+          <NODE2_NAME>FgrsAVSalvDali134</NODE2_NAME>
+          <KMS>4.731</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.977719,42.307239 2.958161,42.267197</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80895">
+          <NODE1_ID>74753</NODE1_ID>
+          <NODE1_NAME>Vlf-Verdaguer8</NODE1_NAME>
+          <NODE2_ID>43013</NODE2_ID>
+          <NODE2_NAME>FgrsLlobregat2</NODE2_NAME>
+          <KMS>0.589</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.950021,42.256977 2.951202,42.262202</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121269">
+          <NODE1_ID>75549</NODE1_ID>
+          <NODE1_NAME>ElFarMonturiol19</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>2.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.996864,42.246078 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122836">
+          <NODE1_ID>50903</NODE1_ID>
+          <NODE1_NAME>FgrsPcSystem</NODE1_NAME>
+          <NODE2_ID>52555</NODE2_ID>
+          <NODE2_NAME>FgrsLaPipaPlena</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.963304,42.269179 2.961776,42.267028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123066">
+          <NODE1_ID>76656</NODE1_ID>
+          <NODE1_NAME>FgrsHSidorme</NODE1_NAME>
+          <NODE2_ID>29506</NODE2_ID>
+          <NODE2_NAME>FgrsUrbanX72</NODE2_NAME>
+          <KMS>2.652</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.997918,42.266494 2.966680,42.272126</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123352">
+          <NODE1_ID>52555</NODE1_ID>
+          <NODE1_NAME>FgrsLaPipaPlena</NODE1_NAME>
+          <NODE2_ID>50902</NODE2_ID>
+          <NODE2_NAME>PMS-VicensFerrer</NODE2_NAME>
+          <KMS>5.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.961776,42.267028 2.930053,42.315342</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

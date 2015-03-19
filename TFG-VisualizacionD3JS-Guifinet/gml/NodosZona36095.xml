@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>0.120866</gml:X><gml:Y>40.513181</gml:Y></gml:coord>
+      <gml:coord><gml:X>0.163475</gml:X><gml:Y>40.531578</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="36096">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.163475,40.531578</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36096</NODE_ID>
+      <NODE_NAME>XertLaMola</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75151">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.120866,40.513181</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75151</NODE_ID>
+      <NODE_NAME>Xert_HotspotAnroig</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72823">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.157747,40.518283</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72823</NODE_ID>
+      <NODE_NAME>XertAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72824">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.157453,40.520778</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72824</NODE_ID>
+      <NODE_NAME>XertAjVell</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72825">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.158300,40.514903</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72825</NODE_ID>
+      <NODE_NAME>XertPiscina</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72826">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.156203,40.521139</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72826</NODE_ID>
+      <NODE_NAME>XertEsglesia</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72827">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.157150,40.515864</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72827</NODE_ID>
+      <NODE_NAME>XertPolifuncional</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72828">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.157150,40.515864</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72828</NODE_ID>
+      <NODE_NAME>XertEscoles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74118">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.159637,40.522424</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74118</NODE_ID>
+      <NODE_NAME>Xert_ProvestecAudiov</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76846">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.160224,40.515995</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76846</NODE_ID>
+      <NODE_NAME>Xert_ProvesAudiov2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

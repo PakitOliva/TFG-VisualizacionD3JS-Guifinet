@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.032779</gml:X><gml:Y>41.582776</gml:Y></gml:coord>
+      <gml:coord><gml:X>-4.721761</gml:X><gml:Y>41.659817</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="29675">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.032779,41.582776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29675</NODE_ID>
+      <NODE_NAME>berce</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41460">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.721761,41.659817</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41460</NODE_ID>
+      <NODE_NAME>Julher001</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56236">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.788142,41.659437</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56236</NODE_ID>
+      <NODE_NAME>ZRcrcv22</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

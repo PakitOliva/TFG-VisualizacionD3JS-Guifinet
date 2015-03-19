@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.038828</gml:X><gml:Y>41.419993</gml:Y></gml:coord>
+<gml:coord><gml:X>2.197896</gml:X><gml:Y>41.661505</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="11653">
+          <NODE1_ID>7362</NODE1_ID>
+          <NODE1_NAME>SBDFira</NODE1_NAME>
+          <NODE2_ID>9364</NODE2_ID>
+          <NODE2_NAME>BiguesPitRoig</NODE2_NAME>
+          <KMS>13.669</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.117199,41.546447 2.175411,41.661505</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15940">
+          <NODE1_ID>17544</NODE1_ID>
+          <NODE1_NAME>SBDCampanarSS</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.663</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.116515,41.550061 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17284">
+          <NODE1_ID>7362</NODE1_ID>
+          <NODE1_NAME>SBDFira</NODE1_NAME>
+          <NODE2_ID>8969</NODE2_ID>
+          <NODE2_NAME>CDeMPonsDiposits</NODE2_NAME>
+          <KMS>12.051</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.117199,41.546447 2.197896,41.636467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17529">
+          <NODE1_ID>21491</NODE1_ID>
+          <NODE1_NAME>SBDpsgEspronceda53</NODE1_NAME>
+          <NODE2_ID>18938</NODE2_ID>
+          <NODE2_NAME>RIPIsabelcatolica24</NODE2_NAME>
+          <KMS>4.582</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.115764,41.528386 2.153401,41.498353</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20315">
+          <NODE1_ID>22889</NODE1_ID>
+          <NODE1_NAME>SBDBrutau63</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>0.977</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.112187,41.536766 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20677">
+          <NODE1_ID>7362</NODE1_ID>
+          <NODE1_NAME>SBDFira</NODE1_NAME>
+          <NODE2_ID>17544</NODE2_ID>
+          <NODE2_NAME>SBDCampanarSS</NODE2_NAME>
+          <KMS>0.405</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.117199,41.546447 2.116515,41.550061</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20728">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>21731</NODE2_ID>
+          <NODE2_NAME>SBDForniol</NODE2_NAME>
+          <KMS>1.172</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.107047,41.556183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22332">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>2.001</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22917">
+          <NODE1_ID>21491</NODE1_ID>
+          <NODE1_NAME>SBDpsgEspronceda53</NODE1_NAME>
+          <NODE2_ID>28021</NODE2_ID>
+          <NODE2_NAME>Abril</NODE2_NAME>
+          <KMS>1.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.115764,41.528386 2.121311,41.515143</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22928">
+          <NODE1_ID>28166</NODE1_ID>
+          <NODE1_NAME>SBDDanielMolina29</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>0.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.114678,41.528730 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23474">
+          <NODE1_ID>21087</NODE1_ID>
+          <NODE1_NAME>LP-Transval</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>13.035</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105228,41.428698 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25803">
+          <NODE1_ID>31147</NODE1_ID>
+          <NODE1_NAME>SBDFeijoo72</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.113369,41.527522 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27083">
+          <NODE1_ID>32286</NODE1_ID>
+          <NODE1_NAME>CdVMarcos</NODE1_NAME>
+          <NODE2_ID>28273</NODE2_ID>
+          <NODE2_NAME>SBDDuraniOrts2</NODE2_NAME>
+          <KMS>6.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.085562,41.609037 2.107079,41.548399</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27254">
+          <NODE1_ID>10825</NODE1_ID>
+          <NODE1_NAME>SBDferg</NODE1_NAME>
+          <NODE2_ID>17544</NODE2_ID>
+          <NODE2_NAME>SBDCampanarSS</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.114793,41.549731 2.116515,41.550061</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33517">
+          <NODE1_ID>35755</NODE1_ID>
+          <NODE1_NAME>PintorFortuny124</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>1.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.124969,41.518912 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36418">
+          <NODE1_ID>10825</NODE1_ID>
+          <NODE1_NAME>SBDferg</NODE1_NAME>
+          <NODE2_ID>17544</NODE2_ID>
+          <NODE2_NAME>SBDCampanarSS</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.114793,41.549731 2.116515,41.550061</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39703">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>20832</NODE2_ID>
+          <NODE2_NAME>SBDStPau</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.108318,41.545166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41316">
+          <NODE1_ID>44696</NODE1_ID>
+          <NODE1_NAME>SBDPacomutllo</NODE1_NAME>
+          <NODE2_ID>21731</NODE2_ID>
+          <NODE2_NAME>SBDForniol</NODE2_NAME>
+          <KMS>0.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105607,41.555693 2.107047,41.556183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41709">
+          <NODE1_ID>45044</NODE1_ID>
+          <NODE1_NAME>SBDSarasate</NODE1_NAME>
+          <NODE2_ID>28273</NODE2_ID>
+          <NODE2_NAME>SBDDuraniOrts2</NODE2_NAME>
+          <KMS>2.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.080344,41.550718 2.107079,41.548399</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44710">
+          <NODE1_ID>10825</NODE1_ID>
+          <NODE1_NAME>SBDferg</NODE1_NAME>
+          <NODE2_ID>30674</NODE2_ID>
+          <NODE2_NAME>SBDCasanovasiBosch</NODE2_NAME>
+          <KMS>0.283</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.114793,41.549731 2.114697,41.547182</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44898">
+          <NODE1_ID>10825</NODE1_ID>
+          <NODE1_NAME>SBDferg</NODE1_NAME>
+          <NODE2_ID>29788</NODE2_ID>
+          <NODE2_NAME>SBDQuevedo63</NODE2_NAME>
+          <KMS>0.177</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.114793,41.549731 2.115772,41.551149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44899">
+          <NODE1_ID>30911</NODE1_ID>
+          <NODE1_NAME>SBDCovadonga181</NODE1_NAME>
+          <NODE2_ID>10825</NODE2_ID>
+          <NODE2_NAME>SBDferg</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.115753,41.550115 2.114793,41.549731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45232">
+          <NODE1_ID>45644</NODE1_ID>
+          <NODE1_NAME>SBDCanCamps17</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>13.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.129288,41.534214 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47747">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>49518</NODE2_ID>
+          <NODE2_NAME>MtdprXiprer48</NODE2_NAME>
+          <KMS>9.095</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.038828,41.607585</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49985">
+          <NODE1_ID>51242</NODE1_ID>
+          <NODE1_NAME>SBDJuanR</NODE1_NAME>
+          <NODE2_ID>10825</NODE2_ID>
+          <NODE2_NAME>SBDferg</NODE2_NAME>
+          <KMS>3.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.087627,41.573664 2.114793,41.549731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52423">
+          <NODE1_ID>33567</NODE1_ID>
+          <NODE1_NAME>SBDalfonsSala147</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.116300,41.546796 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53314">
+          <NODE1_ID>53720</NODE1_ID>
+          <NODE1_NAME>SBDADMarina</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>1.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.098850,41.537698 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55476">
+          <NODE1_ID>55140</NODE1_ID>
+          <NODE1_NAME>SBDJspGrdt8</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>0.747</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.107355,41.526095 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56306">
+          <NODE1_ID>55746</NODE1_ID>
+          <NODE1_NAME>SBDDuraniSors2</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.61</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.111792,41.540557 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56787">
+          <NODE1_ID>55980</NODE1_ID>
+          <NODE1_NAME>SBDVilaFuster5-7</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.482</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.115702,41.548163 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57240">
+          <NODE1_ID>55500</NODE1_ID>
+          <NODE1_NAME>SBDxI-illa</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.111623,41.548390 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57409">
+          <NODE1_ID>41734</NODE1_ID>
+          <NODE1_NAME>SBDFranB</NODE1_NAME>
+          <NODE2_ID>21731</NODE2_ID>
+          <NODE2_NAME>SBDForniol</NODE2_NAME>
+          <KMS>0.956</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096640,41.559782 2.107047,41.556183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59197">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>7362</NODE2_ID>
+          <NODE2_NAME>SBDFira</NODE2_NAME>
+          <KMS>0.545</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.117199,41.546447</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59198">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>7362</NODE2_ID>
+          <NODE2_NAME>SBDFira</NODE2_NAME>
+          <KMS>0.545</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.117199,41.546447</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61670">
+          <NODE1_ID>58451</NODE1_ID>
+          <NODE1_NAME>SBDSPapasseit91</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>0.448</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.118955,41.525141 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61971">
+          <NODE1_ID>3004</NODE1_ID>
+          <NODE1_NAME>SBDFerran</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.115241,41.540902 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64610">
+          <NODE1_ID>61734</NODE1_ID>
+          <NODE1_NAME>SBDgoya77</NODE1_NAME>
+          <NODE2_ID>21491</NODE2_ID>
+          <NODE2_NAME>SBDpsgEspronceda53</NODE2_NAME>
+          <KMS>0.605</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.109550,41.525588 2.115764,41.528386</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65499">
+          <NODE1_ID>62509</NODE1_ID>
+          <NODE1_NAME>SBDCovadonga183</NODE1_NAME>
+          <NODE2_ID>10825</NODE2_ID>
+          <NODE2_NAME>SBDferg</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.115749,41.550078 2.114793,41.549731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65811">
+          <NODE1_ID>18461</NODE1_ID>
+          <NODE1_NAME>SBDSantpau65</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.297</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.108181,41.544093 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66113">
+          <NODE1_ID>61819</NODE1_ID>
+          <NODE1_NAME>SBDIndustria45K</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.113449,41.547760 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66168">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>61717</NODE2_ID>
+          <NODE2_NAME>TRSA-CCV</NODE2_NAME>
+          <KMS>4.462</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.058622,41.555155</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69173">
+          <NODE1_ID>64551</NODE1_ID>
+          <NODE1_NAME>SBD-SLVTPPST77</NODE1_NAME>
+          <NODE2_ID>3004</NODE2_ID>
+          <NODE2_NAME>SBDFerran</NODE2_NAME>
+          <KMS>1.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.118705,41.525581 2.115241,41.540902</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70090">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>64420</NODE2_ID>
+          <NODE2_NAME>SBDFerranOfi</NODE2_NAME>
+          <KMS>0.537</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.104296,41.545438</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73455">
+          <NODE1_ID>68582</NODE1_ID>
+          <NODE1_NAME>sbdllcvdng210</NODE1_NAME>
+          <NODE2_ID>10825</NODE2_ID>
+          <NODE2_NAME>SBDferg</NODE2_NAME>
+          <KMS>0.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.116225,41.549115 2.114793,41.549731</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75071">
+          <NODE1_ID>69145</NODE1_ID>
+          <NODE1_NAME>CdmFiguera64</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>13.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.172706,41.659376 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78683">
+          <NODE1_ID>73161</NODE1_ID>
+          <NODE1_NAME>SBDDeulofeu</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>2.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.098260,41.562067 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122303">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>74787</NODE2_ID>
+          <NODE2_NAME>SBD-marcoymartina</NODE2_NAME>
+          <KMS>0.955</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.109029,41.537484</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123169">
+          <NODE1_ID>7362</NODE1_ID>
+          <NODE1_NAME>SBDFira</NODE1_NAME>
+          <NODE2_ID>17544</NODE2_ID>
+          <NODE2_NAME>SBDCampanarSS</NODE2_NAME>
+          <KMS>0.405</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.117199,41.546447 2.116515,41.550061</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

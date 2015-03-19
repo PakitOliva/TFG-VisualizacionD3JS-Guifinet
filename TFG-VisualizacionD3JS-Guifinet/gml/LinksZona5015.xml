@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.199253</gml:X><gml:Y>41.611922</gml:Y></gml:coord>
+<gml:coord><gml:X>2.346946</gml:X><gml:Y>41.819090</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="5649">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>7602</NODE2_ID>
+          <NODE2_NAME>CNTTVCentelles</NODE2_NAME>
+          <KMS>22.281</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.199253,41.819090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5651">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.511</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6058">
+          <NODE1_ID>8432</NODE1_ID>
+          <NODE1_NAME>MARElPadro</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323540,41.645845 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6160">
+          <NODE1_ID>8778</NODE1_ID>
+          <NODE1_NAME>MARPepTarafa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310122,41.642546 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6365">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>5025</NODE2_ID>
+          <NODE2_NAME>MARManel</NODE2_NAME>
+          <KMS>1.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.324475,41.647349</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6505">
+          <NODE1_ID>9115</NODE1_ID>
+          <NODE1_NAME>MARLesMoreres</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.834</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320963,41.656771 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6536">
+          <NODE1_ID>9114</NODE1_ID>
+          <NODE1_NAME>MARCalNoiet</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.793</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320825,41.656255 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6538">
+          <NODE1_ID>9118</NODE1_ID>
+          <NODE1_NAME>MARCanCisquet</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320448,41.655924 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6539">
+          <NODE1_ID>9247</NODE1_ID>
+          <NODE1_NAME>MARCanPericas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315375,41.650913 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6541">
+          <NODE1_ID>9113</NODE1_ID>
+          <NODE1_NAME>MARCanViure</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323123,41.658259 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6542">
+          <NODE1_ID>9249</NODE1_ID>
+          <NODE1_NAME>MARCanValls</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.328014,41.655310 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6544">
+          <NODE1_ID>9251</NODE1_ID>
+          <NODE1_NAME>MARCanGirbauJosepMa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312702,41.643008 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6547">
+          <NODE1_ID>8780</NODE1_ID>
+          <NODE1_NAME>MARTorrents</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.325204,41.654829 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6568">
+          <NODE1_ID>9275</NODE1_ID>
+          <NODE1_NAME>MARCanPareraRueda</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323279,41.641832 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7161">
+          <NODE1_ID>10182</NODE1_ID>
+          <NODE1_NAME>MARCanPaituvi</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.583</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.331282,41.655790 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8157">
+          <NODE1_ID>11506</NODE1_ID>
+          <NODE1_NAME>MARCanPareraFarnes</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323203,41.641715 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8586">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9245</NODE2_ID>
+          <NODE2_NAME>MARCaLaColoma</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.325092,41.641495</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8922">
+          <NODE1_ID>12428</NODE1_ID>
+          <NODE1_NAME>MARCalNoietEstape</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320979,41.656261 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9877">
+          <NODE1_ID>5024</NODE1_ID>
+          <NODE1_NAME>MARBarrabas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.885</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334751,41.648230 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12513">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9277</NODE2_ID>
+          <NODE2_NAME>LFDVCarlesMartinez</NODE2_NAME>
+          <KMS>2.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.317390,41.660698</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14687">
+          <NODE1_ID>8775</NODE1_ID>
+          <NODE1_NAME>MARTort</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.325523,41.641093 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15460">
+          <NODE1_ID>5018</NODE1_ID>
+          <NODE1_NAME>MARCanSabater</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.564</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.337222,41.650833 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15462">
+          <NODE1_ID>5018</NODE1_ID>
+          <NODE1_NAME>MARCanSabater</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.564</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.337222,41.650833 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17065">
+          <NODE1_ID>21670</NODE1_ID>
+          <NODE1_NAME>MARCanPareraGil</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323096,41.642315 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17178">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9712</NODE2_ID>
+          <NODE2_NAME>CAMCanCot</NODE2_NAME>
+          <KMS>2.368</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.322071,41.662628</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21489">
+          <NODE1_ID>26691</NODE1_ID>
+          <NODE1_NAME>MARCasal</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.322159,41.645480 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22393">
+          <NODE1_ID>27634</NODE1_ID>
+          <NODE1_NAME>MARCalGeneral</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323565,41.649044 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28642">
+          <NODE1_ID>33924</NODE1_ID>
+          <NODE1_NAME>MARAtaram</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323270,41.642093 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29792">
+          <NODE1_ID>9116</NODE1_ID>
+          <NODE1_NAME>MARCalEnrelat</NODE1_NAME>
+          <NODE2_ID>5018</NODE2_ID>
+          <NODE2_NAME>MARCanSabater</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334530,41.650316 2.337222,41.650833</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30995">
+          <NODE1_ID>27099</NODE1_ID>
+          <NODE1_NAME>RDV</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.58</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.321130,41.627208 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34001">
+          <NODE1_ID>23327</NODE1_ID>
+          <NODE1_NAME>MARCanCassa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.329351,41.653888 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39455">
+          <NODE1_ID>3817</NODE1_ID>
+          <NODE1_NAME>MARRoca</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.317578,41.650850 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40959">
+          <NODE1_ID>43476</NODE1_ID>
+          <NODE1_NAME>MARCanPoneta</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316797,41.649914 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41059">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>44477</NODE2_ID>
+          <NODE2_NAME>CRDACanPoncia</NODE2_NAME>
+          <KMS>2.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.333246,41.664601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42368">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>45597</NODE2_ID>
+          <NODE2_NAME>CRDACanPrat</NODE2_NAME>
+          <KMS>4.827</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.334048,41.684050</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44878">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>42805</NODE2_ID>
+          <NODE2_NAME>LFDVAvMontseny25</NODE2_NAME>
+          <KMS>0.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.312118,41.638387</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46058">
+          <NODE1_ID>47159</NODE1_ID>
+          <NODE1_NAME>TerrAltaQuim</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273469,41.611922 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46895">
+          <NODE1_ID>38114</NODE1_ID>
+          <NODE1_NAME>CiSCasaBot</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.811</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334396,41.693001 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50021">
+          <NODE1_ID>51273</NODE1_ID>
+          <NODE1_NAME>CNVCasellas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>5.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.346946,41.693906 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51853">
+          <NODE1_ID>15669</NODE1_ID>
+          <NODE1_NAME>MARRamis</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.652</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320220,41.650480 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58085">
+          <NODE1_ID>57095</NODE1_ID>
+          <NODE1_NAME>MARCanXico</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316490,41.649775 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62519">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>8776</NODE2_ID>
+          <NODE2_NAME>MARFontDeBaix</NODE2_NAME>
+          <KMS>0.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.328559,41.639183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62521">
+          <NODE1_ID>28050</NODE1_ID>
+          <NODE1_NAME>MarCalErmita</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.324703,41.636161 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66486">
+          <NODE1_ID>5023</NODE1_ID>
+          <NODE1_NAME>MARAnton</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.786</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.332778,41.640833 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67486">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>9276</NODE2_ID>
+          <NODE2_NAME>MARCanPareraLatorre</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.323159,41.642227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68305">
+          <NODE1_ID>64607</NODE1_ID>
+          <NODE1_NAME>MarCanAdan</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.328651,41.636441 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68306">
+          <NODE1_ID>64607</NODE1_ID>
+          <NODE1_NAME>MarCanAdan</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.328651,41.636441 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69013">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.558</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69160">
+          <NODE1_ID>65191</NODE1_ID>
+          <NODE1_NAME>CNVjoaquimblume12</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270143,41.618896 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70761">
+          <NODE1_ID>11505</NODE1_ID>
+          <NODE1_NAME>MARRectoria</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323488,41.646955 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72449">
+          <NODE1_ID>8779</NODE1_ID>
+          <NODE1_NAME>MARTarafa</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>1.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.316294,41.643364 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74280">
+          <NODE1_ID>5016</NODE1_ID>
+          <NODE1_NAME>MARCanPepe</NODE1_NAME>
+          <NODE2_ID>9092</NODE2_ID>
+          <NODE2_NAME>MARCalEspernat</NODE2_NAME>
+          <KMS>1.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312820,41.652398 2.322678,41.647203</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74281">
+          <NODE1_ID>9248</NODE1_ID>
+          <NODE1_NAME>MARCanGinesta</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>0.963</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.320295,41.645784 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74285">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>55946</NODE2_ID>
+          <NODE2_NAME>MARElMoli</NODE2_NAME>
+          <KMS>1.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.318937,41.651830</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78715">
+          <NODE1_ID>73400</NODE1_ID>
+          <NODE1_NAME>CRDACanCanal</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>4.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330712,41.684331 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80885">
+          <NODE1_ID>75094</NODE1_ID>
+          <NODE1_NAME>RDVCasalta</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>2.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323050,41.619593 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80886">
+          <NODE1_ID>75094</NODE1_ID>
+          <NODE1_NAME>RDVCasalta</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>2.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323050,41.619593 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80887">
+          <NODE1_ID>42543</NODE1_ID>
+          <NODE1_NAME>MARRueda</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323241,41.641704 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80888">
+          <NODE1_ID>8777</NODE1_ID>
+          <NODE1_NAME>MARMusic</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>0.565</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330056,41.640473 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81002">
+          <NODE1_ID>74725</NODE1_ID>
+          <NODE1_NAME>CRDACanPuigoriolGran</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>3.781</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.343918,41.677205 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121711">
+          <NODE1_ID>5017</NODE1_ID>
+          <NODE1_NAME>MARCanParera</NODE1_NAME>
+          <NODE2_ID>75930</NODE2_ID>
+          <NODE2_NAME>LFDVBielsa</NODE2_NAME>
+          <KMS>2.097</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.323370,41.641334 2.302191,41.631139</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122726">
+          <NODE1_ID>76630</NODE1_ID>
+          <NODE1_NAME>LFDVSamos</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>1.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309055,41.637594 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

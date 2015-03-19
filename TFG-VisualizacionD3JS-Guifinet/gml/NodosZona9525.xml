@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.626956</gml:X><gml:Y>42.155668</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.715823</gml:X><gml:Y>42.197192</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="9526">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.714338,42.194668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9526</NODE_ID>
+      <NODE_NAME>SFERRIOLTelecentre</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Dropped</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9527">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.626956,42.181453</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9527</NODE_ID>
+      <NODE_NAME>SFERRIOLCJou</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9528">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.654221,42.155933</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9528</NODE_ID>
+      <NODE_NAME>SFERRIOLTuroCollell</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9529">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.695277,42.175124</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9529</NODE_ID>
+      <NODE_NAME>SFERRIOLPiSJosep</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9530">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.684176,42.190295</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9530</NODE_ID>
+      <NODE_NAME>SFERRIOLSagratCor</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="9531">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.699179,42.187090</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9531</NODE_ID>
+      <NODE_NAME>SFERRIOLCOlivet</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="12201">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.711899,42.189951</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>12201</NODE_ID>
+      <NODE_NAME>SFERRmasfont</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="12286">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.714893,42.189281</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>12286</NODE_ID>
+      <NODE_NAME>SFJosepFortCli</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="14633">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.642384,42.157184</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>14633</NODE_ID>
+      <NODE_NAME>SFERREltorn</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="15588">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.708865,42.197192</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15588</NODE_ID>
+      <NODE_NAME>SFERRJaumeferres</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25469">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.708012,42.193274</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25469</NODE_ID>
+      <NODE_NAME>SFerriolJGalzeran</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28158">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.662865,42.195057</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28158</NODE_ID>
+      <NODE_NAME>CanBadia</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33183">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.715823,42.188881</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33183</NODE_ID>
+      <NODE_NAME>SFrrlGss</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34584">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.715415,42.189137</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34584</NODE_ID>
+      <NODE_NAME>SFerriolMFort</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33817">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.638877,42.155668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33817</NODE_ID>
+      <NODE_NAME>SFer</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36712">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.708441,42.185369</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36712</NODE_ID>
+      <NODE_NAME>SFERRPBird</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

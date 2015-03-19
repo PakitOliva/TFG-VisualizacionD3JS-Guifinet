@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.668060</gml:X><gml:Y>43.441831</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.610666</gml:X><gml:Y>43.540025</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="31604">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.611503,43.525985</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31604</NODE_ID>
+      <NODE_NAME>LbrlCntrDrt</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31664">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.610666,43.515592</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31664</NODE_ID>
+      <NODE_NAME>Cefontes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31665">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.668060,43.530390</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31665</NODE_ID>
+      <NODE_NAME>Ladecadence.net</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31728">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.644966,43.540025</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31728</NODE_ID>
+      <NODE_NAME>hackitectura</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31731">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.616194,43.524391</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31731</NODE_ID>
+      <NODE_NAME>XIXlaboralTorre</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36601">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.642462,43.531952</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36601</NODE_ID>
+      <NODE_NAME>GIJmargaritasalas2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70104">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.660074,43.441831</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70104</NODE_ID>
+      <NODE_NAME>muno</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

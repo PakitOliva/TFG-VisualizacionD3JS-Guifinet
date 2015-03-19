@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.984097</gml:X><gml:Y>42.382343</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.969211</gml:X><gml:Y>42.393261</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="20550">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.555</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20552">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>25423</NODE2_ID>
+          <NODE2_NAME>SdR-Plaza20-2G</NODE2_NAME>
+          <KMS>0.545</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980382,42.389138</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20553">
+          <NODE1_ID>25623</NODE1_ID>
+          <NODE1_NAME>SdR-EstacionA</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>1.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.969211,42.388819 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20554">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>25626</NODE2_ID>
+          <NODE2_NAME>SdR-Torre25</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.983421,42.392597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20736">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>25881</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid12</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.981045,42.390141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20737">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>25884</NODE2_ID>
+          <NODE2_NAME>SdR-Arriba25</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.979642,42.388720</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20744">
+          <NODE1_ID>25895</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba5</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979679,42.389182 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20756">
+          <NODE1_ID>25911</NODE1_ID>
+          <NODE1_NAME>SdR-Navarra5</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979130,42.389524 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20776">
+          <NODE1_ID>25923</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba87</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.83</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979964,42.386381 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20853">
+          <NODE1_ID>25910</NODE1_ID>
+          <NODE1_NAME>SdR-Urunuela3</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979532,42.391198 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20904">
+          <NODE1_ID>26052</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba1</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979588,42.389405 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21013">
+          <NODE1_ID>26170</NODE1_ID>
+          <NODE1_NAME>SdR-Torre29</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.983622,42.392302 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21015">
+          <NODE1_ID>26172</NODE1_ID>
+          <NODE1_NAME>SdR-EstacionB</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>1.323</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.969924,42.387599 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21025">
+          <NODE1_ID>26189</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba116</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.925</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980540,42.385305 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21026">
+          <NODE1_ID>26188</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba132</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.891</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981029,42.385509 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21028">
+          <NODE1_ID>26194</NODE1_ID>
+          <NODE1_NAME>SdR-JuanGomez12</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.517</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981152,42.389089 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21030">
+          <NODE1_ID>26195</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo98</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979116,42.392939 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21121">
+          <NODE1_ID>26303</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba5A</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979695,42.389071 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21392">
+          <NODE1_ID>26575</NODE1_ID>
+          <NODE1_NAME>SdR-SanMartin11</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981353,42.392170 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21435">
+          <NODE1_ID>26598</NODE1_ID>
+          <NODE1_NAME>SdR-Oja46A-2B</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.977732,42.388758 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21514">
+          <NODE1_ID>25861</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba18H</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980033,42.388639 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21523">
+          <NODE1_ID>26169</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba47</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.706</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979398,42.387886 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21565">
+          <NODE1_ID>26186</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba23</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979419,42.388469 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21709">
+          <NODE1_ID>26347</NODE1_ID>
+          <NODE1_NAME>SdR-Madrid8</NODE1_NAME>
+          <NODE2_ID>26802</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid2</NODE2_NAME>
+          <KMS>0.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981077,42.390330 -2.981259,42.390493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21710">
+          <NODE1_ID>26802</NODE1_ID>
+          <NODE1_NAME>SdR-Madrid2</NODE1_NAME>
+          <NODE2_ID>26879</NODE2_ID>
+          <NODE2_NAME>SdR-Plaza10A</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981259,42.390493 -2.980017,42.390017</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22022">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>27223</NODE2_ID>
+          <NODE2_NAME>SdR-Torre9</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.982579,42.392359</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22085">
+          <NODE1_ID>27298</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba19</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979194,42.388560 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22415">
+          <NODE1_ID>27651</NODE1_ID>
+          <NODE1_NAME>SdR-Oja46B-1A</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.977644,42.388744 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22625">
+          <NODE1_ID>26190</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba44</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.682</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979950,42.387887 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22808">
+          <NODE1_ID>27938</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba142</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>1.003</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980892,42.384490 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22943">
+          <NODE1_ID>28187</NODE1_ID>
+          <NODE1_NAME>SdR-SanMartin27</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981565,42.392278 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22944">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>28188</NODE2_ID>
+          <NODE2_NAME>SdR-SanMartin8A</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.981648,42.392491</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24114">
+          <NODE1_ID>29352</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba6</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979851,42.389130 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24119">
+          <NODE1_ID>29357</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba84</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.824</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980200,42.386368 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24151">
+          <NODE1_ID>29391</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba10A</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979913,42.388998 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25117">
+          <NODE1_ID>30371</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo23</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979631,42.390559 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25278">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>25877</NODE2_ID>
+          <NODE2_NAME>SdR-Arriba20</NODE2_NAME>
+          <KMS>0.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.979832,42.388570</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25648">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>30015</NODE2_ID>
+          <NODE2_NAME>SdR-SanMartin10A</NODE2_NAME>
+          <KMS>0.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980420,42.392755</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25649">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>26173</NODE2_ID>
+          <NODE2_NAME>SdR-Abajo62</NODE2_NAME>
+          <KMS>0.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.978427,42.390730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26395">
+          <NODE1_ID>29948</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba56</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.721</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979948,42.387489 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26396">
+          <NODE1_ID>31073</NODE1_ID>
+          <NODE1_NAME>SdR-Plaza5B</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979814,42.390062 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26397">
+          <NODE1_ID>26174</NODE1_ID>
+          <NODE1_NAME>SdR-SanAndres3</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.394</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979781,42.391665 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26398">
+          <NODE1_ID>31470</NODE1_ID>
+          <NODE1_NAME>SdR-SanAndres1</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.424</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979341,42.391737 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26399">
+          <NODE1_ID>30400</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo42</NODE1_NAME>
+          <NODE2_ID>26802</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid2</NODE2_NAME>
+          <KMS>0.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979248,42.390519 -2.981259,42.390493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26424">
+          <NODE1_ID>31792</NODE1_ID>
+          <NODE1_NAME>SdR-Plaza8</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979779,42.390375 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26455">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>28388</NODE2_ID>
+          <NODE2_NAME>SdR-Urunuela18A</NODE2_NAME>
+          <KMS>0.379</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980334,42.391237</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26632">
+          <NODE1_ID>26802</NODE1_ID>
+          <NODE1_NAME>SdR-Madrid2</NODE1_NAME>
+          <NODE2_ID>31816</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid14</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981259,42.390493 -2.981023,42.390256</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26646">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>30946</NODE2_ID>
+          <NODE2_NAME>SdR-Charcon</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.977520,42.387942</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26670">
+          <NODE1_ID>26802</NODE1_ID>
+          <NODE1_NAME>SdR-Madrid2</NODE1_NAME>
+          <NODE2_ID>31984</NODE2_ID>
+          <NODE2_NAME>SdR-Abajo49A</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981259,42.390493 -2.979505,42.390906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27007">
+          <NODE1_ID>31903</NODE1_ID>
+          <NODE1_NAME>SdR-Navarra50</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.653</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.978320,42.389167 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27593">
+          <NODE1_ID>32945</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba11</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979618,42.388918 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27943">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>29972</NODE2_ID>
+          <NODE2_NAME>SdR-JuanGomez40</NODE2_NAME>
+          <KMS>0.687</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980286,42.387698</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28549">
+          <NODE1_ID>33186</NODE1_ID>
+          <NODE1_NAME>SdR-Plaza10</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979878,42.390072 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29618">
+          <NODE1_ID>34916</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo27</NODE1_NAME>
+          <NODE2_ID>26802</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid2</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979492,42.390583 -2.981259,42.390493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29925">
+          <NODE1_ID>32983</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba99B</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.927</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980294,42.385347 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30058">
+          <NODE1_ID>32324</NODE1_ID>
+          <NODE1_NAME>SdR-Torre33</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.982638,42.393261 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31221">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>31950</NODE2_ID>
+          <NODE2_NAME>SdR-Arriba100A</NODE2_NAME>
+          <KMS>0.852</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980696,42.385957</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32080">
+          <NODE1_ID>37127</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo82-92</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979580,42.392871 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35642">
+          <NODE1_ID>40158</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba144</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.886</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981367,42.385487 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36080">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>26802</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid2</NODE2_NAME>
+          <KMS>0.174</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.981259,42.390493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36241">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>40093</NODE2_ID>
+          <NODE2_NAME>SdR-Abajo32</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.979140,42.390167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36790">
+          <NODE1_ID>40660</NODE1_ID>
+          <NODE1_NAME>SdR-Arnaez27</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.266</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981989,42.391391 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36841">
+          <NODE1_ID>31662</NODE1_ID>
+          <NODE1_NAME>SdR-Plaza20</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.534</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980240,42.389331 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37958">
+          <NODE1_ID>42054</NODE1_ID>
+          <NODE1_NAME>SdR-Navarra11</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.978649,42.389435 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38944">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>26802</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid2</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.981259,42.390493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43290">
+          <NODE1_ID>46341</NODE1_ID>
+          <NODE1_NAME>SdR-Plaza3</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979722,42.389722 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44887">
+          <NODE1_ID>23742</NODE1_ID>
+          <NODE1_NAME>SdR-Ayto</NODE1_NAME>
+          <NODE2_ID>47430</NODE2_ID>
+          <NODE2_NAME>SdR-Plaza21</NODE2_NAME>
+          <KMS>0.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979918,42.389283 -2.980029,42.389409</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46868">
+          <NODE1_ID>48856</NODE1_ID>
+          <NODE1_NAME>SdR-LosAcebos</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>1.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.973046,42.382343 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47007">
+          <NODE1_ID>49054</NODE1_ID>
+          <NODE1_NAME>SdR-Oja46A-1B</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.977760,42.388765 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47226">
+          <NODE1_ID>49051</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba73</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979761,42.387450 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49432">
+          <NODE1_ID>50796</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba148</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.906</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981171,42.385342 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49651">
+          <NODE1_ID>50798</NODE1_ID>
+          <NODE1_NAME>SdR-Arnaez18</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981896,42.391550 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49826">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>49053</NODE2_ID>
+          <NODE2_NAME>SdR-Urunuela17B-1</NODE2_NAME>
+          <KMS>0.355</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980901,42.391055</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49961">
+          <NODE1_ID>51219</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba49A</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.734</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979375,42.387597 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50073">
+          <NODE1_ID>49052</NODE1_ID>
+          <NODE1_NAME>SdR-Torre24</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.983396,42.392630 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54223">
+          <NODE1_ID>52122</NODE1_ID>
+          <NODE1_NAME>SdR-JuanGomez1</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.535</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980077,42.389414 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57469">
+          <NODE1_ID>56664</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba17</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979414,42.388645 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58470">
+          <NODE1_ID>57366</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo2A</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979465,42.389665 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62020">
+          <NODE1_ID>23824</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba58</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979980,42.387425 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62272">
+          <NODE1_ID>41031</NODE1_ID>
+          <NODE1_NAME>SdR-Arriba97A</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.895</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980235,42.385664 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64053">
+          <NODE1_ID>61249</NODE1_ID>
+          <NODE1_NAME>SdR-Plaza3B</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979773,42.389735 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64182">
+          <NODE1_ID>26802</NODE1_ID>
+          <NODE1_NAME>SdR-Madrid2</NODE1_NAME>
+          <NODE2_ID>61370</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid10</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981259,42.390493 -2.981168,42.390252</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67820">
+          <NODE1_ID>64254</NODE1_ID>
+          <NODE1_NAME>SdR-SanMartin12</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.981439,42.392130 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68018">
+          <NODE1_ID>30399</NODE1_ID>
+          <NODE1_NAME>SdR-Madrid16</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980734,42.390395 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68754">
+          <NODE1_ID>64918</NODE1_ID>
+          <NODE1_NAME>SdR-JuanGomez38</NODE1_NAME>
+          <NODE2_ID>26802</NODE2_ID>
+          <NODE2_NAME>SdR-Madrid2</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.980465,42.387687 -2.981259,42.390493</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76697">
+          <NODE1_ID>18964</NODE1_ID>
+          <NODE1_NAME>SdR-Ermita</NODE1_NAME>
+          <NODE2_ID>71687</NODE2_ID>
+          <NODE2_NAME>SdR-Arriba138</NODE2_NAME>
+          <KMS>0.866</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.984097,42.393200 -2.980573,42.385857</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77780">
+          <NODE1_ID>72685</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo57</NODE1_NAME>
+          <NODE2_ID>23742</NODE2_ID>
+          <NODE2_NAME>SdR-Ayto</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979386,42.391115 -2.979918,42.389283</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121275">
+          <NODE1_ID>75554</NODE1_ID>
+          <NODE1_NAME>SdR-Abajo36</NODE1_NAME>
+          <NODE2_ID>18964</NODE2_ID>
+          <NODE2_NAME>SdR-Ermita</NODE2_NAME>
+          <KMS>0.509</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.979299,42.390304 -2.984097,42.393200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

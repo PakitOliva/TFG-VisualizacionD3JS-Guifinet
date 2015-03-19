@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.954459</gml:X><gml:Y>42.185222</gml:Y></gml:coord>
+<gml:coord><gml:X>3.243640</gml:X><gml:Y>42.280726</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="53753">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>40402</NODE2_ID>
+          <NODE2_NAME>Fortia-SDali</NODE2_NAME>
+          <KMS>17.11</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.042764,42.242504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60585">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>12177</NODE2_ID>
+          <NODE2_NAME>GarrigasDip</NODE2_NAME>
+          <KMS>9.108</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 2.954459,42.191088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63304">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>17.272</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64489">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>60869</NODE2_ID>
+          <NODE2_NAME>Fortia-AMachadoJC</NODE2_NAME>
+          <KMS>0.72</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.033019,42.244807</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65201">
+          <NODE1_ID>62274</NODE1_ID>
+          <NODE1_NAME>Fortia-Paradells</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.039666,42.243465 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68804">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>64850</NODE2_ID>
+          <NODE2_NAME>Fortia-Canigo</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.037695,42.243124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68901">
+          <NODE1_ID>50745</NODE1_ID>
+          <NODE1_NAME>Emprbrv-PuigmalF1</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>5.449</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.103255,42.258158 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70280">
+          <NODE1_ID>66055</NODE1_ID>
+          <NODE1_NAME>Fortia-Angel</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.038815,42.242935 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70715">
+          <NODE1_ID>66355</NODE1_ID>
+          <NODE1_NAME>FortiaFievez</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.033320,42.242358 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70853">
+          <NODE1_ID>40402</NODE1_ID>
+          <NODE1_NAME>Fortia-SDali</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.042764,42.242504 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71008">
+          <NODE1_ID>66550</NODE1_ID>
+          <NODE1_NAME>Fortia-Srrzlgr</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.043544,42.244266 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72288">
+          <NODE1_ID>67630</NODE1_ID>
+          <NODE1_NAME>ManyoMagnum</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.042009,42.242228 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72642">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>67929</NODE2_ID>
+          <NODE2_NAME>FortiaMajorXavi</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.040233,42.241901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72737">
+          <NODE1_ID>67469</NODE1_ID>
+          <NODE1_NAME>VsacraOfiweb</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>3.158</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.018912,42.265297 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73954">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>69222</NODE2_ID>
+          <NODE2_NAME>Fortia-Major</NODE2_NAME>
+          <KMS>0.037</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.040466,42.242121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74415">
+          <NODE1_ID>64850</NODE1_ID>
+          <NODE1_NAME>Fortia-Canigo</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037695,42.243124 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74421">
+          <NODE1_ID>69530</NODE1_ID>
+          <NODE1_NAME>Fortia-Vilasacra</NODE1_NAME>
+          <NODE2_ID>64850</NODE2_ID>
+          <NODE2_NAME>Fortia-Canigo</NODE2_NAME>
+          <KMS>0.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.037588,42.243208 3.037695,42.243124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74892">
+          <NODE1_ID>69856</NODE1_ID>
+          <NODE1_NAME>Fortia-Moises</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.042062,42.242812 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75917">
+          <NODE1_ID>29500</NODE1_ID>
+          <NODE1_NAME>SPPmmsfrrr</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>7.583</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.091819,42.185222 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76643">
+          <NODE1_ID>71561</NODE1_ID>
+          <NODE1_NAME>FortiaAMachado1</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.861</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.030672,42.243547 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76756">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>71562</NODE2_ID>
+          <NODE2_NAME>FortiaMajor2</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.040266,42.241852</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77459">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>72381</NODE2_ID>
+          <NODE2_NAME>PrimerDeMaig59</NODE2_NAME>
+          <KMS>0.437</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.036615,42.244347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77540">
+          <NODE1_ID>72464</NODE1_ID>
+          <NODE1_NAME>FortiaPlCatalunya3</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.039978,42.242460 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77657">
+          <NODE1_ID>72569</NODE1_ID>
+          <NODE1_NAME>canpipa</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040488,42.242217 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77967">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>72774</NODE2_ID>
+          <NODE2_NAME>CastelloNou-SM2</NODE2_NAME>
+          <KMS>2.603</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.072149,42.245208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78640">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>71414</NODE2_ID>
+          <NODE2_NAME>EInf</NODE2_NAME>
+          <KMS>6.379</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.117639,42.248850</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123349">
+          <NODE1_ID>77100</NODE1_ID>
+          <NODE1_NAME>Fortia-LlarJubilats</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040654,42.242133 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123381">
+          <NODE1_ID>76309</NODE1_ID>
+          <NODE1_NAME>carratera-c250</NODE1_NAME>
+          <NODE2_ID>58802</NODE2_ID>
+          <NODE2_NAME>Fortia-Campanar</NODE2_NAME>
+          <KMS>2.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.038364,42.260863 3.040897,42.242031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

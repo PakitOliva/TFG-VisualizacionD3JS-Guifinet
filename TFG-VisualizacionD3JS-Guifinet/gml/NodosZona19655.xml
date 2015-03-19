@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.072563</gml:X><gml:Y>42.166073</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.076979</gml:X><gml:Y>42.171518</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="46761">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.076129,42.168887</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46761</NODE_ID>
+      <NODE_NAME>ArmntArb</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52757">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.073487,42.166073</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52757</NODE_ID>
+      <NODE_NAME>ARM-Dressera20</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69681">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.072563,42.170857</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69681</NODE_ID>
+      <NODE_NAME>LArmenteraAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72747">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.076979,42.171518</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72747</NODE_ID>
+      <NODE_NAME>Armentera_5Ghz</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73260">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.075603,42.171258</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73260</NODE_ID>
+      <NODE_NAME>cyb.armentera</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73396">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.075645,42.171269</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73396</NODE_ID>
+      <NODE_NAME>ACib</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

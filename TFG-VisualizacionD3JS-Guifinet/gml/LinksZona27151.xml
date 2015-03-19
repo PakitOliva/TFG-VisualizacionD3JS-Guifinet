@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.998831</gml:X><gml:Y>41.361822</gml:Y></gml:coord>
+<gml:coord><gml:X>2.052387</gml:X><gml:Y>41.382947</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="25930">
+          <NODE1_ID>17726</NODE1_ID>
+          <NODE1_NAME>SFLLTorredelRoser</NODE1_NAME>
+          <NODE2_ID>29860</NODE2_ID>
+          <NODE2_NAME>scdcOriolMartorell2</NODE2_NAME>
+          <KMS>2.792</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.049245,41.382947 2.020654,41.369972</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70307">
+          <NODE1_ID>64667</NODE1_ID>
+          <NODE1_NAME>SJD240-RamblaJujol54</NODE1_NAME>
+          <NODE2_ID>63895</NODE2_ID>
+          <NODE2_NAME>SJD-JoanMaragall27</NODE2_NAME>
+          <KMS>4.517</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.052387,41.366962 1.998831,41.361822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

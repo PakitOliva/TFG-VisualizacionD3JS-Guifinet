@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-8.554358</gml:X><gml:Y>42.871690</gml:Y></gml:coord>
+      <gml:coord><gml:X>-8.399909</gml:X><gml:Y>42.925165</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="41690">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.554358,42.871690</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41690</NODE_ID>
+      <NODE_NAME>SCQpolitecnico</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42586">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.399909,42.925165</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42586</NODE_ID>
+      <NODE_NAME>PINsantiso85</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

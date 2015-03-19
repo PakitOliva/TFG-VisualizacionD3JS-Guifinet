@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.554930</gml:X><gml:Y>40.683880</gml:Y></gml:coord>
+<gml:coord><gml:X>0.786721</gml:X><gml:Y>40.810640</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="54031">
+          <NODE1_ID>48099</NODE1_ID>
+          <NODE1_NAME>AmpINSTecnificacio</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>5.742</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.582840,40.708157 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54225">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>9.919</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57126">
+          <NODE1_ID>56397</NODE1_ID>
+          <NODE1_NAME>AldeaSatkitElectroni</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.611758,40.754929 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57566">
+          <NODE1_ID>56706</NODE1_ID>
+          <NODE1_NAME>AldeaMasosRMF</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>2.663</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.643140,40.747135 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57973">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>56957</NODE2_ID>
+          <NODE2_NAME>AldLluisBraille4RFM</NODE2_NAME>
+          <KMS>1.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.623011,40.747253</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60298">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>58629</NODE2_ID>
+          <NODE2_NAME>DeltebreJiMCentre</NODE2_NAME>
+          <KMS>8.111</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.699534,40.722627</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61168">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>9.919</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62856">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>59235</NODE2_ID>
+          <NODE2_NAME>DeltebreMarquesa</NODE2_NAME>
+          <KMS>14.731</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.786721,40.767469</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63139">
+          <NODE1_ID>60360</NODE1_ID>
+          <NODE1_NAME>AldeaCamiErmitaDGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.908</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.628686,40.742013 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64177">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>60745</NODE2_ID>
+          <NODE2_NAME>AldeaSantRamon17AOR</NODE2_NAME>
+          <KMS>1.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.623017,40.749139</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64228">
+          <NODE1_ID>60743</NODE1_ID>
+          <NODE1_NAME>AldeaN340NocheAOR</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>2.587</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.641570,40.763080 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66152">
+          <NODE1_ID>59941</NODE1_ID>
+          <NODE1_NAME>Ampostacatalunya119D</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>6.041</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.574309,40.708757 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66606">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>63112</NODE2_ID>
+          <NODE2_NAME>AldeaStCebria3OAM</NODE2_NAME>
+          <KMS>1.343</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.615499,40.742494</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67298">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>63877</NODE2_ID>
+          <NODE2_NAME>AldeaRavaldelLletDGM</NODE2_NAME>
+          <KMS>2.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.637700,40.742038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67542">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>64101</NODE2_ID>
+          <NODE2_NAME>DeltebreAASI</NODE2_NAME>
+          <KMS>9.094</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.712245,40.722512</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68559">
+          <NODE1_ID>64807</NODE1_ID>
+          <NODE1_NAME>AldeaAVCatalunya50DS</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.545</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.610119,40.740730 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68783">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>64940</NODE2_ID>
+          <NODE2_NAME>AmpostaTossesFavaret</NODE2_NAME>
+          <KMS>7.597</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.554930,40.702287</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69216">
+          <NODE1_ID>65238</NODE1_ID>
+          <NODE1_NAME>AldeaMajor7STBTD</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.607646,40.740272 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70203">
+          <NODE1_ID>66001</NODE1_ID>
+          <NODE1_NAME>AldeaCarrerV-21DGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.622380,40.744145 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70574">
+          <NODE1_ID>66240</NODE1_ID>
+          <NODE1_NAME>CamarlesRepetidor</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>5.134</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.669152,40.772372 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70737">
+          <NODE1_ID>66370</NODE1_ID>
+          <NODE1_NAME>AldeaJoanMiro7DS</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.610570,40.743116 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70880">
+          <NODE1_ID>66438</NODE1_ID>
+          <NODE1_NAME>AldeaLaReus25DGM-TD</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.623830,40.749050 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70939">
+          <NODE1_ID>66539</NODE1_ID>
+          <NODE1_NAME>AldeaMasRoig</NODE1_NAME>
+          <NODE2_ID>65643</NODE2_ID>
+          <NODE2_NAME>EbrecomAmposta</NODE2_NAME>
+          <KMS>8.562</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.627119,40.757906 0.557446,40.701909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71083">
+          <NODE1_ID>66636</NODE1_ID>
+          <NODE1_NAME>AldeaDiseminats-2DGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.523</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.620099,40.741807 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71374">
+          <NODE1_ID>66909</NODE1_ID>
+          <NODE1_NAME>AldeaEsglesia22RMB</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.623756,40.748687 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72008">
+          <NODE1_ID>66419</NODE1_ID>
+          <NODE1_NAME>AldeaRavaldClara9DGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.624261,40.750588 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72035">
+          <NODE1_ID>67442</NODE1_ID>
+          <NODE1_NAME>AldeaSantRamon37</NODE1_NAME>
+          <NODE2_ID>65643</NODE2_ID>
+          <NODE2_NAME>EbrecomAmposta</NODE2_NAME>
+          <KMS>7.426</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.616052,40.751750 0.557446,40.701909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72064">
+          <NODE1_ID>67466</NODE1_ID>
+          <NODE1_NAME>AldeaSantCristofol10</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613566,40.743683 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72152">
+          <NODE1_ID>67525</NODE1_ID>
+          <NODE1_NAME>DeltebreHotelRull</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>10.365</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.726608,40.718970 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72606">
+          <NODE1_ID>67751</NODE1_ID>
+          <NODE1_NAME>AldeaRiveraEbre30</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.566</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.625499,40.743967 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72682">
+          <NODE1_ID>66898</NODE1_ID>
+          <NODE1_NAME>MotorebreAldea</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.836</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.634568,40.757114 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73480">
+          <NODE1_ID>68851</NODE1_ID>
+          <NODE1_NAME>AldeaEscluLaPlanaDGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.610996,40.754691 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74045">
+          <NODE1_ID>69262</NODE1_ID>
+          <NODE1_NAME>AldeaCarrerEstacio23</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.625141,40.749739 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74186">
+          <NODE1_ID>69387</NODE1_ID>
+          <NODE1_NAME>AmpostaAntenaTecTD</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>8.338</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.579403,40.683880 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75024">
+          <NODE1_ID>68295</NODE1_ID>
+          <NODE1_NAME>AldeaRustCAUOAM</NODE1_NAME>
+          <NODE2_ID>66596</NODE2_ID>
+          <NODE2_NAME>AmpollaCentre</NODE2_NAME>
+          <KMS>2.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.686227,40.798045 0.707068,40.810640</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75301">
+          <NODE1_ID>68851</NODE1_ID>
+          <NODE1_NAME>AldeaEscluLaPlanaDGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.610996,40.754691 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75555">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>70122</NODE2_ID>
+          <NODE2_NAME>AldeaCarrerH28</NODE2_NAME>
+          <KMS>0.914</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.622711,40.750650</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75669">
+          <NODE1_ID>70486</NODE1_ID>
+          <NODE1_NAME>AldeaEstacio32DGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.625222,40.750041 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75863">
+          <NODE1_ID>70640</NODE1_ID>
+          <NODE1_NAME>AldArrabalSRamon3FMT</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>0.427</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.614595,40.750774 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76257">
+          <NODE1_ID>71027</NODE1_ID>
+          <NODE1_NAME>AldeaMigdia</NODE1_NAME>
+          <NODE2_ID>65643</NODE2_ID>
+          <NODE2_NAME>EbrecomAmposta</NODE2_NAME>
+          <KMS>8.367</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.629704,40.753440 0.557446,40.701909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76835">
+          <NODE1_ID>71778</NODE1_ID>
+          <NODE1_NAME>43896DelMig78BBTD</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.626736,40.751061 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76870">
+          <NODE1_ID>69914</NODE1_ID>
+          <NODE1_NAME>AmpostaQCADS</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>6.195</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.586948,40.702338 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77396">
+          <NODE1_ID>72340</NODE1_ID>
+          <NODE1_NAME>AldeaStCebria9IRM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.615764,40.742253 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77399">
+          <NODE1_ID>72343</NODE1_ID>
+          <NODE1_NAME>AldeaClavell32IRM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.614148,40.742402 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77404">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>70122</NODE2_ID>
+          <NODE2_NAME>AldeaCarrerH28</NODE2_NAME>
+          <KMS>0.914</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.622711,40.750650</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77932">
+          <NODE1_ID>72807</NODE1_ID>
+          <NODE1_NAME>AldeaCarrerMig76</NODE1_NAME>
+          <NODE2_ID>65643</NODE2_ID>
+          <NODE2_NAME>EbrecomAmposta</NODE2_NAME>
+          <KMS>7.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.626715,40.750820 0.557446,40.701909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78051">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>10.388</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78901">
+          <NODE1_ID>73498</NODE1_ID>
+          <NODE1_NAME>AldeaMuscNaturaleDGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.635243,40.748453 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79088">
+          <NODE1_ID>73454</NODE1_ID>
+          <NODE1_NAME>AldeaSantGenis64DS</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>1.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.625330,40.750693 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80672">
+          <NODE1_ID>65643</NODE1_ID>
+          <NODE1_NAME>EbrecomAmposta</NODE1_NAME>
+          <NODE2_ID>74953</NODE2_ID>
+          <NODE2_NAME>AldeaSantRamon121</NODE2_NAME>
+          <KMS>8.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.557446,40.701909 0.628111,40.752580</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80783">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>75026</NODE2_ID>
+          <NODE2_NAME>AldeaStAgueda28DGM</NODE2_NAME>
+          <KMS>1.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.625290,40.750465</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81234">
+          <NODE1_ID>75021</NODE1_ID>
+          <NODE1_NAME>AldeaDiseminatsDGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>2.564</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.638801,40.742147 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121707">
+          <NODE1_ID>75928</NODE1_ID>
+          <NODE1_NAME>AmpostaOquioDGM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>5.221</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.581270,40.714150 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122201">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>76259</NODE2_ID>
+          <NODE2_NAME>CamarlesAmitechDGM</NODE2_NAME>
+          <KMS>3.663</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.652673,40.767974</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122457">
+          <NODE1_ID>65643</NODE1_ID>
+          <NODE1_NAME>EbrecomAmposta</NODE1_NAME>
+          <NODE2_ID>76444</NODE2_ID>
+          <NODE2_NAME>AldeaMasiaBernis</NODE2_NAME>
+          <KMS>6.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.557446,40.701909 0.620110,40.728613</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122528">
+          <NODE1_ID>76487</NODE1_ID>
+          <NODE1_NAME>AldeaRavalLeche25OAM</NODE1_NAME>
+          <NODE2_ID>54180</NODE2_ID>
+          <NODE2_NAME>AldeaEstacioMercader</NODE2_NAME>
+          <KMS>2.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.639800,40.751250 0.613107,40.754452</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122582">
+          <NODE1_ID>65643</NODE1_ID>
+          <NODE1_NAME>EbrecomAmposta</NODE1_NAME>
+          <NODE2_ID>76536</NODE2_ID>
+          <NODE2_NAME>AldeaPoligono1</NODE2_NAME>
+          <KMS>12.395</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.557446,40.701909 0.612180,40.805471</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122590">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>76544</NODE2_ID>
+          <NODE2_NAME>AldeaCarrermig327IRM</NODE2_NAME>
+          <KMS>1.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.626860,40.750674</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123671">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>77276</NODE2_ID>
+          <NODE2_NAME>AldeaLluisCompanys16</NODE2_NAME>
+          <KMS>0.781</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.621468,40.751442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

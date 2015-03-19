@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.808200</gml:X><gml:Y>42.093220</gml:Y></gml:coord>
+<gml:coord><gml:X>1.982342</gml:X><gml:Y>42.105793</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="55402">
+          <NODE1_ID>53582</NODE1_ID>
+          <NODE1_NAME>LQRStMaria</NODE1_NAME>
+          <NODE2_ID>6461</NODE2_ID>
+          <NODE2_NAME>CAPCCaubet</NODE2_NAME>
+          <KMS>13.756</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973628,42.105793 1.808200,42.093220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55405">
+          <NODE1_ID>53558</NODE1_ID>
+          <NODE1_NAME>LQRFrey</NODE1_NAME>
+          <NODE2_ID>53582</NODE2_ID>
+          <NODE2_NAME>LQRStMaria</NODE2_NAME>
+          <KMS>0.721</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982342,42.105604 1.973628,42.105793</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

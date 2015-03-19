@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.685972</gml:X><gml:Y>42.007928</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.738790</gml:X><gml:Y>42.032645</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="28591">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728948,42.012265</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28591</NODE_ID>
+      <NODE_NAME>MTMJTorredelfoc</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="8903">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.735384,42.017720</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>8903</NODE_ID>
+      <NODE_NAME>MTMJAjuntament</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="13657">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.685972,42.024048</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>13657</NODE_ID>
+      <NODE_NAME>MTJSerracanyaST</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29317">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.735509,42.017976</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29317</NODE_ID>
+      <NODE_NAME>Meri</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29502">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.690580,42.025176</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29502</NODE_ID>
+      <NODE_NAME>MTMJSerracanya</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31563">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.701666,42.032645</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31563</NODE_ID>
+      <NODE_NAME>MTJTurrielles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36972">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.732086,42.007928</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36972</NODE_ID>
+      <NODE_NAME>MTMJCanBarri</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39952">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.738790,42.020777</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39952</NODE_ID>
+      <NODE_NAME>MTMJPonet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.437978</gml:X><gml:Y>42.085931</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.439276</gml:X><gml:Y>42.124989</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="26558">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.439276,42.085931</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26558</NODE_ID>
+      <NODE_NAME>flbasRefugi</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28923">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.437978,42.124989</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28923</NODE_ID>
+      <NODE_NAME>La_Feixa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

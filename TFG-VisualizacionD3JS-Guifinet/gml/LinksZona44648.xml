@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.792947</gml:X><gml:Y>41.274908</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.789672</gml:X><gml:Y>41.282109</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="39580">
+          <NODE1_ID>43408</NODE1_ID>
+          <NODE1_NAME>ALMOCUBAmolinoAP</NODE1_NAME>
+          <NODE2_ID>43406</NODE2_ID>
+          <NODE2_NAME>ALMOCUBAmolines2</NODE2_NAME>
+          <KMS>0.499</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.789672,41.274908 -0.792071,41.279018</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39584">
+          <NODE1_ID>43408</NODE1_ID>
+          <NODE1_NAME>ALMOCUBAmolinoAP</NODE1_NAME>
+          <NODE2_ID>43406</NODE2_ID>
+          <NODE2_NAME>ALMOCUBAmolines2</NODE2_NAME>
+          <KMS>0.499</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.789672,41.274908 -0.792071,41.279018</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52353">
+          <NODE1_ID>53027</NODE1_ID>
+          <NODE1_NAME>ALMOCUBAResakaVicio</NODE1_NAME>
+          <NODE2_ID>43406</NODE2_ID>
+          <NODE2_NAME>ALMOCUBAmolines2</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.792947,41.281955 -0.792071,41.279018</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69503">
+          <NODE1_ID>65024</NODE1_ID>
+          <NODE1_NAME>ALMOCUBAMayor61</NODE1_NAME>
+          <NODE2_ID>43406</NODE2_ID>
+          <NODE2_NAME>ALMOCUBAmolines2</NODE2_NAME>
+          <KMS>0.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.792480,41.282109 -0.792071,41.279018</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

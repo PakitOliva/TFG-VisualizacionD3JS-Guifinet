@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.489889</gml:X><gml:Y>40.861538</gml:Y></gml:coord>
+<gml:coord><gml:X>0.513210</gml:X><gml:Y>40.907954</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="70514">
+          <NODE1_ID>57329</NODE1_ID>
+          <NODE1_NAME>TivenyT301SN2_STB_TD</NODE1_NAME>
+          <NODE2_ID>49427</NODE2_ID>
+          <NODE2_NAME>AldoverRoig</NODE2_NAME>
+          <KMS>3.482</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.502608,40.892861 0.504491,40.861538</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70732">
+          <NODE1_ID>66084</NODE1_ID>
+          <NODE1_NAME>TivenysPol14parc179N</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.868</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.489889,40.898463 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70824">
+          <NODE1_ID>66446</NODE1_ID>
+          <NODE1_NAME>TivenysPtaPlaneja15</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.882</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.513034,40.904667 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70825">
+          <NODE1_ID>66447</NODE1_ID>
+          <NODE1_NAME>TivenysPtaPlaneja13</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512871,40.904057 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71203">
+          <NODE1_ID>63493</NODE1_ID>
+          <NODE1_NAME>TivenysT301SN_STB_TD</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.647</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.500807,40.893518 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72000">
+          <NODE1_ID>66291</NODE1_ID>
+          <NODE1_NAME>XertaCampanar</NODE1_NAME>
+          <NODE2_ID>67413</NODE2_ID>
+          <NODE2_NAME>TivenysValleta27TD</NODE2_NAME>
+          <KMS>1.893</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490793,40.906250 0.513210,40.907360</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72573">
+          <NODE1_ID>67875</NODE1_ID>
+          <NODE1_NAME>TivenysSantMiquelABC</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.809</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512152,40.907954 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

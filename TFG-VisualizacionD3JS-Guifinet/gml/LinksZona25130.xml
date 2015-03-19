@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.441481</gml:X><gml:Y>42.106916</gml:Y></gml:coord>
+<gml:coord><gml:X>2.468748</gml:X><gml:Y>42.198167</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="63027">
+          <NODE1_ID>60302</NODE1_ID>
+          <NODE1_NAME>BasCanturon</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.441481,42.106916 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63028">
+          <NODE1_ID>60302</NODE1_ID>
+          <NODE1_NAME>BasCanturon</NODE1_NAME>
+          <NODE2_ID>18537</NODE2_ID>
+          <NODE2_NAME>OlotcJoanet</NODE2_NAME>
+          <KMS>10.09</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.441481,42.106916 2.468748,42.195460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63855">
+          <NODE1_ID>60302</NODE1_ID>
+          <NODE1_NAME>BasCanturon</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.441481,42.106916 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70442">
+          <NODE1_ID>18537</NODE1_ID>
+          <NODE1_NAME>OlotcJoanet</NODE1_NAME>
+          <NODE2_ID>60302</NODE2_ID>
+          <NODE2_NAME>BasCanturon</NODE2_NAME>
+          <KMS>10.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.468748,42.195460 2.441481,42.106916</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74732">
+          <NODE1_ID>60302</NODE1_ID>
+          <NODE1_NAME>BasCanturon</NODE1_NAME>
+          <NODE2_ID>26835</NODE2_ID>
+          <NODE2_NAME>VDenBLMAulina</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.441481,42.106916 2.441561,42.108738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79484">
+          <NODE1_ID>32360</NODE1_ID>
+          <NODE1_NAME>OlotXdp</NODE1_NAME>
+          <NODE2_ID>60302</NODE2_ID>
+          <NODE2_NAME>BasCanturon</NODE2_NAME>
+          <KMS>10.353</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.467010,42.198167 2.441481,42.106916</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

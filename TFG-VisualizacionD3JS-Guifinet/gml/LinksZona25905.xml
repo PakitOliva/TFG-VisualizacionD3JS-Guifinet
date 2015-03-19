@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.371984</gml:X><gml:Y>40.711333</gml:Y></gml:coord>
+<gml:coord><gml:X>0.550979</gml:X><gml:Y>40.814844</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="51119">
+          <NODE1_ID>26725</NODE1_ID>
+          <NODE1_NAME>TortosaINSEbre</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>14.991</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.515309,40.814844 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58068">
+          <NODE1_ID>39140</NODE1_ID>
+          <NODE1_NAME>MDBbnsMuseu</NODE1_NAME>
+          <NODE2_ID>38337</NODE2_ID>
+          <NODE2_NAME>SBrbINSLesPlanes</NODE2_NAME>
+          <KMS>10.09</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.372880,40.734223 0.488454,40.711333</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70177">
+          <NODE1_ID>65977</NODE1_ID>
+          <NODE1_NAME>MasdebarberanspolNV</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>2.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.399129,40.737846 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76055">
+          <NODE1_ID>70844</NODE1_ID>
+          <NODE1_NAME>43514AvCelma18-1ATD</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.373842,40.736300 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76256">
+          <NODE1_ID>71026</NODE1_ID>
+          <NODE1_NAME>43514SantaTeresa4TD</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.373750,40.734954 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77254">
+          <NODE1_ID>72202</NODE1_ID>
+          <NODE1_NAME>43514Major18TD</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.373906,40.735070 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77257">
+          <NODE1_ID>72203</NODE1_ID>
+          <NODE1_NAME>43514Pol29Pcla128TD</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>0.443</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.378113,40.733960 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78616">
+          <NODE1_ID>73331</NODE1_ID>
+          <NODE1_NAME>MDBbnsJosepSubiratsB</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.373643,40.734218 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79821">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>15.352</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123227">
+          <NODE1_ID>77051</NODE1_ID>
+          <NODE1_NAME>MDBbnsDelaCreu32IRM</NODE1_NAME>
+          <NODE2_ID>39140</NODE2_ID>
+          <NODE2_NAME>MDBbnsMuseu</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.371984,40.733409 0.372880,40.734223</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

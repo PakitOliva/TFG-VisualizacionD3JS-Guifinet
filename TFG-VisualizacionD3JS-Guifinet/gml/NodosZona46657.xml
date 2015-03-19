@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.996934</gml:X><gml:Y>41.825215</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.001656</gml:X><gml:Y>41.838724</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="51411">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.996934,41.828642</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51411</NODE_ID>
+      <NODE_NAME>SCriDRiera74</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34751">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.997953,41.836508</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34751</NODE_ID>
+      <NODE_NAME>SCriDVoltaArb222S</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48748">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.001032,41.838724</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48748</NODE_ID>
+      <NODE_NAME>SCriDRocaMalvet1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49186">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.001656,41.837190</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49186</NODE_ID>
+      <NODE_NAME>SCriDMoliRoca6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58103">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.999670,41.825215</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58103</NODE_ID>
+      <NODE_NAME>MasFurroi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

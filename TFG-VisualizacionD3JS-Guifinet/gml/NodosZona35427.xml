@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.877772</gml:X><gml:Y>41.511517</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.937000</gml:X><gml:Y>41.526295</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="46752">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.922334,41.520829</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46752</NODE_ID>
+      <NODE_NAME>OlesaCebria50</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46753">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.922334,41.520829</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46753</NODE_ID>
+      <NODE_NAME>OlesaCebria52</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43262">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.927234,41.526295</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43262</NODE_ID>
+      <NODE_NAME>AbrMurcia18</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45314">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.937000,41.512006</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45314</NODE_ID>
+      <NODE_NAME>AbreraLesCarpsBV1202</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46755">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.922424,41.520753</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46755</NODE_ID>
+      <NODE_NAME>canius</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66082">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.877772,41.511517</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66082</NODE_ID>
+      <NODE_NAME>BRNr71</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

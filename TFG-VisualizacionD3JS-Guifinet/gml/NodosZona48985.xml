@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.283139</gml:X><gml:Y>43.009411</gml:Y></gml:coord>
+      <gml:coord><gml:X>-4.281020</gml:X><gml:Y>43.009794</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="53750">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.283139,43.009794</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53750</NODE_ID>
+      <NODE_NAME>ENTRARedonda</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60766">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.281020,43.009411</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60766</NODE_ID>
+      <NODE_NAME>EntraPort5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

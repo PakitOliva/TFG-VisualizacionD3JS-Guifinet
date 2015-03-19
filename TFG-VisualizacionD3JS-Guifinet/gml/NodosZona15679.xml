@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.859573</gml:X><gml:Y>42.245705</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.898062</gml:X><gml:Y>42.261644</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="30307">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.889203,42.254866</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30307</NODE_ID>
+      <NODE_NAME>Vlnt-campanar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44633">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.875567,42.248971</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44633</NODE_ID>
+      <NODE_NAME>Vlnt-nabot</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43423">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.885863,42.261644</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43423</NODE_ID>
+      <NODE_NAME>Vlnt-MasAlma</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46541">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.890521,42.255775</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46541</NODE_ID>
+      <NODE_NAME>Vlnt-Carles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46854">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.872238,42.257115</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46854</NODE_ID>
+      <NODE_NAME>Vlnt-Albert</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47541">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.891323,42.252735</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47541</NODE_ID>
+      <NODE_NAME>Vlnt-Anton</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51265">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.888762,42.254202</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51265</NODE_ID>
+      <NODE_NAME>VntPntrSbcs</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60158">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.889489,42.254427</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60158</NODE_ID>
+      <NODE_NAME>Vlnt-llado16</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60159">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.889522,42.255064</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60159</NODE_ID>
+      <NODE_NAME>Vlnt-bosc12</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54137">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.859573,42.259624</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54137</NODE_ID>
+      <NODE_NAME>Vlnt-MasGuilla</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61324">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.897643,42.245943</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61324</NODE_ID>
+      <NODE_NAME>MasArrufat1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61325">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.898062,42.245705</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61325</NODE_ID>
+      <NODE_NAME>Vlnt-CanCuc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62862">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.888948,42.254392</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62862</NODE_ID>
+      <NODE_NAME>VlntLlado7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64483">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.888871,42.254272</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64483</NODE_ID>
+      <NODE_NAME>Vlnt-llado5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64004">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.888696,42.254901</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64004</NODE_ID>
+      <NODE_NAME>Vlnt-JoanAlmar3</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72127">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.889520,42.254818</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72127</NODE_ID>
+      <NODE_NAME>Vlnt-Eva</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74103">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.889760,42.255903</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74103</NODE_ID>
+      <NODE_NAME>Vlnt-Llers9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74647">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.889168,42.254398</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74647</NODE_ID>
+      <NODE_NAME>Vlnt-LladoSandra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

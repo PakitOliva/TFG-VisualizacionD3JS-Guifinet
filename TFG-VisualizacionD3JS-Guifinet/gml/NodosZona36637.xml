@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.479693</gml:X><gml:Y>40.398578</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.454662</gml:X><gml:Y>40.416506</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="74433">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.467597,40.413998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74433</NODE_ID>
+      <NODE_NAME>MejAlmArmCli1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36717">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.468134,40.412724</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36717</NODE_ID>
+      <NODE_NAME>MEJblcn1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74430">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.466605,40.409431</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74430</NODE_ID>
+      <NODE_NAME>MejCedGareCli1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48690">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.479693,40.398578</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48690</NODE_ID>
+      <NODE_NAME>MEJMoscu15</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57059">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.467049,40.407912</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57059</NODE_ID>
+      <NODE_NAME>MEJvill1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73654">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.454662,40.416506</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73654</NODE_ID>
+      <NODE_NAME>MejMadrEstCl2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74434">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.475649,40.406300</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74434</NODE_ID>
+      <NODE_NAME>MejMiraGatCli1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77261">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.471251,40.412836</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77261</NODE_ID>
+      <NODE_NAME>MejChoPedAp1</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

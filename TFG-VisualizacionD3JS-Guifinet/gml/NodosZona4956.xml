@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.951700</gml:X><gml:Y>41.414914</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.995931</gml:X><gml:Y>41.424329</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="4957">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.995875,41.424329</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4957</NODE_ID>
+      <NODE_NAME>PallejaSilvia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56405">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.951700,41.419825</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56405</NODE_ID>
+      <NODE_NAME>PLvPrmvr11</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30144">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.986830,41.418344</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30144</NODE_ID>
+      <NODE_NAME>MdRPLLN1</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24306">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.994134,41.419397</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24306</NODE_ID>
+      <NODE_NAME>PallejaMasias51</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39465">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.990709,41.414914</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39465</NODE_ID>
+      <NODE_NAME>PallejaRocaVilana7</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53604">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.995931,41.423296</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53604</NODE_ID>
+      <NODE_NAME>PALLBarcelona130</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57478">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.974785,41.417661</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57478</NODE_ID>
+      <NODE_NAME>dido</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57508">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.992624,41.421466</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57508</NODE_ID>
+      <NODE_NAME>Pllj-AntGaud</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72619">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.993669,41.418531</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72619</NODE_ID>
+      <NODE_NAME>PallejaMasies54</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

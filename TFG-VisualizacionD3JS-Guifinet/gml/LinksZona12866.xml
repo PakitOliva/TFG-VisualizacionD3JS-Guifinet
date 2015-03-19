@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.720203</gml:X><gml:Y>41.349161</gml:Y></gml:coord>
+<gml:coord><gml:X>1.781888</gml:X><gml:Y>41.388544</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44010">
+          <NODE1_ID>46839</NODE1_ID>
+          <NODE1_NAME>SCS-StAntoni7</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.87</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752923,41.363714 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52422">
+          <NODE1_ID>16051</NODE1_ID>
+          <NODE1_NAME>SCS-Electric</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.773</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.754283,41.363681 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52478">
+          <NODE1_ID>15396</NODE1_ID>
+          <NODE1_NAME>AV-Diposit</NODE1_NAME>
+          <NODE2_ID>53107</NODE2_ID>
+          <NODE2_NAME>SCS-EulaliaG</NODE2_NAME>
+          <KMS>3.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.781888,41.349873 1.750585,41.364650</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59841">
+          <NODE1_ID>15396</NODE1_ID>
+          <NODE1_NAME>AV-Diposit</NODE1_NAME>
+          <NODE2_ID>38397</NODE2_ID>
+          <NODE2_NAME>SCS-StIsidre1</NODE2_NAME>
+          <KMS>2.808</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.781888,41.349873 1.752306,41.361801</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60282">
+          <NODE1_ID>15396</NODE1_ID>
+          <NODE1_NAME>AV-Diposit</NODE1_NAME>
+          <NODE2_ID>26001</NODE2_ID>
+          <NODE2_NAME>SCS-CalMarti</NODE2_NAME>
+          <KMS>3.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.781888,41.349873 1.749605,41.363419</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61869">
+          <NODE1_ID>49393</NODE1_ID>
+          <NODE1_NAME>SCS-RaulG</NODE1_NAME>
+          <NODE2_ID>54481</NODE2_ID>
+          <NODE2_NAME>LG-Esglesia</NODE2_NAME>
+          <KMS>3.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.751692,41.361011 1.720203,41.379188</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65421">
+          <NODE1_ID>62434</NODE1_ID>
+          <NODE1_NAME>SCS-SergiP</NODE1_NAME>
+          <NODE2_ID>21208</NODE2_ID>
+          <NODE2_NAME>OL-SP-LaNau</NODE2_NAME>
+          <KMS>1.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.750412,41.366261 1.737444,41.356751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68456">
+          <NODE1_ID>64744</NODE1_ID>
+          <NODE1_NAME>SCS-AlexB</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.82</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752789,41.362688 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68957">
+          <NODE1_ID>41394</NODE1_ID>
+          <NODE1_NAME>SCS-MireiaV</NODE1_NAME>
+          <NODE2_ID>54481</NODE2_ID>
+          <NODE2_NAME>LG-Esglesia</NODE2_NAME>
+          <KMS>3.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753449,41.363588 1.720203,41.379188</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69441">
+          <NODE1_ID>56697</NODE1_ID>
+          <NODE1_NAME>SCG-IvanM</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>3.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.750710,41.366060 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70903">
+          <NODE1_ID>66504</NODE1_ID>
+          <NODE1_NAME>SCS-ItziarS</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.91</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753390,41.364886 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70905">
+          <NODE1_ID>66216</NODE1_ID>
+          <NODE1_NAME>SCS-JordinaEscala</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.763</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752216,41.360785 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71932">
+          <NODE1_ID>67353</NODE1_ID>
+          <NODE1_NAME>SCS-TGB</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.762640,41.362782 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75399">
+          <NODE1_ID>59346</NODE1_ID>
+          <NODE1_NAME>SCS-AGuimera4</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.885</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753581,41.364709 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77494">
+          <NODE1_ID>72419</NODE1_ID>
+          <NODE1_NAME>SCS-GabrielG</NODE1_NAME>
+          <NODE2_ID>15421</NODE2_ID>
+          <NODE2_NAME>OL-Gatzara</NODE2_NAME>
+          <KMS>2.53</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.770371,41.352452 1.740461,41.349161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78212">
+          <NODE1_ID>73034</NODE1_ID>
+          <NODE1_NAME>SCS-FrancescV</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.937</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.752881,41.364757 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79411">
+          <NODE1_ID>74004</NODE1_ID>
+          <NODE1_NAME>SCS-LinaMA</NODE1_NAME>
+          <NODE2_ID>15396</NODE2_ID>
+          <NODE2_NAME>AV-Diposit</NODE2_NAME>
+          <KMS>2.74</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753579,41.362262 1.781888,41.349873</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122480">
+          <NODE1_ID>75968</NODE1_ID>
+          <NODE1_NAME>SCS-MasComtal</NODE1_NAME>
+          <NODE2_ID>26312</NODE2_ID>
+          <NODE2_NAME>SUB-DipLavern</NODE2_NAME>
+          <KMS>2.637</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753638,41.368925 1.771384,41.388544</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

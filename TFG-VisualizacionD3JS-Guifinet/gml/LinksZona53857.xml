@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-4.289775</gml:X><gml:Y>43.011822</gml:Y></gml:coord>
+<gml:coord><gml:X>-4.273671</gml:X><gml:Y>43.013166</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="54162">
+          <NODE1_ID>52804</NODE1_ID>
+          <NODE1_NAME>LOMBADeposito</NODE1_NAME>
+          <NODE2_ID>53858</NODE2_ID>
+          <NODE2_NAME>RIANOSupernodo</NODE2_NAME>
+          <KMS>1.321</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-4.289775,43.011822 -4.273671,43.013166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

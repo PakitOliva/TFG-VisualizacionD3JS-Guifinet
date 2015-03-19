@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.840623</gml:X><gml:Y>40.328753</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.816607</gml:X><gml:Y>40.351078</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="53019">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.840623,40.340113</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53019</NODE_ID>
+      <NODE_NAME>Prado</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54256">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.821978,40.344083</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54256</NODE_ID>
+      <NODE_NAME>PredatuxGuifi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56688">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.823594,40.331055</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56688</NODE_ID>
+      <NODE_NAME>AlCen</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57900">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.819906,40.348199</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57900</NODE_ID>
+      <NODE_NAME>ALCpenon5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66674">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.816607,40.345460</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66674</NODE_ID>
+      <NODE_NAME>sapporo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67575">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.834513,40.328753</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67575</NODE_ID>
+      <NODE_NAME>CDIESTR</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76315">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.820617,40.351078</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76315</NODE_ID>
+      <NODE_NAME>ALColon6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76808">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.816714,40.345712</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76808</NODE_ID>
+      <NODE_NAME>ALC-prueba</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

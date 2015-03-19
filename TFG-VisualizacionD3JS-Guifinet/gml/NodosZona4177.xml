@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.675646</gml:X><gml:Y>41.988819</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.868287</gml:X><gml:Y>42.036733</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="15460">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.838784,42.011584</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>15460</NODE_ID>
+      <NODE_NAME>CaskanuNode</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16501">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.841937,42.013903</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16501</NODE_ID>
+      <NODE_NAME>CASLauNode</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22028">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.838247,42.013725</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22028</NODE_ID>
+      <NODE_NAME>CASJudit</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34783">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.816188,42.031805</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34783</NODE_ID>
+      <NODE_NAME>CASsantaprop</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33692">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.842726,42.011594</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33692</NODE_ID>
+      <NODE_NAME>cassclot</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34007">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.841095,42.014630</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34007</NODE_ID>
+      <NODE_NAME>casasant</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42060">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.821235,41.997626</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42060</NODE_ID>
+      <NODE_NAME>CASCalPascual</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47514">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.833692,41.991304</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47514</NODE_ID>
+      <NODE_NAME>CASLaSaleta</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48150">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.815668,41.988819</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48150</NODE_ID>
+      <NODE_NAME>C</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59418">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.868287,42.030829</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59418</NODE_ID>
+      <NODE_NAME>CASMenudells</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60917">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.832717,42.006611</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60917</NODE_ID>
+      <NODE_NAME>CAStonis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66882">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.822519,42.036733</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66882</NODE_ID>
+      <NODE_NAME>CAScasanovapujol</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74967">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.841109,42.013726</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74967</NODE_ID>
+      <NODE_NAME>CASPtgeCardona3</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75404">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.675646,42.007675</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75404</NODE_ID>
+      <NODE_NAME>mtmsntfeliu</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.540401</gml:X><gml:Y>41.275772</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.554160</gml:X><gml:Y>41.284221</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="24793">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.550387,41.284221</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24793</NODE_ID>
+      <NODE_NAME>LLP-Centre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59870">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.554160,41.275772</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59870</NODE_ID>
+      <NODE_NAME>LLP-Sabarters</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64764">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.540401,41.280098</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64764</NODE_ID>
+      <NODE_NAME>LLP-ConstantinI</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69266">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.551376,41.282533</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69266</NODE_ID>
+      <NODE_NAME>LL-PROVA1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

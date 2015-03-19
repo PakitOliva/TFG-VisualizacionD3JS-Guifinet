@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.530515</gml:X><gml:Y>41.595819</gml:Y></gml:coord>
+<gml:coord><gml:X>2.543383</gml:X><gml:Y>41.629817</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="69608">
+          <NODE1_ID>62260</NODE1_ID>
+          <NODE1_NAME>AdMuBiblioteca</NODE1_NAME>
+          <NODE2_ID>62261</NODE2_ID>
+          <NODE2_NAME>ArenCollsacreu</NODE2_NAME>
+          <KMS>2.329</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.541126,41.610420 2.530515,41.629817</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69609">
+          <NODE1_ID>62262</NODE1_ID>
+          <NODE1_NAME>AdMuCanMatali</NODE1_NAME>
+          <NODE2_ID>62260</NODE2_ID>
+          <NODE2_NAME>AdMuBiblioteca</NODE2_NAME>
+          <KMS>0.14</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.540455,41.609265 2.541126,41.610420</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70105">
+          <NODE1_ID>65922</NODE1_ID>
+          <NODE1_NAME>AdMuCarrerVell31</NODE1_NAME>
+          <NODE2_ID>62262</NODE2_ID>
+          <NODE2_NAME>AdMuCanMatali</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.540246,41.608564 2.540455,41.609265</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80747">
+          <NODE1_ID>68865</NODE1_ID>
+          <NODE1_NAME>AdMuParcDeCanJalpi</NODE1_NAME>
+          <NODE2_ID>68864</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloMunicipal</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.541853,41.599067 2.543271,41.599517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80748">
+          <NODE1_ID>68864</NODE1_ID>
+          <NODE1_NAME>AdMuPavelloMunicipal</NODE1_NAME>
+          <NODE2_ID>68866</NODE2_ID>
+          <NODE2_NAME>AdMuParcDeCanJalpi2</NODE2_NAME>
+          <KMS>0.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.543271,41.599517 2.541550,41.595819</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80749">
+          <NODE1_ID>75010</NODE1_ID>
+          <NODE1_NAME>AdMuPavelloIPTest</NODE1_NAME>
+          <NODE2_ID>68864</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloMunicipal</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.543383,41.599186 2.543271,41.599517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80750">
+          <NODE1_ID>68864</NODE1_ID>
+          <NODE1_NAME>AdMuPavelloMunicipal</NODE1_NAME>
+          <NODE2_ID>75010</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloIPTest</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.543271,41.599517 2.543383,41.599186</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80751">
+          <NODE1_ID>75010</NODE1_ID>
+          <NODE1_NAME>AdMuPavelloIPTest</NODE1_NAME>
+          <NODE2_ID>68864</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloMunicipal</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.543383,41.599186 2.543271,41.599517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80752">
+          <NODE1_ID>75010</NODE1_ID>
+          <NODE1_NAME>AdMuPavelloIPTest</NODE1_NAME>
+          <NODE2_ID>68864</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloMunicipal</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.543383,41.599186 2.543271,41.599517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80753">
+          <NODE1_ID>75010</NODE1_ID>
+          <NODE1_NAME>AdMuPavelloIPTest</NODE1_NAME>
+          <NODE2_ID>68864</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloMunicipal</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.543383,41.599186 2.543271,41.599517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122293">
+          <NODE1_ID>62261</NODE1_ID>
+          <NODE1_NAME>ArenCollsacreu</NODE1_NAME>
+          <NODE2_ID>68864</NODE2_ID>
+          <NODE2_NAME>AdMuPavelloMunicipal</NODE2_NAME>
+          <KMS>3.529</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.530515,41.629817 2.543271,41.599517</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

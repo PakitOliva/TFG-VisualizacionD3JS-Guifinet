@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.108987</gml:X><gml:Y>43.136713</gml:Y></gml:coord>
+<gml:coord><gml:X>-1.976807</gml:X><gml:Y>43.137925</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="72158">
+          <NODE1_ID>62232</NODE1_ID>
+          <NODE1_NAME>TOLOUrkizu</NODE1_NAME>
+          <NODE2_ID>67358</NODE2_ID>
+          <NODE2_NAME>BERASanLorenzo</NODE2_NAME>
+          <KMS>10.755</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.108987,43.137925 -1.976807,43.136713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

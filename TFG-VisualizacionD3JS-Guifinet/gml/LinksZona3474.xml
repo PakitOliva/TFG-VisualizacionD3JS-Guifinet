@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.045936</gml:X><gml:Y>41.380362</gml:Y></gml:coord>
+<gml:coord><gml:X>2.076679</gml:X><gml:Y>41.381734</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="7264">
+          <NODE1_ID>10325</NODE1_ID>
+          <NODE1_NAME>SantJustWalden12</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>1.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067504,41.380362 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16374">
+          <NODE1_ID>20773</NODE1_ID>
+          <NODE1_NAME>SJuDxemeneia</NODE1_NAME>
+          <NODE2_ID>20776</NODE2_ID>
+          <NODE2_NAME>SJuDataneu</NODE2_NAME>
+          <KMS>0.733</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067967,41.380985 2.076679,41.381734</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21614">
+          <NODE1_ID>20773</NODE1_ID>
+          <NODE1_NAME>SJuDxemeneia</NODE1_NAME>
+          <NODE2_ID>26801</NODE2_ID>
+          <NODE2_NAME>SJuDVagoneta</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067967,41.380985 2.068572,41.380430</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

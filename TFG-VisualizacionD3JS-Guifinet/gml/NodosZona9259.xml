@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.945036</gml:X><gml:Y>41.460200</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.989185</gml:X><gml:Y>41.500201</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="11494">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.953844,41.469681</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11494</NODE_ID>
+      <NODE_NAME>ume1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="11495">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.983200,41.460200</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11495</NODE_ID>
+      <NODE_NAME>Ume2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="21405">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.989185,41.464353</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21405</NODE_ID>
+      <NODE_NAME>mdcstsl</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33081">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.980020,41.474550</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33081</NODE_ID>
+      <NODE_NAME>CTBB-pimargall10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33130">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.980758,41.477381</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33130</NODE_ID>
+      <NODE_NAME>CTBB-santmiquel46</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35873">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.946997,41.498432</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35873</NODE_ID>
+      <NODE_NAME>CTBB-CanPastalle</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39488">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.981058,41.475473</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39488</NODE_ID>
+      <NODE_NAME>CTBB-elLokal</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42665">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.980795,41.474629</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42665</NODE_ID>
+      <NODE_NAME>CTBB-SantMarc</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44427">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.945036,41.500201</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44427</NODE_ID>
+      <NODE_NAME>CTBB-CanSegarra</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62872">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.980951,41.477790</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62872</NODE_ID>
+      <NODE_NAME>CTBB-rabella7</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64727">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.978692,41.478279</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64727</NODE_ID>
+      <NODE_NAME>CTBB-Agricultura</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64748">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.979266,41.477983</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64748</NODE_ID>
+      <NODE_NAME>CTBB-CalSereno</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

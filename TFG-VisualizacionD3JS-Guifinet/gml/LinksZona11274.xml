@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.557446</gml:X><gml:Y>40.659731</gml:Y></gml:coord>
+<gml:coord><gml:X>0.785890</gml:X><gml:Y>40.807016</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="23371">
+          <NODE1_ID>28549</NODE1_ID>
+          <NODE1_NAME>XalemGirona1</NODE1_NAME>
+          <NODE2_ID>28550</NODE2_ID>
+          <NODE2_NAME>XalemSandraSanti</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.748849,40.671446 0.746716,40.671729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23373">
+          <NODE1_ID>28549</NODE1_ID>
+          <NODE1_NAME>XalemGirona1</NODE1_NAME>
+          <NODE2_ID>28570</NODE2_ID>
+          <NODE2_NAME>XalemPiusXII</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.748849,40.671446 0.749243,40.671346</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23566">
+          <NODE1_ID>28753</NODE1_ID>
+          <NODE1_NAME>XalemPiscJPorres</NODE1_NAME>
+          <NODE2_ID>28549</NODE2_ID>
+          <NODE2_NAME>XalemGirona1</NODE2_NAME>
+          <KMS>2.673</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.779037,40.664288 0.748849,40.671446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23567">
+          <NODE1_ID>28757</NODE1_ID>
+          <NODE1_NAME>UEucEucaliptus114</NODE1_NAME>
+          <NODE2_ID>28753</NODE2_ID>
+          <NODE2_NAME>XalemPiscJPorres</NODE2_NAME>
+          <KMS>0.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.785890,40.659731 0.779037,40.664288</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24027">
+          <NODE1_ID>25001</NODE1_ID>
+          <NODE1_NAME>XalemEA3AKA</NODE1_NAME>
+          <NODE2_ID>28549</NODE2_ID>
+          <NODE2_NAME>XalemGirona1</NODE2_NAME>
+          <KMS>0.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.755948,40.669441 0.748849,40.671446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48636">
+          <NODE1_ID>33178</NODE1_ID>
+          <NODE1_NAME>DeltComRegants</NODE1_NAME>
+          <NODE2_ID>50192</NODE2_ID>
+          <NODE2_NAME>XalemPoble</NODE2_NAME>
+          <KMS>6.342</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.733987,40.724001 0.755004,40.669173</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67767">
+          <NODE1_ID>52618</NODE1_ID>
+          <NODE1_NAME>StJaumeTarragona5SC</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>1.833</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719682,40.705590 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73816">
+          <NODE1_ID>69033</NODE1_ID>
+          <NODE1_NAME>StJaumeAvCatalunyaSC</NODE1_NAME>
+          <NODE2_ID>43756</NODE2_ID>
+          <NODE2_NAME>DeltInstitut</NODE2_NAME>
+          <KMS>1.596</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.717131,40.708182 0.722487,40.721962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78051">
+          <NODE1_ID>54180</NODE1_ID>
+          <NODE1_NAME>AldeaEstacioMercader</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>10.388</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.613107,40.754452 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79482">
+          <NODE1_ID>72837</NODE1_ID>
+          <NODE1_NAME>SantJaumeAjuntament</NODE1_NAME>
+          <NODE2_ID>72840</NODE2_ID>
+          <NODE2_NAME>SantJaumePabelloDGM</NODE2_NAME>
+          <KMS>1.298</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719132,40.707062 0.733852,40.703730</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80141">
+          <NODE1_ID>30542</NODE1_ID>
+          <NODE1_NAME>CollRedoEbrecom</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>17.023</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.567969,40.807016 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80333">
+          <NODE1_ID>74702</NODE1_ID>
+          <NODE1_NAME>StJaumeTV12OAM</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>2.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706049,40.684372 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80443">
+          <NODE1_ID>65643</NODE1_ID>
+          <NODE1_NAME>EbrecomAmposta</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>13.715</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.557446,40.701909 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80492">
+          <NODE1_ID>74825</NODE1_ID>
+          <NODE1_NAME>SantJaumeRepublica47</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.720782,40.704859 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80786">
+          <NODE1_ID>75030</NODE1_ID>
+          <NODE1_NAME>DeltebreHabana112</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>1.458</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.732324,40.714946 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80800">
+          <NODE1_ID>75037</NODE1_ID>
+          <NODE1_NAME>SantJaumeGerona91</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.718179,40.705922 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80923">
+          <NODE1_ID>75119</NODE1_ID>
+          <NODE1_NAME>DeltebreCrtaToll37</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>3.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.755877,40.719499 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81011">
+          <NODE1_ID>75181</NODE1_ID>
+          <NODE1_NAME>SantJaumeFelipII23</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>1.431</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.736307,40.703737 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81024">
+          <NODE1_ID>75192</NODE1_ID>
+          <NODE1_NAME>MuntellsAmposta8</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>4.513</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.747307,40.671287 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81193">
+          <NODE1_ID>75337</NODE1_ID>
+          <NODE1_NAME>SantJaumeCarlesI10</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>1.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.733994,40.705600 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81199">
+          <NODE1_ID>75341</NODE1_ID>
+          <NODE1_NAME>SantJaumeComuns</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>2.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.744568,40.695038 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81281">
+          <NODE1_ID>75391</NODE1_ID>
+          <NODE1_NAME>DeltebrePescadors56</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>2.803</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.749151,40.717568 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121591">
+          <NODE1_ID>75812</NODE1_ID>
+          <NODE1_NAME>StJaumeDiseminatsDGM</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>2.651</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.745512,40.694139 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121803">
+          <NODE1_ID>72837</NODE1_ID>
+          <NODE1_NAME>SantJaumeAjuntament</NODE1_NAME>
+          <NODE2_ID>75995</NODE2_ID>
+          <NODE2_NAME>StJaumeNIC</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719132,40.707062 0.718553,40.704213</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121954">
+          <NODE1_ID>76112</NODE1_ID>
+          <NODE1_NAME>DeltebreGodall50</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>3.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.687861,40.726405 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121966">
+          <NODE1_ID>76113</NODE1_ID>
+          <NODE1_NAME>DeltebreJoanMiro54</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>2.31</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.704287,40.723256 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122203">
+          <NODE1_ID>76261</NODE1_ID>
+          <NODE1_NAME>StJaumeNGGNIC</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>0.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.722862,40.707070 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122256">
+          <NODE1_ID>72837</NODE1_ID>
+          <NODE1_NAME>SantJaumeAjuntament</NODE1_NAME>
+          <NODE2_ID>75849</NODE2_ID>
+          <NODE2_NAME>SJaumeIllaGracia12IR</NODE2_NAME>
+          <KMS>0.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719132,40.707062 0.715013,40.708571</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122343">
+          <NODE1_ID>72837</NODE1_ID>
+          <NODE1_NAME>SantJaumeAjuntament</NODE1_NAME>
+          <NODE2_ID>76342</NODE2_ID>
+          <NODE2_NAME>SantJaumeCerv12NIC</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719132,40.707062 0.715590,40.707850</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122375">
+          <NODE1_ID>76398</NODE1_ID>
+          <NODE1_NAME>StJaumeBalada4OAM</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>3.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.683220,40.711970 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122502">
+          <NODE1_ID>76485</NODE1_ID>
+          <NODE1_NAME>DeltebreAssumpcio69</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>1.847</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.706731,40.719463 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122702">
+          <NODE1_ID>76610</NODE1_ID>
+          <NODE1_NAME>SantJaumeTarragona</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719673,40.705790 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122710">
+          <NODE1_ID>76614</NODE1_ID>
+          <NODE1_NAME>DeltebreFelixGracia</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>2.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.700746,40.723410 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123130">
+          <NODE1_ID>72837</NODE1_ID>
+          <NODE1_NAME>SantJaumeAjuntament</NODE1_NAME>
+          <NODE2_ID>76963</NODE2_ID>
+          <NODE2_NAME>SantJaumeJosep4NIC</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719132,40.707062 0.724714,40.706926</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123412">
+          <NODE1_ID>77048</NODE1_ID>
+          <NODE1_NAME>SJaumeValencia54RFM</NODE1_NAME>
+          <NODE2_ID>72837</NODE2_ID>
+          <NODE2_NAME>SantJaumeAjuntament</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.719566,40.706065 0.719132,40.707062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.330109</gml:X><gml:Y>42.322090</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.332240</gml:X><gml:Y>42.322901</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="43930">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.332240,42.322090</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43930</NODE_ID>
+      <NODE_NAME>LaRocaCalRei</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72467">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.330109,42.322901</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72467</NODE_ID>
+      <NODE_NAME>LaRocaJosepTriadu</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

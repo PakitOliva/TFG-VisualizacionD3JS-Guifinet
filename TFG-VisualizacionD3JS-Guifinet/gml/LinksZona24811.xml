@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.222106</gml:X><gml:Y>39.937331</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.070050</gml:X><gml:Y>40.089613</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="28558">
+          <NODE1_ID>22761</NODE1_ID>
+          <NODE1_NAME>SJMoroTallerEsteban</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>7.306</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.133563,40.065641 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28702">
+          <NODE1_ID>31540</NODE1_ID>
+          <NODE1_NAME>AlcSCrisTelecso</NODE1_NAME>
+          <NODE2_ID>22040</NODE2_ID>
+          <NODE2_NAME>VRPlazaMajor10</NODE2_NAME>
+          <KMS>18.631</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217302,40.079442 -0.101283,39.937331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32679">
+          <NODE1_ID>37700</NODE1_ID>
+          <NODE1_NAME>CmRb</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.819</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217361,40.072068 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33679">
+          <NODE1_ID>38606</NODE1_ID>
+          <NODE1_NAME>AlcOct66</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.213549,40.078283 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35961">
+          <NODE1_ID>24470</NODE1_ID>
+          <NODE1_NAME>AlcBorj01</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>1.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.210350,40.070403 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37785">
+          <NODE1_ID>31540</NODE1_ID>
+          <NODE1_NAME>AlcSCrisTelecso</NODE1_NAME>
+          <NODE2_ID>41905</NODE2_ID>
+          <NODE2_NAME>SJMsantamaria10</NODE2_NAME>
+          <KMS>7.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217302,40.079442 -0.137263,40.059419</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39120">
+          <NODE1_ID>42809</NODE1_ID>
+          <NODE1_NAME>ALCDrFleming6</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>1.02</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.214381,40.070538 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39458">
+          <NODE1_ID>31540</NODE1_ID>
+          <NODE1_NAME>AlcSCrisTelecso</NODE1_NAME>
+          <NODE2_ID>42914</NODE2_ID>
+          <NODE2_NAME>ALConda2</NODE2_NAME>
+          <KMS>1.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217302,40.079442 -0.211001,40.071471</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39909">
+          <NODE1_ID>31540</NODE1_ID>
+          <NODE1_NAME>AlcSCrisTelecso</NODE1_NAME>
+          <NODE2_ID>43614</NODE2_ID>
+          <NODE2_NAME>AlcForques</NODE2_NAME>
+          <KMS>2.599</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217302,40.079442 -0.197211,40.061843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46527">
+          <NODE1_ID>31843</NODE1_ID>
+          <NODE1_NAME>UJIHumanas</NODE1_NAME>
+          <NODE2_ID>48700</NODE2_ID>
+          <NODE2_NAME>AlcUrbTomillarMesonC</NODE2_NAME>
+          <KMS>7.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.070050,39.995347 -0.143992,40.030436</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46530">
+          <NODE1_ID>48700</NODE1_ID>
+          <NODE1_NAME>AlcUrbTomillarMesonC</NODE1_NAME>
+          <NODE2_ID>22761</NODE2_ID>
+          <NODE2_NAME>SJMoroTallerEsteban</NODE2_NAME>
+          <KMS>4.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.143992,40.030436 -0.133563,40.065641</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46531">
+          <NODE1_ID>48700</NODE1_ID>
+          <NODE1_NAME>AlcUrbTomillarMesonC</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>8.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.143992,40.030436 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46532">
+          <NODE1_ID>48700</NODE1_ID>
+          <NODE1_NAME>AlcUrbTomillarMesonC</NODE1_NAME>
+          <NODE2_ID>43270</NODE2_ID>
+          <NODE2_NAME>VRcalleErmita294</NODE2_NAME>
+          <KMS>8.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.143992,40.030436 -0.112747,39.955437</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47362">
+          <NODE1_ID>49294</NODE1_ID>
+          <NODE1_NAME>alcora-PPedrisaSN</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>6.532</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.200133,40.022114 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47825">
+          <NODE1_ID>49647</NODE1_ID>
+          <NODE1_NAME>Alc-Mercat3</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.641</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.214595,40.074053 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48428">
+          <NODE1_ID>50071</NODE1_ID>
+          <NODE1_NAME>Alc-PaisValencia1</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.453</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.212060,40.078775 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51559">
+          <NODE1_ID>52464</NODE1_ID>
+          <NODE1_NAME>alcora-Teixidors10</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.211248,40.076564 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51567">
+          <NODE1_ID>31540</NODE1_ID>
+          <NODE1_NAME>AlcSCrisTelecso</NODE1_NAME>
+          <NODE2_ID>51866</NODE2_ID>
+          <NODE2_NAME>CdpTossalVera08</NODE2_NAME>
+          <KMS>9.888</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217302,40.079442 -0.134808,40.016902</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52411">
+          <NODE1_ID>52591</NODE1_ID>
+          <NODE1_NAME>ALCcastellonSN</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>1.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.204781,40.070616 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52946">
+          <NODE1_ID>53419</NODE1_ID>
+          <NODE1_NAME>SJoanMoroMasPiFran</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>7.734</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.126754,40.075747 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53353">
+          <NODE1_ID>53306</NODE1_ID>
+          <NODE1_NAME>quino</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.214325,40.079073 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54248">
+          <NODE1_ID>53632</NODE1_ID>
+          <NODE1_NAME>SJMDepositoSerretes</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>5.611</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.151572,40.077437 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55990">
+          <NODE1_ID>55487</NODE1_ID>
+          <NODE1_NAME>Alc-UrbMSCristobal76</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.421</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.222106,40.080319 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56610">
+          <NODE1_ID>55970</NODE1_ID>
+          <NODE1_NAME>alcora-adzaneta5</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.261</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.214244,40.079436 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56652">
+          <NODE1_ID>55755</NODE1_ID>
+          <NODE1_NAME>AlcJRElectric</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.213402,40.075221 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57758">
+          <NODE1_ID>56610</NODE1_ID>
+          <NODE1_NAME>ALCCamiCastellMC</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>2.728</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.185426,40.077408 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57760">
+          <NODE1_ID>31540</NODE1_ID>
+          <NODE1_NAME>AlcSCrisTelecso</NODE1_NAME>
+          <NODE2_ID>56612</NODE2_ID>
+          <NODE2_NAME>ALCCtrRibesalves1</NODE2_NAME>
+          <KMS>0.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.217302,40.079442 -0.214512,40.074656</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58039">
+          <NODE1_ID>57040</NODE1_ID>
+          <NODE1_NAME>SJMAzud46</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>7.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.137627,40.061819 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58296">
+          <NODE1_ID>55755</NODE1_ID>
+          <NODE1_NAME>AlcJRElectric</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.213402,40.075221 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59306">
+          <NODE1_ID>57942</NODE1_ID>
+          <NODE1_NAME>AlcElTormo</NODE1_NAME>
+          <NODE2_ID>54307</NODE2_ID>
+          <NODE2_NAME>SJMoroAlmazara</NODE2_NAME>
+          <KMS>5.96</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.193406,40.089613 -0.140762,40.054318</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59973">
+          <NODE1_ID>55954</NODE1_ID>
+          <NODE1_NAME>ALCCarrerteraOnda1</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>4.657</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.197000,40.040511 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60404">
+          <NODE1_ID>58681</NODE1_ID>
+          <NODE1_NAME>ALCMolinoNuevo6</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.211272,40.080164 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60406">
+          <NODE1_ID>53864</NODE1_ID>
+          <NODE1_NAME>AlcAdzaneta4</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.213519,40.080103 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60853">
+          <NODE1_ID>59045</NODE1_ID>
+          <NODE1_NAME>EmL_Alc</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.342</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.213903,40.077802 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61159">
+          <NODE1_ID>58985</NODE1_ID>
+          <NODE1_NAME>SJMPanorama</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>6.859</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.152565,40.042811 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63279">
+          <NODE1_ID>59884</NODE1_ID>
+          <NODE1_NAME>ALCaron</NODE1_NAME>
+          <NODE2_ID>54306</NODE2_ID>
+          <NODE2_NAME>SJMoroPolideportivo</NODE2_NAME>
+          <KMS>4.994</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.188173,40.066142 -0.130162,40.060123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64278">
+          <NODE1_ID>31655</NODE1_ID>
+          <NODE1_NAME>BrrChoquera16</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>7.609</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.152322,40.032504 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65672">
+          <NODE1_ID>62639</NODE1_ID>
+          <NODE1_NAME>ALCjoseGil39</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.212946,40.077484 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65674">
+          <NODE1_ID>62641</NODE1_ID>
+          <NODE1_NAME>ALCbcoViverN3P5d</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.883</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.210339,40.073556 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65737">
+          <NODE1_ID>62680</NODE1_ID>
+          <NODE1_NAME>AlcMerc40</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.504</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.216019,40.075013 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72579">
+          <NODE1_ID>67744</NODE1_ID>
+          <NODE1_NAME>Garest</NODE1_NAME>
+          <NODE2_ID>54307</NODE2_ID>
+          <NODE2_NAME>SJMoroAlmazara</NODE2_NAME>
+          <KMS>5.884</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.199275,40.026287 -0.140762,40.054318</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72942">
+          <NODE1_ID>67744</NODE1_ID>
+          <NODE1_NAME>Garest</NODE1_NAME>
+          <NODE2_ID>54306</NODE2_ID>
+          <NODE2_NAME>SJMoroPolideportivo</NODE2_NAME>
+          <KMS>6.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.199275,40.026287 -0.130162,40.060123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72961">
+          <NODE1_ID>67744</NODE1_ID>
+          <NODE1_NAME>Garest</NODE1_NAME>
+          <NODE2_ID>31843</NODE2_ID>
+          <NODE2_NAME>UJIHumanas</NODE2_NAME>
+          <KMS>11.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.199275,40.026287 -0.070050,39.995347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75068">
+          <NODE1_ID>69328</NODE1_ID>
+          <NODE1_NAME>OndPrsrtbnb65</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>7.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.176328,40.019611 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76516">
+          <NODE1_ID>71553</NODE1_ID>
+          <NODE1_NAME>ALC-Dora</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>3.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.181800,40.069341 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78563">
+          <NODE1_ID>73292</NODE1_ID>
+          <NODE1_NAME>DrFrrn14</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.337</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.213354,40.079402 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79767">
+          <NODE1_ID>74303</NODE1_ID>
+          <NODE1_NAME>Alccorval8</NODE1_NAME>
+          <NODE2_ID>31540</NODE2_ID>
+          <NODE2_NAME>AlcSCrisTelecso</NODE2_NAME>
+          <KMS>0.833</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.216863,40.071950 -0.217302,40.079442</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

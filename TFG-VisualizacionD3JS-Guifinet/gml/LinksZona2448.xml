@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.163169</gml:X><gml:Y>41.805503</gml:Y></gml:coord>
+<gml:coord><gml:X>2.197142</gml:X><gml:Y>41.833742</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="15218">
+          <NODE1_ID>19780</NODE1_ID>
+          <NODE1_NAME>CSPRFort</NODE1_NAME>
+          <NODE2_ID>6676</NODE2_ID>
+          <NODE2_NAME>Puigsagordi</NODE2_NAME>
+          <KMS>2.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175232,41.831138 2.197142,41.819532</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22509">
+          <NODE1_ID>27747</NODE1_ID>
+          <NODE1_NAME>CSPMajor39</NODE1_NAME>
+          <NODE2_ID>6676</NODE2_ID>
+          <NODE2_NAME>Puigsagordi</NODE2_NAME>
+          <KMS>1.922</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175400,41.825444 2.197142,41.819532</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40271">
+          <NODE1_ID>6676</NODE1_ID>
+          <NODE1_NAME>Puigsagordi</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>2.842</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197142,41.819532 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40273">
+          <NODE1_ID>43764</NODE1_ID>
+          <NODE1_NAME>CSPDipPuig</NODE1_NAME>
+          <NODE2_ID>6676</NODE2_ID>
+          <NODE2_NAME>Puigsagordi</NODE2_NAME>
+          <KMS>2.101</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180454,41.833742 2.197142,41.819532</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41507">
+          <NODE1_ID>44870</NODE1_ID>
+          <NODE1_NAME>CSPOBatllo</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164950,41.825124 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41508">
+          <NODE1_ID>44871</NODE1_ID>
+          <NODE1_NAME>CSPMSerra</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165508,41.826931 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41509">
+          <NODE1_ID>44872</NODE1_ID>
+          <NODE1_NAME>CSPEFarres</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.902</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175465,41.826531 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41756">
+          <NODE1_ID>45097</NODE1_ID>
+          <NODE1_NAME>CSPJArimany</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>1.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164599,41.826283 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41843">
+          <NODE1_ID>45158</NODE1_ID>
+          <NODE1_NAME>CSPCSerra</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.166498,41.825704 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42204">
+          <NODE1_ID>45508</NODE1_ID>
+          <NODE1_NAME>CSPMPunti</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.234</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.166552,41.825744 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42207">
+          <NODE1_ID>45510</NODE1_ID>
+          <NODE1_NAME>CollsuspinaRivelles</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.176194,41.827228 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43051">
+          <NODE1_ID>46173</NODE1_ID>
+          <NODE1_NAME>CSPJCoca</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175824,41.827270 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43465">
+          <NODE1_ID>46174</NODE1_ID>
+          <NODE1_NAME>CSPLocalSocial</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.867</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.174928,41.827075 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43533">
+          <NODE1_ID>37315</NODE1_ID>
+          <NODE1_NAME>CSPDipToll</NODE1_NAME>
+          <NODE2_ID>46496</NODE2_ID>
+          <NODE2_NAME>CSPSGarcia</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164494,41.827176 2.165873,41.826345</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43534">
+          <NODE1_ID>46497</NODE1_ID>
+          <NODE1_NAME>CSPJJauset</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165712,41.826139 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45200">
+          <NODE1_ID>47677</NODE1_ID>
+          <NODE1_NAME>CSPMerceAlvarez</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.658</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.173828,41.830501 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45269">
+          <NODE1_ID>47729</NODE1_ID>
+          <NODE1_NAME>CSPRSoldevila</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.868</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175398,41.826903 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46496">
+          <NODE1_ID>48670</NODE1_ID>
+          <NODE1_NAME>CSPEnricM</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.82</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.174327,41.826547 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48014">
+          <NODE1_ID>49820</NODE1_ID>
+          <NODE1_NAME>CSPAEscamilla</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165623,41.825816 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48015">
+          <NODE1_ID>49821</NODE1_ID>
+          <NODE1_NAME>CSPPGabriel</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>1.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.175287,41.825308 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49172">
+          <NODE1_ID>50585</NODE1_ID>
+          <NODE1_NAME>CSPAlboquers</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.166354,41.826425 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49609">
+          <NODE1_ID>43764</NODE1_ID>
+          <NODE1_NAME>CSPDipPuig</NODE1_NAME>
+          <NODE2_ID>50917</NODE2_ID>
+          <NODE2_NAME>CSPSMartin</NODE2_NAME>
+          <KMS>1.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.180454,41.833742 2.174904,41.825079</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53038">
+          <NODE1_ID>53491</NODE1_ID>
+          <NODE1_NAME>CSPCamp17</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.757</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.176663,41.827540 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55428">
+          <NODE1_ID>55070</NODE1_ID>
+          <NODE1_NAME>CSPJFolch</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164779,41.825176 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68156">
+          <NODE1_ID>64490</NODE1_ID>
+          <NODE1_NAME>CSPNou12</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.859</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.174455,41.825109 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69227">
+          <NODE1_ID>65245</NODE1_ID>
+          <NODE1_NAME>CSPNGaret</NODE1_NAME>
+          <NODE2_ID>43764</NODE2_ID>
+          <NODE2_NAME>CSPDipPuig</NODE2_NAME>
+          <KMS>0.796</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.176430,41.827233 2.180454,41.833742</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72191">
+          <NODE1_ID>67569</NODE1_ID>
+          <NODE1_NAME>CSPAlbertMP</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>1.137</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164950,41.816949 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75227">
+          <NODE1_ID>70116</NODE1_ID>
+          <NODE1_NAME>CSPJMOliu</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.845</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.173995,41.824448 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78290">
+          <NODE1_ID>37315</NODE1_ID>
+          <NODE1_NAME>CSPDipToll</NODE1_NAME>
+          <NODE2_ID>73071</NODE2_ID>
+          <NODE2_NAME>CSPAWaart</NODE2_NAME>
+          <KMS>0.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164494,41.827176 2.174360,41.824124</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79916">
+          <NODE1_ID>74419</NODE1_ID>
+          <NODE1_NAME>CollsuspinaAmin</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>2.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163169,41.805503 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121188">
+          <NODE1_ID>75498</NODE1_ID>
+          <NODE1_NAME>CSPJordiJutglar</NODE1_NAME>
+          <NODE2_ID>37315</NODE2_ID>
+          <NODE2_NAME>CSPDipToll</NODE2_NAME>
+          <KMS>0.316</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.167992,41.826057 2.164494,41.827176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122295">
+          <NODE1_ID>37315</NODE1_ID>
+          <NODE1_NAME>CSPDipToll</NODE1_NAME>
+          <NODE2_ID>76080</NODE2_ID>
+          <NODE2_NAME>CSPFLlado</NODE2_NAME>
+          <KMS>0.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.164494,41.827176 2.165720,41.824901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

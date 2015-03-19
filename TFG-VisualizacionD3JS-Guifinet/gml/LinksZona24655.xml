@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.293460</gml:X><gml:Y>41.596749</gml:Y></gml:coord>
+<gml:coord><gml:X>2.388051</gml:X><gml:Y>41.719862</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="46895">
+          <NODE1_ID>38114</NODE1_ID>
+          <NODE1_NAME>CiSCasaBot</NODE1_NAME>
+          <NODE2_ID>5017</NODE2_ID>
+          <NODE2_NAME>MARCanParera</NODE2_NAME>
+          <KMS>5.811</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334396,41.693001 2.323370,41.641334</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50021">
+          <NODE1_ID>51273</NODE1_ID>
+          <NODE1_NAME>CNVCasellas</NODE1_NAME>
+          <NODE2_ID>5016</NODE2_ID>
+          <NODE2_NAME>MARCanPepe</NODE2_NAME>
+          <KMS>5.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.346946,41.693906 2.312820,41.652398</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68811">
+          <NODE1_ID>64962</NODE1_ID>
+          <NODE1_NAME>SavAneto21</NODE1_NAME>
+          <NODE2_ID>49653</NODE2_ID>
+          <NODE2_NAME>ViverBellLloc</NODE2_NAME>
+          <KMS>0.698</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.371689,41.669009 2.363807,41.666879</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69170">
+          <NODE1_ID>49653</NODE1_ID>
+          <NODE1_NAME>ViverBellLloc</NODE1_NAME>
+          <NODE2_ID>65040</NODE2_ID>
+          <NODE2_NAME>CiSSPVQC8</NODE2_NAME>
+          <KMS>2.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363807,41.666879 2.388051,41.683761</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69171">
+          <NODE1_ID>65205</NODE1_ID>
+          <NODE1_NAME>CiSLaTavella</NODE1_NAME>
+          <NODE2_ID>49653</NODE2_ID>
+          <NODE2_NAME>ViverBellLloc</NODE2_NAME>
+          <KMS>0.863</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.361419,41.674439 2.363807,41.666879</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71455">
+          <NODE1_ID>66981</NODE1_ID>
+          <NODE1_NAME>CiSDani</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313429,41.687808 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75111">
+          <NODE1_ID>28309</NODE1_ID>
+          <NODE1_NAME>CiSRosaleda</NODE1_NAME>
+          <NODE2_ID>60157</NODE2_ID>
+          <NODE2_NAME>CiSTorreParera</NODE2_NAME>
+          <KMS>0.245</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353676,41.688751 2.352377,41.690735</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75405">
+          <NODE1_ID>67307</NODE1_ID>
+          <NODE1_NAME>CRD10SN01</NODE1_NAME>
+          <NODE2_ID>49653</NODE2_ID>
+          <NODE2_NAME>ViverBellLloc</NODE2_NAME>
+          <KMS>5.486</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374334,41.618121 2.363807,41.666879</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75662">
+          <NODE1_ID>65205</NODE1_ID>
+          <NODE1_NAME>CiSLaTavella</NODE1_NAME>
+          <NODE2_ID>49653</NODE2_ID>
+          <NODE2_NAME>ViverBellLloc</NODE2_NAME>
+          <KMS>0.863</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.361419,41.674439 2.363807,41.666879</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77054">
+          <NODE1_ID>24664</NODE1_ID>
+          <NODE1_NAME>CiSCMorera</NODE1_NAME>
+          <NODE2_ID>24662</NODE2_ID>
+          <NODE2_NAME>CiSCGesa</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.352208,41.719862 2.354024,41.713618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77055">
+          <NODE1_ID>36571</NODE1_ID>
+          <NODE1_NAME>CiSCanPou</NODE1_NAME>
+          <NODE2_ID>24664</NODE2_ID>
+          <NODE2_NAME>CiSCMorera</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353925,41.719408 2.352208,41.719862</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77056">
+          <NODE1_ID>24667</NODE1_ID>
+          <NODE1_NAME>CiSCCastells</NODE1_NAME>
+          <NODE2_ID>24664</NODE2_ID>
+          <NODE2_NAME>CiSCMorera</NODE2_NAME>
+          <KMS>1.012</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.350852,41.710811 2.352208,41.719862</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77231">
+          <NODE1_ID>28276</NODE1_ID>
+          <NODE1_NAME>CRD10Estalvis</NODE1_NAME>
+          <NODE2_ID>28309</NODE2_ID>
+          <NODE2_NAME>CiSRosaleda</NODE2_NAME>
+          <KMS>5.19</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363026,41.642547 2.353676,41.688751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79379">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>45191</NODE2_ID>
+          <NODE2_NAME>CiSCanBerenguer</NODE2_NAME>
+          <KMS>6.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.313384,41.688705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80574">
+          <NODE1_ID>74889</NODE1_ID>
+          <NODE1_NAME>CiSXavi</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>10.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363363,41.688280 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121465">
+          <NODE1_ID>24664</NODE1_ID>
+          <NODE1_NAME>CiSCMorera</NODE1_NAME>
+          <NODE2_ID>67296</NODE2_ID>
+          <NODE2_NAME>CRD10FN01</NODE2_NAME>
+          <KMS>9.102</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.352208,41.719862 2.353888,41.637923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122610">
+          <NODE1_ID>68878</NODE1_ID>
+          <NODE1_NAME>CiSBorja</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.976</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313518,41.687791 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

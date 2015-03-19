@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.580160</gml:X><gml:Y>39.363693</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.409895</gml:X><gml:Y>39.460064</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="49035">
+          <NODE1_ID>50483</NODE1_ID>
+          <NODE1_NAME>TorValen86</NODE1_NAME>
+          <NODE2_ID>34620</NODE2_ID>
+          <NODE2_NAME>ALDmmoliner</NODE2_NAME>
+          <KMS>2.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.468473,39.439926 -0.467917,39.460064</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71065">
+          <NODE1_ID>66615</NODE1_ID>
+          <NODE1_NAME>Trrntnucleo29</NODE1_NAME>
+          <NODE2_ID>20531</NODE2_ID>
+          <NODE2_NAME>SILhcor2</NODE2_NAME>
+          <KMS>15.997</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.580160,39.421201 -0.409895,39.363693</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

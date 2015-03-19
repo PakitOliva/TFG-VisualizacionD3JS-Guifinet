@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.517374</gml:X><gml:Y>41.879455</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.534205</gml:X><gml:Y>41.908178</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="32885">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.517374,41.879455</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32885</NODE_ID>
+      <NODE_NAME>SHilSVergaM6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39105">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.534205,41.908178</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39105</NODE_ID>
+      <NODE_NAME>SHSCristina</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65437">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.520059,41.887413</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65437</NODE_ID>
+      <NODE_NAME>SHSLledoners6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

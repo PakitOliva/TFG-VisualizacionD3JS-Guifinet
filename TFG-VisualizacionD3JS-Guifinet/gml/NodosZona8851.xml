@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.614347</gml:X><gml:Y>41.512723</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.676413</gml:X><gml:Y>41.540685</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="8841">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.614347,41.513766</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>8841</NODE_ID>
+      <NODE_NAME>TorreClaramuntPinede</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16899">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.660287,41.534480</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16899</NODE_ID>
+      <NODE_NAME>LTorDCmerce12</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22083">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.648105,41.512723</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22083</NODE_ID>
+      <NODE_NAME>MunichFabrica</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24891">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.676413,41.540663</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24891</NODE_ID>
+      <NODE_NAME>TeDeCL.Prova1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25338">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.675814,41.540685</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25338</NODE_ID>
+      <NODE_NAME>TdCLOliveraCamaro</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33796">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.666220,41.518626</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33796</NODE_ID>
+      <NODE_NAME>TDeCL-LaPoiossa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68329">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.658322,41.533318</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68329</NODE_ID>
+      <NODE_NAME>LaTorreCAjuntament</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54262">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.660153,41.535389</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54262</NODE_ID>
+      <NODE_NAME>Srv</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61578">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.619815,41.519470</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61578</NODE_ID>
+      <NODE_NAME>CarmePinedes</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68194">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.659112,41.534292</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68194</NODE_ID>
+      <NODE_NAME>LaTorreCLocalSocial</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="77157">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.664491,41.539587</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>77157</NODE_ID>
+      <NODE_NAME>LTorDCCDF</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.220166</gml:X><gml:Y>41.614122</gml:Y></gml:coord>
+<gml:coord><gml:X>2.406888</gml:X><gml:Y>41.692058</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="28000">
+          <NODE1_ID>10672</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCanFarell</NODE1_NAME>
+          <NODE2_ID>32840</NODE2_ID>
+          <NODE2_NAME>LAmetllaelSerrat</NODE2_NAME>
+          <KMS>6.518</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.220166,41.632659 2.239446,41.689539</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30225">
+          <NODE1_ID>32673</NODE1_ID>
+          <NODE1_NAME>AmllCanPland</NODE1_NAME>
+          <NODE2_ID>20656</NODE2_ID>
+          <NODE2_NAME>SERCanFont</NODE2_NAME>
+          <KMS>0.854</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.252240,41.648898 2.245248,41.643271</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33636">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>35997</NODE2_ID>
+          <NODE2_NAME>AmetllaJSalo</NODE2_NAME>
+          <KMS>3.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.274009,41.661801</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35234">
+          <NODE1_ID>21156</NODE1_ID>
+          <NODE1_NAME>Amllestornell</NODE1_NAME>
+          <NODE2_ID>8747</NODE2_ID>
+          <NODE2_NAME>LlicaMuntCanXicota</NODE2_NAME>
+          <KMS>8.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.244373,41.692058 2.259386,41.614122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67322">
+          <NODE1_ID>62814</NODE1_ID>
+          <NODE1_NAME>AMLLCanViver4</NODE1_NAME>
+          <NODE2_ID>10669</NODE2_ID>
+          <NODE2_NAME>LFDVSteitec</NODE2_NAME>
+          <KMS>5.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.258835,41.673391 2.300520,41.633535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69005">
+          <NODE1_ID>6110</NODE1_ID>
+          <NODE1_NAME>LFDVCooperativa</NODE1_NAME>
+          <NODE2_ID>55074</NODE2_ID>
+          <NODE2_NAME>AMLLDavid</NODE2_NAME>
+          <KMS>5.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.293460,41.636133 2.248729,41.675504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71014">
+          <NODE1_ID>66594</NODE1_ID>
+          <NODE1_NAME>AMLLWaley</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>2.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.270163,41.651179 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71801">
+          <NODE1_ID>67226</NODE1_ID>
+          <NODE1_NAME>AMLLFrancescaRoig</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>5.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259884,41.674779 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79880">
+          <NODE1_ID>71452</NODE1_ID>
+          <NODE1_NAME>AmetllaMajor13</NODE1_NAME>
+          <NODE2_ID>6110</NODE2_ID>
+          <NODE2_NAME>LFDVCooperativa</NODE2_NAME>
+          <KMS>4.975</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259620,41.673043 2.293460,41.636133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122161">
+          <NODE1_ID>76240</NODE1_ID>
+          <NODE1_NAME>AMLLIonFilter</NODE1_NAME>
+          <NODE2_ID>20742</NODE2_ID>
+          <NODE2_NAME>LDelVcastellvell</NODE2_NAME>
+          <KMS>11.216</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.275891,41.649879 2.406888,41.626635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.373702</gml:X><gml:Y>41.497919</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.389441</gml:X><gml:Y>41.526989</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="44643">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.373702,41.507247</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44643</NODE_ID>
+      <NODE_NAME>VDMParrala</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30634">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.389441,41.526989</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30634</NODE_ID>
+      <NODE_NAME>CdeM</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36937">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.388309,41.510077</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36937</NODE_ID>
+      <NODE_NAME>VDMJeroniMarsal</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64226">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.381088,41.497919</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64226</NODE_ID>
+      <NODE_NAME>VDM-Xinesca</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68922">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.379418,41.498094</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68922</NODE_ID>
+      <NODE_NAME>VdMbeniaminoFarina</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

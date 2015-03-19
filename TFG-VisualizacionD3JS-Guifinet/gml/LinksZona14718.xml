@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.827357</gml:X><gml:Y>41.344417</gml:Y></gml:coord>
+<gml:coord><gml:X>2.140950</gml:X><gml:Y>41.574704</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="17235">
+          <NODE1_ID>14717</NODE1_ID>
+          <NODE1_NAME>CBLLGregal10</NODE1_NAME>
+          <NODE2_ID>15274</NODE2_ID>
+          <NODE2_NAME>HW-Badalona</NODE2_NAME>
+          <KMS>20.096</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901552,41.431488 2.123333,41.361823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17365">
+          <NODE1_ID>15575</NODE1_ID>
+          <NODE1_NAME>Diposits</NODE1_NAME>
+          <NODE2_ID>14717</NODE2_ID>
+          <NODE2_NAME>CBLLGregal10</NODE2_NAME>
+          <KMS>9.963</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.827357,41.501716 1.901552,41.431488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22043">
+          <NODE1_ID>14654</NODE1_ID>
+          <NODE1_NAME>CDVRadioClub</NODE1_NAME>
+          <NODE2_ID>14717</NODE2_ID>
+          <NODE2_NAME>CBLLGregal10</NODE2_NAME>
+          <KMS>20.976</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.140950,41.488386 1.901552,41.431488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23353">
+          <NODE1_ID>28006</NODE1_ID>
+          <NODE1_NAME>CBLLPuigmontmany</NODE1_NAME>
+          <NODE2_ID>28313</NODE2_ID>
+          <NODE2_NAME>CBLLMoixero20</NODE2_NAME>
+          <KMS>3.127</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.939862,41.410663 1.911103,41.428662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28499">
+          <NODE1_ID>27237</NODE1_ID>
+          <NODE1_NAME>CBLLCanRafel</NODE1_NAME>
+          <NODE2_ID>33364</NODE2_ID>
+          <NODE2_NAME>CBLLMestral29</NODE2_NAME>
+          <KMS>3.469</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.932113,41.408540 1.902035,41.430054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29090">
+          <NODE1_ID>33355</NODE1_ID>
+          <NODE1_NAME>CBLLMoixero27</NODE1_NAME>
+          <NODE2_ID>28006</NODE2_ID>
+          <NODE2_NAME>CBLLPuigmontmany</NODE2_NAME>
+          <KMS>3.17</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910736,41.428939 1.939862,41.410663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29101">
+          <NODE1_ID>33354</NODE1_ID>
+          <NODE1_NAME>CBLLMoixero23</NODE1_NAME>
+          <NODE2_ID>33355</NODE2_ID>
+          <NODE2_NAME>CBLLMoixero27</NODE2_NAME>
+          <KMS>0.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910476,41.428821 1.910736,41.428939</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29108">
+          <NODE1_ID>33794</NODE1_ID>
+          <NODE1_NAME>CBLLMestral38</NODE1_NAME>
+          <NODE2_ID>33364</NODE2_ID>
+          <NODE2_NAME>CBLLMestral29</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902410,41.429823 1.902035,41.430054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29805">
+          <NODE1_ID>35077</NODE1_ID>
+          <NODE1_NAME>CBLLMestral38B</NODE1_NAME>
+          <NODE2_ID>33364</NODE2_ID>
+          <NODE2_NAME>CBLLMestral29</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902389,41.429756 1.902035,41.430054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31195">
+          <NODE1_ID>26066</NODE1_ID>
+          <NODE1_NAME>VilTorrent20</NODE1_NAME>
+          <NODE2_ID>29827</NODE2_ID>
+          <NODE2_NAME>CBLLGregal6</NODE2_NAME>
+          <KMS>16.617</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977567,41.570212 1.902620,41.431607</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34977">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34978">
+          <NODE1_ID>20447</NODE1_ID>
+          <NODE1_NAME>CBLLGregal01</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.268</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902515,41.430231 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40238">
+          <NODE1_ID>23044</NODE1_ID>
+          <NODE1_NAME>CBLLMestral12</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>11.615</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900667,41.428337 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60007">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>19.61</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60026">
+          <NODE1_ID>22228</NODE1_ID>
+          <NODE1_NAME>CBLLMestral10</NODE1_NAME>
+          <NODE2_ID>27237</NODE2_ID>
+          <NODE2_NAME>CBLLCanRafel</NODE2_NAME>
+          <KMS>3.444</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900455,41.428380 1.932113,41.408540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60357">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>11.613</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60504">
+          <NODE1_ID>22655</NODE1_ID>
+          <NODE1_NAME>CBLLMestral14</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>9.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900833,41.428390 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62417">
+          <NODE1_ID>22655</NODE1_ID>
+          <NODE1_NAME>CBLLMestral14</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>9.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900833,41.428390 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63255">
+          <NODE1_ID>29827</NODE1_ID>
+          <NODE1_NAME>CBLLGregal6</NODE1_NAME>
+          <NODE2_ID>38759</NODE2_ID>
+          <NODE2_NAME>VILCastellRistol</NODE2_NAME>
+          <KMS>16.383</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902620,41.431607 1.950234,41.574704</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76655">
+          <NODE1_ID>61062</NODE1_ID>
+          <NODE1_NAME>CBLLMestral3</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900206,41.427854 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76657">
+          <NODE1_ID>67640</NODE1_ID>
+          <NODE1_NAME>CBLLMestral15</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900852,41.428801 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76916">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>11.613</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76970">
+          <NODE1_ID>71832</NODE1_ID>
+          <NODE1_NAME>CBLLGrb9</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901203,41.428196 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77296">
+          <NODE1_ID>22859</NODE1_ID>
+          <NODE1_NAME>CBLLGregal8</NODE1_NAME>
+          <NODE2_ID>27237</NODE2_ID>
+          <NODE2_NAME>CBLLCanRafel</NODE2_NAME>
+          <KMS>3.586</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902107,41.431620 1.932113,41.408540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77333">
+          <NODE1_ID>29827</NODE1_ID>
+          <NODE1_NAME>CBLLGregal6</NODE1_NAME>
+          <NODE2_ID>22859</NODE2_ID>
+          <NODE2_NAME>CBLLGregal8</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902620,41.431607 1.902107,41.431620</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

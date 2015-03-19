@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.286889</gml:X><gml:Y>42.325216</gml:Y></gml:coord>
+<gml:coord><gml:X>2.342117</gml:X><gml:Y>42.342183</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="35204">
+          <NODE1_ID>39715</NODE1_ID>
+          <NODE1_NAME>TreguraEstudis</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>4.779</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286889,42.341996 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35935">
+          <NODE1_ID>40390</NODE1_ID>
+          <NODE1_NAME>LlanarsReserves</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>4.919</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.342117,42.325216 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36191">
+          <NODE1_ID>40496</NODE1_ID>
+          <NODE1_NAME>VilallongaCalMestre</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311627,42.331085 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36526">
+          <NODE1_ID>40596</NODE1_ID>
+          <NODE1_NAME>VilallongaXavierMas</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.62</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313918,42.329572 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36559">
+          <NODE1_ID>40537</NODE1_ID>
+          <NODE1_NAME>VilallongaCanPous</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311337,42.330554 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38965">
+          <NODE1_ID>42462</NODE1_ID>
+          <NODE1_NAME>VilallongaJoanBusque</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.449</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312418,42.330720 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38966">
+          <NODE1_ID>40533</NODE1_ID>
+          <NODE1_NAME>VilallongaCalaQuima</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.357</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312220,42.332138 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38967">
+          <NODE1_ID>40497</NODE1_ID>
+          <NODE1_NAME>VilallongaCalSoldat</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311437,42.331391 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41933">
+          <NODE1_ID>45011</NODE1_ID>
+          <NODE1_NAME>VilallongaLaBarruda</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.534</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.314886,42.332574 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48946">
+          <NODE1_ID>50403</NODE1_ID>
+          <NODE1_NAME>VilallongaEnricDigon</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313901,42.329670 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57358">
+          <NODE1_ID>56563</NODE1_ID>
+          <NODE1_NAME>VilallongaElQuer</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311783,42.332503 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61922">
+          <NODE1_ID>59093</NODE1_ID>
+          <NODE1_NAME>VilallongaCalaMianja</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311218,42.331298 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66868">
+          <NODE1_ID>63466</NODE1_ID>
+          <NODE1_NAME>VilallongaSanta</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311870,42.331154 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67857">
+          <NODE1_ID>64283</NODE1_ID>
+          <NODE1_NAME>VillallongaSetcases1</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310463,42.331399 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76434">
+          <NODE1_ID>71501</NODE1_ID>
+          <NODE1_NAME>VilallongaVLinares</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.468</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312319,42.330269 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78810">
+          <NODE1_ID>73353</NODE1_ID>
+          <NODE1_NAME>VilallongaBusquetsXa</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308987,42.332726 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81274">
+          <NODE1_ID>75338</NODE1_ID>
+          <NODE1_NAME>VilallongaElsPous</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>2.461</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312171,42.330211 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122834">
+          <NODE1_ID>76721</NODE1_ID>
+          <NODE1_NAME>VilallongaLaRiba</NODE1_NAME>
+          <NODE2_ID>39715</NODE2_ID>
+          <NODE2_NAME>TreguraEstudis</NODE2_NAME>
+          <KMS>1.392</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.303780,42.342183 2.286889,42.341996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

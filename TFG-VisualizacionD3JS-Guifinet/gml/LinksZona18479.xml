@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.807854</gml:X><gml:Y>41.921307</gml:Y></gml:coord>
+<gml:coord><gml:X>3.195157</gml:X><gml:Y>42.254487</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="29966">
+          <NODE1_ID>34084</NODE1_ID>
+          <NODE1_NAME>PLSMuralla12</NODE1_NAME>
+          <NODE2_ID>21344</NODE2_ID>
+          <NODE2_NAME>PALF-Torretes50</NODE2_NAME>
+          <KMS>5.776</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143356,41.971209 3.162949,41.921307</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30099">
+          <NODE1_ID>35323</NODE1_ID>
+          <NODE1_NAME>PLSMuralla22</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143104,41.971519 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30936">
+          <NODE1_ID>32662</NODE1_ID>
+          <NODE1_NAME>TrrntiMCarreras</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>1.962</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.125181,41.959892 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31136">
+          <NODE1_ID>32662</NODE1_ID>
+          <NODE1_NAME>TrrntiMCarreras</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>2.075</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.125181,41.959892 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32541">
+          <NODE1_ID>37592</NODE1_ID>
+          <NODE1_NAME>PLSPaulCompanyo11</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146794,41.968274 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33116">
+          <NODE1_ID>38090</NODE1_ID>
+          <NODE1_NAME>PLSMuralla19</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143368,41.971064 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33118">
+          <NODE1_ID>38092</NODE1_ID>
+          <NODE1_NAME>PLSJoaquimPi19</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143573,41.971196 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33159">
+          <NODE1_ID>32662</NODE1_ID>
+          <NODE1_NAME>TrrntiMCarreras</NODE1_NAME>
+          <NODE2_ID>38119</NODE2_ID>
+          <NODE2_NAME>PLSPereCollRigau25</NODE2_NAME>
+          <KMS>2.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.125181,41.959892 3.147212,41.968262</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33176">
+          <NODE1_ID>38142</NODE1_ID>
+          <NODE1_NAME>PLSMasPuig</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143321,41.973092 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33178">
+          <NODE1_ID>38113</NODE1_ID>
+          <NODE1_NAME>PLSEnricFort7</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147774,41.969197 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34372">
+          <NODE1_ID>33529</NODE1_ID>
+          <NODE1_NAME>PLSAjuntament</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>2.435</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145223,41.971081 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34778">
+          <NODE1_ID>35324</NODE1_ID>
+          <NODE1_NAME>PLSCaputxa</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.36</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.148806,41.969245 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35129">
+          <NODE1_ID>35336</NODE1_ID>
+          <NODE1_NAME>PLSFont24</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.184</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146435,41.972473 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35698">
+          <NODE1_ID>40220</NODE1_ID>
+          <NODE1_NAME>FNTCLR-IluxArabians</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>4.683</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.123355,41.991931 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36156">
+          <NODE1_ID>40153</NODE1_ID>
+          <NODE1_NAME>PLSLlevadora13</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.155222,41.980342 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36226">
+          <NODE1_ID>40631</NODE1_ID>
+          <NODE1_NAME>PLSLlevadora3</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.425</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.158374,41.978506 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36524">
+          <NODE1_ID>40861</NODE1_ID>
+          <NODE1_NAME>TDeM-TV-PtgeBru6</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>9.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.160649,42.058829 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36576">
+          <NODE1_ID>40888</NODE1_ID>
+          <NODE1_NAME>PLSGaratgeRiera2</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.459</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.157593,41.977789 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36604">
+          <NODE1_ID>40908</NODE1_ID>
+          <NODE1_NAME>PLSPericay27</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.149782,41.967792 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37013">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>41251</NODE2_ID>
+          <NODE2_NAME>PLSLlevadora6</NODE2_NAME>
+          <KMS>1.516</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.157405,41.978901</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37192">
+          <NODE1_ID>41410</NODE1_ID>
+          <NODE1_NAME>PLSAbeurador43</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147355,41.969959 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37369">
+          <NODE1_ID>33529</NODE1_ID>
+          <NODE1_NAME>PLSAjuntament</NODE1_NAME>
+          <NODE2_ID>41451</NODE2_ID>
+          <NODE2_NAME>PLSEnricFort2</NODE2_NAME>
+          <KMS>0.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145223,41.971081 3.147642,41.969165</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37906">
+          <NODE1_ID>41996</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi441</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174236,41.974231 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37907">
+          <NODE1_ID>41997</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi499</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173726,41.974425 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38972">
+          <NODE1_ID>39851</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi190</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.674</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.169566,41.978706 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39207">
+          <NODE1_ID>43070</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi438</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175108,41.974297 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39238">
+          <NODE1_ID>43111</NODE1_ID>
+          <NODE1_NAME>PLSSntJsp11</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.148997,41.969046 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40215">
+          <NODE1_ID>43827</NODE1_ID>
+          <NODE1_NAME>PLSMasPericay</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.917</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.151875,41.965936 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40453">
+          <NODE1_ID>32662</NODE1_ID>
+          <NODE1_NAME>TrrntiMCarreras</NODE1_NAME>
+          <NODE2_ID>40657</NODE2_ID>
+          <NODE2_NAME>PLSVinya8</NODE2_NAME>
+          <KMS>2.509</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.125181,41.959892 3.150668,41.972068</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40504">
+          <NODE1_ID>36894</NODE1_ID>
+          <NODE1_NAME>PLSFondo2</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145915,41.970416 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40521">
+          <NODE1_ID>43950</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi455A</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173697,41.974982 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40737">
+          <NODE1_ID>44205</NODE1_ID>
+          <NODE1_NAME>PLSCanPereni</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>2.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175102,41.997129 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41013">
+          <NODE1_ID>44423</NODE1_ID>
+          <NODE1_NAME>PLSVinya17</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.588</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.152094,41.972406 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41195">
+          <NODE1_ID>44619</NODE1_ID>
+          <NODE1_NAME>PLSLaVila</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145911,41.970173 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41793">
+          <NODE1_ID>42917</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi527</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.172210,41.975752 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41813">
+          <NODE1_ID>45121</NODE1_ID>
+          <NODE1_NAME>PLSLaMina7</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>1.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143131,41.970337 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42075">
+          <NODE1_ID>45396</NODE1_ID>
+          <NODE1_NAME>PLSJoaquimPi9</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.144383,41.970951 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42922">
+          <NODE1_ID>46066</NODE1_ID>
+          <NODE1_NAME>PLSAbeurador37</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146797,41.969738 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43845">
+          <NODE1_ID>46711</NODE1_ID>
+          <NODE1_NAME>PLSLaMina11</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>1.912</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143334,41.970514 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43878">
+          <NODE1_ID>46751</NODE1_ID>
+          <NODE1_NAME>PrtlldOverland</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>5.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.105049,41.972076 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44449">
+          <NODE1_ID>46972</NODE1_ID>
+          <NODE1_NAME>PLSTRRocaPaloua</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>6.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.103691,41.986053 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44458">
+          <NODE1_ID>47095</NODE1_ID>
+          <NODE1_NAME>PLSCarmany22</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.150300,41.969504 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44551">
+          <NODE1_ID>47158</NODE1_ID>
+          <NODE1_NAME>PLSPins69</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.169808,41.984148 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44619">
+          <NODE1_ID>47212</NODE1_ID>
+          <NODE1_NAME>SFBViladeVall60</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>4.226</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.123422,41.975337 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45126">
+          <NODE1_ID>47307</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi508B</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174016,41.974722 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45589">
+          <NODE1_ID>47989</NODE1_ID>
+          <NODE1_NAME>PLSTrasam9</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.529</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.150743,41.968690 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45829">
+          <NODE1_ID>34084</NODE1_ID>
+          <NODE1_NAME>PLSMuralla12</NODE1_NAME>
+          <NODE2_ID>48149</NODE2_ID>
+          <NODE2_NAME>PLSJoaquimPi21</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143356,41.971209 3.143545,41.971297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46700">
+          <NODE1_ID>34740</NODE1_ID>
+          <NODE1_NAME>GualtaLlavia7</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>8.546</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.103224,42.029525 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46967">
+          <NODE1_ID>48966</NODE1_ID>
+          <NODE1_NAME>PLSMsTms295</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174452,41.974109 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47556">
+          <NODE1_ID>49430</NODE1_ID>
+          <NODE1_NAME>PLSMajor6</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>2.491</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.144496,41.971351 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48772">
+          <NODE1_ID>50280</NODE1_ID>
+          <NODE1_NAME>PLSEnginyerAlgarra15</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.149091,41.971566 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48813">
+          <NODE1_ID>50303</NODE1_ID>
+          <NODE1_NAME>TdMmaspinell</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>4.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.193566,42.008833 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49241">
+          <NODE1_ID>50501</NODE1_ID>
+          <NODE1_NAME>PLSAmetllers41</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.170682,41.983933 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49378">
+          <NODE1_ID>50754</NODE1_ID>
+          <NODE1_NAME>PLSTRforques</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>5.448</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.110201,41.984440 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49458">
+          <NODE1_ID>33529</NODE1_ID>
+          <NODE1_NAME>PLSAjuntament</NODE1_NAME>
+          <NODE2_ID>50816</NODE2_ID>
+          <NODE2_NAME>PLSAbeurador7</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145223,41.971081 3.146073,41.970306</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49461">
+          <NODE1_ID>50817</NODE1_ID>
+          <NODE1_NAME>PLSRaval29</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145626,41.971526 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50008">
+          <NODE1_ID>51260</NODE1_ID>
+          <NODE1_NAME>TdM-Pinsa69</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>4.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192428,42.007618 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50134">
+          <NODE1_ID>51361</NODE1_ID>
+          <NODE1_NAME>PLSPins</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.170089,41.983487 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50947">
+          <NODE1_ID>52019</NODE1_ID>
+          <NODE1_NAME>PLSQuermany24</NODE1_NAME>
+          <NODE2_ID>32662</NODE2_ID>
+          <NODE2_NAME>TrrntiMCarreras</NODE2_NAME>
+          <KMS>2.502</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.152277,41.969817 3.125181,41.959892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51717">
+          <NODE1_ID>52579</NODE1_ID>
+          <NODE1_NAME>PLSPins22</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.213</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.170304,41.984298 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51971">
+          <NODE1_ID>52726</NODE1_ID>
+          <NODE1_NAME>PLSPlaceres19</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>2.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143897,41.971222 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52225">
+          <NODE1_ID>52938</NODE1_ID>
+          <NODE1_NAME>PLSAbeurador6</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>2.446</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145175,41.970632 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52333">
+          <NODE1_ID>52439</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi469</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175100,41.975151 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52795">
+          <NODE1_ID>53316</NODE1_ID>
+          <NODE1_NAME>PLSLaFont10</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146172,41.972456 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54549">
+          <NODE1_ID>54520</NODE1_ID>
+          <NODE1_NAME>PLSJoaquimPi11-15</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143692,41.971111 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55000">
+          <NODE1_ID>54348</NODE1_ID>
+          <NODE1_NAME>PLSAvMediterrania101</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.159473,41.978732 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55278">
+          <NODE1_ID>54981</NODE1_ID>
+          <NODE1_NAME>PrtlldCnFrigola</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>7.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.088961,41.975101 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60028">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>42918</NODE2_ID>
+          <NODE2_NAME>SFBVilademunt26</NODE2_NAME>
+          <KMS>4.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.126160,41.970224</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60112">
+          <NODE1_ID>58503</NODE1_ID>
+          <NODE1_NAME>PLSBarriMoli1</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>3.706</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146990,42.000196 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60188">
+          <NODE1_ID>58545</NODE1_ID>
+          <NODE1_NAME>PLSSamaria52</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.148508,41.969724 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61235">
+          <NODE1_ID>59315</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi480</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175078,41.975388 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61943">
+          <NODE1_ID>59753</NODE1_ID>
+          <NODE1_NAME>PLSBiblioteca</NODE1_NAME>
+          <NODE2_ID>21344</NODE2_ID>
+          <NODE2_NAME>PALF-Torretes50</NODE2_NAME>
+          <KMS>5.444</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146918,41.968840 3.162949,41.921307</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61944">
+          <NODE1_ID>59753</NODE1_ID>
+          <NODE1_NAME>PLSBiblioteca</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.286</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146918,41.968840 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62019">
+          <NODE1_ID>59856</NODE1_ID>
+          <NODE1_NAME>PLSmastomasi355</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173592,41.973257 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62107">
+          <NODE1_ID>59919</NODE1_ID>
+          <NODE1_NAME>FrllcCaJony</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>8.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.075735,41.981032 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64438">
+          <NODE1_ID>61635</NODE1_ID>
+          <NODE1_NAME>PLSAbeurador6A</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145149,41.970634 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64632">
+          <NODE1_ID>33529</NODE1_ID>
+          <NODE1_NAME>PLSAjuntament</NODE1_NAME>
+          <NODE2_ID>61775</NODE2_ID>
+          <NODE2_NAME>PLSCrmny7</NODE2_NAME>
+          <KMS>0.362</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145223,41.971081 3.149278,41.969880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65585">
+          <NODE1_ID>61106</NODE1_ID>
+          <NODE1_NAME>PLSCarmany6</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.149310,41.969676 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66130">
+          <NODE1_ID>62958</NODE1_ID>
+          <NODE1_NAME>PLSMuralla35</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143113,41.971625 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66316">
+          <NODE1_ID>63046</NODE1_ID>
+          <NODE1_NAME>PLSFont17</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>2.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.145901,41.972558 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66900">
+          <NODE1_ID>63529</NODE1_ID>
+          <NODE1_NAME>PLSAbeurador1</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146073,41.970306 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67412">
+          <NODE1_ID>63971</NODE1_ID>
+          <NODE1_NAME>RupAmple3</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>14.523</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.010589,42.020403 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67776">
+          <NODE1_ID>64209</NODE1_ID>
+          <NODE1_NAME>PLSLlevadora18</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.61</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.156338,41.979204 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67853">
+          <NODE1_ID>64279</NODE1_ID>
+          <NODE1_NAME>TDeMHospital16</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>8.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.126695,42.039251 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68227">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>63918</NODE2_ID>
+          <NODE2_NAME>GualtaMajor37</NODE2_NAME>
+          <KMS>8.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.103603,42.027528</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70600">
+          <NODE1_ID>66265</NODE1_ID>
+          <NODE1_NAME>PLSFont32</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146383,41.972664 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71138">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>9.034</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72513">
+          <NODE1_ID>67818</NODE1_ID>
+          <NODE1_NAME>PLSMuralla17</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.143356,41.971209 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73211">
+          <NODE1_ID>68567</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi491</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175612,41.975746 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73338">
+          <NODE1_ID>68717</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi495</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>8.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174512,41.974606 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73829">
+          <NODE1_ID>67199</NODE1_ID>
+          <NODE1_NAME>TDeM-Tramun24</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>8.76</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.122695,42.042623 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73853">
+          <NODE1_ID>57549</NODE1_ID>
+          <NODE1_NAME>PLSLaFont28</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146172,41.972456 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73854">
+          <NODE1_ID>40887</NODE1_ID>
+          <NODE1_NAME>PLSLlevadora21</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>1.594</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.156209,41.978536 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74411">
+          <NODE1_ID>69524</NODE1_ID>
+          <NODE1_NAME>LLadoCanpins</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>42.065</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.807854,42.254487 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75816">
+          <NODE1_ID>66583</NODE1_ID>
+          <NODE1_NAME>FoixaCamiCuells23</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>16.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.995142,42.037331 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76133">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>70197</NODE2_ID>
+          <NODE2_NAME>TDeM-TV-PtgeBru2</NODE2_NAME>
+          <KMS>9.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.160541,42.058783</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76264">
+          <NODE1_ID>70126</NODE1_ID>
+          <NODE1_NAME>PLSPrtPls</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>5.967</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.195157,42.000271 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76656">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>27940</NODE2_ID>
+          <NODE2_NAME>VergesMasLLop</NODE2_NAME>
+          <KMS>15.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.031712,42.067236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76658">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>27940</NODE2_ID>
+          <NODE2_NAME>VergesMasLLop</NODE2_NAME>
+          <KMS>15.726</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.031712,42.067236</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76891">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>71834</NODE2_ID>
+          <NODE2_NAME>TdMAeroclub</NODE2_NAME>
+          <KMS>4.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.153495,42.008574</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77107">
+          <NODE1_ID>72042</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi497</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>8.949</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174292,41.974602 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77148">
+          <NODE1_ID>61677</NODE1_ID>
+          <NODE1_NAME>MdmPuigMagrana</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>20.564</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.926486,41.981898 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77598">
+          <NODE1_ID>72522</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi494B</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>8.939</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174891,41.974612 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77843">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>69140</NODE2_ID>
+          <NODE2_NAME>StrttAvMaresme59</NODE2_NAME>
+          <KMS>9.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.161820,42.057904</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78176">
+          <NODE1_ID>66667</NODE1_ID>
+          <NODE1_NAME>StrttMdtrrania122</NODE1_NAME>
+          <NODE2_ID>73011</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi123B</NODE2_NAME>
+          <KMS>9.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192890,42.053967 3.170493,41.973573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78756">
+          <NODE1_ID>73433</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi502</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>9.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.172930,41.974001 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79014">
+          <NODE1_ID>73639</NODE1_ID>
+          <NODE1_NAME>PLSMsTms503</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>9.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173010,41.974232 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79034">
+          <NODE1_ID>73641</NODE1_ID>
+          <NODE1_NAME>PLSMTDltms191</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>8.519</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.168011,41.979544 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79919">
+          <NODE1_ID>74423</NODE1_ID>
+          <NODE1_NAME>PLSJoaquimPi10</NODE1_NAME>
+          <NODE2_ID>34084</NODE2_ID>
+          <NODE2_NAME>PLSMuralla12</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.144123,41.970978 3.143356,41.971209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80776">
+          <NODE1_ID>75023</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi258</NODE1_NAME>
+          <NODE2_ID>66667</NODE2_ID>
+          <NODE2_NAME>StrttMdtrrania122</NODE2_NAME>
+          <KMS>8.549</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.165805,41.979694 3.192890,42.053967</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121763">
+          <NODE1_ID>75967</NODE1_ID>
+          <NODE1_NAME>PLSAbeurador41</NODE1_NAME>
+          <NODE2_ID>33529</NODE2_ID>
+          <NODE2_NAME>PLSAjuntament</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147277,41.969946 3.145223,41.971081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123007">
+          <NODE1_ID>76345</NODE1_ID>
+          <NODE1_NAME>RupBisbe6</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>14.503</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.010680,42.020073 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123015">
+          <NODE1_ID>76882</NODE1_ID>
+          <NODE1_NAME>TDeMPCasals144b</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>8.753</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.130288,42.045428 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123680">
+          <NODE1_ID>50976</NODE1_ID>
+          <NODE1_NAME>PLSCarles</NODE1_NAME>
+          <NODE2_ID>39156</NODE2_ID>
+          <NODE2_NAME>PLSMasTomasi324</NODE2_NAME>
+          <KMS>0.973</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.163978,41.977892 3.174373,41.973812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123750">
+          <NODE1_ID>39156</NODE1_ID>
+          <NODE1_NAME>PLSMasTomasi324</NODE1_NAME>
+          <NODE2_ID>62961</NODE2_ID>
+          <NODE2_NAME>PLSBernaga15</NODE2_NAME>
+          <KMS>2.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174373,41.973812 3.179963,41.997747</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

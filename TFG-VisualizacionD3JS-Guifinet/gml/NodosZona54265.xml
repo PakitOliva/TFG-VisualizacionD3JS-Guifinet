@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.657758</gml:X><gml:Y>41.760913</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.657758</gml:X><gml:Y>41.760913</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="47065">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.657758,41.760913</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47065</NODE_ID>
+      <NODE_NAME>MssnsMasFerran</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

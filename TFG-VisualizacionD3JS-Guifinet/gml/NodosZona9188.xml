@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.398932</gml:X><gml:Y>42.069600</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.507376</gml:X><gml:Y>42.185289</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="61202">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.457403,42.118570</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61202</NODE_ID>
+      <NODE_NAME>BasTelecentre</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35702">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.462225,42.146952</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35702</NODE_ID>
+      <NODE_NAME>Lpresavcons20</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="10932">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.407173,42.073565</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>10932</NODE_ID>
+      <NODE_NAME>VallBasCabrera</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="11267">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.410096,42.153586</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>11267</NODE_ID>
+      <NODE_NAME>SantPrivat-pep</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24339">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.474032,42.147977</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24339</NODE_ID>
+      <NODE_NAME>Lpresvolraco</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61201">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.459106,42.117680</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61201</NODE_ID>
+      <NODE_NAME>Basajuntament</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76415">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.450477,42.120818</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76415</NODE_ID>
+      <NODE_NAME>GECAalberg</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22123">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.435660,42.168681</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22123</NODE_ID>
+      <NODE_NAME>PnyLaVall</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22798">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.473469,42.159474</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22798</NODE_ID>
+      <NODE_NAME>LprsSummerCamp</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="22918">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.442355,42.174241</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22918</NODE_ID>
+      <NODE_NAME>PnySolei</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23157">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.442141,42.173643</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23157</NODE_ID>
+      <NODE_NAME>LPinCJ</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23601">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.444485,42.173709</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23601</NODE_ID>
+      <NODE_NAME>PnyDAlt</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24092">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.468727,42.155555</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24092</NODE_ID>
+      <NODE_NAME>Lprspolceci</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24427">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.459918,42.144039</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24427</NODE_ID>
+      <NODE_NAME>LprsSebastia19</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24499">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.474037,42.148346</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24499</NODE_ID>
+      <NODE_NAME>LprsVracomas</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24907">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.410272,42.069600</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24907</NODE_ID>
+      <NODE_NAME>Vic-Olot</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25128">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.442827,42.160132</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25128</NODE_ID>
+      <NODE_NAME>VnCiFelic</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25209">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.483886,42.151564</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25209</NODE_ID>
+      <NODE_NAME>Lprssendo1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25210">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.484155,42.151462</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25210</NODE_ID>
+      <NODE_NAME>Lprssendo2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25399">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.459940,42.143559</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25399</NODE_ID>
+      <NODE_NAME>LprsCVinyas</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="25765">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.445960,42.185289</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25765</NODE_ID>
+      <NODE_NAME>PnyLaEscoleta</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26326">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.443449,42.174602</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26326</NODE_ID>
+      <NODE_NAME>PnylCentraS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26558">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.439276,42.085931</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26558</NODE_ID>
+      <NODE_NAME>flbasRefugi</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26835">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.441561,42.108738</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26835</NODE_ID>
+      <NODE_NAME>VDenBLMAulina</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27054">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.455080,42.166017</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27054</NODE_ID>
+      <NODE_NAME>Pnyabril</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27210">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.465049,42.087218</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27210</NODE_ID>
+      <NODE_NAME>HtbsMnou</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27933">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.461456,42.148821</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27933</NODE_ID>
+      <NODE_NAME>LprsClavell5</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27780">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.446765,42.151946</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27780</NODE_ID>
+      <NODE_NAME>VnCiCalaCarme</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28051">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.430489,42.133349</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28051</NODE_ID>
+      <NODE_NAME>PgprMasLlopar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29992">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.459923,42.121183</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29992</NODE_ID>
+      <NODE_NAME>VBasLaComa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28820">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.435703,42.169053</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28820</NODE_ID>
+      <NODE_NAME>Pnycansobeies</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28923">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.437978,42.124989</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28923</NODE_ID>
+      <NODE_NAME>La_Feixa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29692">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.445188,42.184582</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29692</NODE_ID>
+      <NODE_NAME>Pnyllavor2</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29750">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.427120,42.173160</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29750</NODE_ID>
+      <NODE_NAME>Pnytomas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30989">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.426141,42.118932</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30989</NODE_ID>
+      <NODE_NAME>Cabrero</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31682">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.458727,42.117620</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31682</NODE_ID>
+      <NODE_NAME>VbasCanBielic</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32236">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.473512,42.153764</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32236</NODE_ID>
+      <NODE_NAME>LprsLeiaales</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32852">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.431422,42.102103</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32852</NODE_ID>
+      <NODE_NAME>SantMiquel</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33509">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.445745,42.152591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33509</NODE_ID>
+      <NODE_NAME>MlllSdr</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36773">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.462547,42.143956</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36773</NODE_ID>
+      <NODE_NAME>LprsESeva</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48379">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.461018,42.141729</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48379</NODE_ID>
+      <NODE_NAME>LpresBplassa</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37861">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.458202,42.118193</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37861</NODE_ID>
+      <NODE_NAME>BasstRafael5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38800">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.462692,42.143783</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38800</NODE_ID>
+      <NODE_NAME>LpresCJosep</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40566">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.460691,42.164691</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40566</NODE_ID>
+      <NODE_NAME>LprsLaCodella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42225">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.507376,42.076701</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42225</NODE_ID>
+      <NODE_NAME>StFPdlpg20</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44028">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.420468,42.147684</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44028</NODE_ID>
+      <NODE_NAME>vdllconmasdeu</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76399">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.439242,42.086052</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76399</NODE_ID>
+      <NODE_NAME>GECAfalgars</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46308">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.443640,42.173968</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46308</NODE_ID>
+      <NODE_NAME>PinyaRauta</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47612">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.458746,42.117668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47612</NODE_ID>
+      <NODE_NAME>VBasAHCanBielic</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60074">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.433895,42.157481</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60074</NODE_ID>
+      <NODE_NAME>VDenPuigBuri</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54681">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.458773,42.118316</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54681</NODE_ID>
+      <NODE_NAME>Basmajor9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54738">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.459484,42.117799</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54738</NODE_ID>
+      <NODE_NAME>VBasAHCanTianova</NODE_NAME>
+      <NODE_TYPE>ad-hoc</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60302">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.441481,42.106916</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60302</NODE_ID>
+      <NODE_NAME>BasCanturon</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68989">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.457772,42.136251</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68989</NODE_ID>
+      <NODE_NAME>MslCrs</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.488331,42.140737</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69023</NODE_ID>
+      <NODE_NAME>Antiga</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69050">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.463319,42.092543</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69050</NODE_ID>
+      <NODE_NAME>VasPardal</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69061">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.452134,42.139816</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69061</NODE_ID>
+      <NODE_NAME>LpresLaGranja</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70103">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.458190,42.142468</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70103</NODE_ID>
+      <NODE_NAME>EstacioLesPreses</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71644">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.398932,42.133576</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71644</NODE_ID>
+      <NODE_NAME>SpDBasRefugimont</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

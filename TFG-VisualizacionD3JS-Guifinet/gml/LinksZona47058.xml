@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.465707</gml:X><gml:Y>40.294073</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.292758</gml:X><gml:Y>40.364854</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44881">
+          <NODE1_ID>47414</NODE1_ID>
+          <NODE1_NAME>Mos_Ayuntamiento</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.624</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448841,40.361155 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44883">
+          <NODE1_ID>47059</NODE1_ID>
+          <NODE1_NAME>Mos_RepTV</NODE1_NAME>
+          <NODE2_ID>22445</NODE2_ID>
+          <NODE2_NAME>Vistbll-Preso</NODE2_NAME>
+          <KMS>16.147</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465707,40.354263 -0.292758,40.294073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46032">
+          <NODE1_ID>48260</NODE1_ID>
+          <NODE1_NAME>Mos_AgustinGargallo</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449945,40.361709 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47793">
+          <NODE1_ID>49621</NODE1_ID>
+          <NODE1_NAME>Mos_ManuelLazaro</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.946</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.445280,40.362204 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47796">
+          <NODE1_ID>49623</NODE1_ID>
+          <NODE1_NAME>Mos_GasparMonforte</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.858</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.446374,40.362089 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49168">
+          <NODE1_ID>47059</NODE1_ID>
+          <NODE1_NAME>Mos_RepTV</NODE1_NAME>
+          <NODE2_ID>50599</NODE2_ID>
+          <NODE2_NAME>Mos_MaribelGil</NODE2_NAME>
+          <KMS>1.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465707,40.354263 -0.447468,40.360951</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50526">
+          <NODE1_ID>51719</NODE1_ID>
+          <NODE1_NAME>Mos_OscarMonforteGil</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.557</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449828,40.361269 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52065">
+          <NODE1_ID>52811</NODE1_ID>
+          <NODE1_NAME>Mos_SecaJamoSerrania</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447671,40.359520 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52067">
+          <NODE1_ID>52812</NODE1_ID>
+          <NODE1_NAME>Mos-MLuisaGarciaGil</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448219,40.361760 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52200">
+          <NODE1_ID>52914</NODE1_ID>
+          <NODE1_NAME>Mos_JulioGuillenTena</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448852,40.360558 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52201">
+          <NODE1_ID>52917</NODE1_ID>
+          <NODE1_NAME>Mos_RafaelGomezAltab</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.591</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449195,40.361032 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52202">
+          <NODE1_ID>52919</NODE1_ID>
+          <NODE1_NAME>Mos_EstrellaGomezSol</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449013,40.360587 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52472">
+          <NODE1_ID>47059</NODE1_ID>
+          <NODE1_NAME>Mos_RepTV</NODE1_NAME>
+          <NODE2_ID>53103</NODE2_ID>
+          <NODE2_NAME>Mos_DiegoSantosMarti</NODE2_NAME>
+          <KMS>1.878</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465707,40.354263 -0.448465,40.364854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52474">
+          <NODE1_ID>47059</NODE1_ID>
+          <NODE1_NAME>Mos_RepTV</NODE1_NAME>
+          <NODE2_ID>53104</NODE2_ID>
+          <NODE2_NAME>Mos_LuisMiguelRubioR</NODE2_NAME>
+          <KMS>1.735</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465707,40.354263 -0.446700,40.359986</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52537">
+          <NODE1_ID>53157</NODE1_ID>
+          <NODE1_NAME>msprb</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.683</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449452,40.362925 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52815">
+          <NODE1_ID>53329</NODE1_ID>
+          <NODE1_NAME>Mos_MariaPilarGargal</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447285,40.359961 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52995">
+          <NODE1_ID>53454</NODE1_ID>
+          <NODE1_NAME>Mos_VillarCamposGil</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.693</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449351,40.362982 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53213">
+          <NODE1_ID>53636</NODE1_ID>
+          <NODE1_NAME>Mos_NatiGuillamonMon</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447382,40.359970 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53339">
+          <NODE1_ID>53745</NODE1_ID>
+          <NODE1_NAME>Mos_JuanCarGarchGali</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447709,40.358915 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53468">
+          <NODE1_ID>53852</NODE1_ID>
+          <NODE1_NAME>Mos_FernandoTenaMont</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.684</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448288,40.361502 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54322">
+          <NODE1_ID>54378</NODE1_ID>
+          <NODE1_NAME>Mos_MateoFerCastGil</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.789</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.446137,40.360223 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54442">
+          <NODE1_ID>53758</NODE1_ID>
+          <NODE1_NAME>Mos_ManuelLinares</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.719</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447422,40.360891 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57188">
+          <NODE1_ID>56451</NODE1_ID>
+          <NODE1_NAME>Mos_FranciscaPerisTe</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448895,40.360182 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61385">
+          <NODE1_ID>59413</NODE1_ID>
+          <NODE1_NAME>Mos_AnaGomezPuig</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.668</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449308,40.362522 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61394">
+          <NODE1_ID>59419</NODE1_ID>
+          <NODE1_NAME>Mos_JuananGomezPuig</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.491</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.450539,40.361018 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62500">
+          <NODE1_ID>60199</NODE1_ID>
+          <NODE1_NAME>Mos_NoelGuillenGomez</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.51</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449783,40.360299 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67106">
+          <NODE1_ID>63662</NODE1_ID>
+          <NODE1_NAME>Mos_JuanManuelGargal</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.601</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448968,40.360884 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68319">
+          <NODE1_ID>64619</NODE1_ID>
+          <NODE1_NAME>Mos_TalleresMosquer</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.445735,40.360002 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69774">
+          <NODE1_ID>65675</NODE1_ID>
+          <NODE1_NAME>Mos_RubenMonforteGar</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.719</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447988,40.361734 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69784">
+          <NODE1_ID>65687</NODE1_ID>
+          <NODE1_NAME>Mos_AsuncionCamposDo</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.797</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447096,40.361965 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71925">
+          <NODE1_ID>67348</NODE1_ID>
+          <NODE1_NAME>Mos_M.DoloresPradesD</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.562</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.449510,40.360915 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75900">
+          <NODE1_ID>70676</NODE1_ID>
+          <NODE1_NAME>Mos_CristinaPonzGil</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.702</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.447414,40.360514 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77007">
+          <NODE1_ID>71941</NODE1_ID>
+          <NODE1_NAME>Mos_FernandoLopezLap</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.692</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.448432,40.361847 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77486">
+          <NODE1_ID>72410</NODE1_ID>
+          <NODE1_NAME>MOS_jesusriquelme</NODE1_NAME>
+          <NODE2_ID>47059</NODE2_ID>
+          <NODE2_NAME>Mos_RepTV</NODE2_NAME>
+          <KMS>1.842</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.446241,40.361573 -0.465707,40.354263</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123001">
+          <NODE1_ID>47059</NODE1_ID>
+          <NODE1_NAME>Mos_RepTV</NODE1_NAME>
+          <NODE2_ID>76872</NODE2_ID>
+          <NODE2_NAME>Mosqueruela_Residenc</NODE2_NAME>
+          <KMS>1.654</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.465707,40.354263 -0.448124,40.360654</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

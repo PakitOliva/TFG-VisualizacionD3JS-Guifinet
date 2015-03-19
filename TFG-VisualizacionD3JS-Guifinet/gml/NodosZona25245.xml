@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>0.474503</gml:X><gml:Y>40.539557</gml:Y></gml:coord>
+      <gml:coord><gml:X>0.567920</gml:X><gml:Y>40.597623</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="76893">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.477857,40.545956</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76893</NODE_ID>
+      <NODE_NAME>ALCNAquitecteGaudi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23567">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.567920,40.597623</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23567</NODE_ID>
+      <NODE_NAME>AlcSerramar</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56684">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.562289,40.592554</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56684</NODE_ID>
+      <NODE_NAME>Redgaxon</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70634">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.478674,40.545045</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70634</NODE_ID>
+      <NODE_NAME>ALCNcarrersantantoni</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48310">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.481248,40.545998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48310</NODE_ID>
+      <NODE_NAME>ALC-ITGV-1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74966">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.474503,40.539557</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74966</NODE_ID>
+      <NODE_NAME>ALCNTiranLoBlanc2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74968">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>0.482912,40.541506</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74968</NODE_ID>
+      <NODE_NAME>ALCNAspirantSantJord</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

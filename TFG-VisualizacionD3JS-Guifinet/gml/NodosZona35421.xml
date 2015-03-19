@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.585459</gml:X><gml:Y>40.963713</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.582087</gml:X><gml:Y>40.966825</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="38771">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.584189,40.965316</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38771</NODE_ID>
+      <NODE_NAME>MJRconstitucion1ayto</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39310">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.582358,40.963713</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39310</NODE_ID>
+      <NODE_NAME>MJRIglesia16</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39311">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.585459,40.966524</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39311</NODE_ID>
+      <NODE_NAME>MJRFresno20</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40149">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.583296,40.965417</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40149</NODE_ID>
+      <NODE_NAME>MJRestrella8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42411">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.582087,40.966825</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42411</NODE_ID>
+      <NODE_NAME>MNJCanteras2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

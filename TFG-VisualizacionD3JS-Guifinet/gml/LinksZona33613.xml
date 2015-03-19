@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.177251</gml:X><gml:Y>38.801113</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.157864</gml:X><gml:Y>38.830470</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="30477">
+          <NODE1_ID>33614</NODE1_ID>
+          <NODE1_NAME>eboreptv</NODE1_NAME>
+          <NODE2_ID>33611</NODE2_ID>
+          <NODE2_NAME>gallineraxillibre</NODE2_NAME>
+          <KMS>3.443</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164478,38.801113 -0.177251,38.830470</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30479">
+          <NODE1_ID>33615</NODE1_ID>
+          <NODE1_NAME>eboajuntament</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.661</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159484,38.805601 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30722">
+          <NODE1_ID>35860</NODE1_ID>
+          <NODE1_NAME>VEboPiscinaMunicipal</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.161271,38.803604 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32888">
+          <NODE1_ID>37610</NODE1_ID>
+          <NODE1_NAME>EBOmarinalta13</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.708</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159130,38.805922 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32889">
+          <NODE1_ID>37909</NODE1_ID>
+          <NODE1_NAME>EBOsantantoni6</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.616</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159355,38.804952 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32958">
+          <NODE1_ID>37611</NODE1_ID>
+          <NODE1_NAME>EBOmarinalta11</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.702</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159270,38.805947 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32959">
+          <NODE1_ID>37604</NODE1_ID>
+          <NODE1_NAME>EBOmarcelino8</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.655</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159345,38.805433 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33163">
+          <NODE1_ID>33614</NODE1_ID>
+          <NODE1_NAME>eboreptv</NODE1_NAME>
+          <NODE2_ID>38085</NODE2_ID>
+          <NODE2_NAME>EboAnt8</NODE2_NAME>
+          <KMS>0.588</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.164478,38.801113 -0.159109,38.804333</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33218">
+          <NODE1_ID>38184</NODE1_ID>
+          <NODE1_NAME>EBOleseres11</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158513,38.804095 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33219">
+          <NODE1_ID>38185</NODE1_ID>
+          <NODE1_NAME>EBOleseres30</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158443,38.804007 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33997">
+          <NODE1_ID>38885</NODE1_ID>
+          <NODE1_NAME>EBOplazamayor6</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.637</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159675,38.805447 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33998">
+          <NODE1_ID>38886</NODE1_ID>
+          <NODE1_NAME>EBOplazamayor4</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159795,38.805433 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33999">
+          <NODE1_ID>38418</NODE1_ID>
+          <NODE1_NAME>EBOcarrerMajor5</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159806,38.805462 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34000">
+          <NODE1_ID>37915</NODE1_ID>
+          <NODE1_NAME>EBOeres77</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158250,38.803982 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34644">
+          <NODE1_ID>39342</NODE1_ID>
+          <NODE1_NAME>EBOcarrermajor4</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.625</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159675,38.805307 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34837">
+          <NODE1_ID>39519</NODE1_ID>
+          <NODE1_NAME>BenisuaiDavid</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.708</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158406,38.805362 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34880">
+          <NODE1_ID>39554</NODE1_ID>
+          <NODE1_NAME>Benisuai</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.715</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158304,38.805374 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36133">
+          <NODE1_ID>40546</NODE1_ID>
+          <NODE1_NAME>EboSanMiguel11</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.747</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.157864,38.805412 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36961">
+          <NODE1_ID>40905</NODE1_ID>
+          <NODE1_NAME>EBOcarrerdelmig18</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.659</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159152,38.805345 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36965">
+          <NODE1_ID>41210</NODE1_ID>
+          <NODE1_NAME>EBOavdblascoibanez20</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159688,38.804764 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37063">
+          <NODE1_ID>37405</NODE1_ID>
+          <NODE1_NAME>Beniaio24</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.636</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159109,38.805010 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42933">
+          <NODE1_ID>46079</NODE1_ID>
+          <NODE1_NAME>pacopusa</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.776</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158198,38.806086 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42940">
+          <NODE1_ID>37405</NODE1_ID>
+          <NODE1_NAME>Beniaio24</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.636</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.159109,38.805010 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44144">
+          <NODE1_ID>46942</NODE1_ID>
+          <NODE1_NAME>EBOcarrerdebaix</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.621</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158106,38.803643 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72939">
+          <NODE1_ID>68246</NODE1_ID>
+          <NODE1_NAME>EBOsaragossa10</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.697</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158277,38.805092 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77865">
+          <NODE1_ID>72756</NODE1_ID>
+          <NODE1_NAME>EboBlascoIba14</NODE1_NAME>
+          <NODE2_ID>33614</NODE2_ID>
+          <NODE2_NAME>eboreptv</NODE2_NAME>
+          <KMS>0.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158942,38.804746 -0.164478,38.801113</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

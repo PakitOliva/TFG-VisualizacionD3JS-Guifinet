@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.857344</gml:X><gml:Y>41.474550</gml:Y></gml:coord>
+<gml:coord><gml:X>1.981058</gml:X><gml:Y>41.536088</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="34820">
+          <NODE1_ID>39488</NODE1_ID>
+          <NODE1_NAME>CTBB-elLokal</NODE1_NAME>
+          <NODE2_ID>33130</NODE2_ID>
+          <NODE2_NAME>CTBB-santmiquel46</NODE2_NAME>
+          <KMS>0.213</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981058,41.475473 1.980758,41.477381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36367">
+          <NODE1_ID>33081</NODE1_ID>
+          <NODE1_NAME>CTBB-pimargall10</NODE1_NAME>
+          <NODE2_ID>33130</NODE2_ID>
+          <NODE2_NAME>CTBB-santmiquel46</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980020,41.474550 1.980758,41.477381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38901">
+          <NODE1_ID>42665</NODE1_ID>
+          <NODE1_NAME>CTBB-SantMarc</NODE1_NAME>
+          <NODE2_ID>33130</NODE2_ID>
+          <NODE2_NAME>CTBB-santmiquel46</NODE2_NAME>
+          <KMS>0.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980795,41.474629 1.980758,41.477381</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41014">
+          <NODE1_ID>44427</NODE1_ID>
+          <NODE1_NAME>CTBB-CanSegarra</NODE1_NAME>
+          <NODE2_ID>42665</NODE2_ID>
+          <NODE2_NAME>CTBB-SantMarc</NODE2_NAME>
+          <KMS>4.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.945036,41.500201 1.980795,41.474629</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41015">
+          <NODE1_ID>35873</NODE1_ID>
+          <NODE1_NAME>CTBB-CanPastalle</NODE1_NAME>
+          <NODE2_ID>44427</NODE2_ID>
+          <NODE2_NAME>CTBB-CanSegarra</NODE2_NAME>
+          <KMS>0.256</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.946997,41.498432 1.945036,41.500201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56880">
+          <NODE1_ID>56176</NODE1_ID>
+          <NODE1_NAME>EsparragEToldra14</NODE1_NAME>
+          <NODE2_ID>44427</NODE2_ID>
+          <NODE2_NAME>CTBB-CanSegarra</NODE2_NAME>
+          <KMS>7.957</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.857344,41.528271 1.945036,41.500201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68461">
+          <NODE1_ID>33130</NODE1_ID>
+          <NODE1_NAME>CTBB-santmiquel46</NODE1_NAME>
+          <NODE2_ID>64727</NODE2_ID>
+          <NODE2_NAME>CTBB-Agricultura</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980758,41.477381 1.978692,41.478279</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68462">
+          <NODE1_ID>64748</NODE1_ID>
+          <NODE1_NAME>CTBB-CalSereno</NODE1_NAME>
+          <NODE2_ID>64727</NODE2_ID>
+          <NODE2_NAME>CTBB-Agricultura</NODE2_NAME>
+          <KMS>0.058</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979266,41.477983 1.978692,41.478279</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76124">
+          <NODE1_ID>42665</NODE1_ID>
+          <NODE1_NAME>CTBB-SantMarc</NODE1_NAME>
+          <NODE2_ID>69166</NODE2_ID>
+          <NODE2_NAME>ESPARRPrinEspanya77</NODE2_NAME>
+          <KMS>11.969</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980795,41.474629 1.863035,41.536088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

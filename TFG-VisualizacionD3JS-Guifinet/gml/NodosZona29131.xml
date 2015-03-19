@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-86.146953</gml:X><gml:Y>11.906760</gml:Y></gml:coord>
+      <gml:coord><gml:X>-86.135146</gml:X><gml:Y>11.914937</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="28984">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-86.146953,11.914937</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28984</NODE_ID>
+      <NODE_NAME>MasatepeAy</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29161">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-86.135146,11.906760</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29161</NODE_ID>
+      <NODE_NAME>MasatepeCarretera</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

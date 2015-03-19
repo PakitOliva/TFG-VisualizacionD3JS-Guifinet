@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.145220</gml:X><gml:Y>41.753438</gml:Y></gml:coord>
+<gml:coord><gml:X>2.197142</gml:X><gml:Y>41.819532</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="25160">
+          <NODE1_ID>23760</NODE1_ID>
+          <NODE1_NAME>CTCIRRoda</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.525</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148095,41.763191 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25161">
+          <NODE1_ID>6676</NODE1_ID>
+          <NODE1_NAME>Puigsagordi</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>7.501</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.197142,41.819532 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25163">
+          <NODE1_ID>12310</NODE1_ID>
+          <NODE1_NAME>CIRAjuntament</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149984,41.760482 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25164">
+          <NODE1_ID>12311</NODE1_ID>
+          <NODE1_NAME>CTCIRDipPuig</NODE1_NAME>
+          <NODE2_ID>30447</NODE2_ID>
+          <NODE2_NAME>CIRJValldeoriola</NODE2_NAME>
+          <KMS>0.225</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153292,41.760510 2.150582,41.760501</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25165">
+          <NODE1_ID>23752</NODE1_ID>
+          <NODE1_NAME>CIRLSagues</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147964,41.768545 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25381">
+          <NODE1_ID>30660</NODE1_ID>
+          <NODE1_NAME>CIRJMateu</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.386</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149565,41.758441 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26788">
+          <NODE1_ID>12311</NODE1_ID>
+          <NODE1_NAME>CTCIRDipPuig</NODE1_NAME>
+          <NODE2_ID>29432</NODE2_ID>
+          <NODE2_NAME>CIRSelvaNegra</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153292,41.760510 2.150332,41.759342</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26902">
+          <NODE1_ID>32237</NODE1_ID>
+          <NODE1_NAME>CIRXEstrada</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.645</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149694,41.765659 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27524">
+          <NODE1_ID>32873</NODE1_ID>
+          <NODE1_NAME>CIRJANadal</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150987,41.760015 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27525">
+          <NODE1_ID>32874</NODE1_ID>
+          <NODE1_NAME>CIRLlSala</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150080,41.759865 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27527">
+          <NODE1_ID>32875</NODE1_ID>
+          <NODE1_NAME>CIRMDLamarca</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150134,41.758457 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27528">
+          <NODE1_ID>32876</NODE1_ID>
+          <NODE1_NAME>CIRSVendrell</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.664</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146357,41.769028 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27530">
+          <NODE1_ID>32879</NODE1_ID>
+          <NODE1_NAME>CIRGSalvador</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146829,41.761418 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27531">
+          <NODE1_ID>32880</NODE1_ID>
+          <NODE1_NAME>CIRIBonfill</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.54</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148471,41.768041 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27532">
+          <NODE1_ID>32881</NODE1_ID>
+          <NODE1_NAME>CIRMFont</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.612</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147645,41.768692 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27562">
+          <NODE1_ID>2891</NODE1_ID>
+          <NODE1_NAME>CIRDFargas</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.333</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149379,41.761158 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27688">
+          <NODE1_ID>32877</NODE1_ID>
+          <NODE1_NAME>CIRMMartinez</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.968</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148814,41.768553 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27824">
+          <NODE1_ID>33167</NODE1_ID>
+          <NODE1_NAME>CIRJSala</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148739,41.759553 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27825">
+          <NODE1_ID>33168</NODE1_ID>
+          <NODE1_NAME>CIRVValls</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.406</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148546,41.759655 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27983">
+          <NODE1_ID>33304</NODE1_ID>
+          <NODE1_NAME>CRPXSP</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149927,41.758962 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28376">
+          <NODE1_ID>32238</NODE1_ID>
+          <NODE1_NAME>CIRCjurado</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151502,41.763696 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28675">
+          <NODE1_ID>33951</NODE1_ID>
+          <NODE1_NAME>CIRGDruguet</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146540,41.769065 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28677">
+          <NODE1_ID>33953</NODE1_ID>
+          <NODE1_NAME>CIRJOcana</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.675</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146062,41.769070 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29012">
+          <NODE1_ID>34284</NODE1_ID>
+          <NODE1_NAME>CIRMAran</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.371</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149125,41.759321 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29023">
+          <NODE1_ID>34301</NODE1_ID>
+          <NODE1_NAME>CIRAArgemi</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.329</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149351,41.760281 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29944">
+          <NODE1_ID>35188</NODE1_ID>
+          <NODE1_NAME>CIRJAMestre</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.383</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150273,41.757904 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29945">
+          <NODE1_ID>35189</NODE1_ID>
+          <NODE1_NAME>CIRASalvado</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.281</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149914,41.760623 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29946">
+          <NODE1_ID>35190</NODE1_ID>
+          <NODE1_NAME>CIRMManzano</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.686</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149683,41.766067 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30101">
+          <NODE1_ID>34823</NODE1_ID>
+          <NODE1_NAME>CIRsq17</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150818,41.757718 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30824">
+          <NODE1_ID>35952</NODE1_ID>
+          <NODE1_NAME>CIRPRodriguez</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146486,41.761754 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30825">
+          <NODE1_ID>35954</NODE1_ID>
+          <NODE1_NAME>CIRRRibas</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.661</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146282,41.768988 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30826">
+          <NODE1_ID>35955</NODE1_ID>
+          <NODE1_NAME>CIRMMengual</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150016,41.766939 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30827">
+          <NODE1_ID>35956</NODE1_ID>
+          <NODE1_NAME>CIRMSagues</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.337</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149243,41.760535 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31255">
+          <NODE1_ID>36364</NODE1_ID>
+          <NODE1_NAME>CIRFGuiteras</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.349</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149099,41.760479 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31256">
+          <NODE1_ID>36365</NODE1_ID>
+          <NODE1_NAME>CIRMTCapdevila</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149785,41.760579 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31352">
+          <NODE1_ID>36447</NODE1_ID>
+          <NODE1_NAME>CIRPBouchara</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.601</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147291,41.768569 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31355">
+          <NODE1_ID>36449</NODE1_ID>
+          <NODE1_NAME>CIRAgrocir</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>1.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.168142,41.753438 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33257">
+          <NODE1_ID>38213</NODE1_ID>
+          <NODE1_NAME>CIRMALourdes</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147881,41.761469 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33258">
+          <NODE1_ID>38217</NODE1_ID>
+          <NODE1_NAME>CIRRPalomares</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147849,41.768119 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33261">
+          <NODE1_ID>38224</NODE1_ID>
+          <NODE1_NAME>CIRMMontserrat</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.66</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148943,41.765486 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33262">
+          <NODE1_ID>38225</NODE1_ID>
+          <NODE1_NAME>CIRMEsplugas</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148911,41.759316 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35023">
+          <NODE1_ID>39659</NODE1_ID>
+          <NODE1_NAME>CIRFGRAS</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149678,41.765296 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36951">
+          <NODE1_ID>41204</NODE1_ID>
+          <NODE1_NAME>CIRJCapella</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149040,41.759972 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36952">
+          <NODE1_ID>41207</NODE1_ID>
+          <NODE1_NAME>CIRFBerges</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147527,41.768095 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36956">
+          <NODE1_ID>41208</NODE1_ID>
+          <NODE1_NAME>CIRJordiSala</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149801,41.767459 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36958">
+          <NODE1_ID>41209</NODE1_ID>
+          <NODE1_NAME>CIRFTorello</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.151239,41.758507 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37088">
+          <NODE1_ID>41326</NODE1_ID>
+          <NODE1_NAME>CIRMPSauque</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149222,41.758483 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37353">
+          <NODE1_ID>41554</NODE1_ID>
+          <NODE1_NAME>CIRCalRos</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149721,41.759680 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37467">
+          <NODE1_ID>41656</NODE1_ID>
+          <NODE1_NAME>CIRJMiro</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148900,41.761485 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37469">
+          <NODE1_ID>41658</NODE1_ID>
+          <NODE1_NAME>CIRJCendra</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147012,41.761541 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37470">
+          <NODE1_ID>41659</NODE1_ID>
+          <NODE1_NAME>CIRDMarcelo</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149930,41.764758 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38219">
+          <NODE1_ID>42328</NODE1_ID>
+          <NODE1_NAME>CIRJMata</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>1.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148610,41.769391 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38220">
+          <NODE1_ID>42329</NODE1_ID>
+          <NODE1_NAME>CIRRMas</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.437</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149324,41.763093 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39071">
+          <NODE1_ID>42975</NODE1_ID>
+          <NODE1_NAME>CIRVCStegun</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.99</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148814,41.768767 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39356">
+          <NODE1_ID>42973</NODE1_ID>
+          <NODE1_NAME>CIRAGiraldo</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149951,41.761765 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41365">
+          <NODE1_ID>44739</NODE1_ID>
+          <NODE1_NAME>CIRRColl</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.553</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150107,41.764878 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41465">
+          <NODE1_ID>12311</NODE1_ID>
+          <NODE1_NAME>CTCIRDipPuig</NODE1_NAME>
+          <NODE2_ID>44822</NODE2_ID>
+          <NODE2_NAME>llc31</NODE2_NAME>
+          <KMS>0.332</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153292,41.760510 2.149302,41.760420</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44708">
+          <NODE1_ID>12311</NODE1_ID>
+          <NODE1_NAME>CTCIRDipPuig</NODE1_NAME>
+          <NODE2_ID>45671</NODE2_ID>
+          <NODE2_NAME>CIRDMartin</NODE2_NAME>
+          <KMS>1.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.153292,41.760510 2.146373,41.768858</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45177">
+          <NODE1_ID>47657</NODE1_ID>
+          <NODE1_NAME>CIRElsAvets</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.404</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148466,41.760132 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45192">
+          <NODE1_ID>47657</NODE1_ID>
+          <NODE1_NAME>CIRElsAvets</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.404</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148466,41.760132 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45195">
+          <NODE1_ID>47675</NODE1_ID>
+          <NODE1_NAME>CIRElsAvets-BlocA</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148071,41.760428 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46754">
+          <NODE1_ID>48821</NODE1_ID>
+          <NODE1_NAME>CIRDRomera</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149968,41.760780 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47050">
+          <NODE1_ID>49097</NODE1_ID>
+          <NODE1_NAME>CIRABassets</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.508</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149007,41.767715 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47452">
+          <NODE1_ID>49355</NODE1_ID>
+          <NODE1_NAME>CIRCSantAndreu</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149951,41.760656 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49315">
+          <NODE1_ID>50703</NODE1_ID>
+          <NODE1_NAME>CIRISanz</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146845,41.761925 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49597">
+          <NODE1_ID>50899</NODE1_ID>
+          <NODE1_NAME>CIRJBanus</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.56</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149973,41.756123 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50086">
+          <NODE1_ID>42971</NODE1_ID>
+          <NODE1_NAME>CIRRPlans</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148503,41.760532 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52511">
+          <NODE1_ID>53139</NODE1_ID>
+          <NODE1_NAME>CIRMoAran</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148374,41.761325 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52512">
+          <NODE1_ID>53141</NODE1_ID>
+          <NODE1_NAME>CIRGMiranda</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148342,41.761613 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52781">
+          <NODE1_ID>53301</NODE1_ID>
+          <NODE1_NAME>CIRLLFont</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.611</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.145239,41.768255 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52782">
+          <NODE1_ID>53302</NODE1_ID>
+          <NODE1_NAME>CIRJMoreto</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.145220,41.768431 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58243">
+          <NODE1_ID>57219</NODE1_ID>
+          <NODE1_NAME>CirLCabanillas</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148567,41.760384 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58244">
+          <NODE1_ID>57220</NODE1_ID>
+          <NODE1_NAME>CirMontseFont</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149664,41.760493 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58245">
+          <NODE1_ID>57221</NODE1_ID>
+          <NODE1_NAME>CirJCatalan</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148195,41.759878 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58819">
+          <NODE1_ID>57605</NODE1_ID>
+          <NODE1_NAME>CIRJosepValldeoriola</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150086,41.760308 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58822">
+          <NODE1_ID>57606</NODE1_ID>
+          <NODE1_NAME>CIRJPujadas</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.21</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150783,41.760290 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59097">
+          <NODE1_ID>57819</NODE1_ID>
+          <NODE1_NAME>CIRJMGuiteras</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154313,41.759972 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59098">
+          <NODE1_ID>57821</NODE1_ID>
+          <NODE1_NAME>CIRJMGuiterasPiella</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154305,41.759918 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63130">
+          <NODE1_ID>60657</NODE1_ID>
+          <NODE1_NAME>CIRMMatute</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148664,41.759276 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64793">
+          <NODE1_ID>35191</NODE1_ID>
+          <NODE1_NAME>CIRJCAlseda</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148138,41.760817 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65258">
+          <NODE1_ID>62322</NODE1_ID>
+          <NODE1_NAME>CIRMTouris</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149227,41.760440 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67097">
+          <NODE1_ID>63652</NODE1_ID>
+          <NODE1_NAME>CIRMSerrano</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150273,41.760348 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67663">
+          <NODE1_ID>64164</NODE1_ID>
+          <NODE1_NAME>CIRIMonfort</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149125,41.760964 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69551">
+          <NODE1_ID>30661</NODE1_ID>
+          <NODE1_NAME>CIRCIbanez</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.158</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148771,41.758729 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71076">
+          <NODE1_ID>66630</NODE1_ID>
+          <NODE1_NAME>CIRJGomez</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149930,41.760960 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71435">
+          <NODE1_ID>66963</NODE1_ID>
+          <NODE1_NAME>CIRAColominas</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.564</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148846,41.768234 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72532">
+          <NODE1_ID>38213</NODE1_ID>
+          <NODE1_NAME>CIRMALourdes</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147881,41.761469 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72883">
+          <NODE1_ID>68187</NODE1_ID>
+          <NODE1_NAME>CIRCAsensio</NODE1_NAME>
+          <NODE2_ID>23760</NODE2_ID>
+          <NODE2_NAME>CTCIRRoda</NODE2_NAME>
+          <KMS>0.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.147452,41.768522 2.148095,41.763191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78631">
+          <NODE1_ID>23760</NODE1_ID>
+          <NODE1_NAME>CTCIRRoda</NODE1_NAME>
+          <NODE2_ID>53701</NODE2_ID>
+          <NODE2_NAME>CIRRSanchez</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.148095,41.763191 2.149211,41.766230</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79087">
+          <NODE1_ID>73656</NODE1_ID>
+          <NODE1_NAME>CIRAMSanchez</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.656</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149694,41.765769 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121646">
+          <NODE1_ID>75897</NODE1_ID>
+          <NODE1_NAME>CIRJustoSala</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.187</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.146408,41.759454 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122716">
+          <NODE1_ID>76624</NODE1_ID>
+          <NODE1_NAME>CIRAMMendez</NODE1_NAME>
+          <NODE2_ID>12311</NODE2_ID>
+          <NODE2_NAME>CTCIRDipPuig</NODE2_NAME>
+          <KMS>0.337</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149254,41.760800 2.153292,41.760510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122718">
+          <NODE1_ID>76626</NODE1_ID>
+          <NODE1_NAME>CIRLGalli</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.150037,41.759971 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123598">
+          <NODE1_ID>77244</NODE1_ID>
+          <NODE1_NAME>CIRQGarcia</NODE1_NAME>
+          <NODE2_ID>47657</NODE2_ID>
+          <NODE2_NAME>CIRElsAvets</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.149532,41.759941 2.148466,41.760132</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

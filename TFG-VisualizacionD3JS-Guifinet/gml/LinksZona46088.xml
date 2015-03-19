@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.582970</gml:X><gml:Y>39.943654</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.559487</gml:X><gml:Y>39.974393</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44462">
+          <NODE1_ID>46092</NODE1_ID>
+          <NODE1_NAME>CdielAyunt</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568360,39.946817 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44467">
+          <NODE1_ID>46093</NODE1_ID>
+          <NODE1_NAME>CdielCSalud</NODE1_NAME>
+          <NODE2_ID>46092</NODE2_ID>
+          <NODE2_NAME>CdielAyunt</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568701,39.948166 -0.568360,39.946817</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48250">
+          <NODE1_ID>46093</NODE1_ID>
+          <NODE1_NAME>CdielCSalud</NODE1_NAME>
+          <NODE2_ID>46094</NODE2_ID>
+          <NODE2_NAME>CdielCMayores</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568701,39.948166 -0.569760,39.947613</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48673">
+          <NODE1_ID>50210</NODE1_ID>
+          <NODE1_NAME>CdielNicBen</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568998,39.948001 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48674">
+          <NODE1_ID>50149</NODE1_ID>
+          <NODE1_NAME>CdielErmita</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569038,39.945172 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48730">
+          <NODE1_ID>46092</NODE1_ID>
+          <NODE1_NAME>CdielAyunt</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568360,39.946817 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48731">
+          <NODE1_ID>46092</NODE1_ID>
+          <NODE1_NAME>CdielAyunt</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568360,39.946817 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48732">
+          <NODE1_ID>50231</NODE1_ID>
+          <NODE1_NAME>jotaelec</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.21</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568153,39.947522 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48903">
+          <NODE1_ID>50263</NODE1_ID>
+          <NODE1_NAME>CdielCervantes37</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569283,39.947365 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49039">
+          <NODE1_ID>50272</NODE1_ID>
+          <NODE1_NAME>CdielCervantes8</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568842,39.947195 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49345">
+          <NODE1_ID>50733</NODE1_ID>
+          <NODE1_NAME>CdielMezquita2DP3</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568871,39.945903 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49625">
+          <NODE1_ID>50271</NODE1_ID>
+          <NODE1_NAME>CdielConcordia30Bajo</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569549,39.947594 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49626">
+          <NODE1_ID>50271</NODE1_ID>
+          <NODE1_NAME>CdielConcordia30Bajo</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569549,39.947594 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49708">
+          <NODE1_ID>51000</NODE1_ID>
+          <NODE1_NAME>CdielCuestaUnion28</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567354,39.947969 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49730">
+          <NODE1_ID>51011</NODE1_ID>
+          <NODE1_NAME>CdielPastores11</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565365,39.949371 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49749">
+          <NODE1_ID>50983</NODE1_ID>
+          <NODE1_NAME>CdielGanaderos17</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.564517,39.949386 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49793">
+          <NODE1_ID>50856</NODE1_ID>
+          <NODE1_NAME>CdielColon</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568588,39.946266 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49796">
+          <NODE1_ID>51047</NODE1_ID>
+          <NODE1_NAME>CdielMuralla</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567037,39.946253 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49952">
+          <NODE1_ID>51209</NODE1_ID>
+          <NODE1_NAME>CdielEspana8</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567426,39.947738 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49957">
+          <NODE1_ID>51054</NODE1_ID>
+          <NODE1_NAME>CdielPastores18</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565378,39.949190 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50070">
+          <NODE1_ID>51297</NODE1_ID>
+          <NODE1_NAME>CdielTAMontan1</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568969,39.948763 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50081">
+          <NODE1_ID>51097</NODE1_ID>
+          <NODE1_NAME>caudielsegonatrav10</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569610,39.948771 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50153">
+          <NODE1_ID>51394</NODE1_ID>
+          <NODE1_NAME>CdielMBenilde43</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567112,39.947314 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50164">
+          <NODE1_ID>51401</NODE1_ID>
+          <NODE1_NAME>CdielTabuenca25</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.266</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567065,39.948050 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50216">
+          <NODE1_ID>51452</NODE1_ID>
+          <NODE1_NAME>cdiel.aladin1</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.391</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.571328,39.943654 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50218">
+          <NODE1_ID>50681</NODE1_ID>
+          <NODE1_NAME>CdielGaibiel6</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565859,39.948100 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50305">
+          <NODE1_ID>50273</NODE1_ID>
+          <NODE1_NAME>CdielMurallaMonjas12</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566932,39.946339 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50450">
+          <NODE1_ID>51627</NODE1_ID>
+          <NODE1_NAME>CDiel1TrAvMontan13</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569594,39.948339 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50486">
+          <NODE1_ID>51671</NODE1_ID>
+          <NODE1_NAME>cdiel.ganaderos17b</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.564326,39.949342 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50528">
+          <NODE1_ID>51722</NODE1_ID>
+          <NODE1_NAME>CdielPEspana10</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568071,39.946653 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50529">
+          <NODE1_ID>51723</NODE1_ID>
+          <NODE1_NAME>CdielMurillo18</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565835,39.949663 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50569">
+          <NODE1_ID>51745</NODE1_ID>
+          <NODE1_NAME>CdielMurMonjas3</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566398,39.946499 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51269">
+          <NODE1_ID>52232</NODE1_ID>
+          <NODE1_NAME>CdielFoso3</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566664,39.946027 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51397">
+          <NODE1_ID>52333</NODE1_ID>
+          <NODE1_NAME>CdielVistalegre12</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568143,39.945328 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51970">
+          <NODE1_ID>37148</NODE1_ID>
+          <NODE1_NAME>CdielJventura</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569318,39.945384 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52069">
+          <NODE1_ID>52817</NODE1_ID>
+          <NODE1_NAME>cdiel.cervantes9</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568797,39.946953 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52207">
+          <NODE1_ID>52222</NODE1_ID>
+          <NODE1_NAME>CdielTejeria1</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.564325,39.948231 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52506">
+          <NODE1_ID>50680</NODE1_ID>
+          <NODE1_NAME>CdielPavias65</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.586</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.562823,39.949473 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52507">
+          <NODE1_ID>53128</NODE1_ID>
+          <NODE1_NAME>CdielNiBenlloch20</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566745,39.945009 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52509">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>53130</NODE2_ID>
+          <NODE2_NAME>CdielJoVentura4</NODE2_NAME>
+          <KMS>0.719</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.574694,39.949148</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53044">
+          <NODE1_ID>53501</NODE1_ID>
+          <NODE1_NAME>CdlCln23</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568364,39.946052 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53087">
+          <NODE1_ID>53550</NODE1_ID>
+          <NODE1_NAME>CdielNumancia5</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568173,39.946588 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53357">
+          <NODE1_ID>53754</NODE1_ID>
+          <NODE1_NAME>CdielParDomingos12-4</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>1.508</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.582970,39.952331 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54234">
+          <NODE1_ID>54318</NODE1_ID>
+          <NODE1_NAME>CdielVAlegre12</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568253,39.945355 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54302">
+          <NODE1_ID>53257</NODE1_ID>
+          <NODE1_NAME>CdielMurillo10</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.441</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565872,39.949430 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54452">
+          <NODE1_ID>54292</NODE1_ID>
+          <NODE1_NAME>CdielAvMontan5A</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568867,39.949334 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55234">
+          <NODE1_ID>54962</NODE1_ID>
+          <NODE1_NAME>CdielFoso5</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566626,39.946068 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55236">
+          <NODE1_ID>54964</NODE1_ID>
+          <NODE1_NAME>Cdiel1TrAvMontan7</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568954,39.948392 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55313">
+          <NODE1_ID>54965</NODE1_ID>
+          <NODE1_NAME>Cdiel3travMontan8-2</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568913,39.949420 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55316">
+          <NODE1_ID>55008</NODE1_ID>
+          <NODE1_NAME>CdielEraBravo1</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566024,39.947025 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56108">
+          <NODE1_ID>55592</NODE1_ID>
+          <NODE1_NAME>CdielJventura28</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569618,39.946217 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57223">
+          <NODE1_ID>56475</NODE1_ID>
+          <NODE1_NAME>CdielMmonjas14</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566944,39.946439 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57224">
+          <NODE1_ID>55788</NODE1_ID>
+          <NODE1_NAME>CdielJVentura30</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569572,39.946250 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58815">
+          <NODE1_ID>57600</NODE1_ID>
+          <NODE1_NAME>CdielAvValencia21</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568124,39.944724 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58818">
+          <NODE1_ID>57604</NODE1_ID>
+          <NODE1_NAME>CdielConcordia6</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569583,39.948124 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58821">
+          <NODE1_ID>57601</NODE1_ID>
+          <NODE1_NAME>CdielSoledad4</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569599,39.948137 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59104">
+          <NODE1_ID>57826</NODE1_ID>
+          <NODE1_NAME>CdielPCarabella3</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568312,39.947056 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59289">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.301</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59308">
+          <NODE1_ID>57941</NODE1_ID>
+          <NODE1_NAME>CdielMontan</NODE1_NAME>
+          <NODE2_ID>57961</NODE2_ID>
+          <NODE2_NAME>CdielAvMontan814</NODE2_NAME>
+          <KMS>0.003</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568159,39.948357 -0.568183,39.948344</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59369">
+          <NODE1_ID>58007</NODE1_ID>
+          <NODE1_NAME>CdielPAlqueriasNp4</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568569,39.945731 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59370">
+          <NODE1_ID>58009</NODE1_ID>
+          <NODE1_NAME>CdielJVentura64</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.177</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569594,39.945304 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59371">
+          <NODE1_ID>58011</NODE1_ID>
+          <NODE1_NAME>CdielErmita11</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568961,39.945173 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59390">
+          <NODE1_ID>58021</NODE1_ID>
+          <NODE1_NAME>CdielMedio27</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565871,39.948956 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59938">
+          <NODE1_ID>58364</NODE1_ID>
+          <NODE1_NAME>CdielGaibiel24</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565045,39.948133 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60165">
+          <NODE1_ID>58529</NODE1_ID>
+          <NODE1_NAME>CdielMedio11-3</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565353,39.948663 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60861">
+          <NODE1_ID>51631</NODE1_ID>
+          <NODE1_NAME>CdielMoredal2</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569150,39.950052 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61781">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>58020</NODE2_ID>
+          <NODE2_NAME>CdielUmbria15</NODE2_NAME>
+          <KMS>0.201</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.566204,39.947153</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61783">
+          <NODE1_ID>59717</NODE1_ID>
+          <NODE1_NAME>CdielPuente1</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566284,39.948389 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62238">
+          <NODE1_ID>59993</NODE1_ID>
+          <NODE1_NAME>CdielColon13</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568576,39.946301 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62438">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>60152</NODE2_ID>
+          <NODE2_NAME>CdielCln12</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.568677,39.946299</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62469">
+          <NODE1_ID>46093</NODE1_ID>
+          <NODE1_NAME>CdielCSalud</NODE1_NAME>
+          <NODE2_ID>60178</NODE2_ID>
+          <NODE2_NAME>CdielNBenlloch16</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568701,39.948166 -0.569272,39.947923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63246">
+          <NODE1_ID>60747</NODE1_ID>
+          <NODE1_NAME>CdielMaestraBenilde5</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.12</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567295,39.947502 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63676">
+          <NODE1_ID>57941</NODE1_ID>
+          <NODE1_NAME>CdielMontan</NODE1_NAME>
+          <NODE2_ID>51812</NODE2_ID>
+          <NODE2_NAME>CdielMurillo1-3</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568159,39.948357 -0.565766,39.949371</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63776">
+          <NODE1_ID>61073</NODE1_ID>
+          <NODE1_NAME>JV38</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569414,39.945997 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63951">
+          <NODE1_ID>57941</NODE1_ID>
+          <NODE1_NAME>CdielMontan</NODE1_NAME>
+          <NODE2_ID>61182</NODE2_ID>
+          <NODE2_NAME>CdielMoreral25</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568159,39.948357 -0.569046,39.950254</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64056">
+          <NODE1_ID>61251</NODE1_ID>
+          <NODE1_NAME>Cdiel1TravAvMontan15</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569626,39.948433 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64333">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>61316</NODE2_ID>
+          <NODE2_NAME>Benilde33</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.566652,39.947282</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64473">
+          <NODE1_ID>61294</NODE1_ID>
+          <NODE1_NAME>CdielPCarabella</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568280,39.947076 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64474">
+          <NODE1_ID>61645</NODE1_ID>
+          <NODE1_NAME>balmes27</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.368</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565305,39.948493 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64965">
+          <NODE1_ID>61707</NODE1_ID>
+          <NODE1_NAME>CdielCVistAlegre4</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567968,39.945089 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65017">
+          <NODE1_ID>62133</NODE1_ID>
+          <NODE1_NAME>cdiel.enmedio9</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565332,39.948719 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65027">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>62147</NODE2_ID>
+          <NODE2_NAME>cdielvalegre15</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.567778,39.944829</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65274">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>62331</NODE2_ID>
+          <NODE2_NAME>avmontan81</NODE2_NAME>
+          <KMS>0.3</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.568127,39.948351</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66026">
+          <NODE1_ID>62886</NODE1_ID>
+          <NODE1_NAME>CdielHernanCor3</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568250,39.947675 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66036">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>62881</NODE2_ID>
+          <NODE2_NAME>CCerB</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.568647,39.946968</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66068">
+          <NODE1_ID>62920</NODE1_ID>
+          <NODE1_NAME>cvisalegre15</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567754,39.944851 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66354">
+          <NODE1_ID>63078</NODE1_ID>
+          <NODE1_NAME>CdielBalmes25</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565340,39.948414 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66554">
+          <NODE1_ID>57823</NODE1_ID>
+          <NODE1_NAME>CdielNBenlloch2</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.019</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568478,39.948145 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66614">
+          <NODE1_ID>63239</NODE1_ID>
+          <NODE1_NAME>CdielGaibiel45</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.564224,39.948318 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66677">
+          <NODE1_ID>62272</NODE1_ID>
+          <NODE1_NAME>cdieljventura20</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569618,39.946396 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67655">
+          <NODE1_ID>64158</NODE1_ID>
+          <NODE1_NAME>CdielEspana6-1</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568462,39.946998 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68276">
+          <NODE1_ID>64583</NODE1_ID>
+          <NODE1_NAME>CaudGaibiel1</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566064,39.948254 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69111">
+          <NODE1_ID>65173</NODE1_ID>
+          <NODE1_NAME>CdielPCarabella17</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568231,39.947166 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69284">
+          <NODE1_ID>65298</NODE1_ID>
+          <NODE1_NAME>CdielJVentura1</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569621,39.947037 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69771">
+          <NODE1_ID>65678</NODE1_ID>
+          <NODE1_NAME>CdielSoledad4C</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569492,39.948119 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70235">
+          <NODE1_ID>66022</NODE1_ID>
+          <NODE1_NAME>CdielMoredal23</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568921,39.950504 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72021">
+          <NODE1_ID>67429</NODE1_ID>
+          <NODE1_NAME>CdielNiBenlloch12</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569111,39.947967 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72632">
+          <NODE1_ID>67926</NODE1_ID>
+          <NODE1_NAME>CdielCmnoStaUrsula</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.465</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.571994,39.951326 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74677">
+          <NODE1_ID>69450</NODE1_ID>
+          <NODE1_NAME>CdielGanaderos8</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.564627,39.948945 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75213">
+          <NODE1_ID>70034</NODE1_ID>
+          <NODE1_NAME>ganaderos7</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.441</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.564753,39.948998 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76422">
+          <NODE1_ID>71493</NODE1_ID>
+          <NODE1_NAME>Benilde23</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.566550,39.947357 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76504">
+          <NODE1_ID>51470</NODE1_ID>
+          <NODE1_NAME>Cdielsegonatrvmont12</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569680,39.948756 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76507">
+          <NODE1_ID>57941</NODE1_ID>
+          <NODE1_NAME>CdielMontan</NODE1_NAME>
+          <NODE2_ID>71556</NODE2_ID>
+          <NODE2_NAME>CdielPuente7</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568159,39.948357 -0.566037,39.948553</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76512">
+          <NODE1_ID>71559</NODE1_ID>
+          <NODE1_NAME>CdielMedio18</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.565389,39.948793 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76680">
+          <NODE1_ID>57941</NODE1_ID>
+          <NODE1_NAME>CdielMontan</NODE1_NAME>
+          <NODE2_ID>71557</NODE2_ID>
+          <NODE2_NAME>CdielTrAvMontan5</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568159,39.948357 -0.568945,39.948536</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76886">
+          <NODE1_ID>71830</NODE1_ID>
+          <NODE1_NAME>Cdielsegonatrvmont14</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569752,39.948743 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77019">
+          <NODE1_ID>71741</NODE1_ID>
+          <NODE1_NAME>CdielMezquita30</NODE1_NAME>
+          <NODE2_ID>46095</NODE2_ID>
+          <NODE2_NAME>CdielCpnario</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569240,39.946274 -0.567588,39.945684</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78500">
+          <NODE1_ID>73057</NODE1_ID>
+          <NODE1_NAME>Grillo</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567192,39.948271 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79363">
+          <NODE1_ID>73068</NODE1_ID>
+          <NODE1_NAME>asosirio</NODE1_NAME>
+          <NODE2_ID>46093</NODE2_ID>
+          <NODE2_NAME>CdielCSalud</NODE2_NAME>
+          <KMS>3.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.559487,39.974393 -0.568701,39.948166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79961">
+          <NODE1_ID>46095</NODE1_ID>
+          <NODE1_NAME>CdielCpnario</NODE1_NAME>
+          <NODE2_ID>71012</NODE2_ID>
+          <NODE2_NAME>CdielJVentura11</NODE2_NAME>
+          <KMS>0.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567588,39.945684 -0.569365,39.946377</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121950">
+          <NODE1_ID>76110</NODE1_ID>
+          <NODE1_NAME>caudmonreal15</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569277,39.950645 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122913">
+          <NODE1_ID>76802</NODE1_ID>
+          <NODE1_NAME>CdielTAMontan7</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.568677,39.948534 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123356">
+          <NODE1_ID>51313</NODE1_ID>
+          <NODE1_NAME>CdielAvdMontan7Bajo</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.475</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.573529,39.947265 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123357">
+          <NODE1_ID>55381</NODE1_ID>
+          <NODE1_NAME>CdielEraMolino26</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.569862,39.948956 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123480">
+          <NODE1_ID>72219</NODE1_ID>
+          <NODE1_NAME>caudagua</NODE1_NAME>
+          <NODE2_ID>57941</NODE2_ID>
+          <NODE2_NAME>CdielMontan</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.567346,39.948488 -0.568159,39.948357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-2.099162</gml:X><gml:Y>43.100239</gml:Y></gml:coord>
+      <gml:coord><gml:X>-2.098291</gml:X><gml:Y>43.102242</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="65614">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.098291,43.100239</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65614</NODE_ID>
+      <NODE_NAME>ALEGUdaletxea</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65837">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.099162,43.102242</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65837</NODE_ID>
+      <NODE_NAME>ALEGErrepikagailua</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65906">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.099108,43.102239</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65906</NODE_ID>
+      <NODE_NAME>LGrrNd1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

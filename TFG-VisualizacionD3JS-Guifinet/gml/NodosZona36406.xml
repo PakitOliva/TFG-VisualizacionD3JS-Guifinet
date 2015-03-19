@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.256948</gml:X><gml:Y>38.964543</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.574712</gml:X><gml:Y>40.119277</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="36407">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.574712,38.972162</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36407</NODE_ID>
+      <NODE_NAME>Aiacor_CC</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39373">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.256948,40.119277</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39373</NODE_ID>
+      <NODE_NAME>TALDavid</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56734">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.586578,38.964543</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56734</NODE_ID>
+      <NODE_NAME>CANvicenteFerri39</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.658737</gml:X><gml:Y>41.379188</gml:Y></gml:coord>
+<gml:coord><gml:X>1.843230</gml:X><gml:Y>41.497397</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="28811">
+          <NODE1_ID>34047</NODE1_ID>
+          <NODE1_NAME>SQM-Cementiri</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.378</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666832,41.460565 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28830">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.852</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33280">
+          <NODE1_ID>12542</NODE1_ID>
+          <NODE1_NAME>SPR-Diposits</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>3.564</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.697066,41.449275 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33871">
+          <NODE1_ID>38783</NODE1_ID>
+          <NODE1_NAME>M-Calmoixo</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>2.868</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.692013,41.479224 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34295">
+          <NODE1_ID>39103</NODE1_ID>
+          <NODE1_NAME>SQM-Casal</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.665335,41.461816 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34877">
+          <NODE1_ID>38654</NODE1_ID>
+          <NODE1_NAME>SQM-PouAigua</NODE1_NAME>
+          <NODE2_ID>12542</NODE2_ID>
+          <NODE2_NAME>SPR-Diposits</NODE2_NAME>
+          <KMS>1.455</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.684218,41.458123 1.697066,41.449275</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36415">
+          <NODE1_ID>34047</NODE1_ID>
+          <NODE1_NAME>SQM-Cementiri</NODE1_NAME>
+          <NODE2_ID>40602</NODE2_ID>
+          <NODE2_NAME>SQMWeyler</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666832,41.460565 1.664340,41.462391</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38920">
+          <NODE1_ID>38623</NODE1_ID>
+          <NODE1_NAME>SQM-MariaR</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.665668,41.462908 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41326">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>44707</NODE2_ID>
+          <NODE2_NAME>SQM-RamonM</NODE2_NAME>
+          <KMS>0.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.659853,41.465456</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41327">
+          <NODE1_ID>44346</NODE1_ID>
+          <NODE1_NAME>SQM-MontseA</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.539</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.667956,41.468196 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42190">
+          <NODE1_ID>45498</NODE1_ID>
+          <NODE1_NAME>SQM-SandraN</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666628,41.463784 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42585">
+          <NODE1_ID>45786</NODE1_ID>
+          <NODE1_NAME>SQM-EscolaV</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666521,41.461189 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42720">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>44538</NODE2_ID>
+          <NODE2_NAME>SQM-EusebiR</NODE2_NAME>
+          <KMS>1.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.671880,41.459844</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43705">
+          <NODE1_ID>34042</NODE1_ID>
+          <NODE1_NAME>SQM-Ajuntament</NODE1_NAME>
+          <NODE2_ID>46606</NODE2_ID>
+          <NODE2_NAME>SQM-RamonC</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.662785,41.462082 1.660526,41.462146</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44131">
+          <NODE1_ID>34042</NODE1_ID>
+          <NODE1_NAME>SQM-Ajuntament</NODE1_NAME>
+          <NODE2_ID>46930</NODE2_ID>
+          <NODE2_NAME>SQM-SilviaP</NODE2_NAME>
+          <KMS>0.24</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.662785,41.462082 1.664238,41.463947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44885">
+          <NODE1_ID>47428</NODE1_ID>
+          <NODE1_NAME>SQM-RosaliaC</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.664976,41.461388 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45105">
+          <NODE1_ID>45275</NODE1_ID>
+          <NODE1_NAME>SQM-Roser</NODE1_NAME>
+          <NODE2_ID>8737</NODE2_ID>
+          <NODE2_NAME>FRCasetes</NODE2_NAME>
+          <KMS>0.931</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.672025,41.436635 1.677210,41.429217</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46195">
+          <NODE1_ID>48385</NODE1_ID>
+          <NODE1_NAME>SQM-Escola</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.373</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.658737,41.463496 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46264">
+          <NODE1_ID>48432</NODE1_ID>
+          <NODE1_NAME>SQM-Oleg</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.239</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.665051,41.462251 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46901">
+          <NODE1_ID>48909</NODE1_ID>
+          <NODE1_NAME>SQM-ConsueloB</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666515,41.461478 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46902">
+          <NODE1_ID>29361</NODE1_ID>
+          <NODE1_NAME>M-JordiG</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>3.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674342,41.495764 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46903">
+          <NODE1_ID>48910</NODE1_ID>
+          <NODE1_NAME>SQM-JosepS</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.533</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666658,41.465897 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48070">
+          <NODE1_ID>49852</NODE1_ID>
+          <NODE1_NAME>SQM-MerceF</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.795</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.667615,41.468253 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50785">
+          <NODE1_ID>51923</NODE1_ID>
+          <NODE1_NAME>SQM-FelicitatsP</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668978,41.460691 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52132">
+          <NODE1_ID>52864</NODE1_ID>
+          <NODE1_NAME>SQM-YolandaA</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.686</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.665695,41.466681 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53390">
+          <NODE1_ID>37279</NODE1_ID>
+          <NODE1_NAME>M-JordiS</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>3.604</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.677352,41.497397 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54966">
+          <NODE1_ID>54782</NODE1_ID>
+          <NODE1_NAME>SQM-QuimC</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.667647,41.468544 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54967">
+          <NODE1_ID>54716</NODE1_ID>
+          <NODE1_NAME>SQM-JoseM</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>1.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.670206,41.460317 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55084">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>53783</NODE2_ID>
+          <NODE2_NAME>TLV-CalPlanas</NODE2_NAME>
+          <KMS>6.495</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.733661,41.445143</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55470">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>44472</NODE2_ID>
+          <NODE2_NAME>SQM-CarmeM</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.663466,41.467210</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56025">
+          <NODE1_ID>55531</NODE1_ID>
+          <NODE1_NAME>SQM-DolorsB</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.543</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.664013,41.462615 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56823">
+          <NODE1_ID>56135</NODE1_ID>
+          <NODE1_NAME>SQM-IsaacN</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.670834,41.468883 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57034">
+          <NODE1_ID>56320</NODE1_ID>
+          <NODE1_NAME>MARTIrossi14</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>15.973</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.843230,41.422263 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59952">
+          <NODE1_ID>58371</NODE1_ID>
+          <NODE1_NAME>SQM-GloriaT</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.606</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668821,41.467983 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62600">
+          <NODE1_ID>54481</NODE1_ID>
+          <NODE1_NAME>LG-Esglesia</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>10.929</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.720203,41.379188 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62862">
+          <NODE1_ID>60458</NODE1_ID>
+          <NODE1_NAME>SQM-JoseMillan</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.75</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.669778,41.470043 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70589">
+          <NODE1_ID>44347</NODE1_ID>
+          <NODE1_NAME>SQM-MontseP</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>1.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.671700,41.459686 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70818">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>66443</NODE2_ID>
+          <NODE2_NAME>SQM-HenryK</NODE2_NAME>
+          <KMS>0.736</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.670409,41.467843</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72413">
+          <NODE1_ID>67740</NODE1_ID>
+          <NODE1_NAME>SQM-DavidPain</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.665873,41.461528 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72938">
+          <NODE1_ID>68245</NODE1_ID>
+          <NODE1_NAME>SQM-Amin</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.225</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.662755,41.464106 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73113">
+          <NODE1_ID>33634</NODE1_ID>
+          <NODE1_NAME>SQM-TorretaC</NODE1_NAME>
+          <NODE2_ID>68454</NODE2_ID>
+          <NODE2_NAME>SQM-MontserratF</NODE2_NAME>
+          <KMS>1.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661650,41.467168 1.669726,41.460307</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73957">
+          <NODE1_ID>69226</NODE1_ID>
+          <NODE1_NAME>SQM-SergioG</NODE1_NAME>
+          <NODE2_ID>34047</NODE2_ID>
+          <NODE2_NAME>SQM-Cementiri</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.664698,41.463662 1.666832,41.460565</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74885">
+          <NODE1_ID>69385</NODE1_ID>
+          <NODE1_NAME>SQM-Saira</NODE1_NAME>
+          <NODE2_ID>34042</NODE2_ID>
+          <NODE2_NAME>SQM-Ajuntament</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661822,41.463169 1.662785,41.462082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77244">
+          <NODE1_ID>72166</NODE1_ID>
+          <NODE1_NAME>SQM-JoanCoca</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>0.732</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.666798,41.461835 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78451">
+          <NODE1_ID>45912</NODE1_ID>
+          <NODE1_NAME>SQM-MariaRosa</NODE1_NAME>
+          <NODE2_ID>33634</NODE2_ID>
+          <NODE2_NAME>SQM-TorretaC</NODE2_NAME>
+          <KMS>1.994</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.680243,41.455913 1.661650,41.467168</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

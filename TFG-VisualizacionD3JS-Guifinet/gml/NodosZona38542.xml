@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.579290</gml:X><gml:Y>42.902761</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.567687</gml:X><gml:Y>42.908911</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="38552">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.579290,42.908911</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38552</NODE_ID>
+      <NODE_NAME>SARSISsnodoAP_01</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38553">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.567757,42.902761</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38553</NODE_ID>
+      <NODE_NAME>SARSntAlodiaSIScl_01</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38554">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.567687,42.903193</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38554</NODE_ID>
+      <NODE_NAME>SARSntAlodiaSIScl_02</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38556">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.568116,42.903044</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38556</NODE_ID>
+      <NODE_NAME>SARSntAlodiaSIScl_03</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.569800,42.903696</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38557</NODE_ID>
+      <NODE_NAME>SARSntAlodiaSIScl_04</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.054502</gml:X><gml:Y>42.312684</gml:Y></gml:coord>
+<gml:coord><gml:X>2.103409</gml:X><gml:Y>42.333459</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="41711">
+          <NODE1_ID>31741</NODE1_ID>
+          <NODE1_NAME>NevaParatjeBalloAMar</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>1.622</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.083797,42.319925 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46708">
+          <NODE1_ID>48790</NODE1_ID>
+          <NODE1_NAME>Fornells-CentreTelec</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>2.195</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.054502,42.320806 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51505">
+          <NODE1_ID>52407</NODE1_ID>
+          <NODE1_NAME>Neva-CanVerdaguer</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>0.725</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.078900,42.312684 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53405">
+          <NODE1_ID>53803</NODE1_ID>
+          <NODE1_NAME>Neva-Rectoria</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>0.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.078948,42.313705 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55033">
+          <NODE1_ID>54822</NODE1_ID>
+          <NODE1_NAME>Dorria-HostalVell</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>1.96</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.066988,42.333264 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55257">
+          <NODE1_ID>54973</NODE1_ID>
+          <NODE1_NAME>Neva-CalJepas</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>0.56</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.079978,42.314036 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55553">
+          <NODE1_ID>55206</NODE1_ID>
+          <NODE1_NAME>Dorria-CanVidal</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>1.895</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067404,42.332763 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57671">
+          <NODE1_ID>56802</NODE1_ID>
+          <NODE1_NAME>Dorria-CalBellet</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>1.956</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067441,42.333459 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58510">
+          <NODE1_ID>57395</NODE1_ID>
+          <NODE1_NAME>Neva-CalMillan</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>0.657</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.077457,42.313727 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61422">
+          <NODE1_ID>59442</NODE1_ID>
+          <NODE1_NAME>Dorria-Hostal5</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>1.96</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.066918,42.333227 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65348">
+          <NODE1_ID>62380</NODE1_ID>
+          <NODE1_NAME>Neva-CanJordi</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.077857,42.316110 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65404">
+          <NODE1_ID>62421</NODE1_ID>
+          <NODE1_NAME>Dorria-CalCortale</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>1.959</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067138,42.333338 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68830">
+          <NODE1_ID>48789</NODE1_ID>
+          <NODE1_NAME>Neva-TorreTelecom</NODE1_NAME>
+          <NODE2_ID>64977</NODE2_ID>
+          <NODE2_NAME>Dorria-CalValls</NODE2_NAME>
+          <KMS>1.97</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.081021,42.319021 2.066619,42.333176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78819">
+          <NODE1_ID>73471</NODE1_ID>
+          <NODE1_NAME>Neva-Refugi</NODE1_NAME>
+          <NODE2_ID>48789</NODE2_ID>
+          <NODE2_NAME>Neva-TorreTelecom</NODE2_NAME>
+          <KMS>0.72</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.077988,42.312942 2.081021,42.319021</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

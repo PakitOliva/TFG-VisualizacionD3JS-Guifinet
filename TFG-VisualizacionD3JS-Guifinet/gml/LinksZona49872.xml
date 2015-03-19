@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.477162</gml:X><gml:Y>40.714567</gml:Y></gml:coord>
+<gml:coord><gml:X>0.552873</gml:X><gml:Y>40.813794</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="60291">
+          <NODE1_ID>56927</NODE1_ID>
+          <NODE1_NAME>VinallopGranjaSole</NODE1_NAME>
+          <NODE2_ID>47948</NODE2_ID>
+          <NODE2_NAME>TortosaAUGUTE</NODE2_NAME>
+          <KMS>5.497</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.513262,40.760481 0.521574,40.809581</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60295">
+          <NODE1_ID>58628</NODE1_ID>
+          <NODE1_NAME>CampredoCentre</NODE1_NAME>
+          <NODE2_ID>56927</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaSole</NODE2_NAME>
+          <KMS>3.345</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.552873,40.760586 0.513262,40.760481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60810">
+          <NODE1_ID>53217</NODE1_ID>
+          <NODE1_NAME>VIN12</NODE1_NAME>
+          <NODE2_ID>56927</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaSole</NODE2_NAME>
+          <KMS>1.036</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.518157,40.769032 0.513262,40.760481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61028">
+          <NODE1_ID>59082</NODE1_ID>
+          <NODE1_NAME>VinallopmianesJDV</NODE1_NAME>
+          <NODE2_ID>56927</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaSole</NODE2_NAME>
+          <KMS>1.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.523606,40.767201 0.513262,40.760481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61674">
+          <NODE1_ID>59560</NODE1_ID>
+          <NODE1_NAME>VinallopPtAnsedoJDV</NODE1_NAME>
+          <NODE2_ID>26722</NODE2_ID>
+          <NODE2_NAME>TortosaSeminari</NODE2_NAME>
+          <KMS>4.432</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.485141,40.781777 0.525258,40.807530</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65074">
+          <NODE1_ID>61920</NODE1_ID>
+          <NODE1_NAME>VinallopLlevant12DGM</NODE1_NAME>
+          <NODE2_ID>56927</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaSole</NODE2_NAME>
+          <KMS>1.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512726,40.773052 0.513262,40.760481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65402">
+          <NODE1_ID>56927</NODE1_ID>
+          <NODE1_NAME>VinallopGranjaSole</NODE1_NAME>
+          <NODE2_ID>25352</NODE2_ID>
+          <NODE2_NAME>SBrbCampanar</NODE2_NAME>
+          <KMS>5.382</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.513262,40.760481 0.492869,40.714567</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67729">
+          <NODE1_ID>64212</NODE1_ID>
+          <NODE1_NAME>VinallopMigdia42DGM</NODE1_NAME>
+          <NODE2_ID>56927</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaSole</NODE2_NAME>
+          <KMS>1.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.511706,40.772028 0.513262,40.760481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68211">
+          <NODE1_ID>60842</NODE1_ID>
+          <NODE1_NAME>TortosaPOPEbrecom</NODE1_NAME>
+          <NODE2_ID>64076</NODE2_ID>
+          <NODE2_NAME>VinallopMigdia</NODE2_NAME>
+          <KMS>4.689</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.521193,40.813794 0.511897,40.772161</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71914">
+          <NODE1_ID>67339</NODE1_ID>
+          <NODE1_NAME>VinallopMianes</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>6.358</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.530449,40.737604 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76058">
+          <NODE1_ID>70849</NODE1_ID>
+          <NODE1_NAME>VinallopBarrancFondo</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>1.901</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.477162,40.773518 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80087">
+          <NODE1_ID>74485</NODE1_ID>
+          <NODE1_NAME>VinallopCarme36OAM</NODE1_NAME>
+          <NODE2_ID>26722</NODE2_ID>
+          <NODE2_NAME>TortosaSeminari</NODE2_NAME>
+          <KMS>4.356</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.487900,40.780460 0.525258,40.807530</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80641">
+          <NODE1_ID>54353</NODE1_ID>
+          <NODE1_NAME>RqtsEbrcmSantAntoni</NODE1_NAME>
+          <NODE2_ID>74935</NODE2_ID>
+          <NODE2_NAME>VinallopMigDia26</NODE2_NAME>
+          <KMS>2.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491609,40.786653 0.512133,40.772376</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121528">
+          <NODE1_ID>66527</NODE1_ID>
+          <NODE1_NAME>CampredoEscardoValls</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>3.842</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.550979,40.761917 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121841">
+          <NODE1_ID>75796</NODE1_ID>
+          <NODE1_NAME>VinallopGranjaDGM</NODE1_NAME>
+          <NODE2_ID>72996</NODE2_ID>
+          <NODE2_NAME>VinallopAvigamDGM</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.505497,40.762917 0.504719,40.763252</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122120">
+          <NODE1_ID>76214</NODE1_ID>
+          <NODE1_NAME>VinallopCamidelPas</NODE1_NAME>
+          <NODE2_ID>54353</NODE2_ID>
+          <NODE2_NAME>RqtsEbrcmSantAntoni</NODE2_NAME>
+          <KMS>1.772</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.506310,40.775257 0.491609,40.786653</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122518">
+          <NODE1_ID>45259</NODE1_ID>
+          <NODE1_NAME>VinallopLlevant36DGM</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.511426,40.772203 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122643">
+          <NODE1_ID>51318</NODE1_ID>
+          <NODE1_NAME>VinallopLlevant28DGM</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.511980,40.772474 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122644">
+          <NODE1_ID>49579</NODE1_ID>
+          <NODE1_NAME>VinallopLlevant30DGM</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.511715,40.772496 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122645">
+          <NODE1_ID>46059</NODE1_ID>
+          <NODE1_NAME>VinallopLlevant36FMT</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.144</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.511437,40.772174 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122647">
+          <NODE1_ID>42616</NODE1_ID>
+          <NODE1_NAME>VinallopTorradoDGMiR</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512799,40.773100 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122781">
+          <NODE1_ID>75796</NODE1_ID>
+          <NODE1_NAME>VinallopGranjaDGM</NODE1_NAME>
+          <NODE2_ID>59577</NODE2_ID>
+          <NODE2_NAME>MasdenvergeCentre</NODE2_NAME>
+          <KMS>5.71</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.505497,40.762917 0.531005,40.715300</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123055">
+          <NODE1_ID>57700</NODE1_ID>
+          <NODE1_NAME>VinallopMigdia40DGM</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.511784,40.772079 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123416">
+          <NODE1_ID>48712</NODE1_ID>
+          <NODE1_NAME>VinallopCanalet40IRM</NODE1_NAME>
+          <NODE2_ID>26722</NODE2_ID>
+          <NODE2_NAME>TortosaSeminari</NODE2_NAME>
+          <KMS>4.722</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.482159,40.780411 0.525258,40.807530</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123474">
+          <NODE1_ID>45128</NODE1_ID>
+          <NODE1_NAME>vinallopmitgdia12</NODE1_NAME>
+          <NODE2_ID>75796</NODE2_ID>
+          <NODE2_NAME>VinallopGranjaDGM</NODE2_NAME>
+          <KMS>1.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512999,40.772990 0.505497,40.762917</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123700">
+          <NODE1_ID>75796</NODE1_ID>
+          <NODE1_NAME>VinallopGranjaDGM</NODE1_NAME>
+          <NODE2_ID>77301</NODE2_ID>
+          <NODE2_NAME>VinallopMigdia28DGM</NODE2_NAME>
+          <KMS>1.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.505497,40.762917 0.512039,40.772290</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

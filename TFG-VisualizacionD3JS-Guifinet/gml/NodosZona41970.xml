@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.562226</gml:X><gml:Y>42.160885</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.569808</gml:X><gml:Y>42.198777</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="33067">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.569808,42.198777</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33067</NODE_ID>
+      <NODE_NAME>LCLPCanPernals</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33068">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.562226,42.172910</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33068</NODE_ID>
+      <NODE_NAME>LCLPEsEsCatalunya</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76152">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.564447,42.170552</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76152</NODE_ID>
+      <NODE_NAME>RefugiBages</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76151">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.564549,42.160885</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76151</NODE_ID>
+      <NODE_NAME>CapUrdiets</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

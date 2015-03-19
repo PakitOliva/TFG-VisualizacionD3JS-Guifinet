@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.246111</gml:X><gml:Y>40.106080</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.225338</gml:X><gml:Y>40.130107</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="48194">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.225338,40.130107</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48194</NODE_ID>
+      <NODE_NAME>FigParapentes</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43014">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.246111,40.106080</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43014</NODE_ID>
+      <NODE_NAME>KENNETH</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40139">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236759,40.119762</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40139</NODE_ID>
+      <NODE_NAME>Figdep</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40163">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237742,40.117226</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40163</NODE_ID>
+      <NODE_NAME>FigAyto</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40165">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236085,40.116386</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40165</NODE_ID>
+      <NODE_NAME>FigCult</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41259">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.234499,40.116301</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41259</NODE_ID>
+      <NODE_NAME>FigAlc8B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41260">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237079,40.116855</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41260</NODE_ID>
+      <NODE_NAME>FigAlc10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41261">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.232682,40.121524</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41261</NODE_ID>
+      <NODE_NAME>FigCorNou</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41263">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238746,40.116869</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41263</NODE_ID>
+      <NODE_NAME>FigEras8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41426">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235369,40.118860</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41426</NODE_ID>
+      <NODE_NAME>FigPartCastP33P14</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41494">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237939,40.117346</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41494</NODE_ID>
+      <NODE_NAME>FigPlazaIglesiaN2P3</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41495">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235879,40.116493</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41495</NODE_ID>
+      <NODE_NAME>FigPlazaVillalongaN2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41496">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236163,40.117194</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41496</NODE_ID>
+      <NODE_NAME>FigCalleConstN9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41497">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237225,40.118917</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41497</NODE_ID>
+      <NODE_NAME>FigCalleCemN15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42581">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238245,40.118278</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42581</NODE_ID>
+      <NODE_NAME>FigPais10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42702">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237569,40.117598</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42702</NODE_ID>
+      <NODE_NAME>FigLucena07</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42727">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237499,40.116923</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42727</NODE_ID>
+      <NODE_NAME>GUIFIESAR</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42882">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.233905,40.116632</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42882</NODE_ID>
+      <NODE_NAME>FigCSanBlas10</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42883">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236764,40.117038</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42883</NODE_ID>
+      <NODE_NAME>FigCasilla</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42885">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.231475,40.120254</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42885</NODE_ID>
+      <NODE_NAME>FigPart</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43317">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238129,40.118302</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43317</NODE_ID>
+      <NODE_NAME>FigSanBlas2926</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43053">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238218,40.117646</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43053</NODE_ID>
+      <NODE_NAME>Alvent</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43318">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236957,40.116644</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43318</NODE_ID>
+      <NODE_NAME>FigMajor13</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43525">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235628,40.117321</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43525</NODE_ID>
+      <NODE_NAME>FIGUEROLESDI14</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43882">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237408,40.118351</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43882</NODE_ID>
+      <NODE_NAME>FigCUseras9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44007">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.226893,40.121838</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44007</NODE_ID>
+      <NODE_NAME>FigVicente</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44015">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238180,40.117465</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44015</NODE_ID>
+      <NODE_NAME>Figtossalet</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44194">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238329,40.117070</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44194</NODE_ID>
+      <NODE_NAME>FIGUEROLESSM9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44667">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237992,40.117953</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44667</NODE_ID>
+      <NODE_NAME>FigCSanBlas23B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45210">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236303,40.117122</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45210</NODE_ID>
+      <NODE_NAME>ALCALATEN2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45214">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238057,40.116665</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45214</NODE_ID>
+      <NODE_NAME>FIMA21</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45471">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237609,40.117578</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45471</NODE_ID>
+      <NODE_NAME>FigLucena0702</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45472">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237126,40.117340</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45472</NODE_ID>
+      <NODE_NAME>FigSanBlas4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45529">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235474,40.116720</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45529</NODE_ID>
+      <NODE_NAME>FIALCA9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45532">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236737,40.117650</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45532</NODE_ID>
+      <NODE_NAME>FigLaPau15GuifiNet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45706">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238132,40.117865</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45706</NODE_ID>
+      <NODE_NAME>Ombria2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45753">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237031,40.118080</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45753</NODE_ID>
+      <NODE_NAME>FigSantCrist14</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45755">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237044,40.118073</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45755</NODE_ID>
+      <NODE_NAME>FigSantCrist14B</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45824">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236901,40.117736</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45824</NODE_ID>
+      <NODE_NAME>FgPau9</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47900">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237716,40.118249</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47900</NODE_ID>
+      <NODE_NAME>FigCalvarioPablo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49908">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238166,40.117754</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49908</NODE_ID>
+      <NODE_NAME>UMBRIA6FI</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50044">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236422,40.116805</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50044</NODE_ID>
+      <NODE_NAME>FigDiego1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50142">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235813,40.116524</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50142</NODE_ID>
+      <NODE_NAME>FigAlcalaten8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50579">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236140,40.116790</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50579</NODE_ID>
+      <NODE_NAME>FISBLAS33</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51285">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235836,40.125875</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51285</NODE_ID>
+      <NODE_NAME>CorralBlanc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51354">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237680,40.118347</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51354</NODE_ID>
+      <NODE_NAME>FgCrrrLlcn</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52110">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237731,40.117852</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52110</NODE_ID>
+      <NODE_NAME>FigCalvario17</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58025">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.237579,40.118661</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58025</NODE_ID>
+      <NODE_NAME>FGRLSCLVR33</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58231">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.236158,40.117496</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58231</NODE_ID>
+      <NODE_NAME>FigParidera2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59372">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.238518,40.116929</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59372</NODE_ID>
+      <NODE_NAME>figrio7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63460">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.243657,40.118707</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63460</NODE_ID>
+      <NODE_NAME>FiPiqueta1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75664">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.235412,40.118635</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75664</NODE_ID>
+      <NODE_NAME>FigCrevaeta</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

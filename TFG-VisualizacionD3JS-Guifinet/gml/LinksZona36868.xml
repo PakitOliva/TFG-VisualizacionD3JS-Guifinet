@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.900257</gml:X><gml:Y>41.343880</gml:Y></gml:coord>
+<gml:coord><gml:X>2.172493</gml:X><gml:Y>41.428093</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="47714">
+          <NODE1_ID>43631</NODE1_ID>
+          <NODE1_NAME>HW-ErmitaBellvitge</NODE1_NAME>
+          <NODE2_ID>49565</NODE2_ID>
+          <NODE2_NAME>HW-Ermta-InfraBgMesh</NODE2_NAME>
+          <KMS>0</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.109195,41.347983 2.109197,41.347982</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48652">
+          <NODE1_ID>42427</NODE1_ID>
+          <NODE1_NAME>CorSIfons</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>2.476</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.085026,41.360848 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60007">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>19.61</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70308">
+          <NODE1_ID>66068</NODE1_ID>
+          <NODE1_NAME>SJD-CanVoki</NODE1_NAME>
+          <NODE2_ID>48156</NODE2_ID>
+          <NODE2_NAME>SJD-Ermita11</NODE2_NAME>
+          <KMS>9.453</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.997839,41.361617 2.109340,41.347942</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78748">
+          <NODE1_ID>64029</NODE1_ID>
+          <NODE1_NAME>SBoiDLMFortuny10</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>5.59</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042630,41.343880 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123216">
+          <NODE1_ID>49809</NODE1_ID>
+          <NODE1_NAME>BCNcastillejos352</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>8.793</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.172493,41.411197 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123526">
+          <NODE1_ID>43631</NODE1_ID>
+          <NODE1_NAME>HW-ErmitaBellvitge</NODE1_NAME>
+          <NODE2_ID>36118</NODE2_ID>
+          <NODE2_NAME>HW-Acer</NODE2_NAME>
+          <KMS>2.415</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.109195,41.347983 2.137601,41.351832</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

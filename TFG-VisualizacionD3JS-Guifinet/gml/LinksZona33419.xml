@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.780332</gml:X><gml:Y>41.864158</gml:Y></gml:coord>
+<gml:coord><gml:X>1.950100</gml:X><gml:Y>42.101964</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="28030">
+          <NODE1_ID>9716</NODE1_ID>
+          <NODE1_NAME>CAPPortet</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>26.957</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.787848,42.101964 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28057">
+          <NODE1_ID>33413</NODE1_ID>
+          <NODE1_NAME>COREscoles</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>0.908</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.931534,41.886424 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28710">
+          <NODE1_ID>31036</NODE1_ID>
+          <NODE1_NAME>CORCornet</NODE1_NAME>
+          <NODE2_ID>33980</NODE2_ID>
+          <NODE2_NAME>SLLCornetLaTorra</NODE2_NAME>
+          <KMS>0.495</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.942180,41.888314 1.943164,41.892708</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28711">
+          <NODE1_ID>31036</NODE1_ID>
+          <NODE1_NAME>CORCornet</NODE1_NAME>
+          <NODE2_ID>33979</NODE2_ID>
+          <NODE2_NAME>SLLCornetPuigventos</NODE2_NAME>
+          <KMS>1.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.942180,41.888314 1.950100,41.897939</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29364">
+          <NODE1_ID>34757</NODE1_ID>
+          <NODE1_NAME>CORRectoria</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>0.879</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.937626,41.895458 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29714">
+          <NODE1_ID>35017</NODE1_ID>
+          <NODE1_NAME>CORElPuig</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>1.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.926953,41.877944 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30590">
+          <NODE1_ID>35742</NODE1_ID>
+          <NODE1_NAME>SLLCornetPratdeCorn</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>1.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.936458,41.903655 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30750">
+          <NODE1_ID>35878</NODE1_ID>
+          <NODE1_NAME>CORElGrane</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>2.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.923680,41.874444 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30751">
+          <NODE1_ID>35879</NODE1_ID>
+          <NODE1_NAME>CORElMorral</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>1.942</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.926620,41.875259 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31378">
+          <NODE1_ID>36480</NODE1_ID>
+          <NODE1_NAME>CORLaFont</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>3.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.909347,41.864158 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31510">
+          <NODE1_ID>36588</NODE1_ID>
+          <NODE1_NAME>CORElsPlans</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>3.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.906278,41.874449 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45609">
+          <NODE1_ID>31036</NODE1_ID>
+          <NODE1_NAME>CORCornet</NODE1_NAME>
+          <NODE2_ID>35227</NODE2_ID>
+          <NODE2_NAME>CTDCampanar</NODE2_NAME>
+          <KMS>13.483</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.942180,41.888314 1.780332,41.898885</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78865">
+          <NODE1_ID>73511</NODE1_ID>
+          <NODE1_NAME>CORManivertes</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>2.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.920079,41.877234 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81229">
+          <NODE1_ID>36588</NODE1_ID>
+          <NODE1_NAME>CORElsPlans</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>3.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.906278,41.874449 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81230">
+          <NODE1_ID>36480</NODE1_ID>
+          <NODE1_NAME>CORLaFont</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>3.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.909347,41.864158 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81231">
+          <NODE1_ID>36480</NODE1_ID>
+          <NODE1_NAME>CORLaFont</NODE1_NAME>
+          <NODE2_ID>31036</NODE2_ID>
+          <NODE2_NAME>CORCornet</NODE2_NAME>
+          <KMS>3.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.909347,41.864158 1.942180,41.888314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.644760</gml:X><gml:Y>42.167813</gml:Y></gml:coord>
+<gml:coord><gml:X>2.768936</gml:X><gml:Y>42.258552</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="28842">
+          <NODE1_ID>19909</NODE1_ID>
+          <NODE1_NAME>SrnyRCorominas</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>9.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.740209,42.179273 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29654">
+          <NODE1_ID>34955</NODE1_ID>
+          <NODE1_NAME>Seriborriol15</NODE1_NAME>
+          <NODE2_ID>23851</NODE2_ID>
+          <NODE2_NAME>SerinyaCNou60</NODE2_NAME>
+          <KMS>0.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.746625,42.168728 2.743857,42.167813</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29655">
+          <NODE1_ID>34956</NODE1_ID>
+          <NODE1_NAME>Seriborriol17</NODE1_NAME>
+          <NODE2_ID>21856</NODE2_ID>
+          <NODE2_NAME>MaiaSMagdalena</NODE2_NAME>
+          <KMS>0.481</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.766302,42.215675 2.768936,42.219542</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29656">
+          <NODE1_ID>21856</NODE1_ID>
+          <NODE1_NAME>MaiaSMagdalena</NODE1_NAME>
+          <NODE2_ID>34956</NODE2_ID>
+          <NODE2_NAME>Seriborriol17</NODE2_NAME>
+          <KMS>0.481</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.768936,42.219542 2.766302,42.215675</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31949">
+          <NODE1_ID>36904</NODE1_ID>
+          <NODE1_NAME>SeriFigueres52</NODE1_NAME>
+          <NODE2_ID>23851</NODE2_ID>
+          <NODE2_NAME>SerinyaCNou60</NODE2_NAME>
+          <KMS>0.701</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.752161,42.169086 2.743857,42.167813</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34739">
+          <NODE1_ID>39428</NODE1_ID>
+          <NODE1_NAME>SrnySERBRUG</NODE1_NAME>
+          <NODE2_ID>9526</NODE2_ID>
+          <NODE2_NAME>SFERRIOLTelecentre</NODE2_NAME>
+          <KMS>2.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.722753,42.177303 2.714338,42.194668</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52787">
+          <NODE1_ID>23851</NODE1_ID>
+          <NODE1_NAME>SerinyaCNou60</NODE1_NAME>
+          <NODE2_ID>31513</NODE2_ID>
+          <NODE2_NAME>SalesLlstmAnna</NODE2_NAME>
+          <KMS>10.734</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.743857,42.167813 2.680568,42.252217</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79000">
+          <NODE1_ID>23851</NODE1_ID>
+          <NODE1_NAME>SerinyaCNou60</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>11.727</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.743857,42.167813 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121238">
+          <NODE1_ID>75530</NODE1_ID>
+          <NODE1_NAME>SeriJnCarreras8</NODE1_NAME>
+          <NODE2_ID>23851</NODE2_ID>
+          <NODE2_NAME>SerinyaCNou60</NODE2_NAME>
+          <KMS>0.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.745895,42.170195 2.743857,42.167813</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121879">
+          <NODE1_ID>76061</NODE1_ID>
+          <NODE1_NAME>SeriNSMonmt8</NODE1_NAME>
+          <NODE2_ID>23851</NODE2_ID>
+          <NODE2_NAME>SerinyaCNou60</NODE2_NAME>
+          <KMS>0.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.744529,42.170883 2.743857,42.167813</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

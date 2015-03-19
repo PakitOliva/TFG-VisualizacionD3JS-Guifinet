@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.143499</gml:X><gml:Y>41.374836</gml:Y></gml:coord>
+<gml:coord><gml:X>2.167757</gml:X><gml:Y>41.408821</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="31242">
+          <NODE1_ID>16668</NODE1_ID>
+          <NODE1_NAME>BCNmontseny17</NODE1_NAME>
+          <NODE2_ID>7281</NODE2_ID>
+          <NODE2_NAME>BCNmanacor20</NODE2_NAME>
+          <KMS>1.133</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154620,41.401990 2.143499,41.407813</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65699">
+          <NODE1_ID>62502</NODE1_ID>
+          <NODE1_NAME>BCNverntallat48</NODE1_NAME>
+          <NODE2_ID>19937</NODE2_ID>
+          <NODE2_NAME>BCNxsf-coopVerdin</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.154796,41.407434 2.154199,41.406213</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66767">
+          <NODE1_ID>15262</NODE1_ID>
+          <NODE1_NAME>BCNParallelViladoma</NODE1_NAME>
+          <NODE2_ID>12243</NODE2_ID>
+          <NODE2_NAME>BCNTravDalt42</NODE2_NAME>
+          <KMS>3.853</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.163789,41.374836 2.154525,41.408821</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67690">
+          <NODE1_ID>63445</NODE1_ID>
+          <NODE1_NAME>BCNpro114</NODE1_NAME>
+          <NODE2_ID>19937</NODE2_ID>
+          <NODE2_NAME>BCNxsf-coopVerdin</NODE2_NAME>
+          <KMS>0.616</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160778,41.408702 2.154199,41.406213</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74110">
+          <NODE1_ID>18214</NODE1_ID>
+          <NODE1_NAME>BCNxsf-coopSol</NODE1_NAME>
+          <NODE2_ID>69276</NODE2_ID>
+          <NODE2_NAME>BCNTFlorsBruni</NODE2_NAME>
+          <KMS>0.557</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.156260,41.401737 2.161055,41.405222</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121192">
+          <NODE1_ID>60801</NODE1_ID>
+          <NODE1_NAME>BCNsantlluis60</NODE1_NAME>
+          <NODE2_ID>18214</NODE2_ID>
+          <NODE2_NAME>BCNxsf-coopSol</NODE2_NAME>
+          <KMS>0.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.161211,41.405835 2.156260,41.401737</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121358">
+          <NODE1_ID>62643</NODE1_ID>
+          <NODE1_NAME>BCNNapols309</NODE1_NAME>
+          <NODE2_ID>32281</NODE2_ID>
+          <NODE2_NAME>BCNsamclaret62</NODE2_NAME>
+          <KMS>0.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.167757,41.403970 2.166937,41.405374</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

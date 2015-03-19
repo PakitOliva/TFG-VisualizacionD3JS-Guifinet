@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-0.159999</gml:X><gml:Y>40.371620</gml:Y></gml:coord>
+      <gml:coord><gml:X>-0.141964</gml:X><gml:Y>40.401732</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="39941">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.141964,40.371620</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39941</NODE_ID>
+      <NODE_NAME>Bnssl-Rep</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="40166">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.142779,40.379886</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>40166</NODE_ID>
+      <NODE_NAME>Bnssl-camp</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56885">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-0.159999,40.401732</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56885</NODE_ID>
+      <NODE_NAME>Bnssl-MasBulch</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

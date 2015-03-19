@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.019080</gml:X><gml:Y>41.415646</gml:Y></gml:coord>
+<gml:coord><gml:X>2.129288</gml:X><gml:Y>41.545991</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="23474">
+          <NODE1_ID>21087</NODE1_ID>
+          <NODE1_NAME>LP-Transval</NODE1_NAME>
+          <NODE2_ID>12981</NODE2_ID>
+          <NODE2_NAME>SBDAlfonsXIII</NODE2_NAME>
+          <KMS>13.035</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105228,41.428698 2.110695,41.545991</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26215">
+          <NODE1_ID>21087</NODE1_ID>
+          <NODE1_NAME>LP-Transval</NODE1_NAME>
+          <NODE2_ID>28723</NODE2_ID>
+          <NODE2_NAME>LPCamiRabassalet03</NODE2_NAME>
+          <KMS>0.409</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105228,41.428698 2.107050,41.432116</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28311">
+          <NODE1_ID>28723</NODE1_ID>
+          <NODE1_NAME>LPCamiRabassalet03</NODE1_NAME>
+          <NODE2_ID>33640</NODE2_ID>
+          <NODE2_NAME>LPCCAntGriera35</NODE2_NAME>
+          <KMS>0.4</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.107050,41.432116 2.102906,41.430309</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28493">
+          <NODE1_ID>33332</NODE1_ID>
+          <NODE1_NAME>LPCCAntGriera30</NODE1_NAME>
+          <NODE2_ID>28723</NODE2_ID>
+          <NODE2_NAME>LPCamiRabassalet03</NODE2_NAME>
+          <KMS>0.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104290,41.430978 2.107050,41.432116</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28547">
+          <NODE1_ID>33837</NODE1_ID>
+          <NODE1_NAME>LP-CCAntGriera44</NODE1_NAME>
+          <NODE2_ID>28723</NODE2_ID>
+          <NODE2_NAME>LPCamiRabassalet03</NODE2_NAME>
+          <KMS>0.444</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.101870,41.431231 2.107050,41.432116</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32175">
+          <NODE1_ID>37213</NODE1_ID>
+          <NODE1_NAME>LP-CCHipica8</NODE1_NAME>
+          <NODE2_ID>28723</NODE2_ID>
+          <NODE2_NAME>LPCamiRabassalet03</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102729,41.431008 2.107050,41.432116</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37597">
+          <NODE1_ID>35694</NODE1_ID>
+          <NODE1_NAME>RbCastella2</NODE1_NAME>
+          <NODE2_ID>22704</NODE2_ID>
+          <NODE2_NAME>LPcanCortes</NODE2_NAME>
+          <KMS>9.397</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.035919,41.497840 2.104855,41.430977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37628">
+          <NODE1_ID>22704</NODE1_ID>
+          <NODE1_NAME>LPcanCortes</NODE1_NAME>
+          <NODE2_ID>28723</NODE2_ID>
+          <NODE2_NAME>LPCamiRabassalet03</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104855,41.430977 2.107050,41.432116</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38611">
+          <NODE1_ID>37382</NODE1_ID>
+          <NODE1_NAME>LP-Azalea</NODE1_NAME>
+          <NODE2_ID>35694</NODE2_ID>
+          <NODE2_NAME>RbCastella2</NODE2_NAME>
+          <KMS>9.621</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.086434,41.419993 2.035919,41.497840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38782">
+          <NODE1_ID>39823</NODE1_ID>
+          <NODE1_NAME>LP-BTalisman</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>1.62</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094629,41.433208 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39302">
+          <NODE1_ID>39823</NODE1_ID>
+          <NODE1_NAME>LP-BTalisman</NODE1_NAME>
+          <NODE2_ID>43166</NODE2_ID>
+          <NODE2_NAME>LP-Puput</NODE2_NAME>
+          <KMS>0.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094629,41.433208 2.089107,41.427052</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40054">
+          <NODE1_ID>43727</NODE1_ID>
+          <NODE1_NAME>LpCanCarol</NODE1_NAME>
+          <NODE2_ID>39823</NODE2_ID>
+          <NODE2_NAME>LP-BTalisman</NODE2_NAME>
+          <KMS>0.894</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.089524,41.426137 2.094629,41.433208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40384">
+          <NODE1_ID>41904</NODE1_ID>
+          <NODE1_NAME>RbCarboles</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>8.294</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.019080,41.474839 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40736">
+          <NODE1_ID>44204</NODE1_ID>
+          <NODE1_NAME>LpAzalea-Marta</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.086204,41.420069 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42268">
+          <NODE1_ID>45541</NODE1_ID>
+          <NODE1_NAME>LPCamiMasGuimbau58</NODE1_NAME>
+          <NODE2_ID>39823</NODE2_ID>
+          <NODE2_NAME>LP-BTalisman</NODE2_NAME>
+          <KMS>1.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.090482,41.423375 2.094629,41.433208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42463">
+          <NODE1_ID>39823</NODE1_ID>
+          <NODE1_NAME>LP-BTalisman</NODE1_NAME>
+          <NODE2_ID>45699</NODE2_ID>
+          <NODE2_NAME>LP-CamiTuroAlzina7</NODE2_NAME>
+          <KMS>1.592</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094629,41.433208 2.081385,41.422908</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43080">
+          <NODE1_ID>46151</NODE1_ID>
+          <NODE1_NAME>LP-CanBoba</NODE1_NAME>
+          <NODE2_ID>35694</NODE2_ID>
+          <NODE2_NAME>RbCastella2</NODE2_NAME>
+          <KMS>8.251</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096161,41.438965 2.035919,41.497840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43890">
+          <NODE1_ID>46768</NODE1_ID>
+          <NODE1_NAME>LP-Satelits8</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>1.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096793,41.429053 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45043">
+          <NODE1_ID>47552</NODE1_ID>
+          <NODE1_NAME>LPCanErling</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>1.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.107234,41.418325 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45044">
+          <NODE1_ID>47551</NODE1_ID>
+          <NODE1_NAME>LpCanGBD</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>1.723</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.106944,41.418511 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45232">
+          <NODE1_ID>45644</NODE1_ID>
+          <NODE1_NAME>SBDCanCamps17</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>13.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.129288,41.534214 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45234">
+          <NODE1_ID>21150</NODE1_ID>
+          <NODE1_NAME>BCNIdealPavillion</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>2.347</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.113909,41.415646 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45235">
+          <NODE1_ID>45092</NODE1_ID>
+          <NODE1_NAME>RBcompositorChueca17</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>7.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.033945,41.472410 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45579">
+          <NODE1_ID>46290</NODE1_ID>
+          <NODE1_NAME>RbValencia33</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>9.652</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.041998,41.500213 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45757">
+          <NODE1_ID>48103</NODE1_ID>
+          <NODE1_NAME>LPCanJavier</NODE1_NAME>
+          <NODE2_ID>37382</NODE2_ID>
+          <NODE2_NAME>LP-Azalea</NODE2_NAME>
+          <KMS>1.776</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.107532,41.418117 2.086434,41.419993</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50065">
+          <NODE1_ID>51308</NODE1_ID>
+          <NODE1_NAME>LP-PgTorrent3</NODE1_NAME>
+          <NODE2_ID>39823</NODE2_ID>
+          <NODE2_NAME>LP-BTalisman</NODE2_NAME>
+          <KMS>0.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092402,41.430404 2.094629,41.433208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64410">
+          <NODE1_ID>61553</NODE1_ID>
+          <NODE1_NAME>LP-CanBalasch18</NODE1_NAME>
+          <NODE2_ID>39823</NODE2_ID>
+          <NODE2_NAME>LP-BTalisman</NODE2_NAME>
+          <KMS>1.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.081008,41.422730 2.094629,41.433208</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

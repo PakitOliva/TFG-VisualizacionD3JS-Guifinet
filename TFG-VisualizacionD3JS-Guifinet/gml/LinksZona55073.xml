@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.146057</gml:X><gml:Y>43.137925</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.023351</gml:X><gml:Y>43.212334</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="55868">
+          <NODE1_ID>55428</NODE1_ID>
+          <NODE1_NAME>ADUNUdaletxea-bis</NODE1_NAME>
+          <NODE2_ID>55112</NODE2_ID>
+          <NODE2_NAME>ADUNUdaletxea</NODE2_NAME>
+          <KMS>0.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.050264,43.204104 -2.050200,43.204111</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65146">
+          <NODE1_ID>61720</NODE1_ID>
+          <NODE1_NAME>HRNLUdaletxea</NODE1_NAME>
+          <NODE2_ID>55112</NODE2_ID>
+          <NODE2_NAME>ADUNUdaletxea</NODE2_NAME>
+          <KMS>6.161</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.084774,43.154761 -2.050200,43.204111</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65467">
+          <NODE1_ID>55115</NODE1_ID>
+          <NODE1_NAME>LARRUdaletxea</NODE1_NAME>
+          <NODE2_ID>55112</NODE2_ID>
+          <NODE2_NAME>ADUNUdaletxea</NODE2_NAME>
+          <KMS>4.587</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.101902,43.187564 -2.050200,43.204111</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65471">
+          <NODE1_ID>55112</NODE1_ID>
+          <NODE1_NAME>ADUNUdaletxea</NODE1_NAME>
+          <NODE2_ID>62232</NODE2_ID>
+          <NODE2_NAME>TOLOUrkizu</NODE2_NAME>
+          <KMS>8.77</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.050200,43.204111 -2.108987,43.137925</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65475">
+          <NODE1_ID>55112</NODE1_ID>
+          <NODE1_NAME>ADUNUdaletxea</NODE1_NAME>
+          <NODE2_ID>61660</NODE2_ID>
+          <NODE2_NAME>VILLAAlustiza</NODE2_NAME>
+          <KMS>3.452</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.050200,43.204111 -2.045360,43.173245</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65511">
+          <NODE1_ID>56547</NODE1_ID>
+          <NODE1_NAME>ANDSorabillaEliza</NODE1_NAME>
+          <NODE2_ID>55112</NODE2_ID>
+          <NODE2_NAME>ADUNUdaletxea</NODE2_NAME>
+          <KMS>1.572</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.034456,43.212334 -2.050200,43.204111</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70027">
+          <NODE1_ID>55112</NODE1_ID>
+          <NODE1_NAME>ADUNUdaletxea</NODE1_NAME>
+          <NODE2_ID>61511</NODE2_ID>
+          <NODE2_NAME>ERRErnioGG</NODE2_NAME>
+          <KMS>8.824</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.050200,43.204111 -2.146057,43.166840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70226">
+          <NODE1_ID>55112</NODE1_ID>
+          <NODE1_NAME>ADUNUdaletxea</NODE1_NAME>
+          <NODE2_ID>65194</NODE2_ID>
+          <NODE2_NAME>ANDGoiburu</NODE2_NAME>
+          <KMS>2.188</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.050200,43.204111 -2.023351,43.202601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.697546</gml:X><gml:Y>42.258552</gml:Y></gml:coord>
+<gml:coord><gml:X>2.791085</gml:X><gml:Y>42.399151</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="14754">
+          <NODE1_ID>18493</NODE1_ID>
+          <NODE1_NAME>MdeC-sisi</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>15.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.742720,42.392143 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18925">
+          <NODE1_ID>23637</NODE1_ID>
+          <NODE1_NAME>MDeC-Saba</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>4.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.741212,42.388125 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23281">
+          <NODE1_ID>27959</NODE1_ID>
+          <NODE1_NAME>MdeC-Granja</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>6.236</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.728601,42.367435 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24104">
+          <NODE1_ID>29344</NODE1_ID>
+          <NODE1_NAME>MdeC-MasCros</NODE1_NAME>
+          <NODE2_ID>27959</NODE2_ID>
+          <NODE2_NAME>MdeC-Granja</NODE2_NAME>
+          <KMS>3.967</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.697546,42.394738 2.728601,42.367435</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24106">
+          <NODE1_ID>29346</NODE1_ID>
+          <NODE1_NAME>MdeC-CanGaspar</NODE1_NAME>
+          <NODE2_ID>27959</NODE2_ID>
+          <NODE2_NAME>MdeC-Granja</NODE2_NAME>
+          <KMS>2.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.716584,42.384793 2.728601,42.367435</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35492">
+          <NODE1_ID>19982</NODE1_ID>
+          <NODE1_NAME>vajolNegrin</NODE1_NAME>
+          <NODE2_ID>40067</NODE2_ID>
+          <NODE2_NAME>MdeC-Darnius</NODE2_NAME>
+          <KMS>3.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.791085,42.399151 2.758126,42.384780</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51903">
+          <NODE1_ID>52687</NODE1_ID>
+          <NODE1_NAME>MdeC-StSebastia25</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>3.568</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.751233,42.386540 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

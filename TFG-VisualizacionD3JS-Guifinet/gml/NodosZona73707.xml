@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.404726</gml:X><gml:Y>43.525301</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.399136</gml:X><gml:Y>43.527795</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="71722">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.403537,43.526468</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71722</NODE_ID>
+      <NODE_NAME>VLLVCSLineru31</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73708">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.399136,43.527795</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73708</NODE_ID>
+      <NODE_NAME>VLLVCSLineruValdesa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74006">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.404726,43.525301</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74006</NODE_ID>
+      <NODE_NAME>VLLVCSLineruForcad32</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

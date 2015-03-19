@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.246616</gml:X><gml:Y>41.547071</gml:Y></gml:coord>
+<gml:coord><gml:X>2.292752</gml:X><gml:Y>41.583157</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="58973">
+          <NODE1_ID>56577</NODE1_ID>
+          <NODE1_NAME>GRN-Palou</NODE1_NAME>
+          <NODE2_ID>55976</NODE2_ID>
+          <NODE2_NAME>MntmloKPSports</NODE2_NAME>
+          <KMS>4.466</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.292752,41.583157 2.252090,41.556994</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59193">
+          <NODE1_ID>57883</NODE1_ID>
+          <NODE1_NAME>MntmloEstanfi</NODE1_NAME>
+          <NODE2_ID>56577</NODE2_ID>
+          <NODE2_NAME>GRN-Palou</NODE2_NAME>
+          <KMS>5.556</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.246616,41.547071 2.292752,41.583157</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77823">
+          <NODE1_ID>72725</NODE1_ID>
+          <NODE1_NAME>MontRecupalet</NODE1_NAME>
+          <NODE2_ID>56577</NODE2_ID>
+          <NODE2_NAME>GRN-Palou</NODE2_NAME>
+          <KMS>4.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.259450,41.555094 2.292752,41.583157</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.273925</gml:X><gml:Y>41.518921</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.324043</gml:X><gml:Y>41.539420</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="52713">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.306077,41.533204</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52713</NODE_ID>
+      <NODE_NAME>VLLRDiposits</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52554">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.273925,41.526751</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52554</NODE_ID>
+      <NODE_NAME>VLLRCanCorbera</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56497">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.322021,41.532306</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56497</NODE_ID>
+      <NODE_NAME>VLLRCampins</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57557">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.324043,41.518921</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57557</NODE_ID>
+      <NODE_NAME>VLLRCanGallemi</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58824">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.289404,41.539420</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58824</NODE_ID>
+      <NODE_NAME>VLLRDdionis</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64588">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.283365,41.532332</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64588</NODE_ID>
+      <NODE_NAME>VLLRCoch</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65645">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.279449,41.530064</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65645</NODE_ID>
+      <NODE_NAME>VLLRJodani</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65956">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.301844,41.534300</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65956</NODE_ID>
+      <NODE_NAME>VLLRCirerer6</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74073">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.278161,41.538505</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74073</NODE_ID>
+      <NODE_NAME>VLLRCanGalbany</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75942">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.299584,41.536738</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75942</NODE_ID>
+      <NODE_NAME>VLLRFran</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

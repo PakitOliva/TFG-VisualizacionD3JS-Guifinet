@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.620701</gml:X><gml:Y>41.984831</gml:Y></gml:coord>
+<gml:coord><gml:X>2.908840</gml:X><gml:Y>42.273677</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="14201">
+          <NODE1_ID>9170</NODE1_ID>
+          <NODE1_NAME>AlbMMont</NODE1_NAME>
+          <NODE2_ID>17015</NODE2_ID>
+          <NODE2_NAME>ESPMasAuro</NODE2_NAME>
+          <KMS>12.841</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.706790,42.258552 2.810724,42.172559</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19696">
+          <NODE1_ID>24640</NODE1_ID>
+          <NODE1_NAME>EspCanbondasia</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>12.82</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.787373,42.159903 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24598">
+          <NODE1_ID>22074</NODE1_ID>
+          <NODE1_NAME>EspColomer</NODE1_NAME>
+          <NODE2_ID>28510</NODE2_ID>
+          <NODE2_NAME>EspNord5</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.794744,42.179358 2.795784,42.178566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24602">
+          <NODE1_ID>20974</NODE1_ID>
+          <NODE1_NAME>Esppaller</NODE1_NAME>
+          <NODE2_ID>28510</NODE2_ID>
+          <NODE2_NAME>EspNord5</NODE2_NAME>
+          <KMS>3.284</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.834634,42.172314 2.795784,42.178566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24604">
+          <NODE1_ID>29898</NODE1_ID>
+          <NODE1_NAME>EspCtet</NODE1_NAME>
+          <NODE2_ID>28510</NODE2_ID>
+          <NODE2_NAME>EspNord5</NODE2_NAME>
+          <KMS>0.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.795795,42.178700 2.795784,42.178566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24803">
+          <NODE1_ID>28510</NODE1_ID>
+          <NODE1_NAME>EspNord5</NODE1_NAME>
+          <NODE2_ID>17748</NODE2_ID>
+          <NODE2_NAME>EspCanSoler</NODE2_NAME>
+          <KMS>3.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.795784,42.178566 2.835159,42.172308</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24805">
+          <NODE1_ID>28510</NODE1_ID>
+          <NODE1_NAME>EspNord5</NODE1_NAME>
+          <NODE2_ID>18434</NODE2_ID>
+          <NODE2_NAME>Espcalavet</NODE2_NAME>
+          <KMS>3.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.795784,42.178566 2.835535,42.171122</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26757">
+          <NODE1_ID>9170</NODE1_ID>
+          <NODE1_NAME>AlbMMont</NODE1_NAME>
+          <NODE2_ID>22322</NODE2_ID>
+          <NODE2_NAME>EspcertAleman</NODE2_NAME>
+          <KMS>13.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.706790,42.258552 2.787336,42.157879</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36866">
+          <NODE1_ID>41136</NODE1_ID>
+          <NODE1_NAME>Espcananglada</NODE1_NAME>
+          <NODE2_ID>28510</NODE2_ID>
+          <NODE2_NAME>EspNord5</NODE2_NAME>
+          <KMS>3.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.834795,42.171845 2.795784,42.178566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38036">
+          <NODE1_ID>42140</NODE1_ID>
+          <NODE1_NAME>Espcodal</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>14.48</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.835052,42.169655 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75419">
+          <NODE1_ID>31553</NODE1_ID>
+          <NODE1_NAME>EspCanFidel</NODE1_NAME>
+          <NODE2_ID>31513</NODE2_ID>
+          <NODE2_NAME>SalesLlstmAnna</NODE2_NAME>
+          <KMS>13.705</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.787502,42.157865 2.680568,42.252217</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75420">
+          <NODE1_ID>31553</NODE1_ID>
+          <NODE1_NAME>EspCanFidel</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>15.143</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.787502,42.157865 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75422">
+          <NODE1_ID>31553</NODE1_ID>
+          <NODE1_NAME>EspCanFidel</NODE1_NAME>
+          <NODE2_ID>18149</NODE2_ID>
+          <NODE2_NAME>SMVElsAngels</NODE2_NAME>
+          <KMS>21.685</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.787502,42.157865 2.908840,41.984831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122972">
+          <NODE1_ID>31553</NODE1_ID>
+          <NODE1_NAME>EspCanFidel</NODE1_NAME>
+          <NODE2_ID>21051</NODE2_ID>
+          <NODE2_NAME>Mntgmdalt</NODE2_NAME>
+          <KMS>18.846</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.787502,42.157865 2.620701,42.273677</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

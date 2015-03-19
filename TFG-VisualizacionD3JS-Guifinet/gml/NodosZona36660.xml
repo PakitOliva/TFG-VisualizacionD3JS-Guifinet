@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.676246</gml:X><gml:Y>41.619820</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.682170</gml:X><gml:Y>41.627243</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="21425">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.676246,41.623335</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21425</NODE_ID>
+      <NODE_NAME>PdM-FocoCXaubet</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="21758">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.682170,41.627243</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21758</NODE_ID>
+      <NODE_NAME>PdMIESEuclides</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28195">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.681431,41.619820</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28195</NODE_ID>
+      <NODE_NAME>PdM-pintaron5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="51736">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.680516,41.626801</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>51736</NODE_ID>
+      <NODE_NAME>PdM-Castella</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53535">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.680107,41.627227</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53535</NODE_ID>
+      <NODE_NAME>PdM-ExtreMKA</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54319">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.680533,41.626799</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54319</NODE_ID>
+      <NODE_NAME>PdM-Castella02</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74133">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.679012,41.625304</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74133</NODE_ID>
+      <NODE_NAME>PdMFurgoEquip</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74134">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.678473,41.625771</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74134</NODE_ID>
+      <NODE_NAME>PdMMasRafart</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

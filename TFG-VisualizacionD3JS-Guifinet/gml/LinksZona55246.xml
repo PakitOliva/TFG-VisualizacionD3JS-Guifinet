@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-1.988831</gml:X><gml:Y>43.266214</gml:Y></gml:coord>
+<gml:coord><gml:X>-1.968071</gml:X><gml:Y>43.330531</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="70331">
+          <NODE1_ID>58074</NODE1_ID>
+          <NODE1_NAME>DNSTUlia</NODE1_NAME>
+          <NODE2_ID>61628</NODE2_ID>
+          <NODE2_NAME>HRNNSantaBarbara</NODE2_NAME>
+          <KMS>7.273</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.968339,43.330531 -1.985020,43.266214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70337">
+          <NODE1_ID>58074</NODE1_ID>
+          <NODE1_NAME>DNSTUlia</NODE1_NAME>
+          <NODE2_ID>65735</NODE2_ID>
+          <NODE2_NAME>DNSTUrgull</NODE2_NAME>
+          <KMS>1.77</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.968339,43.330531 -1.988831,43.325039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70341">
+          <NODE1_ID>66086</NODE1_ID>
+          <NODE1_NAME>DNSTUlia-bis</NODE1_NAME>
+          <NODE2_ID>58074</NODE2_ID>
+          <NODE2_NAME>DNSTUlia</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.968071,43.330531 -1.968339,43.330531</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.292905</gml:X><gml:Y>40.193678</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.125672</gml:X><gml:Y>40.294496</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="25838">
+          <NODE1_ID>22337</NODE1_ID>
+          <NODE1_NAME>Vistbll-Diposit</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.387</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292728,40.294496 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25839">
+          <NODE1_ID>18676</NODE1_ID>
+          <NODE1_NAME>AtzTele</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>8.582</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.141535,40.218718 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26049">
+          <NODE1_ID>31173</NODE1_ID>
+          <NODE1_NAME>bnfg-CasaCult</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209292,40.275976 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29473">
+          <NODE1_ID>34812</NODE1_ID>
+          <NODE1_NAME>bnfgFarmacia</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209126,40.276518 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30238">
+          <NODE1_ID>35437</NODE1_ID>
+          <NODE1_NAME>bnfg-Eva</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209266,40.276792 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30309">
+          <NODE1_ID>35367</NODE1_ID>
+          <NODE1_NAME>bnfg-GemaMarin</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208976,40.276256 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30471">
+          <NODE1_ID>22442</NODE1_ID>
+          <NODE1_NAME>Vistbll-Ajuntament</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.376</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.292905,40.293649 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31348">
+          <NODE1_ID>29694</NODE1_ID>
+          <NODE1_NAME>bnfg-Ajuntament</NODE1_NAME>
+          <NODE2_ID>36442</NODE2_ID>
+          <NODE2_NAME>BnfgPortellas29</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209314,40.276503 -0.209309,40.276956</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31349">
+          <NODE1_ID>36443</NODE1_ID>
+          <NODE1_NAME>BnfgJulian</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208858,40.276137 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31947">
+          <NODE1_ID>36514</NODE1_ID>
+          <NODE1_NAME>JoseMaria</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208032,40.276358 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31948">
+          <NODE1_ID>33691</NODE1_ID>
+          <NODE1_NAME>bnfg-CaFelipo</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208676,40.277069 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33646">
+          <NODE1_ID>31173</NODE1_ID>
+          <NODE1_NAME>bnfg-CasaCult</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209292,40.275976 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33963">
+          <NODE1_ID>33344</NODE1_ID>
+          <NODE1_NAME>bnfg-SoldePico</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208526,40.276431 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34598">
+          <NODE1_ID>39299</NODE1_ID>
+          <NODE1_NAME>Bnfg-PlazaMayor</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209338,40.276802 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34832">
+          <NODE1_ID>33107</NODE1_ID>
+          <NODE1_NAME>Atz_Sergio</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.673</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.125672,40.250058 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35745">
+          <NODE1_ID>39401</NODE1_ID>
+          <NODE1_NAME>PoudelaRiba</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>4.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.226220,40.241956 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36230">
+          <NODE1_ID>40603</NODE1_ID>
+          <NODE1_NAME>bnfg-FernandoSolsona</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208633,40.276397 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36704">
+          <NODE1_ID>35368</NODE1_ID>
+          <NODE1_NAME>bnfg-MasVenturo</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>3.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.158089,40.247298 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37911">
+          <NODE1_ID>33636</NODE1_ID>
+          <NODE1_NAME>Atz_AlejandroMsBlanc</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.554</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.130978,40.243905 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39002">
+          <NODE1_ID>42861</NODE1_ID>
+          <NODE1_NAME>bnfg-VanesaMiralles</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209153,40.276015 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40795">
+          <NODE1_ID>40604</NODE1_ID>
+          <NODE1_NAME>bnfg-MarisaMiralles</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208676,40.276362 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41841">
+          <NODE1_ID>35365</NODE1_ID>
+          <NODE1_NAME>bnfg-MasDelsAlbis</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.221</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.211744,40.275309 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42093">
+          <NODE1_ID>41508</NODE1_ID>
+          <NODE1_NAME>bnfg-MariaJesus</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208571,40.276615 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44261">
+          <NODE1_ID>47014</NODE1_ID>
+          <NODE1_NAME>prova</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208520,40.276902 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44312">
+          <NODE1_ID>41447</NODE1_ID>
+          <NODE1_NAME>bnfg-MireiaGonell</NODE1_NAME>
+          <NODE2_ID>33691</NODE2_ID>
+          <NODE2_NAME>bnfg-CaFelipo</NODE2_NAME>
+          <KMS>0.119</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209360,40.278002 -0.208676,40.277069</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44313">
+          <NODE1_ID>45152</NODE1_ID>
+          <NODE1_NAME>bnfg-MerxeCortes</NODE1_NAME>
+          <NODE2_ID>33691</NODE2_ID>
+          <NODE2_NAME>bnfg-CaFelipo</NODE2_NAME>
+          <KMS>0.395</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.206450,40.280191 -0.208676,40.277069</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44316">
+          <NODE1_ID>47032</NODE1_ID>
+          <NODE1_NAME>bnfg-AdrianPitarch</NODE1_NAME>
+          <NODE2_ID>33691</NODE2_ID>
+          <NODE2_NAME>bnfg-CaFelipo</NODE2_NAME>
+          <KMS>0.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208885,40.278494 -0.208676,40.277069</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53986">
+          <NODE1_ID>45411</NODE1_ID>
+          <NODE1_NAME>bnfg-Benedicto</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209183,40.276867 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58966">
+          <NODE1_ID>18676</NODE1_ID>
+          <NODE1_NAME>AtzTele</NODE1_NAME>
+          <NODE2_ID>45150</NODE2_ID>
+          <NODE2_NAME>bnfg-MasdeCollao</NODE2_NAME>
+          <KMS>3.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.141535,40.218718 -0.153922,40.244492</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62999">
+          <NODE1_ID>31173</NODE1_ID>
+          <NODE1_NAME>bnfg-CasaCult</NODE1_NAME>
+          <NODE2_ID>49893</NODE2_ID>
+          <NODE2_NAME>bnfg-Sonia</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209292,40.275976 -0.209078,40.276490</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63052">
+          <NODE1_ID>60598</NODE1_ID>
+          <NODE1_NAME>AzPoudelaRiba2</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>3.739</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.225928,40.244813 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64397">
+          <NODE1_ID>29694</NODE1_ID>
+          <NODE1_NAME>bnfg-Ajuntament</NODE1_NAME>
+          <NODE2_ID>45482</NODE2_ID>
+          <NODE2_NAME>bnfg-DavidPitarch</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.209314,40.276503 -0.208595,40.276940</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73363">
+          <NODE1_ID>68735</NODE1_ID>
+          <NODE1_NAME>bfgcasaelmoli</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208904,40.276893 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74876">
+          <NODE1_ID>69843</NODE1_ID>
+          <NODE1_NAME>bnfg_Delia</NODE1_NAME>
+          <NODE2_ID>29694</NODE2_ID>
+          <NODE2_NAME>bnfg-Ajuntament</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.208925,40.276923 -0.209314,40.276503</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76568">
+          <NODE1_ID>69903</NODE1_ID>
+          <NODE1_NAME>masdeestremelets</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>9.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.195361,40.193678 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76615">
+          <NODE1_ID>20731</NODE1_ID>
+          <NODE1_NAME>AtzCasal</NODE1_NAME>
+          <NODE2_ID>31173</NODE2_ID>
+          <NODE2_NAME>bnfg-CasaCult</NODE2_NAME>
+          <KMS>7.342</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.171850,40.216406 -0.209292,40.275976</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81287">
+          <NODE1_ID>18676</NODE1_ID>
+          <NODE1_NAME>AtzTele</NODE1_NAME>
+          <NODE2_ID>35931</NODE2_ID>
+          <NODE2_NAME>bnfg-MasElPortell</NODE2_NAME>
+          <KMS>5.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.141535,40.218718 -0.169414,40.259289</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81288">
+          <NODE1_ID>33870</NODE1_ID>
+          <NODE1_NAME>MasiaCoves</NODE1_NAME>
+          <NODE2_ID>18676</NODE2_ID>
+          <NODE2_NAME>AtzTele</NODE2_NAME>
+          <KMS>3.766</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.166984,40.246462 -0.141535,40.218718</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

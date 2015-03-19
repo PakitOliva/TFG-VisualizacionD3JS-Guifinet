@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.797630</gml:X><gml:Y>42.070991</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.839252</gml:X><gml:Y>42.101848</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23423">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.804797,42.092212</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23423</NODE_ID>
+      <NODE_NAME>CrnllTrrSatSuis</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26669">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.839252,42.074918</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26669</NODE_ID>
+      <NODE_NAME>CrnllTrrRavospla</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31176">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.827982,42.092681</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31176</NODE_ID>
+      <NODE_NAME>CrnllTrrCPessebre</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32217">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.838163,42.070991</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32217</NODE_ID>
+      <NODE_NAME>CrnllTrrJPoch</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33160">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.797630,42.101407</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33160</NODE_ID>
+      <NODE_NAME>CrnllTrrCanRomans</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41824">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.808812,42.092622</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41824</NODE_ID>
+      <NODE_NAME>CrnllTrrCasesNoves</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44549">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.802672,42.096351</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44549</NODE_ID>
+      <NODE_NAME>CrnlllTrrCanCosta</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46647">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.816667,42.100000</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46647</NODE_ID>
+      <NODE_NAME>QRTPujalsCavaller1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49847">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.801933,42.101848</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49847</NODE_ID>
+      <NODE_NAME>CrnllTEsclsVllsBrgny</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72374">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.814820,42.091204</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72374</NODE_ID>
+      <NODE_NAME>CrnllTrrCarme15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

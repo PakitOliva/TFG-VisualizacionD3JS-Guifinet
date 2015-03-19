@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.068211</gml:X><gml:Y>42.128985</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.071146</gml:X><gml:Y>42.154709</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="63270">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.071146,42.128985</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63270</NODE_ID>
+      <NODE_NAME>VldmtGarriga</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41206">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.068211,42.135966</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41206</NODE_ID>
+      <NODE_NAME>Vldmdiposits</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50243">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.071134,42.144892</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50243</NODE_ID>
+      <NODE_NAME>PelacalLuis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59253">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.069848,42.154709</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59253</NODE_ID>
+      <NODE_NAME>MontiroRectoria1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

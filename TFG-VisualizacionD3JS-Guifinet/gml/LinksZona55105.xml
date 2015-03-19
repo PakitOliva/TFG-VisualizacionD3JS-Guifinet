@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.063800</gml:X><gml:Y>43.124765</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.051155</gml:X><gml:Y>43.138310</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="55757">
+          <NODE1_ID>55127</NODE1_ID>
+          <NODE1_NAME>BELAUdaletxea</NODE1_NAME>
+          <NODE2_ID>55350</NODE2_ID>
+          <NODE2_NAME>IBARUdaletxea</NODE2_NAME>
+          <KMS>0.982</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.051209,43.134787 -2.062330,43.131360</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55759">
+          <NODE1_ID>55127</NODE1_ID>
+          <NODE1_NAME>BELAUdaletxea</NODE1_NAME>
+          <NODE2_ID>55351</NODE2_ID>
+          <NODE2_NAME>IBARIzaskun</NODE2_NAME>
+          <KMS>1.097</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.051209,43.134787 -2.063800,43.138310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55856">
+          <NODE1_ID>55425</NODE1_ID>
+          <NODE1_NAME>BELAUdaletxea-bis</NODE1_NAME>
+          <NODE2_ID>55127</NODE2_ID>
+          <NODE2_NAME>BELAUdaletxea</NODE2_NAME>
+          <KMS>0.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.051155,43.134780 -2.051209,43.134787</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65784">
+          <NODE1_ID>62683</NODE1_ID>
+          <NODE1_NAME>LEABElkartea</NODE1_NAME>
+          <NODE2_ID>55127</NODE2_ID>
+          <NODE2_NAME>BELAUdaletxea</NODE2_NAME>
+          <KMS>1.116</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.052084,43.124765 -2.051209,43.134787</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.034693</gml:X><gml:Y>41.985990</gml:Y></gml:coord>
+<gml:coord><gml:X>2.091083</gml:X><gml:Y>42.058187</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="4301">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>3.158</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5188">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>7246</NODE2_ID>
+          <NODE2_NAME>StaCreuManel</NODE2_NAME>
+          <KMS>1.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.040997,42.003826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5529">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>7279</NODE2_ID>
+          <NODE2_NAME>SCJcausat</NODE2_NAME>
+          <KMS>0.234</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.063084,42.006460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5533">
+          <NODE1_ID>7882</NODE1_ID>
+          <NODE1_NAME>StaCreuJutglars</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062864,42.010470 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6077">
+          <NODE1_ID>8639</NODE1_ID>
+          <NODE1_NAME>StaCreuCalFerrer</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062228,42.006762 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6207">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>8854</NODE2_ID>
+          <NODE2_NAME>StaCreuCalCisteller</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.062274,42.006069</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6528">
+          <NODE1_ID>9234</NODE1_ID>
+          <NODE1_NAME>StaCreuCalPeraire</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061993,42.005945 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6593">
+          <NODE1_ID>9328</NODE1_ID>
+          <NODE1_NAME>StaCreuJordi</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061611,42.005995 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6664">
+          <NODE1_ID>9453</NODE1_ID>
+          <NODE1_NAME>StaCreuCastane</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.687</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.064815,42.010889 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8626">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>10023</NODE2_ID>
+          <NODE2_NAME>StaCreuGerard</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.062566,42.006439</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9410">
+          <NODE1_ID>13017</NODE1_ID>
+          <NODE1_NAME>StaCreuVeri</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.618</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.063625,42.010655 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9561">
+          <NODE1_ID>13216</NODE1_ID>
+          <NODE1_NAME>StaCreuPrat</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061545,42.005897 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10607">
+          <NODE1_ID>14382</NODE1_ID>
+          <NODE1_NAME>StaCreuXavierBerta</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062417,42.008085 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10812">
+          <NODE1_ID>14743</NODE1_ID>
+          <NODE1_NAME>StaCreuSoldevila</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062408,42.006343 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11223">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>15156</NODE2_ID>
+          <NODE2_NAME>StaCreuVilella</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.051020,42.006409</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11729">
+          <NODE1_ID>15610</NODE1_ID>
+          <NODE1_NAME>StaCreuAltarriva</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061538,42.005930 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13868">
+          <NODE1_ID>18173</NODE1_ID>
+          <NODE1_NAME>StaCreuCambrers</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061479,42.005887 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14814">
+          <NODE1_ID>19272</NODE1_ID>
+          <NODE1_NAME>StaCreuJVC</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061567,42.006420 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14869">
+          <NODE1_ID>19334</NODE1_ID>
+          <NODE1_NAME>StaCreuLaCabana</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>3.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.064545,42.006348 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15674">
+          <NODE1_ID>19980</NODE1_ID>
+          <NODE1_NAME>StaCreuRamonTort</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061943,42.006062 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17200">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>21742</NODE2_ID>
+          <NODE2_NAME>LlucaMonestir</NODE2_NAME>
+          <KMS>5.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.035210,42.050243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18262">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>13416</NODE2_ID>
+          <NODE2_NAME>OlostMRexach</NODE2_NAME>
+          <KMS>2.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.087288,42.006222</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18341">
+          <NODE1_ID>22987</NODE1_ID>
+          <NODE1_NAME>StaCreuPepito</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062015,42.006836 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21552">
+          <NODE1_ID>26240</NODE1_ID>
+          <NODE1_NAME>LlucaElGaret</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>4.941</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.036764,42.046422 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21721">
+          <NODE1_ID>13162</NODE1_ID>
+          <NODE1_NAME>OlostRexac</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>1.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.077068,42.000513 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22219">
+          <NODE1_ID>10075</NODE1_ID>
+          <NODE1_NAME>StaCreuLaCasaNovaPui</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.085330,42.018640 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23875">
+          <NODE1_ID>29080</NODE1_ID>
+          <NODE1_NAME>StaCreuCanPau</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062721,42.006533 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23933">
+          <NODE1_ID>29150</NODE1_ID>
+          <NODE1_NAME>StaCreuPadros</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060795,42.005109 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28088">
+          <NODE1_ID>33445</NODE1_ID>
+          <NODE1_NAME>StaCreuMontse</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062807,42.010327 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29575">
+          <NODE1_ID>14747</NODE1_ID>
+          <NODE1_NAME>StaCreuMerceTarres</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.583</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.063441,42.010879 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31185">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>36283</NODE2_ID>
+          <NODE2_NAME>StaCreuDiposits</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.062427,42.007160</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31940">
+          <NODE1_ID>9489</NODE1_ID>
+          <NODE1_NAME>StaCreuMonclus</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060458,42.005227 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31944">
+          <NODE1_ID>21323</NODE1_ID>
+          <NODE1_NAME>StaCreuEster</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061043,42.005393 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35473">
+          <NODE1_ID>8175</NODE1_ID>
+          <NODE1_NAME>SMADip</NODE1_NAME>
+          <NODE2_ID>15079</NODE2_ID>
+          <NODE2_NAME>StaCreuErra</NODE2_NAME>
+          <KMS>2.926</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065676,42.034073 2.062101,42.007861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36360">
+          <NODE1_ID>13176</NODE1_ID>
+          <NODE1_NAME>LaTorreLaCaseta</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>2.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.051930,41.985990 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43654">
+          <NODE1_ID>46574</NODE1_ID>
+          <NODE1_NAME>SantaCreuJPratdesaba</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.566</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.063885,42.011006 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51914">
+          <NODE1_ID>52700</NODE1_ID>
+          <NODE1_NAME>StaCreuLaPausaRural</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062654,42.006450 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60170">
+          <NODE1_ID>58531</NODE1_ID>
+          <NODE1_NAME>StaCreuRuaix</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062603,42.006177 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64261">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>31261</NODE2_ID>
+          <NODE2_NAME>LlucaCanBagues</NODE2_NAME>
+          <KMS>4.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.038232,42.040273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64319">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>39935</NODE2_ID>
+          <NODE2_NAME>StaCreuLaCasaGran</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.060081,42.004965</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64391">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>21743</NODE2_ID>
+          <NODE2_NAME>LlucaLaPrimitiva</NODE2_NAME>
+          <KMS>5.428</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.034693,42.050524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66588">
+          <NODE1_ID>18206</NODE1_ID>
+          <NODE1_NAME>SEPOLesVinyes</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>5.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065768,42.058187 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79115">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>3.191</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123400">
+          <NODE1_ID>76986</NODE1_ID>
+          <NODE1_NAME>StaCreuCarrerVell7</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061170,42.005643 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

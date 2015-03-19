@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-6.208905</gml:X><gml:Y>43.366036</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.562121</gml:X><gml:Y>43.632495</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="44754">
+          <NODE1_ID>46746</NODE1_ID>
+          <NODE1_NAME>GJNSanMartin</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>22.295</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.670866,43.458308 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45092">
+          <NODE1_ID>47588</NODE1_ID>
+          <NODE1_NAME>GZNPerdones</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>10.888</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.866587,43.572082 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45486">
+          <NODE1_ID>47918</NODE1_ID>
+          <NODE1_NAME>AVIGorfolibis</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942702,43.491288 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45487">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>47918</NODE2_ID>
+          <NODE2_NAME>AVIGorfolibis</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.942702,43.491288</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45518">
+          <NODE1_ID>47582</NODE1_ID>
+          <NODE1_NAME>AVIValliniello</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>9.609</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.890539,43.568934 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45519">
+          <NODE1_ID>47939</NODE1_ID>
+          <NODE1_NAME>GZNRexidor</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>11.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.896252,43.584366 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45520">
+          <NODE1_ID>47940</NODE1_ID>
+          <NODE1_NAME>ILLJuanin</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.983032,43.489817 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46139">
+          <NODE1_ID>48169</NODE1_ID>
+          <NODE1_NAME>GZNBanugues</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>18.639</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.818269,43.632495 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51194">
+          <NODE1_ID>47958</NODE1_ID>
+          <NODE1_NAME>UVIENaranco</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>12.895</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.879483,43.384686 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53700">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.491</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54021">
+          <NODE1_ID>47918</NODE1_ID>
+          <NODE1_NAME>AVIGorfolibis</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942702,43.491288 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54695">
+          <NODE1_ID>54601</NODE1_ID>
+          <NODE1_NAME>MOLLEDALaTrapa</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.888</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.897695,43.520602 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55246">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>54420</NODE2_ID>
+          <NODE2_NAME>NAVAElSolanu</NODE2_NAME>
+          <KMS>33.808</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.562121,43.366036</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56923">
+          <NODE1_ID>56237</NODE1_ID>
+          <NODE1_NAME>SOLISTarano4</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.871763,43.484915 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56934">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>55621</NODE2_ID>
+          <NODE2_NAME>SOLISTarano3</NODE2_NAME>
+          <KMS>5.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.874349,43.487701</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57256">
+          <NODE1_ID>56309</NODE1_ID>
+          <NODE1_NAME>ARLOSLavares71</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.377</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.901053,43.488945 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58076">
+          <NODE1_ID>57062</NODE1_ID>
+          <NODE1_NAME>AVIdearriba</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.917</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.941562,43.535463 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63695">
+          <NODE1_ID>61036</NODE1_ID>
+          <NODE1_NAME>AVIHeros</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>6.773</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.933948,43.551844 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65934">
+          <NODE1_ID>62461</NODE1_ID>
+          <NODE1_NAME>CSTRLLPBgalicia20lin</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>8.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.980688,43.558584 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68973">
+          <NODE1_ID>65068</NODE1_ID>
+          <NODE1_NAME>GZNSanMartinPodes34</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>14.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.889090,43.613278 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70484">
+          <NODE1_ID>65632</NODE1_ID>
+          <NODE1_NAME>NUNEZ17</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.886188,43.510714 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70542">
+          <NODE1_ID>65698</NODE1_ID>
+          <NODE1_NAME>LOSCAMPOSSantaCruz7</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>6.836</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.889503,43.539051 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71697">
+          <NODE1_ID>67010</NODE1_ID>
+          <NODE1_NAME>GZNLaPolvorosa</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>11.752</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.866935,43.581500 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73435">
+          <NODE1_ID>68574</NODE1_ID>
+          <NODE1_NAME>AVIVillanueva48</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.949510,43.542549 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73632">
+          <NODE1_ID>68694</NODE1_ID>
+          <NODE1_NAME>CSTRLLElForcon42</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.957428,43.538587 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73833">
+          <NODE1_ID>47918</NODE1_ID>
+          <NODE1_NAME>AVIGorfolibis</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942702,43.491288 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74491">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>65240</NODE2_ID>
+          <NODE2_NAME>CSTRLLForcon19</NODE2_NAME>
+          <KMS>5.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.954450,43.536898</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75295">
+          <NODE1_ID>70108</NODE1_ID>
+          <NODE1_NAME>ARLOSLavares47</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.896632,43.487455 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75475">
+          <NODE1_ID>69675</NODE1_ID>
+          <NODE1_NAME>Vfrncsc2</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>6.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.903290,43.538080 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76324">
+          <NODE1_ID>58830</NODE1_ID>
+          <NODE1_NAME>CSTRLLLaCangueta23</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.828</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.968237,43.530489 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76330">
+          <NODE1_ID>65259</NODE1_ID>
+          <NODE1_NAME>VILLALlamera1</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.137</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.938062,43.528298 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76331">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>66403</NODE2_ID>
+          <NODE2_NAME>VILLAAAVVElSucu7</NODE2_NAME>
+          <KMS>3.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.941270,43.525031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76332">
+          <NODE1_ID>47942</NODE1_ID>
+          <NODE1_NAME>CSTRLLCholfo</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.960298,43.531559 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76853">
+          <NODE1_ID>71791</NODE1_ID>
+          <NODE1_NAME>AVIHCortes5</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.944</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.908123,43.538434 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77057">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>48365</NODE2_ID>
+          <NODE2_NAME>ILLlalaguna</NODE2_NAME>
+          <KMS>2.947</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.957235,43.515541</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77103">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>68641</NODE2_ID>
+          <NODE2_NAME>GZNBustio.Salines</NODE2_NAME>
+          <KMS>15.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.823041,43.595450</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77190">
+          <NODE1_ID>60592</NODE1_ID>
+          <NODE1_NAME>CSTRLLLaCangueta32</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.966724,43.530843 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77192">
+          <NODE1_ID>57109</NODE1_ID>
+          <NODE1_NAME>CSTRLLLaCangueta73</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.679</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.961140,43.531135 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77193">
+          <NODE1_ID>62436</NODE1_ID>
+          <NODE1_NAME>CSTRLLPBFruela21</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>8.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.971775,43.561101 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77194">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>64401</NODE2_ID>
+          <NODE2_NAME>ILLLaLaguna88bis</NODE2_NAME>
+          <KMS>3.256</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.954998,43.519117</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77195">
+          <NODE1_ID>60425</NODE1_ID>
+          <NODE1_NAME>CSTRLLPBGalicia20</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>8.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.980656,43.558664 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77197">
+          <NODE1_ID>58224</NODE1_ID>
+          <NODE1_NAME>ILLlalaguna1</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.957735,43.515902 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77198">
+          <NODE1_ID>57293</NODE1_ID>
+          <NODE1_NAME>CSTRLLLaBrana3bis</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>6.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.981444,43.546791 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77200">
+          <NODE1_ID>60632</NODE1_ID>
+          <NODE1_NAME>SOLISLaCruzada3</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>8.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.842482,43.507055 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77204">
+          <NODE1_ID>58839</NODE1_ID>
+          <NODE1_NAME>CSTRLLSanAdriano131</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>9.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.002422,43.562936 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77205">
+          <NODE1_ID>60423</NODE1_ID>
+          <NODE1_NAME>CSTRLLSanAdriano131b</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>9.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.002789,43.563320 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77683">
+          <NODE1_ID>71767</NODE1_ID>
+          <NODE1_NAME>MRSNLNToral46d</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>13.697</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.094074,43.546553 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78177">
+          <NODE1_ID>72181</NODE1_ID>
+          <NODE1_NAME>PRVvaldidiello2</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>21.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.208905,43.511508 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78232">
+          <NODE1_ID>72582</NODE1_ID>
+          <NODE1_NAME>ILLlalaguna51</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.953833,43.524034 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78524">
+          <NODE1_ID>72387</NODE1_ID>
+          <NODE1_NAME>VILLALlamera1c</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.937112,43.528999 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78711">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>73395</NODE2_ID>
+          <NODE2_NAME>ILLlalaguna55</NODE2_NAME>
+          <KMS>3.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.953548,43.524307</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79859">
+          <NODE1_ID>74367</NODE1_ID>
+          <NODE1_NAME>VILLACapiellu13</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942801,43.521137 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79973">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>73395</NODE2_ID>
+          <NODE2_NAME>ILLlalaguna55</NODE2_NAME>
+          <KMS>3.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.953548,43.524307</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122299">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>75195</NODE2_ID>
+          <NODE2_NAME>LLNRVixil16</NODE2_NAME>
+          <KMS>3.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.903365,43.495760</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123411">
+          <NODE1_ID>76504</NODE1_ID>
+          <NODE1_NAME>MRSNLNCamToralX</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>13.852</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-6.095578,43.547477 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123530">
+          <NODE1_ID>76889</NODE1_ID>
+          <NODE1_NAME>NUNEZNubledo16</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.937</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.887502,43.510205 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123686">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>76990</NODE2_ID>
+          <NODE2_NAME>LLNRCenizal3</NODE2_NAME>
+          <KMS>2.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.910209,43.495243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.942801</gml:X><gml:Y>43.521137</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.937112</gml:X><gml:Y>43.528999</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="65259">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.938062,43.528298</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65259</NODE_ID>
+      <NODE_NAME>VILLALlamera1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66403">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.941270,43.525031</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66403</NODE_ID>
+      <NODE_NAME>VILLAAAVVElSucu7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72387">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.937112,43.528999</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72387</NODE_ID>
+      <NODE_NAME>VILLALlamera1c</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74367">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.942801,43.521137</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74367</NODE_ID>
+      <NODE_NAME>VILLACapiellu13</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

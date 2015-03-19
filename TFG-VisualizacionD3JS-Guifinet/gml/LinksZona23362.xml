@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.966680</gml:X><gml:Y>42.083088</gml:Y></gml:coord>
+<gml:coord><gml:X>3.160526</gml:X><gml:Y>42.331220</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="37149">
+          <NODE1_ID>40957</NODE1_ID>
+          <NODE1_NAME>CnIsa-KLorentz</NODE1_NAME>
+          <NODE2_ID>35025</NODE2_ID>
+          <NODE2_NAME>GrrgllDiposit</NODE2_NAME>
+          <KMS>8.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.136570,42.313171 3.036719,42.331220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37855">
+          <NODE1_ID>24337</NODE1_ID>
+          <NODE1_NAME>Psv-Oli6</NODE1_NAME>
+          <NODE2_ID>35025</NODE2_ID>
+          <NODE2_NAME>GrrgllDiposit</NODE2_NAME>
+          <KMS>9.283</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.144654,42.307405 3.036719,42.331220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38262">
+          <NODE1_ID>42037</NODE1_ID>
+          <NODE1_NAME>Psv-Muntanyeta9</NODE1_NAME>
+          <NODE2_ID>30877</NODE2_ID>
+          <NODE2_NAME>FgrsBruch18</NODE2_NAME>
+          <KMS>15.942</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147034,42.309260 2.967121,42.256831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71036">
+          <NODE1_ID>66610</NODE1_ID>
+          <NODE1_NAME>CanIsaac-Alemany1</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>3.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.134975,42.312338 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79214">
+          <NODE1_ID>73841</NODE1_ID>
+          <NODE1_NAME>PauBotiga</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>6.55</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.118940,42.316806 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79294">
+          <NODE1_ID>29506</NODE1_ID>
+          <NODE1_NAME>FgrsUrbanX72</NODE1_NAME>
+          <NODE2_ID>73508</NODE2_ID>
+          <NODE2_NAME>PSVCanigo</NODE2_NAME>
+          <KMS>15.837</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.966680,42.272126 3.152058,42.309332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79646">
+          <NODE1_ID>73508</NODE1_ID>
+          <NODE1_NAME>PSVCanigo</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.961</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.152058,42.309332 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80354">
+          <NODE1_ID>74717</NODE1_ID>
+          <NODE1_NAME>PSVConstit1ba1bl2</NODE1_NAME>
+          <NODE2_ID>73508</NODE2_ID>
+          <NODE2_NAME>PSVCanigo</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.151848,42.309134 3.152058,42.309332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122354">
+          <NODE1_ID>73508</NODE1_ID>
+          <NODE1_NAME>PSVCanigo</NODE1_NAME>
+          <NODE2_ID>76363</NODE2_ID>
+          <NODE2_NAME>Bellcaire_Josep</NODE2_NAME>
+          <KMS>25.566</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.152058,42.309332 3.095151,42.083088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122389">
+          <NODE1_ID>73396</NODE1_ID>
+          <NODE1_NAME>ACib</NODE1_NAME>
+          <NODE2_ID>73508</NODE2_ID>
+          <NODE2_NAME>PSVCanigo</NODE2_NAME>
+          <KMS>16.582</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.075645,42.171269 3.152058,42.309332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

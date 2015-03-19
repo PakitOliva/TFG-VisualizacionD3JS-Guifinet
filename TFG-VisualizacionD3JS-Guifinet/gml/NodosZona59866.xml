@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-2.773312</gml:X><gml:Y>43.203876</gml:Y></gml:coord>
+      <gml:coord><gml:X>-2.772760</gml:X><gml:Y>43.217004</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="59869">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.773203,43.205366</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59869</NODE_ID>
+      <NODE_NAME>LMOudaletxea</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59871">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.773312,43.217004</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59871</NODE_ID>
+      <NODE_NAME>LMOpenalemoa</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.772760,43.203876</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61280</NODE_ID>
+      <NODE_NAME>lmofroga</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

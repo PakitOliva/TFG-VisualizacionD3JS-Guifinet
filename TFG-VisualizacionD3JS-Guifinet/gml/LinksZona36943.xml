@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.286310</gml:X><gml:Y>40.133807</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.272523</gml:X><gml:Y>40.140282</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="39233">
+          <NODE1_ID>43096</NODE1_ID>
+          <NODE1_NAME>LLucGonzaloPuerto12</NODE1_NAME>
+          <NODE2_ID>40298</NODE2_ID>
+          <NODE2_NAME>LLuc-Social</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280838,40.136349 -0.279207,40.135607</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40757">
+          <NODE1_ID>39080</NODE1_ID>
+          <NODE1_NAME>LLuc-Castillo</NODE1_NAME>
+          <NODE2_ID>40298</NODE2_ID>
+          <NODE2_NAME>LLuc-Social</NODE2_NAME>
+          <KMS>0.412</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279363,40.139316 -0.279207,40.135607</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40758">
+          <NODE1_ID>39080</NODE1_ID>
+          <NODE1_NAME>LLuc-Castillo</NODE1_NAME>
+          <NODE2_ID>39081</NODE2_ID>
+          <NODE2_NAME>LLuc-Ajuntament</NODE2_NAME>
+          <KMS>0.166</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279363,40.139316 -0.280141,40.137945</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43556">
+          <NODE1_ID>46235</NODE1_ID>
+          <NODE1_NAME>LLucDuqTetuan48</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281729,40.137229 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45794">
+          <NODE1_ID>48128</NODE1_ID>
+          <NODE1_NAME>LlucenaCavaller33</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280108,40.137088 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45919">
+          <NODE1_ID>48171</NODE1_ID>
+          <NODE1_NAME>LlucEras43</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.308</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281305,40.136973 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46416">
+          <NODE1_ID>48591</NODE1_ID>
+          <NODE1_NAME>SR1</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.286310,40.135224 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46951">
+          <NODE1_ID>39080</NODE1_ID>
+          <NODE1_NAME>LLuc-Castillo</NODE1_NAME>
+          <NODE2_ID>48954</NODE2_ID>
+          <NODE2_NAME>Avda.FerLeo10</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279363,40.139316 -0.280835,40.134854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48872">
+          <NODE1_ID>50298</NODE1_ID>
+          <NODE1_NAME>PlaE5</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280441,40.138128 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49279">
+          <NODE1_ID>50674</NODE1_ID>
+          <NODE1_NAME>PlCan2</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.182</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280715,40.138050 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49595">
+          <NODE1_ID>49803</NODE1_ID>
+          <NODE1_NAME>LUCparra10</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280776,40.137637 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50126">
+          <NODE1_ID>51346</NODE1_ID>
+          <NODE1_NAME>EST49</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280396,40.136547 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50386">
+          <NODE1_ID>51572</NODE1_ID>
+          <NODE1_NAME>MEDNEB31</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281659,40.137124 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50698">
+          <NODE1_ID>51845</NODE1_ID>
+          <NODE1_NAME>RS15</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281238,40.136869 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51270">
+          <NODE1_ID>52249</NODE1_ID>
+          <NODE1_NAME>ACEQ2</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.287</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281396,40.137252 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51272">
+          <NODE1_ID>52250</NODE1_ID>
+          <NODE1_NAME>HOGJUB</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280683,40.136092 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51856">
+          <NODE1_ID>52656</NODE1_ID>
+          <NODE1_NAME>AVDFER22</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280994,40.135863 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52382">
+          <NODE1_ID>53050</NODE1_ID>
+          <NODE1_NAME>ADZTERE</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.278529,40.139535 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52480">
+          <NODE1_ID>53111</NODE1_ID>
+          <NODE1_NAME>AVDCATENR</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.465</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.278757,40.135150 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54195">
+          <NODE1_ID>54301</NODE1_ID>
+          <NODE1_NAME>nodolucena</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279783,40.139432 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54509">
+          <NODE1_ID>54502</NODE1_ID>
+          <NODE1_NAME>PLZSPN2</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279864,40.138330 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55921">
+          <NODE1_ID>40032</NODE1_ID>
+          <NODE1_NAME>Lluc-fl10</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.482</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281231,40.135221 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55927">
+          <NODE1_ID>55453</NODE1_ID>
+          <NODE1_NAME>Lluc-ddt15</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281230,40.137518 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55931">
+          <NODE1_ID>55458</NODE1_ID>
+          <NODE1_NAME>CTTER3</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.281468,40.136716 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56060">
+          <NODE1_ID>55556</NODE1_ID>
+          <NODE1_NAME>ERAS2</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280583,40.136870 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56661">
+          <NODE1_ID>56009</NODE1_ID>
+          <NODE1_NAME>GONPUE3</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.361</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.280551,40.136200 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60914">
+          <NODE1_ID>59090</NODE1_ID>
+          <NODE1_NAME>RIUPAC</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.272523,40.140282 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62610">
+          <NODE1_ID>60283</NODE1_ID>
+          <NODE1_NAME>MEDNEB30</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279264,40.138936 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63907">
+          <NODE1_ID>61149</NODE1_ID>
+          <NODE1_NAME>AVCASTJAV</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.405</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.278425,40.135742 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64445">
+          <NODE1_ID>39080</NODE1_ID>
+          <NODE1_NAME>LLuc-Castillo</NODE1_NAME>
+          <NODE2_ID>47841</NODE2_ID>
+          <NODE2_NAME>LLCSr1</NODE2_NAME>
+          <KMS>0.766</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279363,40.139316 -0.284765,40.133807</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64493">
+          <NODE1_ID>54502</NODE1_ID>
+          <NODE1_NAME>PLZSPN2</NODE1_NAME>
+          <NODE2_ID>39080</NODE2_ID>
+          <NODE2_NAME>LLuc-Castillo</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279864,40.138330 -0.279363,40.139316</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121632">
+          <NODE1_ID>61639</NODE1_ID>
+          <NODE1_NAME>SROQ49</NODE1_NAME>
+          <NODE2_ID>40298</NODE2_ID>
+          <NODE2_NAME>LLuc-Social</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.279584,40.139263 -0.279207,40.135607</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.019843</gml:X><gml:Y>41.944628</gml:Y></gml:coord>
+<gml:coord><gml:X>2.130637</gml:X><gml:Y>42.058187</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="4301">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>3.158</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5119">
+          <NODE1_ID>7289</NODE1_ID>
+          <NODE1_NAME>OlostCalReixago</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.459</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095770,41.981906 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5188">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>7246</NODE2_ID>
+          <NODE2_NAME>StaCreuManel</NODE2_NAME>
+          <KMS>1.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.040997,42.003826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5270">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7429</NODE2_ID>
+          <NODE2_NAME>OlostMariano</NODE2_NAME>
+          <KMS>0.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095554,41.981859</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5299">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7613</NODE2_ID>
+          <NODE2_NAME>OlostRavalRibas</NODE2_NAME>
+          <KMS>0.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095128,41.982294</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5304">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7479</NODE2_ID>
+          <NODE2_NAME>OlostArmasterdid</NODE2_NAME>
+          <KMS>0.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095337,41.982807</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5314">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7619</NODE2_ID>
+          <NODE2_NAME>OlostCalFornesa</NODE2_NAME>
+          <KMS>0.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095745,41.982141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5330">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7635</NODE2_ID>
+          <NODE2_NAME>OlostNavarro</NODE2_NAME>
+          <KMS>0.392</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093143,41.983016</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5347">
+          <NODE1_ID>7653</NODE1_ID>
+          <NODE1_NAME>OlostLaLluna</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.424</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095297,41.982223 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5389">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7437</NODE2_ID>
+          <NODE2_NAME>OlostMarsopare</NODE2_NAME>
+          <KMS>0.193</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.094161,41.987405</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5393">
+          <NODE1_ID>7739</NODE1_ID>
+          <NODE1_NAME>OlostLluisa</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093763,41.984000 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5441">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7533</NODE2_ID>
+          <NODE2_NAME>OlostArdid360</NODE2_NAME>
+          <KMS>0.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093473,41.982700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5449">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7389</NODE2_ID>
+          <NODE2_NAME>OlostRCB</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.092645,41.984982</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5452">
+          <NODE1_ID>7785</NODE1_ID>
+          <NODE1_NAME>OlostMarsoMolas</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.321</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092273,41.984533 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5494">
+          <NODE1_ID>7657</NODE1_ID>
+          <NODE1_NAME>OlostGilsuca</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097674,41.987222 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5529">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>7279</NODE2_ID>
+          <NODE2_NAME>SCJcausat</NODE2_NAME>
+          <KMS>0.234</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.063084,42.006460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5533">
+          <NODE1_ID>7882</NODE1_ID>
+          <NODE1_NAME>StaCreuJutglars</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062864,42.010470 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5624">
+          <NODE1_ID>7987</NODE1_ID>
+          <NODE1_NAME>OlostAssumpta</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095031,41.985815 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5633">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7539</NODE2_ID>
+          <NODE2_NAME>OLOSTSARA</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.094815,41.985930</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5634">
+          <NODE1_ID>7999</NODE1_ID>
+          <NODE1_NAME>OlostGarcia</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094469,41.987582 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5638">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>8002</NODE2_ID>
+          <NODE2_NAME>OlostCalJuanic</NODE2_NAME>
+          <KMS>0.435</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.091620,41.983471</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5710">
+          <NODE1_ID>8034</NODE1_ID>
+          <NODE1_NAME>OlostRamonSala</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095795,41.986527 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5714">
+          <NODE1_ID>8077</NODE1_ID>
+          <NODE1_NAME>OlostArola</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095651,41.985653 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5738">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>8107</NODE2_ID>
+          <NODE2_NAME>OlostSilvan</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.092772,41.983804</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5885">
+          <NODE1_ID>8332</NODE1_ID>
+          <NODE1_NAME>OlostEster</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.090326,41.984902 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5886">
+          <NODE1_ID>8333</NODE1_ID>
+          <NODE1_NAME>OlostMuns</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.338</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094595,41.983082 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="5887">
+          <NODE1_ID>8335</NODE1_ID>
+          <NODE1_NAME>OlostCalNot</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095987,41.982187 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6050">
+          <NODE1_ID>8562</NODE1_ID>
+          <NODE1_NAME>OlostKm19</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.745</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.098639,41.979722 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6077">
+          <NODE1_ID>8639</NODE1_ID>
+          <NODE1_NAME>StaCreuCalFerrer</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062228,42.006762 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6104">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7425</NODE2_ID>
+          <NODE2_NAME>OlostPalau</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093522,41.982955</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6105">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>8560</NODE2_ID>
+          <NODE2_NAME>OlostDomi</NODE2_NAME>
+          <KMS>0.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093121,41.984489</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6106">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7560</NODE2_ID>
+          <NODE2_NAME>OlostDaniC</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093629,41.985959</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6112">
+          <NODE1_ID>8015</NODE1_ID>
+          <NODE1_NAME>olostcosta</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.286</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094738,41.983541 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6133">
+          <NODE1_ID>8744</NODE1_ID>
+          <NODE1_NAME>OlostRarboix</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.446</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091630,41.988757 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6203">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7554</NODE2_ID>
+          <NODE2_NAME>OlostJMBertrans</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.096330,41.985062</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6207">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>8854</NODE2_ID>
+          <NODE2_NAME>StaCreuCalCisteller</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.062274,42.006069</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6210">
+          <NODE1_ID>7665</NODE1_ID>
+          <NODE1_NAME>OlostCris</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092143,41.979734 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6380">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>9023</NODE2_ID>
+          <NODE2_NAME>OlostCalCiuro</NODE2_NAME>
+          <KMS>0.48</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.089851,41.986623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6528">
+          <NODE1_ID>9234</NODE1_ID>
+          <NODE1_NAME>StaCreuCalPeraire</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061993,42.005945 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6593">
+          <NODE1_ID>9328</NODE1_ID>
+          <NODE1_NAME>StaCreuJordi</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.102</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061611,42.005995 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6664">
+          <NODE1_ID>9453</NODE1_ID>
+          <NODE1_NAME>StaCreuCastane</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.687</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.064815,42.010889 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6830">
+          <NODE1_ID>9711</NODE1_ID>
+          <NODE1_NAME>OlostLlorens</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094452,41.984015 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6840">
+          <NODE1_ID>9717</NODE1_ID>
+          <NODE1_NAME>OlostDolors</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091764,41.987850 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6988">
+          <NODE1_ID>9021</NODE1_ID>
+          <NODE1_NAME>OlostBarcelona2</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093081,41.985906 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7019">
+          <NODE1_ID>10028</NODE1_ID>
+          <NODE1_NAME>OlostEsteve</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093407,41.984564 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7108">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>10125</NODE2_ID>
+          <NODE2_NAME>OlostBarcelona20</NODE2_NAME>
+          <KMS>0.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093081,41.985171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7237">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>10292</NODE2_ID>
+          <NODE2_NAME>OlostDavid</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093139,41.985217</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7374">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>8654</NODE2_ID>
+          <NODE2_NAME>OlostSubirana</NODE2_NAME>
+          <KMS>0.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.092537,41.987965</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7687">
+          <NODE1_ID>10890</NODE1_ID>
+          <NODE1_NAME>OlostPepi</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093116,41.984965 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7934">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>10791</NODE2_ID>
+          <NODE2_NAME>OlostJondalar</NODE2_NAME>
+          <KMS>0.42</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095772,41.982258</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8165">
+          <NODE1_ID>8221</NODE1_ID>
+          <NODE1_NAME>OlostElTeixell</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>3.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110000,42.016111 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8626">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>10023</NODE2_ID>
+          <NODE2_NAME>StaCreuGerard</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.062566,42.006439</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8999">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7006</NODE2_ID>
+          <NODE2_NAME>OlostRavalJosep</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095609,41.982554</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9015">
+          <NODE1_ID>12526</NODE1_ID>
+          <NODE1_NAME>OlostPecanins</NODE1_NAME>
+          <NODE2_ID>4891</NODE2_ID>
+          <NODE2_NAME>SFSBruixes</NODE2_NAME>
+          <KMS>8.678</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.089693,42.005454 2.019843,41.947257</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9410">
+          <NODE1_ID>13017</NODE1_ID>
+          <NODE1_NAME>StaCreuVeri</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.618</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.063625,42.010655 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9551">
+          <NODE1_ID>13207</NODE1_ID>
+          <NODE1_NAME>OlostCalprudenci</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095350,41.985863 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9561">
+          <NODE1_ID>13216</NODE1_ID>
+          <NODE1_NAME>StaCreuPrat</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061545,42.005897 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9692">
+          <NODE1_ID>13379</NODE1_ID>
+          <NODE1_NAME>OlostEvaS</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.441</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091448,41.983540 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9730">
+          <NODE1_ID>13415</NODE1_ID>
+          <NODE1_NAME>OlostLaCoromina</NODE1_NAME>
+          <NODE2_ID>8480</NODE2_ID>
+          <NODE2_NAME>LaTorreDip</NODE2_NAME>
+          <KMS>1.692</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.073920,41.961418 2.053667,41.963290</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10022">
+          <NODE1_ID>13770</NODE1_ID>
+          <NODE1_NAME>OlostEli</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.165</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094798,41.984668 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10072">
+          <NODE1_ID>13824</NODE1_ID>
+          <NODE1_NAME>OlostGuillermo</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.432</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095860,41.982154 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10607">
+          <NODE1_ID>14382</NODE1_ID>
+          <NODE1_NAME>StaCreuXavierBerta</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062417,42.008085 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10674">
+          <NODE1_ID>12127</NODE1_ID>
+          <NODE1_NAME>olostvia</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091832,41.983056 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10812">
+          <NODE1_ID>14743</NODE1_ID>
+          <NODE1_NAME>StaCreuSoldevila</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062408,42.006343 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10997">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>14916</NODE2_ID>
+          <NODE2_NAME>OlostMfrei</NODE2_NAME>
+          <KMS>0.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.098430,41.985207</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10998">
+          <NODE1_ID>14381</NODE1_ID>
+          <NODE1_NAME>OlostCorderroura</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091517,41.983333 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11223">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>15156</NODE2_ID>
+          <NODE2_NAME>StaCreuVilella</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.051020,42.006409</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11729">
+          <NODE1_ID>15610</NODE1_ID>
+          <NODE1_NAME>StaCreuAltarriva</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061538,42.005930 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11942">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>15704</NODE2_ID>
+          <NODE2_NAME>OlostCastell</NODE2_NAME>
+          <KMS>1.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.094539,41.976932</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12124">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7329</NODE2_ID>
+          <NODE2_NAME>OlostDisbauxa</NODE2_NAME>
+          <KMS>0.355</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.092033,41.987822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12172">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>16050</NODE2_ID>
+          <NODE2_NAME>Olostcalgarros</NODE2_NAME>
+          <KMS>0.187</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.097028,41.987326</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12312">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7469</NODE2_ID>
+          <NODE2_NAME>OlostJordi</NODE2_NAME>
+          <KMS>0.01</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095469,41.986029</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12374">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>2146</NODE2_ID>
+          <NODE2_NAME>OlostSanti</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.095336,41.986028</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12758">
+          <NODE1_ID>16722</NODE1_ID>
+          <NODE1_NAME>OlostMCarmeTurigas</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.912</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097734,41.982096 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13411">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>17601</NODE2_ID>
+          <NODE2_NAME>OlostSalada</NODE2_NAME>
+          <KMS>0.385</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.093056,41.983125</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13820">
+          <NODE1_ID>18138</NODE1_ID>
+          <NODE1_NAME>OlostGuarderia</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095438,41.983135 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13868">
+          <NODE1_ID>18173</NODE1_ID>
+          <NODE1_NAME>StaCreuCambrers</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061479,42.005887 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14070">
+          <NODE1_ID>18397</NODE1_ID>
+          <NODE1_NAME>OlostCisteller</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094966,41.987554 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14224">
+          <NODE1_ID>8003</NODE1_ID>
+          <NODE1_NAME>OlostCristina</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.597</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094795,41.984032 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14232">
+          <NODE1_ID>18290</NODE1_ID>
+          <NODE1_NAME>OlostCalMadro</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097396,41.986027 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14583">
+          <NODE1_ID>18898</NODE1_ID>
+          <NODE1_NAME>OlostXano</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.344</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091774,41.987247 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14695">
+          <NODE1_ID>7930</NODE1_ID>
+          <NODE1_NAME>OlostCots</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.875</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097645,41.982465 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14814">
+          <NODE1_ID>19272</NODE1_ID>
+          <NODE1_NAME>StaCreuJVC</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061567,42.006420 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14869">
+          <NODE1_ID>19334</NODE1_ID>
+          <NODE1_NAME>StaCreuLaCabana</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>3.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.064545,42.006348 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15674">
+          <NODE1_ID>19980</NODE1_ID>
+          <NODE1_NAME>StaCreuRamonTort</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061943,42.006062 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15752">
+          <NODE1_ID>20319</NODE1_ID>
+          <NODE1_NAME>OlostMembrado</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091769,41.981650 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16565">
+          <NODE1_ID>21165</NODE1_ID>
+          <NODE1_NAME>Olostcalkas</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091458,41.983116 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16652">
+          <NODE1_ID>8918</NODE1_ID>
+          <NODE1_NAME>OlostMartaF</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093437,41.983185 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16876">
+          <NODE1_ID>21501</NODE1_ID>
+          <NODE1_NAME>OlostLauraJordi</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.474</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091571,41.983000 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17023">
+          <NODE1_ID>21617</NODE1_ID>
+          <NODE1_NAME>OlostCalTerriscoNou</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093857,41.983157 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17190">
+          <NODE1_ID>21809</NODE1_ID>
+          <NODE1_NAME>OlostMoliNoguera</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>1.738</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.099429,42.002994 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17200">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>21742</NODE2_ID>
+          <NODE2_NAME>LlucaMonestir</NODE2_NAME>
+          <KMS>5.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.035210,42.050243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17410">
+          <NODE1_ID>20505</NODE1_ID>
+          <NODE1_NAME>OlostDGriera</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097461,41.985402 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17460">
+          <NODE1_ID>21942</NODE1_ID>
+          <NODE1_NAME>olostjordisales</NODE1_NAME>
+          <NODE2_ID>8480</NODE2_ID>
+          <NODE2_NAME>LaTorreDip</NODE2_NAME>
+          <KMS>5.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.114310,41.963160 2.053667,41.963290</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17791">
+          <NODE1_ID>7506</NODE1_ID>
+          <NODE1_NAME>OlostJoantxell</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.593</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094141,41.983810 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18185">
+          <NODE1_ID>22327</NODE1_ID>
+          <NODE1_NAME>OlostRamonMF</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094261,41.987862 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18262">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>13416</NODE2_ID>
+          <NODE2_NAME>OlostMRexach</NODE2_NAME>
+          <KMS>2.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.087288,42.006222</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18341">
+          <NODE1_ID>22987</NODE1_ID>
+          <NODE1_NAME>StaCreuPepito</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062015,42.006836 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18719">
+          <NODE1_ID>23196</NODE1_ID>
+          <NODE1_NAME>OlostTon</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094320,41.983587 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18759">
+          <NODE1_ID>22194</NODE1_ID>
+          <NODE1_NAME>OlostEvaSucarrat</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093089,41.985406 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19304">
+          <NODE1_ID>24132</NODE1_ID>
+          <NODE1_NAME>OlostSerrabassa</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.437</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091804,41.983296 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20009">
+          <NODE1_ID>25020</NODE1_ID>
+          <NODE1_NAME>OlostEDAROlost</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>1.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097600,41.980689 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20800">
+          <NODE1_ID>25944</NODE1_ID>
+          <NODE1_NAME>OlostCalCases</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.42</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095192,41.982260 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21519">
+          <NODE1_ID>26715</NODE1_ID>
+          <NODE1_NAME>OlostCalRoc</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092350,41.983658 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21552">
+          <NODE1_ID>26240</NODE1_ID>
+          <NODE1_NAME>LlucaElGaret</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>4.941</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.036764,42.046422 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21714">
+          <NODE1_ID>7423</NODE1_ID>
+          <NODE1_NAME>OlostAmal</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095875,41.986150 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21718">
+          <NODE1_ID>26924</NODE1_ID>
+          <NODE1_NAME>OlostCalMolinot</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096579,41.986613 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21721">
+          <NODE1_ID>13162</NODE1_ID>
+          <NODE1_NAME>OlostRexac</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>1.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.077068,42.000513 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22125">
+          <NODE1_ID>16986</NODE1_ID>
+          <NODE1_NAME>OlostPep22</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093105,41.985014 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22219">
+          <NODE1_ID>10075</NODE1_ID>
+          <NODE1_NAME>StaCreuLaCasaNovaPui</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.085330,42.018640 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22449">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>7428</NODE2_ID>
+          <NODE2_NAME>OlostMaTere</NODE2_NAME>
+          <KMS>0.474</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.092166,41.984444</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23696">
+          <NODE1_ID>12926</NODE1_ID>
+          <NODE1_NAME>OlostAna</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097506,41.982242 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23789">
+          <NODE1_ID>28815</NODE1_ID>
+          <NODE1_NAME>OlostCalTerrisco</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.918</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096246,41.981318 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23875">
+          <NODE1_ID>29080</NODE1_ID>
+          <NODE1_NAME>StaCreuCanPau</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.211</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062721,42.006533 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23933">
+          <NODE1_ID>29150</NODE1_ID>
+          <NODE1_NAME>StaCreuPadros</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060795,42.005109 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23935">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>29152</NODE2_ID>
+          <NODE2_NAME>OlostCalMoliner</NODE2_NAME>
+          <KMS>0.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.092791,41.985937</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25560">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>7543</NODE2_ID>
+          <NODE2_NAME>OlostEtxauri</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.091754,41.987425</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25990">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>7439</NODE2_ID>
+          <NODE2_NAME>OlostJosepCasellas</NODE2_NAME>
+          <KMS>0.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.096962,41.988566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26015">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>8743</NODE2_ID>
+          <NODE2_NAME>OlostCalSerra</NODE2_NAME>
+          <KMS>0.806</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.094811,41.981936</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26067">
+          <NODE1_ID>14936</NODE1_ID>
+          <NODE1_NAME>OLostFite</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.391</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093062,41.983063 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26212">
+          <NODE1_ID>31607</NODE1_ID>
+          <NODE1_NAME>OlostCalMolina</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092381,41.985191 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26955">
+          <NODE1_ID>16063</NODE1_ID>
+          <NODE1_NAME>OlostCanCandela</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091616,41.983224 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27250">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>7926</NODE2_ID>
+          <NODE2_NAME>OLostCasal</NODE2_NAME>
+          <KMS>0.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.096392,41.985357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27657">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>26916</NODE2_ID>
+          <NODE2_NAME>OlostJFont</NODE2_NAME>
+          <KMS>0.342</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.092260,41.985688</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28088">
+          <NODE1_ID>33445</NODE1_ID>
+          <NODE1_NAME>StaCreuMontse</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.648</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062807,42.010327 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28174">
+          <NODE1_ID>26655</NODE1_ID>
+          <NODE1_NAME>OlostManlleu2</NODE1_NAME>
+          <NODE2_ID>27871</NODE2_ID>
+          <NODE2_NAME>OlostDolorsRuaix</NODE2_NAME>
+          <KMS>0.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093078,41.986690 2.098241,41.985252</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28528">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>33641</NODE2_ID>
+          <NODE2_NAME>olostmonvia</NODE2_NAME>
+          <KMS>0.465</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.091713,41.983003</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29575">
+          <NODE1_ID>14747</NODE1_ID>
+          <NODE1_NAME>StaCreuMerceTarres</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.583</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.063441,42.010879 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31185">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>36283</NODE2_ID>
+          <NODE2_NAME>StaCreuDiposits</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.062427,42.007160</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31353">
+          <NODE1_ID>36282</NODE1_ID>
+          <NODE1_NAME>OlostSantaEularieta</NODE1_NAME>
+          <NODE2_ID>4892</NODE2_ID>
+          <NODE2_NAME>SFSAjuntament</NODE2_NAME>
+          <KMS>6.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093982,41.964525 2.022499,41.944628</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31745">
+          <NODE1_ID>18977</NODE1_ID>
+          <NODE1_NAME>OLOSTSIRA</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094711,41.985927 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31940">
+          <NODE1_ID>9489</NODE1_ID>
+          <NODE1_NAME>StaCreuMonclus</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060458,42.005227 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31944">
+          <NODE1_ID>21323</NODE1_ID>
+          <NODE1_NAME>StaCreuEster</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.051</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061043,42.005393 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33329">
+          <NODE1_ID>38122</NODE1_ID>
+          <NODE1_NAME>OlostBertrans</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.129</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096348,41.985025 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33573">
+          <NODE1_ID>38541</NODE1_ID>
+          <NODE1_NAME>Olostelprat</NODE1_NAME>
+          <NODE2_ID>8480</NODE2_ID>
+          <NODE2_NAME>LaTorreDip</NODE2_NAME>
+          <KMS>4.818</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.111786,41.963511 2.053667,41.963290</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34038">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>7784</NODE2_ID>
+          <NODE2_NAME>OlostBaster</NODE2_NAME>
+          <KMS>0.886</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.097728,41.982385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34337">
+          <NODE1_ID>10227</NODE1_ID>
+          <NODE1_NAME>OristaSansalvador</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>5.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.130637,41.953081 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34561">
+          <NODE1_ID>39270</NODE1_ID>
+          <NODE1_NAME>OlostJoanSunye</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096382,41.985916 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34833">
+          <NODE1_ID>26846</NODE1_ID>
+          <NODE1_NAME>OlostRobert</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.367</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093266,41.983221 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35246">
+          <NODE1_ID>39817</NODE1_ID>
+          <NODE1_NAME>OlostMTeresa</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.13</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094052,41.985803 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35473">
+          <NODE1_ID>8175</NODE1_ID>
+          <NODE1_NAME>SMADip</NODE1_NAME>
+          <NODE2_ID>15079</NODE2_ID>
+          <NODE2_NAME>StaCreuErra</NODE2_NAME>
+          <KMS>2.926</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065676,42.034073 2.062101,42.007861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36344">
+          <NODE1_ID>40734</NODE1_ID>
+          <NODE1_NAME>OlostElPis</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095259,41.986201 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36360">
+          <NODE1_ID>13176</NODE1_ID>
+          <NODE1_NAME>LaTorreLaCaseta</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>2.292</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.051930,41.985990 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37716">
+          <NODE1_ID>41842</NODE1_ID>
+          <NODE1_NAME>OlostFont4</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097112,41.985860 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41325">
+          <NODE1_ID>44705</NODE1_ID>
+          <NODE1_NAME>OlostMTeresaRd2</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094196,41.985894 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41788">
+          <NODE1_ID>45111</NODE1_ID>
+          <NODE1_NAME>Olostsiljau</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093673,41.983227 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41971">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>45284</NODE2_ID>
+          <NODE2_NAME>OlostCalJanSala</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.091308,41.987041</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42412">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>45645</NODE2_ID>
+          <NODE2_NAME>OlostVeri</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.097166,41.985527</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42511">
+          <NODE1_ID>7469</NODE1_ID>
+          <NODE1_NAME>OlostJordi</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.01</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095469,41.986029 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42541">
+          <NODE1_ID>45766</NODE1_ID>
+          <NODE1_NAME>OlostCalJaume</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095678,41.982446 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43058">
+          <NODE1_ID>4891</NODE1_ID>
+          <NODE1_NAME>SFSBruixes</NODE1_NAME>
+          <NODE2_ID>45947</NODE2_ID>
+          <NODE2_NAME>Olostlescomes</NODE2_NAME>
+          <KMS>9.549</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.019843,41.947257 2.125276,41.981888</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43060">
+          <NODE1_ID>46146</NODE1_ID>
+          <NODE1_NAME>OlostManelG</NODE1_NAME>
+          <NODE2_ID>26655</NODE2_ID>
+          <NODE2_NAME>OlostManlleu2</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092589,41.985914 2.093078,41.986690</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43484">
+          <NODE1_ID>46449</NODE1_ID>
+          <NODE1_NAME>OlostJFarre</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.257</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096776,41.988173 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43635">
+          <NODE1_ID>46560</NODE1_ID>
+          <NODE1_NAME>OlostJFarreCasa</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.09</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096670,41.986107 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43654">
+          <NODE1_ID>46574</NODE1_ID>
+          <NODE1_NAME>SantaCreuJPratdesaba</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>2.566</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.063885,42.011006 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44683">
+          <NODE1_ID>47135</NODE1_ID>
+          <NODE1_NAME>OristaSergi</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>4.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.126927,41.963651 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47989">
+          <NODE1_ID>49772</NODE1_ID>
+          <NODE1_NAME>olostSntPnt</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093095,41.985474 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50757">
+          <NODE1_ID>51899</NODE1_ID>
+          <NODE1_NAME>OlostRectoria</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096216,41.985867 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51000">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>52060</NODE2_ID>
+          <NODE2_NAME>OlostCabanas</NODE2_NAME>
+          <KMS>2.262</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.070907,41.974926</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51914">
+          <NODE1_ID>52700</NODE1_ID>
+          <NODE1_NAME>StaCreuLaPausaRural</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062654,42.006450 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53507">
+          <NODE1_ID>38782</NODE1_ID>
+          <NODE1_NAME>OlostDavidA</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092437,41.985532 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54675">
+          <NODE1_ID>4909</NODE1_ID>
+          <NODE1_NAME>OlostDip</NODE1_NAME>
+          <NODE2_ID>7701</NODE2_ID>
+          <NODE2_NAME>LaTorreCentreCivic</NODE2_NAME>
+          <KMS>4.738</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.091083,41.988635 2.053015,41.956814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56459">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59151">
+          <NODE1_ID>10783</NODE1_ID>
+          <NODE1_NAME>OlostMGenero</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.221</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093138,41.986818 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60170">
+          <NODE1_ID>58531</NODE1_ID>
+          <NODE1_NAME>StaCreuRuaix</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.062603,42.006177 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60533">
+          <NODE1_ID>22087</NODE1_ID>
+          <NODE1_NAME>OlostCalXeixa</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096656,41.985608 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61660">
+          <NODE1_ID>8175</NODE1_ID>
+          <NODE1_NAME>SMADip</NODE1_NAME>
+          <NODE2_ID>4909</NODE2_ID>
+          <NODE2_NAME>OlostDip</NODE2_NAME>
+          <KMS>5.468</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065676,42.034073 2.091083,41.988635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62453">
+          <NODE1_ID>7657</NODE1_ID>
+          <NODE1_NAME>OlostGilsuca</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.218</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097674,41.987222 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62953">
+          <NODE1_ID>41842</NODE1_ID>
+          <NODE1_NAME>OlostFont4</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097112,41.985860 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63485">
+          <NODE1_ID>26844</NODE1_ID>
+          <NODE1_NAME>OlostRamonManlleu2</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093046,41.986714 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63857">
+          <NODE1_ID>61113</NODE1_ID>
+          <NODE1_NAME>OlostBerga4</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095320,41.985986 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64261">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>31261</NODE2_ID>
+          <NODE2_NAME>LlucaCanBagues</NODE2_NAME>
+          <KMS>4.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.038232,42.040273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64319">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>39935</NODE2_ID>
+          <NODE2_NAME>StaCreuLaCasaGran</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.060081,42.004965</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64391">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>21743</NODE2_ID>
+          <NODE2_NAME>LlucaLaPrimitiva</NODE2_NAME>
+          <KMS>5.428</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.034693,42.050524</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65890">
+          <NODE1_ID>4890</NODE1_ID>
+          <NODE1_NAME>OlostAjuntament</NODE1_NAME>
+          <NODE2_ID>41287</NODE2_ID>
+          <NODE2_NAME>OlostJosepMaria</NODE2_NAME>
+          <KMS>0.773</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.095587,41.986034 2.102770,41.990473</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66588">
+          <NODE1_ID>18206</NODE1_ID>
+          <NODE1_NAME>SEPOLesVinyes</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>5.857</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065768,42.058187 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68859">
+          <NODE1_ID>59475</NODE1_ID>
+          <NODE1_NAME>lstDspns</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.093802,41.986094 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68870">
+          <NODE1_ID>64964</NODE1_ID>
+          <NODE1_NAME>OlostJF</NODE1_NAME>
+          <NODE2_ID>7701</NODE2_ID>
+          <NODE2_NAME>LaTorreCentreCivic</NODE2_NAME>
+          <KMS>4.944</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.111982,41.963473 2.053015,41.956814</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79115">
+          <NODE1_ID>4607</NODE1_ID>
+          <NODE1_NAME>StaCreuConsorci</NODE1_NAME>
+          <NODE2_ID>8175</NODE2_ID>
+          <NODE2_NAME>SMADip</NODE2_NAME>
+          <KMS>3.191</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.060498,42.005606 2.065676,42.034073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122808">
+          <NODE1_ID>76696</NODE1_ID>
+          <NODE1_NAME>OlostGSalvans</NODE1_NAME>
+          <NODE2_ID>4890</NODE2_ID>
+          <NODE2_NAME>OlostAjuntament</NODE2_NAME>
+          <KMS>0.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.092218,41.984963 2.095587,41.986034</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123400">
+          <NODE1_ID>76986</NODE1_ID>
+          <NODE1_NAME>StaCreuCarrerVell7</NODE1_NAME>
+          <NODE2_ID>4607</NODE2_ID>
+          <NODE2_NAME>StaCreuConsorci</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.061170,42.005643 2.060498,42.005606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

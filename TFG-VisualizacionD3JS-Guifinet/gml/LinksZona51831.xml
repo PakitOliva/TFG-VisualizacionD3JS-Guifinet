@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.165165</gml:X><gml:Y>41.526751</gml:Y></gml:coord>
+<gml:coord><gml:X>2.319065</gml:X><gml:Y>41.689032</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="53002">
+          <NODE1_ID>53402</NODE1_ID>
+          <NODE1_NAME>VdVFrancesc</NODE1_NAME>
+          <NODE2_ID>52554</NODE2_ID>
+          <NODE2_NAME>VLLRCanCorbera</NODE2_NAME>
+          <KMS>3.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286697,41.555127 2.273925,41.526751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58926">
+          <NODE1_ID>57669</NODE1_ID>
+          <NODE1_NAME>VdVKPsports</NODE1_NAME>
+          <NODE2_ID>52554</NODE2_ID>
+          <NODE2_NAME>VLLRCanCorbera</NODE2_NAME>
+          <KMS>2.519</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294126,41.543602 2.273925,41.526751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61999">
+          <NODE1_ID>52762</NODE1_ID>
+          <NODE1_NAME>VdVEster</NODE1_NAME>
+          <NODE2_ID>50093</NODE2_ID>
+          <NODE2_NAME>GRNIris</NODE2_NAME>
+          <KMS>6.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.319065,41.550806 2.290214,41.601252</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62459">
+          <NODE1_ID>52554</NODE1_ID>
+          <NODE1_NAME>VLLRCanCorbera</NODE1_NAME>
+          <NODE2_ID>53403</NODE2_ID>
+          <NODE2_NAME>VdVPere</NODE2_NAME>
+          <KMS>3.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273925,41.526751 2.288096,41.553411</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63886">
+          <NODE1_ID>61123</NODE1_ID>
+          <NODE1_NAME>VdVPortell</NODE1_NAME>
+          <NODE2_ID>52554</NODE2_ID>
+          <NODE2_NAME>VLLRCanCorbera</NODE2_NAME>
+          <KMS>3.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.286853,41.553842 2.273925,41.526751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73464">
+          <NODE1_ID>52554</NODE1_ID>
+          <NODE1_NAME>VLLRCanCorbera</NODE1_NAME>
+          <NODE2_ID>61724</NODE2_ID>
+          <NODE2_NAME>VdVRaquel</NODE2_NAME>
+          <KMS>3.778</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273925,41.526751 2.311360,41.545889</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73872">
+          <NODE1_ID>52554</NODE1_ID>
+          <NODE1_NAME>VLLRCanCorbera</NODE1_NAME>
+          <NODE2_ID>68087</NODE2_ID>
+          <NODE2_NAME>VdVTenshiNet</NODE2_NAME>
+          <KMS>3.813</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.273925,41.526751 2.310464,41.547363</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76670">
+          <NODE1_ID>10672</NODE1_ID>
+          <NODE1_NAME>LlicaMuntCanFarell</NODE1_NAME>
+          <NODE2_ID>71676</NODE2_ID>
+          <NODE2_NAME>VdVAvCatalunya78</NODE2_NAME>
+          <KMS>12.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.220166,41.632659 2.313270,41.549171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121490">
+          <NODE1_ID>75760</NODE1_ID>
+          <NODE1_NAME>VdVAlbert</NODE1_NAME>
+          <NODE2_ID>52554</NODE2_ID>
+          <NODE2_NAME>VLLRCanCorbera</NODE2_NAME>
+          <KMS>3.894</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315850,41.542141 2.273925,41.526751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123093">
+          <NODE1_ID>45466</NODE1_ID>
+          <NODE1_NAME>SFelDCAjVell</NODE1_NAME>
+          <NODE2_ID>62042</NODE2_ID>
+          <NODE2_NAME>VdVCanRabassa</NODE2_NAME>
+          <KMS>19.744</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.165165,41.689032 2.298301,41.542001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

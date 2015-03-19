@@ -1,0 +1,4212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.070050</gml:X><gml:Y>39.974129</gml:Y></gml:coord>
+<gml:coord><gml:X>0.108356</gml:X><gml:Y>40.085827</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16704">
+          <NODE1_ID>21256</NODE1_ID>
+          <NODE1_NAME>BncssmSalvador01</NODE1_NAME>
+          <NODE2_ID>18256</NODE2_ID>
+          <NODE2_NAME>CS-UJI-Solicom</NODE2_NAME>
+          <KMS>9.666</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039297,40.018009 -0.069496,39.993951</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16833">
+          <NODE1_ID>21257</NODE1_ID>
+          <NODE1_NAME>BncssmFSalvador02</NODE1_NAME>
+          <NODE2_ID>21255</NODE2_ID>
+          <NODE2_NAME>CdPCovadonga01</NODE2_NAME>
+          <KMS>7.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041464,40.021905 -0.040523,40.001157</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23235">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>18256</NODE2_ID>
+          <NODE2_NAME>CS-UJI-Solicom</NODE2_NAME>
+          <KMS>9.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 -0.069496,39.993951</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23791">
+          <NODE1_ID>21256</NODE1_ID>
+          <NODE1_NAME>BncssmSalvador01</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039297,40.018009 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23792">
+          <NODE1_ID>21256</NODE1_ID>
+          <NODE1_NAME>BncssmSalvador01</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039297,40.018009 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23793">
+          <NODE1_ID>21256</NODE1_ID>
+          <NODE1_NAME>BncssmSalvador01</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>7.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039297,40.018009 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23890">
+          <NODE1_ID>28304</NODE1_ID>
+          <NODE1_NAME>BncIta001</NODE1_NAME>
+          <NODE2_ID>18256</NODE2_ID>
+          <NODE2_NAME>CS-UJI-Solicom</NODE2_NAME>
+          <KMS>10.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040448,40.025283 -0.069496,39.993951</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24052">
+          <NODE1_ID>29257</NODE1_ID>
+          <NODE1_NAME>BncswsmColumbretes</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.484</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.048677,40.038212 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25171">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>30349</NODE2_ID>
+          <NODE2_NAME>CdPSerradalObra01</NODE2_NAME>
+          <KMS>0.95</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.028765,40.016706</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25880">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>23448</NODE2_ID>
+          <NODE2_NAME>bncssmApsSantiago124</NODE2_NAME>
+          <KMS>0.002</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.039407,40.019156</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26097">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>28871</NODE2_ID>
+          <NODE2_NAME>BnCSCarlesSalvador66</NODE2_NAME>
+          <KMS>4.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.060183,40.050904</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26101">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>30782</NODE2_ID>
+          <NODE2_NAME>bncssmAlcora7</NODE2_NAME>
+          <KMS>5.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.043642,40.034282</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26207">
+          <NODE1_ID>31589</NODE1_ID>
+          <NODE1_NAME>BncsMontornes001</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>3.997</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.015991,40.051887 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26233">
+          <NODE1_ID>31487</NODE1_ID>
+          <NODE1_NAME>BncsPalmeralXM</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042792,40.032332 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26315">
+          <NODE1_ID>25853</NODE1_ID>
+          <NODE1_NAME>BENEnricValor37</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>1.807</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041386,40.035357 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26383">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>30732</NODE2_ID>
+          <NODE2_NAME>bncssmSalvador02</NODE2_NAME>
+          <KMS>5.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.063155,40.047758</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26446">
+          <NODE1_ID>31814</NODE1_ID>
+          <NODE1_NAME>BncssmFrrSalvador</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.402</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.044342,40.029003 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26605">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>31954</NODE2_ID>
+          <NODE2_NAME>TrrSnVcnt01</NODE2_NAME>
+          <KMS>5.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.068820,40.048667</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26648">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>31978</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador306</NODE2_NAME>
+          <KMS>7.714</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.038382,40.016548</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27399">
+          <NODE1_ID>29228</NODE1_ID>
+          <NODE1_NAME>bncssmDrFleming143</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>7.666</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038023,40.016958 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27487">
+          <NODE1_ID>32843</NODE1_ID>
+          <NODE1_NAME>BncassimFerrandisSal</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.3</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068632,40.047501 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28186">
+          <NODE1_ID>33525</NODE1_ID>
+          <NODE1_NAME>bncssmcsny</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059384,40.054539 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28217">
+          <NODE1_ID>33546</NODE1_ID>
+          <NODE1_NAME>benicasApSantiago12</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043548,40.031295 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28328">
+          <NODE1_ID>33588</NODE1_ID>
+          <NODE1_NAME>BenicasimMartos2</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.723</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.058707,40.048731 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28348">
+          <NODE1_ID>33668</NODE1_ID>
+          <NODE1_NAME>BncssmSorry</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.678</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042591,40.026279 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28685">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>33926</NODE2_ID>
+          <NODE2_NAME>BncsMtroChapi5</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.037806,40.018626</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28838">
+          <NODE1_ID>34000</NODE1_ID>
+          <NODE1_NAME>CdPLaTorre</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>3.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.002044,40.008404 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30207">
+          <NODE1_ID>35408</NODE1_ID>
+          <NODE1_NAME>Dcente_oliveres</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.062580,40.055820 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30766">
+          <NODE1_ID>35896</NODE1_ID>
+          <NODE1_NAME>BncassimFerrSal04</NODE1_NAME>
+          <NODE2_ID>18256</NODE2_ID>
+          <NODE2_NAME>CS-UJI-Solicom</NODE2_NAME>
+          <KMS>9.848</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040201,40.021354 -0.069496,39.993951</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30846">
+          <NODE1_ID>35972</NODE1_ID>
+          <NODE1_NAME>BeniApoSan60</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042282,40.025770 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31035">
+          <NODE1_ID>36155</NODE1_ID>
+          <NODE1_NAME>BncssimRaya</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.829</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.013813,40.035139 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31257">
+          <NODE1_ID>36368</NODE1_ID>
+          <NODE1_NAME>dwcbcs</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.401</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.064989,40.055608 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33223">
+          <NODE1_ID>38187</NODE1_ID>
+          <NODE1_NAME>BncsDrFleming37</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042746,40.029056 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33357">
+          <NODE1_ID>38315</NODE1_ID>
+          <NODE1_NAME>BNCSFerrSalvador118</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>2.604</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.054183,40.039672 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33379">
+          <NODE1_ID>38315</NODE1_ID>
+          <NODE1_NAME>BNCSFerrSalvador118</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.475</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.054183,40.039672 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34067">
+          <NODE1_ID>38953</NODE1_ID>
+          <NODE1_NAME>BeniTorre01</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068058,40.049349 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34286">
+          <NODE1_ID>39098</NODE1_ID>
+          <NODE1_NAME>BncsElRefugi</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>2.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.014548,40.064152 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34629">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>39324</NODE2_ID>
+          <NODE2_NAME>benvilareal15</NODE2_NAME>
+          <KMS>3.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.059255,40.044125</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35014">
+          <NODE1_ID>39675</NODE1_ID>
+          <NODE1_NAME>BncsMntScs</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.016211,40.048230 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35058">
+          <NODE1_ID>33845</NODE1_ID>
+          <NODE1_NAME>BncssimApSantiago122</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039627,40.019530 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35155">
+          <NODE1_ID>39770</NODE1_ID>
+          <NODE1_NAME>BncPalasiet01</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>5.96</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.087856,40.057818 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35224">
+          <NODE1_ID>39812</NODE1_ID>
+          <NODE1_NAME>BenTBellver66</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.854</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.092072,40.060897 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35282">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>39847</NODE2_ID>
+          <NODE2_NAME>CSILUS3</NODE2_NAME>
+          <KMS>4.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.058790,40.052636</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35322">
+          <NODE1_ID>39912</NODE1_ID>
+          <NODE1_NAME>CdPBeniMntnGarbi</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.018250,40.049743 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35338">
+          <NODE1_ID>39779</NODE1_ID>
+          <NODE1_NAME>BenAvPalmeral48a</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.044521,40.033746 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35397">
+          <NODE1_ID>39965</NODE1_ID>
+          <NODE1_NAME>BncsSureres17</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>3.892</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.023333,40.051944 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35443">
+          <NODE1_ID>39771</NODE1_ID>
+          <NODE1_NAME>Orpesamirador</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.093352,40.060998 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35455">
+          <NODE1_ID>40004</NODE1_ID>
+          <NODE1_NAME>BncssmFrrSalvador206</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043661,40.027161 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35512">
+          <NODE1_ID>40082</NODE1_ID>
+          <NODE1_NAME>CLaM</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>1.953</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.016866,40.016251 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35674">
+          <NODE1_ID>39804</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador6</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.069276,40.047550 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35831">
+          <NODE1_ID>40323</NODE1_ID>
+          <NODE1_NAME>bncssmPPrincipe</NODE1_NAME>
+          <NODE2_ID>31843</NODE2_ID>
+          <NODE2_NAME>UJIHumanas</NODE2_NAME>
+          <KMS>9.548</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038323,40.016535 -0.070050,39.995347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35875">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>40305</NODE2_ID>
+          <NODE2_NAME>Benicassim_Bahram</NODE2_NAME>
+          <KMS>0.632</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.042147,40.024441</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36050">
+          <NODE1_ID>40471</NODE1_ID>
+          <NODE1_NAME>BncssmEsparraguera</NODE1_NAME>
+          <NODE2_ID>19609</NODE2_ID>
+          <NODE2_NAME>GrauCSIESMiquelPeris</NODE2_NAME>
+          <KMS>8.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.025730,40.051176 0.008250,39.977562</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36869">
+          <NODE1_ID>40323</NODE1_ID>
+          <NODE1_NAME>bncssmPPrincipe</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>7.715</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038323,40.016535 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37049">
+          <NODE1_ID>41242</NODE1_ID>
+          <NODE1_NAME>BNCSjordisantjordi2</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.052612,40.043214 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37120">
+          <NODE1_ID>40095</NODE1_ID>
+          <NODE1_NAME>BNCSlosNaranjos</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.081566,40.056329 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37315">
+          <NODE1_ID>41470</NODE1_ID>
+          <NODE1_NAME>BNCSjordisantjordi9</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.052797,40.042980 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37415">
+          <NODE1_ID>41615</NODE1_ID>
+          <NODE1_NAME>BncsmPintorMurillo17</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035488,40.025142 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37584">
+          <NODE1_ID>41674</NODE1_ID>
+          <NODE1_NAME>BNCS_emsa_Miguel</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.425</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.036317,40.037099 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37720">
+          <NODE1_ID>41845</NODE1_ID>
+          <NODE1_NAME>BNCSlacomba13</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>3.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057142,40.059750 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37884">
+          <NODE1_ID>41977</NODE1_ID>
+          <NODE1_NAME>BNCSjordisantjordi5</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.097</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.052189,40.042733 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38105">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>31843</NODE2_ID>
+          <NODE2_NAME>UJIHumanas</NODE2_NAME>
+          <KMS>15.286</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 -0.070050,39.995347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38492">
+          <NODE1_ID>42574</NODE1_ID>
+          <NODE1_NAME>BNCfrrnds126</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.052662,40.038823 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38672">
+          <NODE1_ID>42686</NODE1_ID>
+          <NODE1_NAME>BncssimTraiguera8</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.895</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041510,40.033283 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39065">
+          <NODE1_ID>42963</NODE1_ID>
+          <NODE1_NAME>bncssmXaro</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040051,40.018606 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39333">
+          <NODE1_ID>43190</NODE1_ID>
+          <NODE1_NAME>CdpMusPascSerrano26</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038057,40.019499 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40245">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>43495</NODE2_ID>
+          <NODE2_NAME>BNCSalinas20</NODE2_NAME>
+          <KMS>5.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.052646,40.042573</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40657">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>44162</NODE2_ID>
+          <NODE2_NAME>BNCSFSalvador122</NODE2_NAME>
+          <KMS>5.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.053565,40.039001</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41348">
+          <NODE1_ID>44731</NODE1_ID>
+          <NODE1_NAME>BncssmFrrSalvador296</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040056,40.018647 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42154">
+          <NODE1_ID>45460</NODE1_ID>
+          <NODE1_NAME>BNCSFerrSalvador91</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.056680,40.040610 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42724">
+          <NODE1_ID>45908</NODE1_ID>
+          <NODE1_NAME>BncassimCuadra02</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038983,40.019448 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43186">
+          <NODE1_ID>46288</NODE1_ID>
+          <NODE1_NAME>BncBeniplCa</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.972</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043633,40.032841 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43765">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>46655</NODE2_ID>
+          <NODE2_NAME>Bncs-SantoTomas88</NODE2_NAME>
+          <KMS>4.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.064791,40.055909</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44098">
+          <NODE1_ID>46900</NODE1_ID>
+          <NODE1_NAME>CdPPenyetaMar2A</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>1.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.025599,40.015820 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44774">
+          <NODE1_ID>47316</NODE1_ID>
+          <NODE1_NAME>BncssmSerradal2</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.866</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041199,40.026826 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44886">
+          <NODE1_ID>47429</NODE1_ID>
+          <NODE1_NAME>BNCSFSalvador91</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.056680,40.040610 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44991">
+          <NODE1_ID>47492</NODE1_ID>
+          <NODE1_NAME>termalismo</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089387,40.056999 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45323">
+          <NODE1_ID>39634</NODE1_ID>
+          <NODE1_NAME>CdPObra18</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>3.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.005643,40.019312 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45328">
+          <NODE1_ID>41112</NODE1_ID>
+          <NODE1_NAME>GraoCsSanMartin17</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>10.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.016038,39.976928 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45438">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>47879</NODE2_ID>
+          <NODE2_NAME>CdP-lesvilles29</NODE2_NAME>
+          <KMS>8.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.002533,40.022076</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45573">
+          <NODE1_ID>47963</NODE1_ID>
+          <NODE1_NAME>Ximortells</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.007</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.066143,40.055394 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45790">
+          <NODE1_ID>48106</NODE1_ID>
+          <NODE1_NAME>termalismo26</NODE1_NAME>
+          <NODE2_ID>31843</NODE2_ID>
+          <NODE2_NAME>UJIHumanas</NODE2_NAME>
+          <KMS>0.281</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.067388,39.996832 -0.070050,39.995347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46297">
+          <NODE1_ID>48488</NODE1_ID>
+          <NODE1_NAME>GraoSanHuberto</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>8.678</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.023235,39.998657 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46328">
+          <NODE1_ID>48514</NODE1_ID>
+          <NODE1_NAME>Rototom</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063490,40.052418 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46908">
+          <NODE1_ID>48916</NODE1_ID>
+          <NODE1_NAME>CdP-Mestral1</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.773</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.034926,40.013105 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46973">
+          <NODE1_ID>48968</NODE1_ID>
+          <NODE1_NAME>SerradalTravesia16</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.978</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.030588,40.013540 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47025">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>49075</NODE2_ID>
+          <NODE2_NAME>BncsCondeBau1</NODE2_NAME>
+          <KMS>0.928</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.078980,40.055641</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47053">
+          <NODE1_ID>49100</NODE1_ID>
+          <NODE1_NAME>Bncs-Farja10</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.964</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.064448,40.048918 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47057">
+          <NODE1_ID>49110</NODE1_ID>
+          <NODE1_NAME>CdP-MarcoPolo18</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.771</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.034390,40.013387 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47102">
+          <NODE1_ID>49145</NODE1_ID>
+          <NODE1_NAME>Bncs-SalFerrandis226</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.432</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042690,40.024772 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47158">
+          <NODE1_ID>49089</NODE1_ID>
+          <NODE1_NAME>BNCAlameda</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.066865,40.056210 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47441">
+          <NODE1_ID>49343</NODE1_ID>
+          <NODE1_NAME>BncssimGranAvenida11</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.074748,40.055935 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47450">
+          <NODE1_ID>49290</NODE1_ID>
+          <NODE1_NAME>Bncsvillas</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.331</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.036736,40.028945 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47486">
+          <NODE1_ID>49373</NODE1_ID>
+          <NODE1_NAME>Bncs-APSantiago34</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043047,40.029309 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47500">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>49366</NODE2_ID>
+          <NODE2_NAME>Bncs-Dinamarca19</NODE2_NAME>
+          <KMS>0.905</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.078939,40.059227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47505">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>49293</NODE2_ID>
+          <NODE2_NAME>BncsDctrJorgeComins1</NODE2_NAME>
+          <KMS>1.524</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.071701,40.056272</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47524">
+          <NODE1_ID>49404</NODE1_ID>
+          <NODE1_NAME>Bncs-SFerrandis32</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.201</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063920,40.046103 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47539">
+          <NODE1_ID>49310</NODE1_ID>
+          <NODE1_NAME>BNCSOscarEspla99</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038651,40.020413 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47590">
+          <NODE1_ID>49464</NODE1_ID>
+          <NODE1_NAME>BncsAzorin13</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035727,40.027927 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47642">
+          <NODE1_ID>49508</NODE1_ID>
+          <NODE1_NAME>BncssmFSalvador220</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043063,40.025605 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47880">
+          <NODE1_ID>49580</NODE1_ID>
+          <NODE1_NAME>BncsLaPobla01</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>3.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.027713,40.049546 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48029">
+          <NODE1_ID>49833</NODE1_ID>
+          <NODE1_NAME>BncssmCervantes12</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.060205,40.045695 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48065">
+          <NODE1_ID>48460</NODE1_ID>
+          <NODE1_NAME>BNCmiquelperis32</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.062506,40.052456 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48071">
+          <NODE1_ID>49853</NODE1_ID>
+          <NODE1_NAME>Bncs-LaCorte64</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.971</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.069221,40.049365 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48078">
+          <NODE1_ID>49857</NODE1_ID>
+          <NODE1_NAME>Bncs-MasVell8</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.075711,40.056000 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48204">
+          <NODE1_ID>49927</NODE1_ID>
+          <NODE1_NAME>CdpObra8</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>3.479</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.001859,40.019599 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48280">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>49311</NODE2_ID>
+          <NODE2_NAME>Yucas12</NODE2_NAME>
+          <KMS>5.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.045172,40.040037</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48391">
+          <NODE1_ID>50041</NODE1_ID>
+          <NODE1_NAME>BncssimJorgeComin37</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.073493,40.054840 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48424">
+          <NODE1_ID>50068</NODE1_ID>
+          <NODE1_NAME>BncsJoseIturbi38</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.037485,40.020488 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48426">
+          <NODE1_ID>50069</NODE1_ID>
+          <NODE1_NAME>BncsJoseIturbi50</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.037315,40.020608 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48507">
+          <NODE1_ID>39803</NODE1_ID>
+          <NODE1_NAME>BncsPintorRibera20</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.447</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038584,40.026717 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48519">
+          <NODE1_ID>49752</NODE1_ID>
+          <NODE1_NAME>CSSerradal35</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>7.546</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031308,40.006768 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48525">
+          <NODE1_ID>36796</NODE1_ID>
+          <NODE1_NAME>CSBlscbz21</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>12.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.025032,39.990583 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48725">
+          <NODE1_ID>50224</NODE1_ID>
+          <NODE1_NAME>BNCScostur4</NODE1_NAME>
+          <NODE2_ID>31843</NODE2_ID>
+          <NODE2_NAME>UJIHumanas</NODE2_NAME>
+          <KMS>9.307</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.033587,40.021314 -0.070050,39.995347</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48728">
+          <NODE1_ID>49850</NODE1_ID>
+          <NODE1_NAME>Bncs-LaCorte10</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.073834,40.051767 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48765">
+          <NODE1_ID>49842</NODE1_ID>
+          <NODE1_NAME>Apto</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041892,40.024547 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48766">
+          <NODE1_ID>49842</NODE1_ID>
+          <NODE1_NAME>Apto</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.499</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041892,40.024547 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48781">
+          <NODE1_ID>50155</NODE1_ID>
+          <NODE1_NAME>BncssimLasVegas</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.851</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.070236,40.050208 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48937">
+          <NODE1_ID>49870</NODE1_ID>
+          <NODE1_NAME>BNCmascastell14</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.064336,40.048212 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49082">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>50230</NODE2_ID>
+          <NODE2_NAME>BNCSSerraEspada7</NODE2_NAME>
+          <KMS>5.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.045218,40.039270</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49122">
+          <NODE1_ID>50571</NODE1_ID>
+          <NODE1_NAME>ramcaj2b</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.276</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040303,40.029703 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49146">
+          <NODE1_ID>31843</NODE1_ID>
+          <NODE1_NAME>UJIHumanas</NODE1_NAME>
+          <NODE2_ID>50396</NODE2_ID>
+          <NODE2_NAME>BNC-lapunta17</NODE2_NAME>
+          <KMS>11.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.070050,39.995347 0.050251,40.038159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49166">
+          <NODE1_ID>50598</NODE1_ID>
+          <NODE1_NAME>ramycaj2</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>1.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040304,40.029631 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49236">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>50233</NODE2_ID>
+          <NODE2_NAME>CdP-LosParralessn</NODE2_NAME>
+          <KMS>9.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.007441,39.999166</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49327">
+          <NODE1_ID>50713</NODE1_ID>
+          <NODE1_NAME>CdP-DelBaladre20</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035429,40.014183 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49390">
+          <NODE1_ID>50763</NODE1_ID>
+          <NODE1_NAME>Bncs-florida23</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.7</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043651,40.035335 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49427">
+          <NODE1_ID>50613</NODE1_ID>
+          <NODE1_NAME>bnctrai26</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040652,40.034978 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49437">
+          <NODE1_ID>50799</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador82</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.377</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.058322,40.041970 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49484">
+          <NODE1_ID>50824</NODE1_ID>
+          <NODE1_NAME>Bncs-apostsantiago12</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039770,40.019388 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49513">
+          <NODE1_ID>50849</NODE1_ID>
+          <NODE1_NAME>Bncs-Baladres4</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.081288,40.056643 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49539">
+          <NODE1_ID>50865</NODE1_ID>
+          <NODE1_NAME>Bncs-AvdaFerSal82</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>3.201</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.058260,40.041935 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49591">
+          <NODE1_ID>50894</NODE1_ID>
+          <NODE1_NAME>bncsTorreStVicent</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.947</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067257,40.050693 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49627">
+          <NODE1_ID>50927</NODE1_ID>
+          <NODE1_NAME>BncsGuitFortea49</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.037583,40.020714 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49698">
+          <NODE1_ID>50984</NODE1_ID>
+          <NODE1_NAME>BenAltFerr</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068501,40.047519 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49893">
+          <NODE1_ID>49573</NODE1_ID>
+          <NODE1_NAME>BncsFSlvdr122</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>3.761</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.052990,40.038922 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50116">
+          <NODE1_ID>51335</NODE1_ID>
+          <NODE1_NAME>EduardVilla</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.739</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.045696,40.035288 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50184">
+          <NODE1_ID>51427</NODE1_ID>
+          <NODE1_NAME>BncsGuitFortea39</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.037923,40.020455 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50587">
+          <NODE1_ID>51764</NODE1_ID>
+          <NODE1_NAME>Bncs-Alquerias27</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.234</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038331,40.029918 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51082">
+          <NODE1_ID>51560</NODE1_ID>
+          <NODE1_NAME>ELGIGAS</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.441</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059697,40.052153 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51101">
+          <NODE1_ID>51928</NODE1_ID>
+          <NODE1_NAME>BENSantoTomas55</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063433,40.054935 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51427">
+          <NODE1_ID>52350</NODE1_ID>
+          <NODE1_NAME>BncJaimeI354</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040098,40.037853 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51487">
+          <NODE1_ID>29228</NODE1_ID>
+          <NODE1_NAME>bncssmDrFleming143</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038023,40.016958 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51600">
+          <NODE1_ID>52487</NODE1_ID>
+          <NODE1_NAME>BncsJaume_Bellido</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.016657,40.046023 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51608">
+          <NODE1_ID>52410</NODE1_ID>
+          <NODE1_NAME>BENmohino4</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.327</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042363,40.026781 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51631">
+          <NODE1_ID>51863</NODE1_ID>
+          <NODE1_NAME>BNCSVvr18</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.63</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040949,40.035629 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51667">
+          <NODE1_ID>52542</NODE1_ID>
+          <NODE1_NAME>Bncs-JaumeI33</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.071612,40.054596 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51715">
+          <NODE1_ID>52003</NODE1_ID>
+          <NODE1_NAME>cBsstbncsm</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042569,40.024005 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51821">
+          <NODE1_ID>30466</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador240</NODE1_NAME>
+          <NODE2_ID>51617</NODE2_ID>
+          <NODE2_NAME>CdPRM11</NODE2_NAME>
+          <KMS>3.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042233,40.023834 0.020107,40.046534</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52229">
+          <NODE1_ID>52601</NODE1_ID>
+          <NODE1_NAME>Bncs-Farja20</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.823</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063651,40.050046 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52326">
+          <NODE1_ID>53013</NODE1_ID>
+          <NODE1_NAME>Bncs-JaumeI113</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063353,40.048145 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52477">
+          <NODE1_ID>52913</NODE1_ID>
+          <NODE1_NAME>bncsenvianlesbains</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.060062,40.050981 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52689">
+          <NODE1_ID>53234</NODE1_ID>
+          <NODE1_NAME>palasiet2</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>5.997</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089442,40.057085 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52723">
+          <NODE1_ID>53258</NODE1_ID>
+          <NODE1_NAME>Cs-camdelatravesera1</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>2.313</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.015546,40.009321 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52826">
+          <NODE1_ID>53340</NODE1_ID>
+          <NODE1_NAME>Bncs_Jordi_Gallen</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.434</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.020116,40.046878 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53064">
+          <NODE1_ID>53493</NODE1_ID>
+          <NODE1_NAME>BCNalemania63</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.59</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.032521,40.018888 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53123">
+          <NODE1_ID>53560</NODE1_ID>
+          <NODE1_NAME>BncsFSlvdr262</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042797,40.025117 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53476">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>53860</NODE2_ID>
+          <NODE2_NAME>BncsCremaller38</NODE2_NAME>
+          <KMS>4.706</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.059985,40.049481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54113">
+          <NODE1_ID>54228</NODE1_ID>
+          <NODE1_NAME>BncssimFleming72</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040351,40.025503 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54118">
+          <NODE1_ID>39919</NODE1_ID>
+          <NODE1_NAME>CdPbovar56</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>2.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.018349,40.017818 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54147">
+          <NODE1_ID>42267</NODE1_ID>
+          <NODE1_NAME>CDPMarBlau29</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>1.543</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.025867,40.017940 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54295">
+          <NODE1_ID>34145</NODE1_ID>
+          <NODE1_NAME>OBRA40</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>2.893</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.008953,40.018922 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54336">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.573</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54859">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>54706</NODE2_ID>
+          <NODE2_NAME>Bnc_Sureres6_2</NODE2_NAME>
+          <KMS>3.877</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.025105,40.052289</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55289">
+          <NODE1_ID>54531</NODE1_ID>
+          <NODE1_NAME>BeniCorte</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068044,40.048647 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55369">
+          <NODE1_ID>55043</NODE1_ID>
+          <NODE1_NAME>Bncs-FontTeula3</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.056852,40.054649 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55619">
+          <NODE1_ID>55047</NODE1_ID>
+          <NODE1_NAME>BNCSFerrSalvador104</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>2.155</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.055404,40.040396 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56535">
+          <NODE1_ID>55916</NODE1_ID>
+          <NODE1_NAME>BnArrufat</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057273,40.055241 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58046">
+          <NODE1_ID>57049</NODE1_ID>
+          <NODE1_NAME>BENevian4</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.555</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.060036,40.051105 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58252">
+          <NODE1_ID>55417</NODE1_ID>
+          <NODE1_NAME>CSelgaleote8</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>2.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.018954,40.011913 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59075">
+          <NODE1_ID>57799</NODE1_ID>
+          <NODE1_NAME>BncrbTrrBllvr</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>6.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.100492,40.058896 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59750">
+          <NODE1_ID>45563</NODE1_ID>
+          <NODE1_NAME>CdPUnamuno9</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>6.728</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.023472,39.990382 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60229">
+          <NODE1_ID>58576</NODE1_ID>
+          <NODE1_NAME>BncsmCervantes16</NODE1_NAME>
+          <NODE2_ID>48669</NODE2_ID>
+          <NODE2_NAME>GraoCsPsBuenavista37</NODE2_NAME>
+          <KMS>8.9</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057528,40.047304 0.014977,39.974129</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60497">
+          <NODE1_ID>58762</NODE1_ID>
+          <NODE1_NAME>playetasprueba</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>5.588</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.090407,40.057919 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60500">
+          <NODE1_ID>58762</NODE1_ID>
+          <NODE1_NAME>playetasprueba</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.896</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.090407,40.057919 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60503">
+          <NODE1_ID>58762</NODE1_ID>
+          <NODE1_NAME>playetasprueba</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>6.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.090407,40.057919 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60525">
+          <NODE1_ID>58803</NODE1_ID>
+          <NODE1_NAME>BNCSCondeBau7_4</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.080339,40.056046 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61239">
+          <NODE1_ID>59316</NODE1_ID>
+          <NODE1_NAME>CdPEcoefys</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>7.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.035748,39.997655 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61479">
+          <NODE1_ID>59481</NODE1_ID>
+          <NODE1_NAME>BncsLasVegas1</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.070022,40.049889 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61702">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>59646</NODE2_ID>
+          <NODE2_NAME>BenLaPobla40</NODE2_NAME>
+          <KMS>6.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.040373,40.030471</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61749">
+          <NODE1_ID>30466</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador240</NODE1_NAME>
+          <NODE2_ID>38089</NODE2_ID>
+          <NODE2_NAME>CS_UllDeLaComare</NODE2_NAME>
+          <KMS>4.825</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042233,40.023834 0.000595,39.994458</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61773">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>51927</NODE2_ID>
+          <NODE2_NAME>BncsGuitFortea36</NODE2_NAME>
+          <KMS>0.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.037922,40.020721</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61864">
+          <NODE1_ID>49580</NODE1_ID>
+          <NODE1_NAME>BncsLaPobla01</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>3.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.027713,40.049546 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61945">
+          <NODE1_ID>59806</NODE1_ID>
+          <NODE1_NAME>BNCSevaazorin12</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.569</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.034088,40.026701 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62004">
+          <NODE1_ID>59848</NODE1_ID>
+          <NODE1_NAME>BncsCd5</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.342</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.055464,40.041349 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62067">
+          <NODE1_ID>40323</NODE1_ID>
+          <NODE1_NAME>bncssmPPrincipe</NODE1_NAME>
+          <NODE2_ID>18256</NODE2_ID>
+          <NODE2_NAME>CS-UJI-Solicom</NODE2_NAME>
+          <KMS>9.542</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038323,40.016535 -0.069496,39.993951</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62068">
+          <NODE1_ID>40323</NODE1_ID>
+          <NODE1_NAME>bncssmPPrincipe</NODE1_NAME>
+          <NODE2_ID>34024</NODE2_ID>
+          <NODE2_NAME>CdPRioDanubio8</NODE2_NAME>
+          <KMS>7.689</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038323,40.016535 -0.034238,39.975539</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62330">
+          <NODE1_ID>60055</NODE1_ID>
+          <NODE1_NAME>CdPMestral6</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.743</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035019,40.013382 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62366">
+          <NODE1_ID>49148</NODE1_ID>
+          <NODE1_NAME>Bncs-ApSantiago116</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039901,40.020417 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62441">
+          <NODE1_ID>60155</NODE1_ID>
+          <NODE1_NAME>CsJoseGarcia8</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063922,40.047697 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62539">
+          <NODE1_ID>30466</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador240</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>3.438</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042233,40.023834 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62556">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>60232</NODE2_ID>
+          <NODE2_NAME>BNCSavmohino</NODE2_NAME>
+          <KMS>6.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.039546,40.031227</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62716">
+          <NODE1_ID>59824</NODE1_ID>
+          <NODE1_NAME>BncAndromeda6</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>4.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.015479,40.052443 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62877">
+          <NODE1_ID>39600</NODE1_ID>
+          <NODE1_NAME>CdPBovar1</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>3.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.013450,40.017665 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62880">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>5.531</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62884">
+          <NODE1_ID>58551</NODE1_ID>
+          <NODE1_NAME>BncsVAEstelles19</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.077413,40.059117 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62886">
+          <NODE1_ID>60480</NODE1_ID>
+          <NODE1_NAME>BncsAptosEstoril-IV</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043194,40.029695 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62887">
+          <NODE1_ID>42963</NODE1_ID>
+          <NODE1_NAME>bncssmXaro</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>6.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040051,40.018606 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62888">
+          <NODE1_ID>60481</NODE1_ID>
+          <NODE1_NAME>BncsQuatreVents</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>3.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057037,40.046731 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62889">
+          <NODE1_ID>60482</NODE1_ID>
+          <NODE1_NAME>CdPDepositoLaComa</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>12.681</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.053510,40.026758 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62891">
+          <NODE1_ID>60480</NODE1_ID>
+          <NODE1_NAME>BncsAptosEstoril-IV</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043194,40.029695 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62910">
+          <NODE1_ID>57252</NODE1_ID>
+          <NODE1_NAME>CsBuenavista03</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>7.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.024751,40.011194 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62928">
+          <NODE1_ID>60507</NODE1_ID>
+          <NODE1_NAME>BncmPlDolores12</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.062564,40.055418 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62936">
+          <NODE1_ID>56524</NODE1_ID>
+          <NODE1_NAME>BncsVillaSergio</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>3.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.052185,40.052848 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62937">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>58576</NODE2_ID>
+          <NODE2_NAME>BncsmCervantes16</NODE2_NAME>
+          <KMS>2.968</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.057528,40.047304</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62939">
+          <NODE1_ID>41112</NODE1_ID>
+          <NODE1_NAME>GraoCsSanMartin17</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>10.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.016038,39.976928 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62940">
+          <NODE1_ID>60517</NODE1_ID>
+          <NODE1_NAME>BncsFrrndSlvdr296</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041306,40.023175 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62941">
+          <NODE1_ID>60517</NODE1_ID>
+          <NODE1_NAME>BncsFrrndSlvdr296</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.639</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041306,40.023175 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62942">
+          <NODE1_ID>60517</NODE1_ID>
+          <NODE1_NAME>BncsFrrndSlvdr296</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>3.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041306,40.023175 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63020">
+          <NODE1_ID>31199</NODE1_ID>
+          <NODE1_NAME>GrauCSCmnoPlana01</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>6.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.024401,39.994454 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63021">
+          <NODE1_ID>60586</NODE1_ID>
+          <NODE1_NAME>CdPSantPauPlatja</NODE1_NAME>
+          <NODE2_ID>40323</NODE2_ID>
+          <NODE2_NAME>bncssmPPrincipe</NODE2_NAME>
+          <KMS>0.381</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.033929,40.015936 0.038323,40.016535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63175">
+          <NODE1_ID>59438</NODE1_ID>
+          <NODE1_NAME>BncHolanda25</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>0.92</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.078830,40.059565 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63191">
+          <NODE1_ID>52617</NODE1_ID>
+          <NODE1_NAME>BncsSantarita17</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>1.87</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067512,40.057419 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63346">
+          <NODE1_ID>54764</NODE1_ID>
+          <NODE1_NAME>CdPSerradal276</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.699</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031442,40.017757 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63401">
+          <NODE1_ID>60878</NODE1_ID>
+          <NODE1_NAME>CdPGranota</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.036282,40.016449 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63444">
+          <NODE1_ID>60900</NODE1_ID>
+          <NODE1_NAME>PepeBartolo</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.288</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059573,40.053742 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63464">
+          <NODE1_ID>60905</NODE1_ID>
+          <NODE1_NAME>traserra</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>1.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.029504,40.012707 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63589">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>49752</NODE2_ID>
+          <NODE2_NAME>CSSerradal35</NODE2_NAME>
+          <KMS>7.546</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.031308,40.006768</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63592">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>60999</NODE2_ID>
+          <NODE2_NAME>CSSerradal33</NODE2_NAME>
+          <KMS>7.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.031288,40.006313</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63802">
+          <NODE1_ID>39633</NODE1_ID>
+          <NODE1_NAME>BncsQuatreVents22</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>3.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057292,40.046532 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63984">
+          <NODE1_ID>50161</NODE1_ID>
+          <NODE1_NAME>BncsFrrSalvador312</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>7.625</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038380,40.017351 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64118">
+          <NODE1_ID>61304</NODE1_ID>
+          <NODE1_NAME>CdPTravSenillar</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>2.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.015038,40.014435 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64205">
+          <NODE1_ID>61392</NODE1_ID>
+          <NODE1_NAME>CdPlamota-palmas</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>5.674</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.008179,40.002630 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64246">
+          <NODE1_ID>49396</NODE1_ID>
+          <NODE1_NAME>Beni_Cort_Remolins</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067790,40.048780 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64262">
+          <NODE1_ID>61472</NODE1_ID>
+          <NODE1_NAME>BeniCorteRd2</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068045,40.048639 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64266">
+          <NODE1_ID>51909</NODE1_ID>
+          <NODE1_NAME>CdPSanJose01</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>9.594</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.032376,39.977876 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64640">
+          <NODE1_ID>28871</NODE1_ID>
+          <NODE1_NAME>BnCSCarlesSalvador66</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.616</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.060183,40.050904 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64760">
+          <NODE1_ID>60855</NODE1_ID>
+          <NODE1_NAME>BncTorreSanVicente</NODE1_NAME>
+          <NODE2_ID>52675</NODE2_ID>
+          <NODE2_NAME>Bcsmgir7</NODE2_NAME>
+          <KMS>0.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067549,40.050597 0.068295,40.053562</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64810">
+          <NODE1_ID>51968</NODE1_ID>
+          <NODE1_NAME>CdpMolinera5</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.002288,40.018148 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65010">
+          <NODE1_ID>26574</NODE1_ID>
+          <NODE1_NAME>BncsSalvador03</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>5.449</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042459,40.024735 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65598">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>62597</NODE2_ID>
+          <NODE2_NAME>BncsGuitFortea45</NODE2_NAME>
+          <KMS>0.219</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.037717,40.020623</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65704">
+          <NODE1_ID>62608</NODE1_ID>
+          <NODE1_NAME>bncsLosAlmendros2</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.060870,40.050603 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66688">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>60681</NODE2_ID>
+          <NODE2_NAME>BNCSMrnoTorroba17</NODE2_NAME>
+          <KMS>0.407</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.034737,40.019822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67108">
+          <NODE1_ID>63663</NODE1_ID>
+          <NODE1_NAME>CdPCRevest11</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>13.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.031554,39.980680 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67110">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>63664</NODE2_ID>
+          <NODE2_NAME>BncsLasVegas1p</NODE2_NAME>
+          <KMS>1.885</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.070030,40.049840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67179">
+          <NODE1_ID>63727</NODE1_ID>
+          <NODE1_NAME>BnsMntrGrb6</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.017936,40.049929 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67410">
+          <NODE1_ID>63806</NODE1_ID>
+          <NODE1_NAME>BNCSTVCNT5</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.253</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068815,40.048540 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67998">
+          <NODE1_ID>48334</NODE1_ID>
+          <NODE1_NAME>csbuenavista01</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.503</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.024384,40.011432 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68009">
+          <NODE1_ID>64336</NODE1_ID>
+          <NODE1_NAME>centrociudadjardin</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>6.487</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.025186,39.993557 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68154">
+          <NODE1_ID>64489</NODE1_ID>
+          <NODE1_NAME>BNCS-WVN-ANGUILA18</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035852,40.016154 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69186">
+          <NODE1_ID>45598</NODE1_ID>
+          <NODE1_NAME>Jalibo</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.823</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041429,40.026401 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69825">
+          <NODE1_ID>65705</NODE1_ID>
+          <NODE1_NAME>BncsRadiocs152</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>0.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.077961,40.058623 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70106">
+          <NODE1_ID>54990</NODE1_ID>
+          <NODE1_NAME>CSpallars</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>2.232</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.020444,40.012724 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70157">
+          <NODE1_ID>55417</NODE1_ID>
+          <NODE1_NAME>CSelgaleote8</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>7.896</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.018954,40.011913 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70774">
+          <NODE1_ID>51764</NODE1_ID>
+          <NODE1_NAME>Bncs-Alquerias27</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>2.686</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038331,40.029918 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70801">
+          <NODE1_ID>66431</NODE1_ID>
+          <NODE1_NAME>BcnsSantoTomas54</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.569</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063959,40.054912 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70894">
+          <NODE1_ID>50111</NODE1_ID>
+          <NODE1_NAME>GraoCSPinos</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>9.466</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.024457,39.988888 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71244">
+          <NODE1_ID>66780</NODE1_ID>
+          <NODE1_NAME>CsAvFrrndsSlvdr35</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>2.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031205,40.006743 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71293">
+          <NODE1_ID>66780</NODE1_ID>
+          <NODE1_NAME>CsAvFrrndsSlvdr35</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>5.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031205,40.006743 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72238">
+          <NODE1_ID>67609</NODE1_ID>
+          <NODE1_NAME>bncssmfsalvador250</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042062,40.023164 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72811">
+          <NODE1_ID>50360</NODE1_ID>
+          <NODE1_NAME>BncsSigalero41</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043458,40.035987 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72897">
+          <NODE1_ID>68196</NODE1_ID>
+          <NODE1_NAME>bncssmboniche2</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.537</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.064223,40.046487 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72929">
+          <NODE1_ID>68195</NODE1_ID>
+          <NODE1_NAME>CsCarrerasaBovar5</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.477</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.026704,40.011672 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73106">
+          <NODE1_ID>58336</NODE1_ID>
+          <NODE1_NAME>CsArosan10</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.495</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.025706,40.011494 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73154">
+          <NODE1_ID>47714</NODE1_ID>
+          <NODE1_NAME>BncsCrlsdc</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.409</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.071709,40.052426 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73288">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>68328</NODE2_ID>
+          <NODE2_NAME>BncsLaCurva</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.039970,40.017881</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73538">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>68911</NODE2_ID>
+          <NODE2_NAME>bncssmpoblatornesa67</NODE2_NAME>
+          <KMS>1.706</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.038082,40.034481</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73578">
+          <NODE1_ID>68281</NODE1_ID>
+          <NODE1_NAME>cseoros</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>2.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.016133,40.008946 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73602">
+          <NODE1_ID>63444</NODE1_ID>
+          <NODE1_NAME>Bncs.apart.Madeira</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>3.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059180,40.043403 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73667">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>7.434</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73847">
+          <NODE1_ID>30466</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador240</NODE1_NAME>
+          <NODE2_ID>69143</NODE2_ID>
+          <NODE2_NAME>oropesaforcall</NODE2_NAME>
+          <KMS>7.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042233,40.023834 0.108356,40.062082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73896">
+          <NODE1_ID>18256</NODE1_ID>
+          <NODE1_NAME>CS-UJI-Solicom</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>9.712</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.069496,39.993951 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73897">
+          <NODE1_ID>18256</NODE1_ID>
+          <NODE1_NAME>CS-UJI-Solicom</NODE1_NAME>
+          <NODE2_ID>40323</NODE2_ID>
+          <NODE2_NAME>bncssmPPrincipe</NODE2_NAME>
+          <KMS>9.542</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.069496,39.993951 0.038323,40.016535</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74191">
+          <NODE1_ID>69398</NODE1_ID>
+          <NODE1_NAME>cdpbaladre34</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.034606,40.014625 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74196">
+          <NODE1_ID>69404</NODE1_ID>
+          <NODE1_NAME>trmlsm3</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>5.461</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089650,40.056855 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74611">
+          <NODE1_ID>68917</NODE1_ID>
+          <NODE1_NAME>Wndmkr</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.151</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040625,40.020154 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74660">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>68202</NODE2_ID>
+          <NODE2_NAME>BncssmCervantes8</NODE2_NAME>
+          <KMS>2.809</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.061022,40.045178</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74699">
+          <NODE1_ID>42211</NODE1_ID>
+          <NODE1_NAME>BncPalasiet02</NODE1_NAME>
+          <NODE2_ID>69126</NODE2_ID>
+          <NODE2_NAME>traviesa</NODE2_NAME>
+          <KMS>1.861</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.089419,40.057984 0.067790,40.055793</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74730">
+          <NODE1_ID>69747</NODE1_ID>
+          <NODE1_NAME>graogranota28</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.44</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035244,40.016834 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74805">
+          <NODE1_ID>69809</NODE1_ID>
+          <NODE1_NAME>carrasca</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.021114,40.010858 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74821">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>31487</NODE2_ID>
+          <NODE2_NAME>BncsPalmeralXM</NODE2_NAME>
+          <KMS>6.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.042792,40.032332</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74831">
+          <NODE1_ID>69820</NODE1_ID>
+          <NODE1_NAME>bncstramuntana16</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.863</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.065378,40.050539 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74833">
+          <NODE1_ID>69821</NODE1_ID>
+          <NODE1_NAME>bncstramuntana18</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.863</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.065284,40.050491 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74837">
+          <NODE1_ID>39356</NODE1_ID>
+          <NODE1_NAME>BncssmTraiguera10</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.903</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041585,40.033221 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74858">
+          <NODE1_ID>49690</NODE1_ID>
+          <NODE1_NAME>BncsCalipso</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.856</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.047349,40.034495 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74859">
+          <NODE1_ID>51092</NODE1_ID>
+          <NODE1_NAME>bncsCarrerFondo2</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.885</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.047515,40.034259 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74860">
+          <NODE1_ID>36091</NODE1_ID>
+          <NODE1_NAME>BncssmDRFleming42</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.515</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042199,40.027719 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74938">
+          <NODE1_ID>69831</NODE1_ID>
+          <NODE1_NAME>NodoAlmadrava</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.578</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.072527,40.054130 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75014">
+          <NODE1_ID>69961</NODE1_ID>
+          <NODE1_NAME>bncssmCalig4</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.534</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035103,40.022619 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75027">
+          <NODE1_ID>48669</NODE1_ID>
+          <NODE1_NAME>GraoCsPsBuenavista37</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>9.604</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.014977,39.974129 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75093">
+          <NODE1_ID>59848</NODE1_ID>
+          <NODE1_NAME>BncsCd5</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.342</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.055464,40.041349 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75095">
+          <NODE1_ID>32328</NODE1_ID>
+          <NODE1_NAME>BncssmEivissa</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.054181,40.040967 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75099">
+          <NODE1_ID>66584</NODE1_ID>
+          <NODE1_NAME>BncAvFerrocarril85</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.047802,40.042286 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75101">
+          <NODE1_ID>60627</NODE1_ID>
+          <NODE1_NAME>BncAvJaumeI211</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.291</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.053801,40.041327 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75108">
+          <NODE1_ID>30732</NODE1_ID>
+          <NODE1_NAME>bncssmSalvador02</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063155,40.047758 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75110">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>70048</NODE2_ID>
+          <NODE2_NAME>Bncs-Bayer54</NODE2_NAME>
+          <KMS>4.458</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.065344,40.055169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75124">
+          <NODE1_ID>70052</NODE1_ID>
+          <NODE1_NAME>bncssmllucena10</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.747</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039219,40.030147 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75152">
+          <NODE1_ID>59377</NODE1_ID>
+          <NODE1_NAME>bncsFSalvador36</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063444,40.045726 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75179">
+          <NODE1_ID>68032</NODE1_ID>
+          <NODE1_NAME>BNCSmillars10</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.589</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039894,40.026826 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75180">
+          <NODE1_ID>59806</NODE1_ID>
+          <NODE1_NAME>BNCSevaazorin12</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.569</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.034088,40.026701 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75201">
+          <NODE1_ID>41615</NODE1_ID>
+          <NODE1_NAME>BncsmPintorMurillo17</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.035488,40.025142 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75202">
+          <NODE1_ID>45460</NODE1_ID>
+          <NODE1_NAME>BNCSFerrSalvador91</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.056680,40.040610 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75262">
+          <NODE1_ID>69662</NODE1_ID>
+          <NODE1_NAME>bncgavines4</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>3.955</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.015608,40.049702 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75274">
+          <NODE1_ID>68517</NODE1_ID>
+          <NODE1_NAME>bncslesoliveres49</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.059571,40.054512 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75283">
+          <NODE1_ID>49678</NODE1_ID>
+          <NODE1_NAME>BnssmRflBlgr3</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040394,40.020698 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75330">
+          <NODE1_ID>39805</NODE1_ID>
+          <NODE1_NAME>PNegre_Benicassim</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.972</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.065607,40.049456 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75331">
+          <NODE1_ID>60696</NODE1_ID>
+          <NODE1_NAME>BncssmFerSalva206B6</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.592</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.043741,40.027199 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75344">
+          <NODE1_ID>50650</NODE1_ID>
+          <NODE1_NAME>BenGAV33</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.572</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.071913,40.054511 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75386">
+          <NODE1_ID>70256</NODE1_ID>
+          <NODE1_NAME>BncsJaumeI139bis</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.062689,40.047555 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75428">
+          <NODE1_ID>70289</NODE1_ID>
+          <NODE1_NAME>CsCalleBellamar1</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.024902,40.011212 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75431">
+          <NODE1_ID>70291</NODE1_ID>
+          <NODE1_NAME>CsCamiArrosar401</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>4.326</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.025867,40.013020 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75444">
+          <NODE1_ID>38953</NODE1_ID>
+          <NODE1_NAME>BeniTorre01</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068058,40.049349 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75507">
+          <NODE1_ID>28871</NODE1_ID>
+          <NODE1_NAME>BnCSCarlesSalvador66</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.060183,40.050904 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75598">
+          <NODE1_ID>70191</NODE1_ID>
+          <NODE1_NAME>bncssmDrFlemming104</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039041,40.019587 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75613">
+          <NODE1_ID>68202</NODE1_ID>
+          <NODE1_NAME>BncssmCervantes8</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.164</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.061022,40.045178 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75694">
+          <NODE1_ID>70253</NODE1_ID>
+          <NODE1_NAME>bncssmfrt55</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.239</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.037562,40.020759 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75719">
+          <NODE1_ID>60213</NODE1_ID>
+          <NODE1_NAME>BenCorte69_2</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067641,40.049146 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75849">
+          <NODE1_ID>70626</NODE1_ID>
+          <NODE1_NAME>BncssmHaiti1</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.412</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.044535,40.028944 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75893">
+          <NODE1_ID>60855</NODE1_ID>
+          <NODE1_NAME>BncTorreSanVicente</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.038</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067549,40.050597 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75984">
+          <NODE1_ID>31089</NODE1_ID>
+          <NODE1_NAME>Bncsmgstndrgn4</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.041301,40.039013 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76036">
+          <NODE1_ID>22905</NODE1_ID>
+          <NODE1_NAME>villa</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>1.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.027739,40.016465 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76048">
+          <NODE1_ID>59075</NODE1_ID>
+          <NODE1_NAME>Timonet4</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.015750,40.047518 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76084">
+          <NODE1_ID>70822</NODE1_ID>
+          <NODE1_NAME>BncsMhn42</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042420,40.026744 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76125">
+          <NODE1_ID>68032</NODE1_ID>
+          <NODE1_NAME>BNCSmillars10</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>0.388</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039894,40.026826 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76134">
+          <NODE1_ID>28832</NODE1_ID>
+          <NODE1_NAME>AntioPuertobeni</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057702,40.053534 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76148">
+          <NODE1_ID>39812</NODE1_ID>
+          <NODE1_NAME>BenTBellver66</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.854</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.092072,40.060897 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76192">
+          <NODE1_ID>70976</NODE1_ID>
+          <NODE1_NAME>BeniTorre02</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068040,40.049341 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76317">
+          <NODE1_ID>40592</NODE1_ID>
+          <NODE1_NAME>N-XAVIER_PALOMA</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.997</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.045075,40.032817 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76326">
+          <NODE1_ID>47535</NODE1_ID>
+          <NODE1_NAME>Bncs-Latorre10</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.073691,40.051864 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76329">
+          <NODE1_ID>71421</NODE1_ID>
+          <NODE1_NAME>Bncs-CartaPobla26</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.791</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.069759,40.054161 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76347">
+          <NODE1_ID>41427</NODE1_ID>
+          <NODE1_NAME>bncssmLaCorte2</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.074229,40.052464 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76360">
+          <NODE1_ID>71453</NODE1_ID>
+          <NODE1_NAME>bncssmlbct19</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.058537,40.045665 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76363">
+          <NODE1_ID>59942</NODE1_ID>
+          <NODE1_NAME>BncssimJoseAsinOses</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.772</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067454,40.052834 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76390">
+          <NODE1_ID>60488</NODE1_ID>
+          <NODE1_NAME>BncCarrerRibalta12</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>6.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.045699,40.031573 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76499">
+          <NODE1_ID>71548</NODE1_ID>
+          <NODE1_NAME>BncCalleBoniche5</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.062807,40.046948 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76562">
+          <NODE1_ID>70751</NODE1_ID>
+          <NODE1_NAME>BnssmRflBlgr3-4</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040336,40.020755 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76652">
+          <NODE1_ID>51262</NODE1_ID>
+          <NODE1_NAME>BNCSrototom</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.547</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.047182,40.046666 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76711">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>41183</NODE2_ID>
+          <NODE2_NAME>bncssmCulla12</NODE2_NAME>
+          <KMS>5.564</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.042792,40.036456</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76748">
+          <NODE1_ID>26006</NODE1_ID>
+          <NODE1_NAME>CdPBartolo</NODE1_NAME>
+          <NODE2_ID>71717</NODE2_ID>
+          <NODE2_NAME>bncslslvrs491</NODE2_NAME>
+          <KMS>4.217</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.031607,40.085827 0.059583,40.054513</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76836">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>71780</NODE2_ID>
+          <NODE2_NAME>BncMChapi0808</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.037875,40.019024</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76842">
+          <NODE1_ID>39633</NODE1_ID>
+          <NODE1_NAME>BncsQuatreVents22</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.882</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057292,40.046532 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76881">
+          <NODE1_ID>30466</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador240</NODE1_NAME>
+          <NODE2_ID>38993</NODE2_ID>
+          <NODE2_NAME>BeniPalmeral25</NODE2_NAME>
+          <KMS>1.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042233,40.023834 0.046491,40.034133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76885">
+          <NODE1_ID>28451</NODE1_ID>
+          <NODE1_NAME>bncssmAPSantiago124M</NODE1_NAME>
+          <NODE2_ID>68917</NODE2_ID>
+          <NODE2_NAME>Wndmkr</NODE2_NAME>
+          <KMS>0.151</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.039428,40.019149 0.040625,40.020154</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76957">
+          <NODE1_ID>62731</NODE1_ID>
+          <NODE1_NAME>CSCamPriTrav</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>5.286</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.011505,40.005591 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76965">
+          <NODE1_ID>68917</NODE1_ID>
+          <NODE1_NAME>Wndmkr</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.151</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040625,40.020154 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77152">
+          <NODE1_ID>72081</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador03</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.348</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057997,40.042137 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77243">
+          <NODE1_ID>72189</NODE1_ID>
+          <NODE1_NAME>BncsCastellSufera3</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.057591,40.043242 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77345">
+          <NODE1_ID>68917</NODE1_ID>
+          <NODE1_NAME>Wndmkr</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.151</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.040625,40.020154 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77408">
+          <NODE1_ID>72351</NODE1_ID>
+          <NODE1_NAME>BncJoseSerrano5</NODE1_NAME>
+          <NODE2_ID>28451</NODE2_ID>
+          <NODE2_NAME>bncssmAPSantiago124M</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038525,40.019108 0.039428,40.019149</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77675">
+          <NODE1_ID>36641</NODE1_ID>
+          <NODE1_NAME>BncsCid</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.376</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.055905,40.041150 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78104">
+          <NODE1_ID>60855</NODE1_ID>
+          <NODE1_NAME>BncTorreSanVicente</NODE1_NAME>
+          <NODE2_ID>72803</NODE2_ID>
+          <NODE2_NAME>bncssmassirera10</NODE2_NAME>
+          <KMS>0.757</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067549,40.050597 0.074619,40.054711</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78199">
+          <NODE1_ID>30466</NODE1_ID>
+          <NODE1_NAME>BncsFSalvador240</NODE1_NAME>
+          <NODE2_ID>72963</NODE2_ID>
+          <NODE2_NAME>CSFltSGN</NODE2_NAME>
+          <KMS>3.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042233,40.023834 0.016807,39.999136</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78537">
+          <NODE1_ID>60855</NODE1_ID>
+          <NODE1_NAME>BncTorreSanVicente</NODE1_NAME>
+          <NODE2_ID>50469</NODE2_ID>
+          <NODE2_NAME>bnrfr</NODE2_NAME>
+          <KMS>0.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.067549,40.050597 0.058554,40.052768</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78913">
+          <NODE1_ID>73560</NODE1_ID>
+          <NODE1_NAME>bncssmgfortea12</NODE1_NAME>
+          <NODE2_ID>49652</NODE2_ID>
+          <NODE2_NAME>sureres6</NODE2_NAME>
+          <KMS>3.691</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.038565,40.020311 0.025425,40.051977</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80515">
+          <NODE1_ID>73441</NODE1_ID>
+          <NODE1_NAME>BncsAvFerro</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.042298,40.040192 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81067">
+          <NODE1_ID>75213</NODE1_ID>
+          <NODE1_NAME>ApOlimpia2SXT</NODE1_NAME>
+          <NODE2_ID>60855</NODE2_ID>
+          <NODE2_NAME>BncTorreSanVicente</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.066712,40.049955 0.067549,40.050597</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122168">
+          <NODE1_ID>48929</NODE1_ID>
+          <NODE1_NAME>BncsBrbrCpria1</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063276,40.053747 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122170">
+          <NODE1_ID>48929</NODE1_ID>
+          <NODE1_NAME>BncsBrbrCpria1</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>4.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.063276,40.053747 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122190">
+          <NODE1_ID>39779</NODE1_ID>
+          <NODE1_NAME>BenAvPalmeral48a</NODE1_NAME>
+          <NODE2_ID>26006</NODE2_ID>
+          <NODE2_NAME>CdPBartolo</NODE2_NAME>
+          <KMS>5.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.044521,40.033746 0.031607,40.085827</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123053">
+          <NODE1_ID>76904</NODE1_ID>
+          <NODE1_NAME>BncsTrrSntVcnt8445</NODE1_NAME>
+          <NODE2_ID>42211</NODE2_ID>
+          <NODE2_NAME>BncPalasiet02</NODE2_NAME>
+          <KMS>2.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.068418,40.049444 0.089419,40.057984</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123591">
+          <NODE1_ID>77189</NODE1_ID>
+          <NODE1_NAME>travserra</NODE1_NAME>
+          <NODE2_ID>30466</NODE2_ID>
+          <NODE2_NAME>BncsFSalvador240</NODE2_NAME>
+          <KMS>1.643</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.029488,40.012750 0.042233,40.023834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.085908</gml:X><gml:Y>42.248904</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.092845</gml:X><gml:Y>42.265763</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="25554">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.092845,42.249672</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>25554</NODE_ID>
+      <NODE_NAME>GombrenRepetidorTV</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="26020">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.089871,42.248904</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>26020</NODE_ID>
+      <NODE_NAME>GombrenAjuntament</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45125">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.085908,42.265763</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45125</NODE_ID>
+      <NODE_NAME>Gombren-SantMontgr</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

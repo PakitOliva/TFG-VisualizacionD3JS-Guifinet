@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.780692</gml:X><gml:Y>42.030691</gml:Y></gml:coord>
+<gml:coord><gml:X>1.886607</gml:X><gml:Y>42.107390</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="13321">
+          <NODE1_ID>16469</NODE1_ID>
+          <NODE1_NAME>GRLL-StMarco</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.880239,42.042293 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17484">
+          <NODE1_ID>22109</NODE1_ID>
+          <NODE1_NAME>GRLL-Andy</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.532</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.875433,42.032499 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22467">
+          <NODE1_ID>27710</NODE1_ID>
+          <NODE1_NAME>GRLLPimpi</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.882632,42.040766 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46006">
+          <NODE1_ID>45015</NODE1_ID>
+          <NODE1_NAME>GRLLElsa</NODE1_NAME>
+          <NODE2_ID>11248</NODE2_ID>
+          <NODE2_NAME>BRGCasaenPons</NODE2_NAME>
+          <KMS>7.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.882943,42.037978 1.865535,42.099952</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61395">
+          <NODE1_ID>58617</NODE1_ID>
+          <NODE1_NAME>GIRJordi</NODE1_NAME>
+          <NODE2_ID>11246</NODE2_ID>
+          <NODE2_NAME>BRGQueralt</NODE2_NAME>
+          <KMS>9.821</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.886607,42.030691 1.827558,42.107390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71430">
+          <NODE1_ID>66958</NODE1_ID>
+          <NODE1_NAME>GIRYami</NODE1_NAME>
+          <NODE2_ID>11246</NODE2_ID>
+          <NODE2_NAME>BRGQueralt</NODE2_NAME>
+          <KMS>8.616</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.879387,42.040116 1.827558,42.107390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

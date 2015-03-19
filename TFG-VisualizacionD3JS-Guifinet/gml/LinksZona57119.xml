@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-3.014407</gml:X><gml:Y>42.988247</gml:Y></gml:coord>
+<gml:coord><gml:X>-3.009510</gml:X><gml:Y>42.994846</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="58344">
+          <NODE1_ID>57290</NODE1_ID>
+          <NODE1_NAME>RDNlaantigua9-reserv</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.004</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.014354,42.993779 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58375">
+          <NODE1_ID>57284</NODE1_ID>
+          <NODE1_NAME>RDNkarpa</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.623</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.013151,42.988247 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58376">
+          <NODE1_ID>57280</NODE1_ID>
+          <NODE1_NAME>RDNsanfrantzisko</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.418</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.009510,42.992658 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58377">
+          <NODE1_ID>57283</NODE1_ID>
+          <NODE1_NAME>RDNakanpalekua2</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.011734,42.990837 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58378">
+          <NODE1_ID>57282</NODE1_ID>
+          <NODE1_NAME>RDNakanpalekua1</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.011381,42.991528 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58397">
+          <NODE1_ID>57120</NODE1_ID>
+          <NODE1_NAME>RDNaisiaorduna</NODE1_NAME>
+          <NODE2_ID>57121</NODE2_ID>
+          <NODE2_NAME>RDNlaantigua9</NODE2_NAME>
+          <KMS>0.337</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-3.010533,42.994846 -3.014407,42.993781</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

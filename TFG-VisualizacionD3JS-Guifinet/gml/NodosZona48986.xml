@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-4.289775</gml:X><gml:Y>43.010640</gml:Y></gml:coord>
+      <gml:coord><gml:X>-4.285809</gml:X><gml:Y>43.011859</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="49006">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.285809,43.010640</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49006</NODE_ID>
+      <NODE_NAME>LOMBACV</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52804">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.289775,43.011822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52804</NODE_ID>
+      <NODE_NAME>LOMBADeposito</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52946">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.289684,43.011859</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52946</NODE_ID>
+      <NODE_NAME>LOMBANodo1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58514">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-4.287732,43.011260</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58514</NODE_ID>
+      <NODE_NAME>LombaPru</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

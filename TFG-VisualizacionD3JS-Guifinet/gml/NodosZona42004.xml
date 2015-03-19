@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.294659</gml:X><gml:Y>38.972697</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.313596</gml:X><gml:Y>38.987360</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="23205">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.294659,38.983576</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23205</NODE_ID>
+      <NODE_NAME>IBZcatamaran</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23211">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.300934,38.981940</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23211</NODE_ID>
+      <NODE_NAME>StRafel</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43133">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.295614,38.987360</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43133</NODE_ID>
+      <NODE_NAME>Posidonia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37866">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.313596,38.972697</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37866</NODE_ID>
+      <NODE_NAME>IBZreguero6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

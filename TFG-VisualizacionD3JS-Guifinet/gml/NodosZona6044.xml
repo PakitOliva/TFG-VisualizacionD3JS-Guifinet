@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.654167</gml:X><gml:Y>41.740559</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.783047</gml:X><gml:Y>41.786475</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="4867">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.669092,41.764000</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4867</NODE_ID>
+      <NODE_NAME>FONCasaTota</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="13086">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.783047,41.753449</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>13086</NODE_ID>
+      <NODE_NAME>FON-Goscan</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="13087">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.782577,41.753845</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>13087</NODE_ID>
+      <NODE_NAME>FON-Papirot</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19012">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.713087,41.776927</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19012</NODE_ID>
+      <NODE_NAME>FONBatlem</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19017">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.712950,41.742118</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19017</NODE_ID>
+      <NODE_NAME>FONFals-Dip</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19019">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.715176,41.743494</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19019</NODE_ID>
+      <NODE_NAME>FONFals-Tagore</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19020">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.741440,41.763036</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19020</NODE_ID>
+      <NODE_NAME>FONCanet-Llar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19021">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.686267,41.776799</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19021</NODE_ID>
+      <NODE_NAME>FONCamps-Casal</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19022">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.661017,41.767139</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19022</NODE_ID>
+      <NODE_NAME>FON-Dip-Turell</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.669053,41.763114</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19023</NODE_ID>
+      <NODE_NAME>FONAjuntament</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19024">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668967,41.754311</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19024</NODE_ID>
+      <NODE_NAME>FONPinyer</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19025">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.700842,41.756904</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19025</NODE_ID>
+      <NODE_NAME>FONFals-Dip-Xamal</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19238">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.735110,41.756645</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19238</NODE_ID>
+      <NODE_NAME>FONTorresDeFals</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="19309">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.674718,41.757044</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>19309</NODE_ID>
+      <NODE_NAME>FONDominiAmbiental</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30004">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.670470,41.775035</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30004</NODE_ID>
+      <NODE_NAME>FONCanPelfort</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29314">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.682303,41.781470</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29314</NODE_ID>
+      <NODE_NAME>FONCalTeixido</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="24683">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.725521,41.745219</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>24683</NODE_ID>
+      <NODE_NAME>FONUmac</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27369">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.743045,41.761229</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27369</NODE_ID>
+      <NODE_NAME>FONPladelaVila22</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27414">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668836,41.763134</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27414</NODE_ID>
+      <NODE_NAME>FONClosa</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28131">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.718420,41.740968</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28131</NODE_ID>
+      <NODE_NAME>FONCalFelip</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28778">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.729687,41.760542</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28778</NODE_ID>
+      <NODE_NAME>FONCanGuinard</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29016">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.708975,41.750488</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29016</NODE_ID>
+      <NODE_NAME>FONGrau</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29017">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742638,41.758751</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29017</NODE_ID>
+      <NODE_NAME>FONAntoniaMS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29018">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.744946,41.758955</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29018</NODE_ID>
+      <NODE_NAME>FONRGOC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29019">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668714,41.762757</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29019</NODE_ID>
+      <NODE_NAME>FONBauma</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29020">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.676209,41.786475</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29020</NODE_ID>
+      <NODE_NAME>FONcasalot</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29021">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.733042,41.760499</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29021</NODE_ID>
+      <NODE_NAME>FONXERINGO</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29022">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.737176,41.759884</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29022</NODE_ID>
+      <NODE_NAME>FONVilagra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.743393,41.761163</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29023</NODE_ID>
+      <NODE_NAME>FONpins21</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29024">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.747054,41.757836</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29024</NODE_ID>
+      <NODE_NAME>FONolio</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29025">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.715463,41.743441</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29025</NODE_ID>
+      <NODE_NAME>FONComas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29061">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.667615,41.761495</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29061</NODE_ID>
+      <NODE_NAME>FONCanCalmet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29064">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.682861,41.780311</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29064</NODE_ID>
+      <NODE_NAME>FONCalGrane</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29117">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.718849,41.740559</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29117</NODE_ID>
+      <NODE_NAME>FONCalxic</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29128">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.681091,41.775541</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29128</NODE_ID>
+      <NODE_NAME>FONElCollet</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29141">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668830,41.762254</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29141</NODE_ID>
+      <NODE_NAME>FONFusteriaClosa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29160">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.718765,41.751339</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29160</NODE_ID>
+      <NODE_NAME>FONCalJoan</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29278">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742706,41.762666</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29278</NODE_ID>
+      <NODE_NAME>FONPins46</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29336">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.735132,41.761074</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29336</NODE_ID>
+      <NODE_NAME>FONGuillemCervera46</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29472">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.670169,41.759785</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29472</NODE_ID>
+      <NODE_NAME>FONCalFrancisco</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29474">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.662895,41.771453</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29474</NODE_ID>
+      <NODE_NAME>FONCasaPantine</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29477">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.684677,41.768292</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29477</NODE_ID>
+      <NODE_NAME>FONCalXisco</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29610">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.677142,41.769934</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29610</NODE_ID>
+      <NODE_NAME>FONCalBisbe</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29631">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668876,41.763560</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29631</NODE_ID>
+      <NODE_NAME>FONPlacaMajor2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30006">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.718255,41.751493</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30006</NODE_ID>
+      <NODE_NAME>FONCanJapic</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30023">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.731023,41.764454</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30023</NODE_ID>
+      <NODE_NAME>FNGrgNgr</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30033">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.659569,41.763500</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30033</NODE_ID>
+      <NODE_NAME>FONSolivent</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30038">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.661473,41.771866</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30038</NODE_ID>
+      <NODE_NAME>FONGarrguesNoves</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30154">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.728759,41.758284</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30154</NODE_ID>
+      <NODE_NAME>FNGrgNgrTst1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="30942">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.736741,41.747310</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>30942</NODE_ID>
+      <NODE_NAME>FON_CanDomingo</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31395">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.670136,41.765328</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31395</NODE_ID>
+      <NODE_NAME>FONCalTomas</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31556">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668940,41.763714</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31556</NODE_ID>
+      <NODE_NAME>FONBagesCargol</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31562">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.686863,41.767514</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31562</NODE_ID>
+      <NODE_NAME>FONCalMesXic</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31567">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.672990,41.753273</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31567</NODE_ID>
+      <NODE_NAME>FONElPadro</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32120">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.686970,41.767131</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32120</NODE_ID>
+      <NODE_NAME>FONCalSebastia</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32350">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.736923,41.761714</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32350</NODE_ID>
+      <NODE_NAME>FONGisbertRibelles8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32482">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.665716,41.762804</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32482</NODE_ID>
+      <NODE_NAME>FONEscoles</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33948">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.660867,41.775720</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33948</NODE_ID>
+      <NODE_NAME>daubeso</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34100">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668838,41.765450</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34100</NODE_ID>
+      <NODE_NAME>FonCanRiva</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34107">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.714559,41.742129</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34107</NODE_ID>
+      <NODE_NAME>FONStVicens810</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="34566">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.714189,41.743025</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>34566</NODE_ID>
+      <NODE_NAME>FONTorrent15</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37676">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742678,41.757774</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37676</NODE_ID>
+      <NODE_NAME>FonAvTorresdeFals20</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63185">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.674917,41.776920</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63185</NODE_ID>
+      <NODE_NAME>FONCanFeixes</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63182">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.665763,41.773601</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63182</NODE_ID>
+      <NODE_NAME>FONCamps</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43299">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.670845,41.761587</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43299</NODE_ID>
+      <NODE_NAME>FONMasoveret</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39758">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.663592,41.764606</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39758</NODE_ID>
+      <NODE_NAME>FONVinyaTeixido</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39916">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.739021,41.763205</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39916</NODE_ID>
+      <NODE_NAME>FontTame</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41258">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.683913,41.777858</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41258</NODE_ID>
+      <NODE_NAME>FONCasaNova</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42340">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.732621,41.760268</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42340</NODE_ID>
+      <NODE_NAME>FONLapicer14</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42635">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.745689,41.758202</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42635</NODE_ID>
+      <NODE_NAME>FONVergeMontserrat</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43256">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.669021,41.762591</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43256</NODE_ID>
+      <NODE_NAME>FONElectricaPinto</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43729">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.654167,41.782133</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43729</NODE_ID>
+      <NODE_NAME>FONCanPutxo</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="45840">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.671059,41.748847</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>45840</NODE_ID>
+      <NODE_NAME>FONBruquesses</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46906">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668870,41.762497</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46906</NODE_ID>
+      <NODE_NAME>FONMajor6</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47836">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.740029,41.762925</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47836</NODE_ID>
+      <NODE_NAME>FONCanetGuifre</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48303">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.736355,41.760788</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48303</NODE_ID>
+      <NODE_NAME>FONJb</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48363">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.688987,41.777615</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48363</NODE_ID>
+      <NODE_NAME>FONBarcons</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50269">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.736499,41.761709</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50269</NODE_ID>
+      <NODE_NAME>FONBernatAnglesola11</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50673">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.678205,41.783305</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50673</NODE_ID>
+      <NODE_NAME>FONStRoc</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66018">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742258,41.761041</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66018</NODE_ID>
+      <NODE_NAME>FONBoixos22</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70361">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.744914,41.758940</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70361</NODE_ID>
+      <NODE_NAME>FONMiradorCanet62Rd1</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53343">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.660821,41.763998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53343</NODE_ID>
+      <NODE_NAME>FONRecus</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58537">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.680889,41.767353</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58537</NODE_ID>
+      <NODE_NAME>FONMasiaCaselles</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61430">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.755490,41.773900</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61430</NODE_ID>
+      <NODE_NAME>FONJaumeAndreu</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62803">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668818,41.762408</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62803</NODE_ID>
+      <NODE_NAME>FONMajor3</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63815">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.668885,41.763426</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63815</NODE_ID>
+      <NODE_NAME>FONPMajor4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64963">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.677109,41.769880</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64963</NODE_ID>
+      <NODE_NAME>FONCanFuster</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64739">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.689620,41.768455</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64739</NODE_ID>
+      <NODE_NAME>FONElSoler</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65769">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.667153,41.785995</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65769</NODE_ID>
+      <NODE_NAME>FONBacarditDeLlomas</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67351">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.742605,41.759998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67351</NODE_ID>
+      <NODE_NAME>FONsabines11</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67372">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.749982,41.757539</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67372</NODE_ID>
+      <NODE_NAME>FONCanetVergeMont54</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67597">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.767806,41.762616</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67597</NODE_ID>
+      <NODE_NAME>FONGranjesNito</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69381">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.744139,41.757017</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69381</NODE_ID>
+      <NODE_NAME>FONAgustiFranch7</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70440">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.714739,41.777778</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70440</NODE_ID>
+      <NODE_NAME>FONBatlemcasa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72900">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.693692,41.761232</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72900</NODE_ID>
+      <NODE_NAME>FONesquerra</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73575">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.692788,41.763381</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73575</NODE_ID>
+      <NODE_NAME>FONhostal</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74482">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.689250,41.761660</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74482</NODE_ID>
+      <NODE_NAME>FONSirola</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75190">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.690128,41.778941</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75190</NODE_ID>
+      <NODE_NAME>FONCaseta</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75541">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.749460,41.758014</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75541</NODE_ID>
+      <NODE_NAME>FONVergeMontserrat49</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75545">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.681933,41.781692</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75545</NODE_ID>
+      <NODE_NAME>FONCanSaladich</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="75974">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.746309,41.759536</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>75974</NODE_ID>
+      <NODE_NAME>FONCanetCTTI</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

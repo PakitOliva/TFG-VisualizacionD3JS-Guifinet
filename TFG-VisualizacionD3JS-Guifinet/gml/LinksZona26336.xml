@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.199253</gml:X><gml:Y>41.738297</gml:Y></gml:coord>
+<gml:coord><gml:X>2.279464</gml:X><gml:Y>41.819090</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="5561">
+          <NODE1_ID>7594</NODE1_ID>
+          <NODE1_NAME>CNTElectraGavarra</NODE1_NAME>
+          <NODE2_ID>7903</NODE2_ID>
+          <NODE2_NAME>SevaPMallet</NODE2_NAME>
+          <KMS>1.864</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.227088,41.790945 2.248548,41.795811</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8600">
+          <NODE1_ID>7594</NODE1_ID>
+          <NODE1_NAME>CNTElectraGavarra</NODE1_NAME>
+          <NODE2_ID>12054</NODE2_ID>
+          <NODE2_NAME>SevaPUrbPinos</NODE2_NAME>
+          <KMS>1.766</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.227088,41.790945 2.248002,41.788123</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9434">
+          <NODE1_ID>12162</NODE1_ID>
+          <NODE1_NAME>SevaPVander</NODE1_NAME>
+          <NODE2_ID>7594</NODE2_ID>
+          <NODE2_NAME>CNTElectraGavarra</NODE2_NAME>
+          <KMS>1.757</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.248071,41.789003 2.227088,41.790945</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9864">
+          <NODE1_ID>13572</NODE1_ID>
+          <NODE1_NAME>SevaPPICO</NODE1_NAME>
+          <NODE2_ID>8806</NODE2_ID>
+          <NODE2_NAME>SMCElMontpar</NODE2_NAME>
+          <KMS>4.352</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.250699,41.791873 2.223961,41.758191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10466">
+          <NODE1_ID>14324</NODE1_ID>
+          <NODE1_NAME>SevaPMARCARTUR</NODE1_NAME>
+          <NODE2_ID>7594</NODE2_ID>
+          <NODE2_NAME>CNTElectraGavarra</NODE2_NAME>
+          <KMS>1.785</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.246768,41.784507 2.227088,41.790945</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12191">
+          <NODE1_ID>16075</NODE1_ID>
+          <NODE1_NAME>SevaPQuicuPinos</NODE1_NAME>
+          <NODE2_ID>7594</NODE2_ID>
+          <NODE2_NAME>CNTElectraGavarra</NODE2_NAME>
+          <KMS>1.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.247762,41.787629 2.227088,41.790945</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19992">
+          <NODE1_ID>23967</NODE1_ID>
+          <NODE1_NAME>SevaPRari</NODE1_NAME>
+          <NODE2_ID>7602</NODE2_ID>
+          <NODE2_NAME>CNTTVCentelles</NODE2_NAME>
+          <KMS>4.551</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.244591,41.796104 2.199253,41.819090</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20460">
+          <NODE1_ID>25567</NODE1_ID>
+          <NODE1_NAME>SEVAPHabit</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>4.934</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.246691,41.782606 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26010">
+          <NODE1_ID>31448</NODE1_ID>
+          <NODE1_NAME>SevaBarneda</NODE1_NAME>
+          <NODE2_ID>15592</NODE2_ID>
+          <NODE2_NAME>BrullTorreGuaita</NODE2_NAME>
+          <KMS>2.99</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.245288,41.797416 2.279464,41.789018</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32730">
+          <NODE1_ID>31448</NODE1_ID>
+          <NODE1_NAME>SevaBarneda</NODE1_NAME>
+          <NODE2_ID>11483</NODE2_ID>
+          <NODE2_NAME>SMCCasetaGuaites</NODE2_NAME>
+          <KMS>6.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.245288,41.797416 2.242377,41.738297</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45613">
+          <NODE1_ID>7602</NODE1_ID>
+          <NODE1_NAME>CNTTVCentelles</NODE1_NAME>
+          <NODE2_ID>8759</NODE2_ID>
+          <NODE2_NAME>SevaEric</NODE2_NAME>
+          <KMS>4.981</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.199253,41.819090 2.251232,41.796764</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45934">
+          <NODE1_ID>48190</NODE1_ID>
+          <NODE1_NAME>SevaJoanMiro103</NODE1_NAME>
+          <NODE2_ID>6748</NODE2_ID>
+          <NODE2_NAME>CNTElectra</NODE2_NAME>
+          <KMS>1.846</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.247128,41.789041 2.224994,41.787738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50663">
+          <NODE1_ID>11460</NODE1_ID>
+          <NODE1_NAME>SevaPMikiPinos</NODE1_NAME>
+          <NODE2_ID>6748</NODE2_ID>
+          <NODE2_NAME>CNTElectra</NODE2_NAME>
+          <KMS>1.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.247478,41.787817 2.224994,41.787738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65626">
+          <NODE1_ID>21295</NODE1_ID>
+          <NODE1_NAME>SevaMaroya</NODE1_NAME>
+          <NODE2_ID>8806</NODE2_ID>
+          <NODE2_NAME>SMCElMontpar</NODE2_NAME>
+          <KMS>5.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.253002,41.798600 2.223961,41.758191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69054">
+          <NODE1_ID>6748</NODE1_ID>
+          <NODE1_NAME>CNTElectra</NODE1_NAME>
+          <NODE2_ID>14624</NODE2_ID>
+          <NODE2_NAME>SevaPAlbert</NODE2_NAME>
+          <KMS>1.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.224994,41.787738 2.246369,41.788014</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69796">
+          <NODE1_ID>18723</NODE1_ID>
+          <NODE1_NAME>SevaPMsalinas</NODE1_NAME>
+          <NODE2_ID>6748</NODE2_ID>
+          <NODE2_NAME>CNTElectra</NODE2_NAME>
+          <KMS>1.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.245250,41.788213 2.224994,41.787738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

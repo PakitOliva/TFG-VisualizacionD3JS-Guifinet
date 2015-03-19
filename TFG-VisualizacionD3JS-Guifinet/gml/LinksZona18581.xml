@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>42.231092</gml:Y></gml:coord>
+<gml:coord><gml:X>2.885149</gml:X><gml:Y>42.324839</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="19185">
+          <NODE1_ID>23961</NODE1_ID>
+          <NODE1_NAME>SLM-diposit</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.587</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.783103,42.321169 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19878">
+          <NODE1_ID>24848</NODE1_ID>
+          <NODE1_NAME>SLM-encontrella</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.782856,42.320657 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19880">
+          <NODE1_ID>24849</NODE1_ID>
+          <NODE1_NAME>SLM-Alzines_12</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.399</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780238,42.318269 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19881">
+          <NODE1_ID>24851</NODE1_ID>
+          <NODE1_NAME>SLM-pins_10</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779348,42.318365 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20232">
+          <NODE1_ID>24165</NODE1_ID>
+          <NODE1_NAME>SLM-Can_Mandra</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789696,42.319944 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20657">
+          <NODE1_ID>25782</NODE1_ID>
+          <NODE1_NAME>slm-albanya5</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.304</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.788961,42.322947 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20807">
+          <NODE1_ID>25948</NODE1_ID>
+          <NODE1_NAME>SLM-gure_txoko</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780335,42.319639 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20862">
+          <NODE1_ID>26017</NODE1_ID>
+          <NODE1_NAME>SLM-Pins14</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.439</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779766,42.318090 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20893">
+          <NODE1_ID>26041</NODE1_ID>
+          <NODE1_NAME>SLM-Resclosa1</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.559</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.782253,42.316180 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20895">
+          <NODE1_ID>26043</NODE1_ID>
+          <NODE1_NAME>SLM-Bernat5</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.551</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.778283,42.317732 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20938">
+          <NODE1_ID>26101</NODE1_ID>
+          <NODE1_NAME>SLM-Resclosa5</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.781381,42.315970 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21725">
+          <NODE1_ID>26928</NODE1_ID>
+          <NODE1_NAME>SLMTints</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789857,42.321024 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21756">
+          <NODE1_ID>26954</NODE1_ID>
+          <NODE1_NAME>SLM-Albanya3D</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789141,42.322685 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21884">
+          <NODE1_ID>27085</NODE1_ID>
+          <NODE1_NAME>SLM-C_Roura1</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.581</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.781665,42.316052 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21888">
+          <NODE1_ID>27089</NODE1_ID>
+          <NODE1_NAME>SLM-MoliPV</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789422,42.322034 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22086">
+          <NODE1_ID>27300</NODE1_ID>
+          <NODE1_NAME>SLM-C_Roures7</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779058,42.318434 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22622">
+          <NODE1_ID>23962</NODE1_ID>
+          <NODE1_NAME>SLM-Ajuntament</NODE1_NAME>
+          <NODE2_ID>27851</NODE2_ID>
+          <NODE2_NAME>SLM-Can_pep</NODE2_NAME>
+          <KMS>0.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.790138,42.320357 2.786166,42.320182</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22769">
+          <NODE1_ID>27977</NODE1_ID>
+          <NODE1_NAME>SLM-Jimi</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789876,42.320518 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23858">
+          <NODE1_ID>29046</NODE1_ID>
+          <NODE1_NAME>SLM-Casal</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.322</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.786247,42.320146 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23940">
+          <NODE1_ID>29155</NODE1_ID>
+          <NODE1_NAME>SLM-CanRosa</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.788682,42.319627 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24995">
+          <NODE1_ID>30269</NODE1_ID>
+          <NODE1_NAME>SLM-CanCreus</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789508,42.321554 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25662">
+          <NODE1_ID>23962</NODE1_ID>
+          <NODE1_NAME>SLM-Ajuntament</NODE1_NAME>
+          <NODE2_ID>30991</NODE2_ID>
+          <NODE2_NAME>SLM-Tiradors16</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.790138,42.320357 2.788014,42.320063</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25869">
+          <NODE1_ID>31216</NODE1_ID>
+          <NODE1_NAME>SLM-Can_Bech</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780163,42.320218 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26317">
+          <NODE1_ID>31708</NODE1_ID>
+          <NODE1_NAME>SLM-can_Prim</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789143,42.319927 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26440">
+          <NODE1_ID>31812</NODE1_ID>
+          <NODE1_NAME>SLM-Resclosa6</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.628</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780496,42.315858 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26500">
+          <NODE1_ID>31858</NODE1_ID>
+          <NODE1_NAME>SLM-Resclosa9</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.780877,42.315959 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28181">
+          <NODE1_ID>33522</NODE1_ID>
+          <NODE1_NAME>SLM-st_antoni6</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.553</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.778146,42.317809 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28683">
+          <NODE1_ID>33956</NODE1_ID>
+          <NODE1_NAME>SLM-Pont2</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.055</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.790026,42.320848 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28706">
+          <NODE1_ID>33982</NODE1_ID>
+          <NODE1_NAME>SLM-nou23</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789288,42.320364 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30241">
+          <NODE1_ID>35440</NODE1_ID>
+          <NODE1_NAME>SLM-Nou17</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789165,42.320208 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32878">
+          <NODE1_ID>37620</NODE1_ID>
+          <NODE1_NAME>SLM-St_Antoni2</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.778828,42.317836 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36970">
+          <NODE1_ID>41218</NODE1_ID>
+          <NODE1_NAME>slm-canbaig</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.788508,42.319540 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38435">
+          <NODE1_ID>42514</NODE1_ID>
+          <NODE1_NAME>slm-preses12</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.425</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.778833,42.319018 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39311">
+          <NODE1_ID>43174</NODE1_ID>
+          <NODE1_NAME>slm-st_jordi14</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.275</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.787684,42.322040 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40717">
+          <NODE1_ID>44187</NODE1_ID>
+          <NODE1_NAME>SLM-CaLaSorda</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789208,42.320312 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41726">
+          <NODE1_ID>45075</NODE1_ID>
+          <NODE1_NAME>slm-CanProtesta</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.788210,42.319742 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48033">
+          <NODE1_ID>49836</NODE1_ID>
+          <NODE1_NAME>slm-Can_Vilanova</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.788000,42.322421 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51613">
+          <NODE1_ID>52502</NODE1_ID>
+          <NODE1_NAME>slm-freixes4</NODE1_NAME>
+          <NODE2_ID>23961</NODE2_ID>
+          <NODE2_NAME>SLM-diposit</NODE2_NAME>
+          <KMS>0.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.779983,42.319093 2.783103,42.321169</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63270">
+          <NODE1_ID>60763</NODE1_ID>
+          <NODE1_NAME>slm-Albanya5_3</NODE1_NAME>
+          <NODE2_ID>23962</NODE2_ID>
+          <NODE2_NAME>SLM-Ajuntament</NODE2_NAME>
+          <KMS>0.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789004,42.322973 2.790138,42.320357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78076">
+          <NODE1_ID>64805</NODE1_ID>
+          <NODE1_NAME>SLM-CanCortada</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>8.282</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.752775,42.324839 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78085">
+          <NODE1_ID>64805</NODE1_ID>
+          <NODE1_NAME>SLM-CanCortada</NODE1_NAME>
+          <NODE2_ID>30733</NODE2_ID>
+          <NODE2_NAME>OrdisAeroclub</NODE2_NAME>
+          <KMS>15.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.752775,42.324839 2.885149,42.231092</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

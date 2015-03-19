@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.471236</gml:X><gml:Y>41.254272</gml:Y></gml:coord>
+<gml:coord><gml:X>1.624531</gml:X><gml:Y>41.300357</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="72444">
+          <NODE1_ID>64418</NODE1_ID>
+          <NODE1_NAME>ARB-Biblioteca</NODE1_NAME>
+          <NODE2_ID>62713</NODE2_ID>
+          <NODE2_NAME>BdP-Localjoves</NODE2_NAME>
+          <KMS>2.007</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.599247,41.268248 1.581093,41.280039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72548">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>66460</NODE2_ID>
+          <NODE2_NAME>ARB-CampJoliu</NODE2_NAME>
+          <KMS>3.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.616632,41.290176</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73519">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>62716</NODE2_ID>
+          <NODE2_NAME>BdP-ColegiPublic</NODE2_NAME>
+          <KMS>0.427</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.581441,41.276204</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73523">
+          <NODE1_ID>62716</NODE1_ID>
+          <NODE1_NAME>BdP-ColegiPublic</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>2.313</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581441,41.276204 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74218">
+          <NODE1_ID>69359</NODE1_ID>
+          <NODE1_NAME>Bdp-ElisendaG</NODE1_NAME>
+          <NODE2_ID>62713</NODE2_ID>
+          <NODE2_NAME>BdP-Localjoves</NODE2_NAME>
+          <KMS>0.241</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.583842,41.279413 1.581093,41.280039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74271">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>20137</NODE2_ID>
+          <NODE2_NAME>CG-CanFelip</NODE2_NAME>
+          <KMS>2.695</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.605833,41.295556</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75304">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>68890</NODE2_ID>
+          <NODE2_NAME>Bany-ElisabethF</NODE2_NAME>
+          <KMS>0.19</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.582110,41.278507</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75466">
+          <NODE1_ID>70311</NODE1_ID>
+          <NODE1_NAME>Bdp-SergiBaila</NODE1_NAME>
+          <NODE2_ID>62716</NODE2_ID>
+          <NODE2_NAME>BdP-ColegiPublic</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.580328,41.275639 1.581441,41.276204</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75631">
+          <NODE1_ID>70455</NODE1_ID>
+          <NODE1_NAME>Bdp-LidiaBonet</NODE1_NAME>
+          <NODE2_ID>62716</NODE2_ID>
+          <NODE2_NAME>BdP-ColegiPublic</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.580439,41.276310 1.581441,41.276204</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77465">
+          <NODE1_ID>71938</NODE1_ID>
+          <NODE1_NAME>Bdp-LourdesM</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>1.312</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.567040,41.277852 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77500">
+          <NODE1_ID>71937</NODE1_ID>
+          <NODE1_NAME>SJ-GallSalvatge27</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>3.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.519917,41.290443 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78078">
+          <NODE1_ID>72924</NODE1_ID>
+          <NODE1_NAME>LB-MMunicipal</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>2.952</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.519729,41.270026 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78201">
+          <NODE1_ID>73027</NODE1_ID>
+          <NODE1_NAME>SJ-RobertoB</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>3.924</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.522095,41.295522 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78579">
+          <NODE1_ID>62712</NODE1_ID>
+          <NODE1_NAME>BdP-CCErnestLluch</NODE1_NAME>
+          <NODE2_ID>62710</NODE2_ID>
+          <NODE2_NAME>BdP-Ajuntament</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.580776,41.278740 1.580816,41.279354</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78636">
+          <NODE1_ID>73343</NODE1_ID>
+          <NODE1_NAME>Bdp-JosepBenach</NODE1_NAME>
+          <NODE2_ID>62713</NODE2_ID>
+          <NODE2_NAME>BdP-Localjoves</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581052,41.280541 1.581093,41.280039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78679">
+          <NODE1_ID>68861</NODE1_ID>
+          <NODE1_NAME>BdP-Nutripack</NODE1_NAME>
+          <NODE2_ID>73377</NODE2_ID>
+          <NODE2_NAME>Bdp-MVictoriaG</NODE2_NAME>
+          <KMS>2.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554953,41.270337 1.579031,41.275612</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78836">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>62710</NODE2_ID>
+          <NODE2_NAME>BdP-Ajuntament</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.580816,41.279354</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80092">
+          <NODE1_ID>74606</NODE1_ID>
+          <NODE1_NAME>Bdp-ToniG</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>2.013</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.576680,41.278070 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80213">
+          <NODE1_ID>74662</NODE1_ID>
+          <NODE1_NAME>Bdp-RafaelS</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.558877,41.270944 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80296">
+          <NODE1_ID>68861</NODE1_ID>
+          <NODE1_NAME>BdP-Nutripack</NODE1_NAME>
+          <NODE2_ID>23477</NODE2_ID>
+          <NODE2_NAME>LB-DElPriorat</NODE2_NAME>
+          <KMS>7.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554953,41.270337 1.471236,41.289444</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80398">
+          <NODE1_ID>74769</NODE1_ID>
+          <NODE1_NAME>Bdp-JaimeBP</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.346</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.559050,41.270700 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80415">
+          <NODE1_ID>68861</NODE1_ID>
+          <NODE1_NAME>BdP-Nutripack</NODE1_NAME>
+          <NODE2_ID>74704</NODE2_ID>
+          <NODE2_NAME>BdP-ManelMir</NODE2_NAME>
+          <KMS>1.973</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554953,41.270337 1.576234,41.277941</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80434">
+          <NODE1_ID>74704</NODE1_ID>
+          <NODE1_NAME>BdP-ManelMir</NODE1_NAME>
+          <NODE2_ID>23298</NODE2_ID>
+          <NODE2_NAME>SJ-Papagai</NODE2_NAME>
+          <KMS>5.389</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.576234,41.277941 1.517787,41.298214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80537">
+          <NODE1_ID>74704</NODE1_ID>
+          <NODE1_NAME>BdP-ManelMir</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>1.973</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.576234,41.277941 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80591">
+          <NODE1_ID>64764</NODE1_ID>
+          <NODE1_NAME>LLP-ConstantinI</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>1.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.540401,41.280098 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80707">
+          <NODE1_ID>68861</NODE1_ID>
+          <NODE1_NAME>BdP-Nutripack</NODE1_NAME>
+          <NODE2_ID>74980</NODE2_ID>
+          <NODE2_NAME>Bdp-PrudencioRM</NODE2_NAME>
+          <KMS>0.367</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554953,41.270337 1.559329,41.270233</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80871">
+          <NODE1_ID>75084</NODE1_ID>
+          <NODE1_NAME>Bdp-NicholasFM</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.615</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.550510,41.274740 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80907">
+          <NODE1_ID>64419</NODE1_ID>
+          <NODE1_NAME>ARB-Diposit</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>6.098</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.624531,41.254272 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80908">
+          <NODE1_ID>68861</NODE1_ID>
+          <NODE1_NAME>BdP-Nutripack</NODE1_NAME>
+          <NODE2_ID>64419</NODE2_ID>
+          <NODE2_NAME>ARB-Diposit</NODE2_NAME>
+          <KMS>6.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554953,41.270337 1.624531,41.254272</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80919">
+          <NODE1_ID>62720</NODE1_ID>
+          <NODE1_NAME>BdP-CCSantMiquel</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.559530,41.270119 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80920">
+          <NODE1_ID>62722</NODE1_ID>
+          <NODE1_NAME>BdP-CCPriorat</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.547356,41.272056 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81087">
+          <NODE1_ID>75255</NODE1_ID>
+          <NODE1_NAME>BdP-GCata</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>1.473</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.537376,41.270521 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81088">
+          <NODE1_ID>75256</NODE1_ID>
+          <NODE1_NAME>BdP-Oficines</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554500,41.269924 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81089">
+          <NODE1_ID>62714</NODE1_ID>
+          <NODE1_NAME>BdP-MuseuCanas</NODE1_NAME>
+          <NODE2_ID>32538</NODE2_ID>
+          <NODE2_NAME>SJ-CampF</NODE2_NAME>
+          <KMS>2.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.579242,41.281501 1.560289,41.296230</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81090">
+          <NODE1_ID>62718</NODE1_ID>
+          <NODE1_NAME>BdP-Consultori</NODE1_NAME>
+          <NODE2_ID>62713</NODE2_ID>
+          <NODE2_NAME>BdP-Localjoves</NODE2_NAME>
+          <KMS>0.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.582608,41.279725 1.581093,41.280039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81091">
+          <NODE1_ID>62715</NODE1_ID>
+          <NODE1_NAME>BdP-EscolaBressol</NODE1_NAME>
+          <NODE2_ID>62716</NODE2_ID>
+          <NODE2_NAME>BdP-ColegiPublic</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.580497,41.275940 1.581441,41.276204</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81094">
+          <NODE1_ID>62717</NODE1_ID>
+          <NODE1_NAME>BdP-HotelEntitats</NODE1_NAME>
+          <NODE2_ID>64554</NODE2_ID>
+          <NODE2_NAME>ARB-CasaCultura</NODE2_NAME>
+          <KMS>2.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.583099,41.280465 1.603548,41.267505</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81118">
+          <NODE1_ID>75272</NODE1_ID>
+          <NODE1_NAME>Bdp-RamiroBH</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>1.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.565902,41.276036 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121457">
+          <NODE1_ID>75739</NODE1_ID>
+          <NODE1_NAME>Bdp-MontsePT</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.965</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.563450,41.276197 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121560">
+          <NODE1_ID>62721</NODE1_ID>
+          <NODE1_NAME>BdP-CCSaifores</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>0.803</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.550628,41.263881 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121644">
+          <NODE1_ID>58974</NODE1_ID>
+          <NODE1_NAME>LB-JuanCarvajal</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>3.824</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.518407,41.290964 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122091">
+          <NODE1_ID>76195</NODE1_ID>
+          <NODE1_NAME>Bdp-AraceliML</NODE1_NAME>
+          <NODE2_ID>62713</NODE2_ID>
+          <NODE2_NAME>BdP-Localjoves</NODE2_NAME>
+          <KMS>0.248</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.582877,41.278257 1.581093,41.280039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122508">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>19289</NODE2_ID>
+          <NODE2_NAME>SJ-CanJBasseda</NODE2_NAME>
+          <KMS>2.461</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.569370,41.300357</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122753">
+          <NODE1_ID>76657</NODE1_ID>
+          <NODE1_NAME>Bdp-AuroraRM</NODE1_NAME>
+          <NODE2_ID>62713</NODE2_ID>
+          <NODE2_NAME>BdP-Localjoves</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581910,41.280330 1.581093,41.280039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122999">
+          <NODE1_ID>70336</NODE1_ID>
+          <NODE1_NAME>Bdp-ElisabethBo</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>2.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578783,41.280787 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123092">
+          <NODE1_ID>62713</NODE1_ID>
+          <NODE1_NAME>BdP-Localjoves</NODE1_NAME>
+          <NODE2_ID>76938</NODE2_ID>
+          <NODE2_NAME>Bdp-FranciscaMS</NODE2_NAME>
+          <KMS>0.389</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.581093,41.280039 1.583090,41.276880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

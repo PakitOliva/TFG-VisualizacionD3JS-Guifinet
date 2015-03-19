@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.484717</gml:X><gml:Y>40.861538</gml:Y></gml:coord>
+<gml:coord><gml:X>0.513210</gml:X><gml:Y>40.914871</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="70641">
+          <NODE1_ID>66291</NODE1_ID>
+          <NODE1_NAME>XertaCampanar</NODE1_NAME>
+          <NODE2_ID>49427</NODE2_ID>
+          <NODE2_NAME>AldoverRoig</NODE2_NAME>
+          <KMS>5.098</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490793,40.906250 0.504491,40.861538</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70673">
+          <NODE1_ID>49427</NODE1_ID>
+          <NODE1_NAME>AldoverRoig</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>5.098</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.504491,40.861538 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70732">
+          <NODE1_ID>66084</NODE1_ID>
+          <NODE1_NAME>TivenysPol14parc179N</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.868</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.489889,40.898463 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70797">
+          <NODE1_ID>66426</NODE1_ID>
+          <NODE1_NAME>XertaMajor5DGM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491504,40.906586 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70824">
+          <NODE1_ID>66446</NODE1_ID>
+          <NODE1_NAME>TivenysPtaPlaneja15</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.882</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.513034,40.904667 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70825">
+          <NODE1_ID>66447</NODE1_ID>
+          <NODE1_NAME>TivenysPtaPlaneja13</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.876</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512871,40.904057 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70966">
+          <NODE1_ID>66427</NODE1_ID>
+          <NODE1_NAME>AldoverCampanarDGM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>3.05</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.500068,40.879701 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71097">
+          <NODE1_ID>66647</NODE1_ID>
+          <NODE1_NAME>XertaCamiMonPlan394</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.611</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.485335,40.909875 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71203">
+          <NODE1_ID>63493</NODE1_ID>
+          <NODE1_NAME>TivenysT301SN_STB_TD</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.647</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.500807,40.893518 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71361">
+          <NODE1_ID>66773</NODE1_ID>
+          <NODE1_NAME>XertaCalStJoan3DGM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490034,40.906565 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71940">
+          <NODE1_ID>67360</NODE1_ID>
+          <NODE1_NAME>XertaMajor91ABC</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.353</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491231,40.909408 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72000">
+          <NODE1_ID>66291</NODE1_ID>
+          <NODE1_NAME>XertaCampanar</NODE1_NAME>
+          <NODE2_ID>67413</NODE2_ID>
+          <NODE2_NAME>TivenysValleta27TD</NODE2_NAME>
+          <KMS>1.893</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490793,40.906250 0.513210,40.907360</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72552">
+          <NODE1_ID>67860</NODE1_ID>
+          <NODE1_NAME>XertaBonsAires16ABC</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490061,40.905878 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72573">
+          <NODE1_ID>67875</NODE1_ID>
+          <NODE1_NAME>TivenysSantMiquelABC</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.809</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.512152,40.907954 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72621">
+          <NODE1_ID>67845</NODE1_ID>
+          <NODE1_NAME>AldoverComportaCanal</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.366</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.489499,40.893991 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72985">
+          <NODE1_ID>68300</NODE1_ID>
+          <NODE1_NAME>XertaCamiAlfaraTD</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>1.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.484717,40.897623 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73462">
+          <NODE1_ID>68829</NODE1_ID>
+          <NODE1_NAME>XertaCarrerNou1DGM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490584,40.905304 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73934">
+          <NODE1_ID>69072</NODE1_ID>
+          <NODE1_NAME>EngXertaNV</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.716</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.498870,40.908260 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75254">
+          <NODE1_ID>69990</NODE1_ID>
+          <NODE1_NAME>BarXimoXertaNV</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490752,40.906566 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78362">
+          <NODE1_ID>73130</NODE1_ID>
+          <NODE1_NAME>XertaAforesSN</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.705</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.487262,40.912010 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78893">
+          <NODE1_ID>66291</NODE1_ID>
+          <NODE1_NAME>XertaCampanar</NODE1_NAME>
+          <NODE2_ID>73540</NODE2_ID>
+          <NODE2_NAME>XertaDiseminatsDGM</NODE2_NAME>
+          <KMS>0.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.490793,40.906250 0.489663,40.911867</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80237">
+          <NODE1_ID>74426</NODE1_ID>
+          <NODE1_NAME>LluisXertaNV</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.962</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.489643,40.914871 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80421">
+          <NODE1_ID>74783</NODE1_ID>
+          <NODE1_NAME>XertaAbadia10AQM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491197,40.906180 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122079">
+          <NODE1_ID>76184</NODE1_ID>
+          <NODE1_NAME>XertaSevilla11DGM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.236</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.493585,40.906456 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122173">
+          <NODE1_ID>76238</NODE1_ID>
+          <NODE1_NAME>ABascunaXertaNV</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491301,40.906854 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122699">
+          <NODE1_ID>76607</NODE1_ID>
+          <NODE1_NAME>XertaMajor43IRM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491861,40.906553 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122858">
+          <NODE1_ID>76741</NODE1_ID>
+          <NODE1_NAME>XertaPol19Par16IRM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.497320,40.913696 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123178">
+          <NODE1_ID>77017</NODE1_ID>
+          <NODE1_NAME>XertaPavelloPortal</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.493325,40.909262 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123450">
+          <NODE1_ID>77158</NODE1_ID>
+          <NODE1_NAME>XertaAbadia8GNM</NODE1_NAME>
+          <NODE2_ID>66291</NODE2_ID>
+          <NODE2_NAME>XertaCampanar</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.491143,40.906164 0.490793,40.906250</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

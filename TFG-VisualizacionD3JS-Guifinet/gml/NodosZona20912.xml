@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.342773</gml:X><gml:Y>41.512995</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.366465</gml:X><gml:Y>41.527065</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="20917">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.359272,41.519684</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20917</NODE_ID>
+      <NODE_NAME>ParabolicVD</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53730">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.365064,41.512995</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53730</NODE_ID>
+      <NODE_NAME>VDD-RieraDeTarga</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63643">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.366465,41.516407</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63643</NODE_ID>
+      <NODE_NAME>VDD-JVFoix</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64110">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.342773,41.527065</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64110</NODE_ID>
+      <NODE_NAME>VDD-LaCreu</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.809217</gml:X><gml:Y>42.113447</gml:Y></gml:coord>
+<gml:coord><gml:X>3.243640</gml:X><gml:Y>42.292592</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="26860">
+          <NODE1_ID>27309</NODE1_ID>
+          <NODE1_NAME>Llado-Pujol</NODE1_NAME>
+          <NODE2_ID>32190</NODE2_ID>
+          <NODE2_NAME>EscMarina</NODE2_NAME>
+          <KMS>31.006</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.809217,42.253799 3.137605,42.118611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38923">
+          <NODE1_ID>41621</NODE1_ID>
+          <NODE1_NAME>StMdE-Antoon</NODE1_NAME>
+          <NODE2_ID>42862</NODE2_ID>
+          <NODE2_NAME>StMdE-Balsa4</NODE2_NAME>
+          <KMS>0.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114660,42.142602 3.114805,42.142935</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39453">
+          <NODE1_ID>43287</NODE1_ID>
+          <NODE1_NAME>StMdE-Balsa14</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115525,42.141586 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41540">
+          <NODE1_ID>44911</NODE1_ID>
+          <NODE1_NAME>StMdE-Baladre9</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.368</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115120,42.139309 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43462">
+          <NODE1_ID>46443</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes17</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.024</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114383,42.142664 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43851">
+          <NODE1_ID>46694</NODE1_ID>
+          <NODE1_NAME>EscSantpere</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>18.977</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.134902,42.125017 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44253">
+          <NODE1_ID>47009</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes21</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113970,42.142310 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45818">
+          <NODE1_ID>48141</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes9</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115375,42.143574 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47029">
+          <NODE1_ID>49076</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes12</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114916,42.143511 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47032">
+          <NODE1_ID>49067</NODE1_ID>
+          <NODE1_NAME>StMdE-Llagut12</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114575,42.141660 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50505">
+          <NODE1_ID>51688</NODE1_ID>
+          <NODE1_NAME>StMdE-Ullal7</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.471</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113742,42.138418 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58119">
+          <NODE1_ID>57111</NODE1_ID>
+          <NODE1_NAME>StMdE-Llagut-sn</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.185</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115037,42.140957 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60279">
+          <NODE1_ID>58619</NODE1_ID>
+          <NODE1_NAME>StMdE-Balsa3</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115060,42.143163 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61006">
+          <NODE1_ID>41621</NODE1_ID>
+          <NODE1_NAME>StMdE-Antoon</NODE1_NAME>
+          <NODE2_ID>21734</NODE2_ID>
+          <NODE2_NAME>VenQuintana</NODE2_NAME>
+          <KMS>4.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114660,42.142602 3.065459,42.142521</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63114">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>18.677</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64311">
+          <NODE1_ID>61514</NODE1_ID>
+          <NODE1_NAME>StmdE-delafont23</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114193,42.141767 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66047">
+          <NODE1_ID>62897</NODE1_ID>
+          <NODE1_NAME>StmdE-Dunes19</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114167,42.142480 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66760">
+          <NODE1_ID>63371</NODE1_ID>
+          <NODE1_NAME>StMdE-Tamariu9-5</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115178,42.143251 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66762">
+          <NODE1_ID>63372</NODE1_ID>
+          <NODE1_NAME>StMdE-Anfora2</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113813,42.142544 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66776">
+          <NODE1_ID>63373</NODE1_ID>
+          <NODE1_NAME>StMdE-Anfora9</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113823,42.142550 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68465">
+          <NODE1_ID>63628</NODE1_ID>
+          <NODE1_NAME>PSEBarriPalau</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>12.635</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.969264,42.177764 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71870">
+          <NODE1_ID>67292</NODE1_ID>
+          <NODE1_NAME>StMdELLagut7A</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115284,42.141749 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71871">
+          <NODE1_ID>67295</NODE1_ID>
+          <NODE1_NAME>StMdELLagut7B</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115155,42.141636 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72679">
+          <NODE1_ID>41621</NODE1_ID>
+          <NODE1_NAME>StMdE-Antoon</NODE1_NAME>
+          <NODE2_ID>67960</NODE2_ID>
+          <NODE2_NAME>StMdE-delafont13</NODE2_NAME>
+          <KMS>0.049</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114660,42.142602 3.114997,42.142243</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74030">
+          <NODE1_ID>69283</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes12-4</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114904,42.143556 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74333">
+          <NODE1_ID>41621</NODE1_ID>
+          <NODE1_NAME>StMdE-Antoon</NODE1_NAME>
+          <NODE2_ID>12177</NODE2_ID>
+          <NODE2_NAME>GarrigasDip</NODE2_NAME>
+          <KMS>14.292</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114660,42.142602 2.954459,42.191088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74334">
+          <NODE1_ID>41621</NODE1_ID>
+          <NODE1_NAME>StMdE-Antoon</NODE1_NAME>
+          <NODE2_ID>12177</NODE2_ID>
+          <NODE2_NAME>GarrigasDip</NODE2_NAME>
+          <KMS>14.292</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114660,42.142602 2.954459,42.191088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74348">
+          <NODE1_ID>69482</NODE1_ID>
+          <NODE1_NAME>StMdE-delafont20</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114102,42.142097 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76258">
+          <NODE1_ID>49182</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes24</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113444,42.142282 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76260">
+          <NODE1_ID>56289</NODE1_ID>
+          <NODE1_NAME>StmdE-Tamariu9-1</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115295,42.143207 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76289">
+          <NODE1_ID>50243</NODE1_ID>
+          <NODE1_NAME>PelacalLuis</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>3.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.071134,42.144892 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76380">
+          <NODE1_ID>51680</NODE1_ID>
+          <NODE1_NAME>StMdE-Tamariu9-6</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115211,42.143214 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76381">
+          <NODE1_ID>55489</NODE1_ID>
+          <NODE1_NAME>StMdE-Dunes22Anfora1</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113806,42.142536 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76620">
+          <NODE1_ID>47081</NODE1_ID>
+          <NODE1_NAME>StMdE-Gerard</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115316,42.142906 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76622">
+          <NODE1_ID>46960</NODE1_ID>
+          <NODE1_NAME>StMdE-Monica</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115576,42.143012 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76624">
+          <NODE1_ID>67291</NODE1_ID>
+          <NODE1_NAME>StmdE-Llagut1</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.115501,42.141866 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76924">
+          <NODE1_ID>29500</NODE1_ID>
+          <NODE1_NAME>SPPmmsfrrr</NODE1_NAME>
+          <NODE2_ID>70709</NODE2_ID>
+          <NODE2_NAME>Esc-illamateua</NODE2_NAME>
+          <KMS>10.3</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.091819,42.185222 3.170715,42.113447</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

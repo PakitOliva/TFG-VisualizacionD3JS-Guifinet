@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.328490</gml:X><gml:Y>41.892390</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.391538</gml:X><gml:Y>41.913432</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="6903">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.381455,41.903228</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>6903</NODE_ID>
+      <NODE_NAME>SSOAjuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="18250">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.357211,41.892390</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18250</NODE_ID>
+      <NODE_NAME>SSOLaFullaca</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="23655">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.391538,41.912949</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>23655</NODE_ID>
+      <NODE_NAME>Bojons</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28720">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.385621,41.909578</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28720</NODE_ID>
+      <NODE_NAME>SSOCastellot</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="28721">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.387102,41.908467</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>28721</NODE_ID>
+      <NODE_NAME>SSOCastellotAP</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31480">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.328490,41.913432</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31480</NODE_ID>
+      <NODE_NAME>VDP-Augusto</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62749">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.359015,41.904079</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62749</NODE_ID>
+      <NODE_NAME>SSOViladelPrat</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

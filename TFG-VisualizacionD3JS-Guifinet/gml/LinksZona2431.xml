@@ -1,0 +1,3012 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.827357</gml:X><gml:Y>41.271732</gml:Y></gml:coord>
+<gml:coord><gml:X>2.160519</gml:X><gml:Y>41.574704</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="5403">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>7745</NODE2_ID>
+          <NODE2_NAME>SFLLAjuntament</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.045024,41.380825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6124">
+          <NODE1_ID>4721</NODE1_ID>
+          <NODE1_NAME>SFLLBezerik</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.58</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.052872,41.380821 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7264">
+          <NODE1_ID>10325</NODE1_ID>
+          <NODE1_NAME>SantJustWalden12</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>1.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067504,41.380362 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="7778">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>6959</NODE2_ID>
+          <NODE2_NAME>SFLLDavid</NODE2_NAME>
+          <KMS>0.186</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.044290,41.379840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12125">
+          <NODE1_ID>16006</NODE1_ID>
+          <NODE1_NAME>SFLLCarme</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.819</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.054295,41.384798 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13440">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>16000</NODE2_ID>
+          <NODE2_NAME>SFLLBernat</NODE2_NAME>
+          <KMS>0.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.044396,41.381209</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13547">
+          <NODE1_ID>13464</NODE1_ID>
+          <NODE1_NAME>SFLLalf</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.044021,41.383538 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16186">
+          <NODE1_ID>20065</NODE1_ID>
+          <NODE1_NAME>SFLLdiegonode</NODE1_NAME>
+          <NODE2_ID>17726</NODE2_ID>
+          <NODE2_NAME>SFLLTorredelRoser</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.048363,41.381470 2.049245,41.382947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16374">
+          <NODE1_ID>20773</NODE1_ID>
+          <NODE1_NAME>SJuDxemeneia</NODE1_NAME>
+          <NODE2_ID>20776</NODE2_ID>
+          <NODE2_NAME>SJuDataneu</NODE2_NAME>
+          <KMS>0.733</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067967,41.380985 2.076679,41.381734</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16631">
+          <NODE1_ID>19355</NODE1_ID>
+          <NODE1_NAME>SBoiDLCope15</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030824,41.355612 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17235">
+          <NODE1_ID>14717</NODE1_ID>
+          <NODE1_NAME>CBLLGregal10</NODE1_NAME>
+          <NODE2_ID>15274</NODE2_ID>
+          <NODE2_NAME>HW-Badalona</NODE2_NAME>
+          <KMS>20.096</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901552,41.431488 2.123333,41.361823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17365">
+          <NODE1_ID>15575</NODE1_ID>
+          <NODE1_NAME>Diposits</NODE1_NAME>
+          <NODE2_ID>14717</NODE2_ID>
+          <NODE2_NAME>CBLLGregal10</NODE2_NAME>
+          <KMS>9.963</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.827357,41.501716 1.901552,41.431488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17867">
+          <NODE1_ID>20801</NODE1_ID>
+          <NODE1_NAME>BLLSESAVDABrepos34</NODE1_NAME>
+          <NODE2_ID>15579</NODE2_ID>
+          <NODE2_NAME>BegudaEscolaBressol</NODE2_NAME>
+          <KMS>3.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.873925,41.491695 1.837957,41.499024</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19670">
+          <NODE1_ID>24576</NODE1_ID>
+          <NODE1_NAME>SFLLLlorencMarti5</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.369</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.048929,41.383400 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21176">
+          <NODE1_ID>26116</NODE1_ID>
+          <NODE1_NAME>SFLLEva</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042792,41.378835 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21343">
+          <NODE1_ID>26354</NODE1_ID>
+          <NODE1_NAME>SFLLAlbert</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.424</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.044112,41.384526 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21614">
+          <NODE1_ID>20773</NODE1_ID>
+          <NODE1_NAME>SJuDxemeneia</NODE1_NAME>
+          <NODE2_ID>26801</NODE2_ID>
+          <NODE2_NAME>SJuDVagoneta</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.067967,41.380985 2.068572,41.380430</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21846">
+          <NODE1_ID>26568</NODE1_ID>
+          <NODE1_NAME>SBoiDLAntPjds12</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.039116,41.348957 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22043">
+          <NODE1_ID>14654</NODE1_ID>
+          <NODE1_NAME>CDVRadioClub</NODE1_NAME>
+          <NODE2_ID>14717</NODE2_ID>
+          <NODE2_NAME>CBLLGregal10</NODE2_NAME>
+          <KMS>20.976</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.140950,41.488386 1.901552,41.431488</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22413">
+          <NODE1_ID>25109</NODE1_ID>
+          <NODE1_NAME>SFLLPereAlvarez40</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042970,41.383947 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22623">
+          <NODE1_ID>27848</NODE1_ID>
+          <NODE1_NAME>SFLLCarlos</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.044342,41.381173 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23353">
+          <NODE1_ID>28006</NODE1_ID>
+          <NODE1_NAME>CBLLPuigmontmany</NODE1_NAME>
+          <NODE2_ID>28313</NODE2_ID>
+          <NODE2_NAME>CBLLMoixero20</NODE2_NAME>
+          <KMS>3.127</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.939862,41.410663 1.911103,41.428662</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24651">
+          <NODE1_ID>29953</NODE1_ID>
+          <NODE1_NAME>Molins1</NODE1_NAME>
+          <NODE2_ID>17726</NODE2_ID>
+          <NODE2_NAME>SFLLTorredelRoser</NODE2_NAME>
+          <KMS>4.499</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.015337,41.414398 2.049245,41.382947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24721">
+          <NODE1_ID>29225</NODE1_ID>
+          <NODE1_NAME>SBoiDLPompeuFabra</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>4.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.041322,41.344928 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24723">
+          <NODE1_ID>30045</NODE1_ID>
+          <NODE1_NAME>SFLLGirona1</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.051064,41.382497 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25373">
+          <NODE1_ID>30625</NODE1_ID>
+          <NODE1_NAME>TDLAjuntament</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981098,41.359049 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25379">
+          <NODE1_ID>30649</NODE1_ID>
+          <NODE1_NAME>TDLLCementiri</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.117</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.968580,41.359795 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25419">
+          <NODE1_ID>30650</NODE1_ID>
+          <NODE1_NAME>TDLCanColl</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.354</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976190,41.355286 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25713">
+          <NODE1_ID>22665</NODE1_ID>
+          <NODE1_NAME>TDLginesta32</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>1.506</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976415,41.341724 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25930">
+          <NODE1_ID>17726</NODE1_ID>
+          <NODE1_NAME>SFLLTorredelRoser</NODE1_NAME>
+          <NODE2_ID>29860</NODE2_ID>
+          <NODE2_NAME>scdcOriolMartorell2</NODE2_NAME>
+          <KMS>2.792</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.049245,41.382947 2.020654,41.369972</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26126">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>30900</NODE2_ID>
+          <NODE2_NAME>SFLLAlfRSF</NODE2_NAME>
+          <KMS>0.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.050350,41.379397</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26286">
+          <NODE1_ID>31536</NODE1_ID>
+          <NODE1_NAME>TDLolivereta6</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.459</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.974851,41.355816 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26613">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>31535</NODE2_ID>
+          <NODE2_NAME>TDLmajor26</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.980878,41.357486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26639">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>31736</NODE2_ID>
+          <NODE2_NAME>TDLmajor18</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.980878,41.357811</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26695">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>31976</NODE2_ID>
+          <NODE2_NAME>TDLolivereta8</NODE2_NAME>
+          <KMS>1.479</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.974948,41.356057</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26720">
+          <NODE1_ID>30649</NODE1_ID>
+          <NODE1_NAME>TDLLCementiri</NODE1_NAME>
+          <NODE2_ID>32036</NODE2_ID>
+          <NODE2_NAME>TDLTerceraAv22</NODE2_NAME>
+          <KMS>1.04</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.968580,41.359795 1.958961,41.353865</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26951">
+          <NODE1_ID>32275</NODE1_ID>
+          <NODE1_NAME>TDLRafelCasanoves40</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.251</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980243,41.357065 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27228">
+          <NODE1_ID>15998</NODE1_ID>
+          <NODE1_NAME>SFLLQuim</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.501</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.051816,41.380120 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27256">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.652</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27257">
+          <NODE1_ID>31847</NODE1_ID>
+          <NODE1_NAME>TDLPuntOmina</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.285</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982305,41.356746 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27341">
+          <NODE1_ID>32693</NODE1_ID>
+          <NODE1_NAME>TDLFontBosquina10</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979151,41.350657 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27351">
+          <NODE1_ID>32184</NODE1_ID>
+          <NODE1_NAME>TDLplFronton3</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.285</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.995853,41.362844 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27380">
+          <NODE1_ID>31936</NODE1_ID>
+          <NODE1_NAME>TDLSantJosep14</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.943</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983258,41.361915 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27395">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>32001</NODE2_ID>
+          <NODE2_NAME>TDLfcoromines42</NODE2_NAME>
+          <KMS>1.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.978483,41.353425</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27396">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>32070</NODE2_ID>
+          <NODE2_NAME>TDLRavalMas8</NODE2_NAME>
+          <KMS>1.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.968795,41.354997</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27426">
+          <NODE1_ID>32347</NODE1_ID>
+          <NODE1_NAME>TDLmajor78</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977375,41.354816 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27464">
+          <NODE1_ID>32794</NODE1_ID>
+          <NODE1_NAME>TDLSantPau6b</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981452,41.357807 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27537">
+          <NODE1_ID>32889</NODE1_ID>
+          <NODE1_NAME>TDLmajor65</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.286</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980798,41.356644 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27546">
+          <NODE1_ID>32887</NODE1_ID>
+          <NODE1_NAME>TDLcarrer211</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.814</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.952782,41.354669 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27634">
+          <NODE1_ID>32995</NODE1_ID>
+          <NODE1_NAME>TDLSantMarti3</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981383,41.358372 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27672">
+          <NODE1_ID>32847</NODE1_ID>
+          <NODE1_NAME>TDLcarrer213</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.807</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.952989,41.354873 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27690">
+          <NODE1_ID>33040</NODE1_ID>
+          <NODE1_NAME>TDLfcoromines55</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976981,41.354053 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27752">
+          <NODE1_ID>33093</NODE1_ID>
+          <NODE1_NAME>TDLcarrer329</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.962352,41.353548 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27815">
+          <NODE1_ID>33158</NODE1_ID>
+          <NODE1_NAME>TDLCinquenaAv34b</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>3.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.949800,41.358524 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27848">
+          <NODE1_ID>33194</NODE1_ID>
+          <NODE1_NAME>TDLRavalMas34a</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.967320,41.355130 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27857">
+          <NODE1_ID>33205</NODE1_ID>
+          <NODE1_NAME>TDLSegonaAv23</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>0.948</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.959580,41.354608 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27899">
+          <NODE1_ID>33247</NODE1_ID>
+          <NODE1_NAME>TDLPrimeraAv13</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.365</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.953481,41.355138 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27925">
+          <NODE1_ID>30650</NODE1_ID>
+          <NODE1_NAME>TDLCanColl</NODE1_NAME>
+          <NODE2_ID>33279</NODE2_ID>
+          <NODE2_NAME>TDLSalzes13</NODE2_NAME>
+          <KMS>1.313</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976190,41.355286 1.973540,41.343630</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27933">
+          <NODE1_ID>33294</NODE1_ID>
+          <NODE1_NAME>TDLGinesta24</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>1.392</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.974504,41.342817 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28161">
+          <NODE1_ID>33491</NODE1_ID>
+          <NODE1_NAME>NodeSebastiaNet</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981447,41.356442 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28213">
+          <NODE1_ID>33515</NODE1_ID>
+          <NODE1_NAME>TDLFinestrelles6</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.971391,41.345760 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28239">
+          <NODE1_ID>33489</NODE1_ID>
+          <NODE1_NAME>TDLmajor95</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979540,41.355626 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28268">
+          <NODE1_ID>33594</NODE1_ID>
+          <NODE1_NAME>TDLMasGelat25</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.83</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.989679,41.363160 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28275">
+          <NODE1_ID>30649</NODE1_ID>
+          <NODE1_NAME>TDLLCementiri</NODE1_NAME>
+          <NODE2_ID>32921</NODE2_ID>
+          <NODE2_NAME>TDLPrimeraAv11</NODE2_NAME>
+          <KMS>1.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.968580,41.359795 1.953713,41.355080</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28429">
+          <NODE1_ID>33752</NODE1_ID>
+          <NODE1_NAME>TDLRavalRoig3</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983118,41.362521 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28441">
+          <NODE1_ID>33759</NODE1_ID>
+          <NODE1_NAME>TDLRavalJaner23</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.851</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982056,41.361051 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28458">
+          <NODE1_ID>33779</NODE1_ID>
+          <NODE1_NAME>TDLTerceraAv10</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>0.713</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.964085,41.354343 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28467">
+          <NODE1_ID>30649</NODE1_ID>
+          <NODE1_NAME>TDLLCementiri</NODE1_NAME>
+          <NODE2_ID>33785</NODE2_ID>
+          <NODE2_NAME>TDLSegonaAv43AE</NODE2_NAME>
+          <KMS>1.143</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.968580,41.359795 1.958174,41.353133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28474">
+          <NODE1_ID>29649</NODE1_ID>
+          <NODE1_NAME>Capmarti</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065709,41.353683 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28499">
+          <NODE1_ID>27237</NODE1_ID>
+          <NODE1_NAME>CBLLCanRafel</NODE1_NAME>
+          <NODE2_ID>33364</NODE2_ID>
+          <NODE2_NAME>CBLLMestral29</NODE2_NAME>
+          <KMS>3.469</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.932113,41.408540 1.902035,41.430054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28535">
+          <NODE1_ID>33767</NODE1_ID>
+          <NODE1_NAME>CalEstevet</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.332</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982169,41.356274 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28561">
+          <NODE1_ID>33850</NODE1_ID>
+          <NODE1_NAME>TDLfcoromines38</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979128,41.353338 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28571">
+          <NODE1_ID>33848</NODE1_ID>
+          <NODE1_NAME>TDLCinquenaAv40</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>3.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.949703,41.357937 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28799">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>34037</NODE2_ID>
+          <NODE2_NAME>TDLCanColl21</NODE2_NAME>
+          <KMS>1.314</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.977630,41.355385</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28862">
+          <NODE1_ID>34098</NODE1_ID>
+          <NODE1_NAME>TDLlaPlana2A</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981879,41.355122 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28900">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>34043</NODE2_ID>
+          <NODE2_NAME>SBDLSllnd</NODE2_NAME>
+          <KMS>3.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.034539,41.349992</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28912">
+          <NODE1_ID>34169</NODE1_ID>
+          <NODE1_NAME>TDLMajor78b</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977324,41.354738 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28999">
+          <NODE1_ID>34259</NODE1_ID>
+          <NODE1_NAME>TDLTorrent1</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.125</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.994088,41.362276 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29062">
+          <NODE1_ID>34143</NODE1_ID>
+          <NODE1_NAME>simo</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981208,41.359014 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29075">
+          <NODE1_ID>34413</NODE1_ID>
+          <NODE1_NAME>TDLRavalRoig2b</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.978</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982745,41.362220 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29090">
+          <NODE1_ID>33355</NODE1_ID>
+          <NODE1_NAME>CBLLMoixero27</NODE1_NAME>
+          <NODE2_ID>28006</NODE2_ID>
+          <NODE2_NAME>CBLLPuigmontmany</NODE2_NAME>
+          <KMS>3.17</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910736,41.428939 1.939862,41.410663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29096">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>33289</NODE2_ID>
+          <NODE2_NAME>TDLJoanXXIII15</NODE2_NAME>
+          <KMS>1.269</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.980055,41.355541</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29101">
+          <NODE1_ID>33354</NODE1_ID>
+          <NODE1_NAME>CBLLMoixero23</NODE1_NAME>
+          <NODE2_ID>33355</NODE2_ID>
+          <NODE2_NAME>CBLLMoixero27</NODE2_NAME>
+          <KMS>0.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.910476,41.428821 1.910736,41.428939</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29108">
+          <NODE1_ID>33794</NODE1_ID>
+          <NODE1_NAME>CBLLMestral38</NODE1_NAME>
+          <NODE2_ID>33364</NODE2_ID>
+          <NODE2_NAME>CBLLMestral29</NODE2_NAME>
+          <KMS>0.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902410,41.429823 1.902035,41.430054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29116">
+          <NODE1_ID>34460</NODE1_ID>
+          <NODE1_NAME>tttTDLSantJosep14b</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.939</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983461,41.361873 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29201">
+          <NODE1_ID>34541</NODE1_ID>
+          <NODE1_NAME>TDLRavalJaner5</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.748</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981970,41.360115 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29235">
+          <NODE1_ID>34562</NODE1_ID>
+          <NODE1_NAME>CMajorJordi</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977367,41.354810 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29382">
+          <NODE1_ID>34780</NODE1_ID>
+          <NODE1_NAME>TDLcarrer427</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.951833,41.353397 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29401">
+          <NODE1_ID>30650</NODE1_ID>
+          <NODE1_NAME>TDLCanColl</NODE1_NAME>
+          <NODE2_ID>34787</NODE2_ID>
+          <NODE2_NAME>RoigRoig</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976190,41.355286 1.977008,41.355348</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29663">
+          <NODE1_ID>34958</NODE1_ID>
+          <NODE1_NAME>TDLSegonaAv72</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.957068,41.352480 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29694">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>34994</NODE2_ID>
+          <NODE2_NAME>TDLMajor99c</NODE2_NAME>
+          <KMS>1.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.978700,41.355108</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29805">
+          <NODE1_ID>35077</NODE1_ID>
+          <NODE1_NAME>CBLLMestral38B</NODE1_NAME>
+          <NODE2_ID>33364</NODE2_ID>
+          <NODE2_NAME>CBLLMestral29</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902389,41.429756 1.902035,41.430054</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30009">
+          <NODE1_ID>35260</NODE1_ID>
+          <NODE1_NAME>TDLcarrer2456</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.956822,41.353605 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30033">
+          <NODE1_ID>17726</NODE1_ID>
+          <NODE1_NAME>SFLLTorredelRoser</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.354</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.049245,41.382947 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30050">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>34302</NODE2_ID>
+          <NODE2_NAME>TDLCanCasanoves</NODE2_NAME>
+          <KMS>1.263</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.986809,41.369776</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30090">
+          <NODE1_ID>35319</NODE1_ID>
+          <NODE1_NAME>TDLRavalRoig11</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983499,41.363250 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30261">
+          <NODE1_ID>35442</NODE1_ID>
+          <NODE1_NAME>TDLTerceraAv36</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>0.971</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.959995,41.353915 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30276">
+          <NODE1_ID>35301</NODE1_ID>
+          <NODE1_NAME>TDLcarrer3114</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.960405,41.352817 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30368">
+          <NODE1_ID>35542</NODE1_ID>
+          <NODE1_NAME>TDLmajor47</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981101,41.357731 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30377">
+          <NODE1_ID>35543</NODE1_ID>
+          <NODE1_NAME>TDLcarrer328</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>0.878</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.962506,41.353349 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30651">
+          <NODE1_ID>35786</NODE1_ID>
+          <NODE1_NAME>TDLAvTorrellestessn</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.525</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.965603,41.346888 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30702">
+          <NODE1_ID>35848</NODE1_ID>
+          <NODE1_NAME>TDLCireresn2</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.768</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978730,41.348641 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31028">
+          <NODE1_ID>36147</NODE1_ID>
+          <NODE1_NAME>CORmartijulia</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.065242,41.355124 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31195">
+          <NODE1_ID>26066</NODE1_ID>
+          <NODE1_NAME>VilTorrent20</NODE1_NAME>
+          <NODE2_ID>29827</NODE2_ID>
+          <NODE2_NAME>CBLLGregal6</NODE2_NAME>
+          <KMS>16.617</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977567,41.570212 1.902620,41.431607</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31238">
+          <NODE1_ID>36349</NODE1_ID>
+          <NODE1_NAME>TDLSantMarti1</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.564</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981139,41.358384 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31259">
+          <NODE1_ID>36371</NODE1_ID>
+          <NODE1_NAME>TDLGinesta33</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.804</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977260,41.343229 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31357">
+          <NODE1_ID>36452</NODE1_ID>
+          <NODE1_NAME>TDLcarrer278</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.266</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.955802,41.353699 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31411">
+          <NODE1_ID>36278</NODE1_ID>
+          <NODE1_NAME>LPalDCCanMascaro</NODE1_NAME>
+          <NODE2_ID>36455</NODE2_ID>
+          <NODE2_NAME>CRVLLCERVERA12</NODE2_NAME>
+          <KMS>2.021</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983523,41.403318 1.959541,41.405595</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31464">
+          <NODE1_ID>35802</NODE1_ID>
+          <NODE1_NAME>supercoco</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980932,41.359109 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31998">
+          <NODE1_ID>37067</NODE1_ID>
+          <NODE1_NAME>TDLRavalRoig07</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.491</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.984270,41.362991 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32076">
+          <NODE1_ID>37124</NODE1_ID>
+          <NODE1_NAME>TDLCirerers21b</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.325</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983665,41.347401 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32509">
+          <NODE1_ID>37543</NODE1_ID>
+          <NODE1_NAME>MasGelat1</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.993289,41.362219 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32611">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>36532</NODE2_ID>
+          <NODE2_NAME>TDLDelesRovires17</NODE2_NAME>
+          <KMS>0.966</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.991701,41.362922</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32694">
+          <NODE1_ID>37709</NODE1_ID>
+          <NODE1_NAME>TDLSantPere10</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.984478,41.363278 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32775">
+          <NODE1_ID>37569</NODE1_ID>
+          <NODE1_NAME>sleeper</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.984958,41.363330 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32962">
+          <NODE1_ID>37928</NODE1_ID>
+          <NODE1_NAME>TDLGinesta12B</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>1.227</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976557,41.344241 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33004">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>35610</NODE2_ID>
+          <NODE2_NAME>TDLGinesta63</NODE2_NAME>
+          <KMS>1.696</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.978349,41.344078</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33043">
+          <NODE1_ID>38034</NODE1_ID>
+          <NODE1_NAME>TDLBellavista18</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976343,41.355394 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33267">
+          <NODE1_ID>38230</NODE1_ID>
+          <NODE1_NAME>TDLMontserratRoig22</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.403</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979819,41.356739 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33463">
+          <NODE1_ID>38414</NODE1_ID>
+          <NODE1_NAME>TDLTabor38</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983574,41.345698 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33491">
+          <NODE1_ID>38413</NODE1_ID>
+          <NODE1_NAME>TDLFontBosquina2</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.655</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976976,41.349420 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33550">
+          <NODE1_ID>38523</NODE1_ID>
+          <NODE1_NAME>TDLFredericCorominas</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977510,41.352974 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33552">
+          <NODE1_ID>38527</NODE1_ID>
+          <NODE1_NAME>TDLPlAjuntament2C</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981010,41.358967 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33594">
+          <NODE1_ID>38412</NODE1_ID>
+          <NODE1_NAME>SFLLmarquesa220</NODE1_NAME>
+          <NODE2_ID>17726</NODE2_ID>
+          <NODE2_NAME>SFLLTorredelRoser</NODE2_NAME>
+          <KMS>0.909</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.046059,41.390769 2.049245,41.382947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33607">
+          <NODE1_ID>38412</NODE1_ID>
+          <NODE1_NAME>SFLLmarquesa220</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>1.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.046059,41.390769 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33731">
+          <NODE1_ID>38643</NODE1_ID>
+          <NODE1_NAME>TDLEscuelasNacionale</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.132</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980696,41.358082 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33735">
+          <NODE1_ID>38658</NODE1_ID>
+          <NODE1_NAME>TDLJoaquimSostres25</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.461</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983225,41.355306 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34031">
+          <NODE1_ID>38923</NODE1_ID>
+          <NODE1_NAME>TDLFredericCoromin31</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977550,41.353159 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34735">
+          <NODE1_ID>30650</NODE1_ID>
+          <NODE1_NAME>TDLCanColl</NODE1_NAME>
+          <NODE2_ID>39381</NODE2_ID>
+          <NODE2_NAME>TDLSradelaEsperanza5</NODE2_NAME>
+          <KMS>0.533</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976190,41.355286 1.982517,41.354774</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34914">
+          <NODE1_ID>39589</NODE1_ID>
+          <NODE1_NAME>TDLRvlmscp</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.498</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.971252,41.354231 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34918">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>39593</NODE2_ID>
+          <NODE2_NAME>TDLAv470</NODE2_NAME>
+          <KMS>3.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.949279,41.354714</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34945">
+          <NODE1_ID>39629</NODE1_ID>
+          <NODE1_NAME>TDLMajor58</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.311</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979213,41.355769 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34977">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34978">
+          <NODE1_ID>20447</NODE1_ID>
+          <NODE1_NAME>CBLLGregal01</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.268</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902515,41.430231 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34996">
+          <NODE1_ID>38940</NODE1_ID>
+          <NODE1_NAME>TDLMontserratRoig33</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980143,41.356547 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35389">
+          <NODE1_ID>39981</NODE1_ID>
+          <NODE1_NAME>CasaDoficis2011</NODE1_NAME>
+          <NODE2_ID>17726</NODE2_ID>
+          <NODE2_NAME>SFLLTorredelRoser</NODE2_NAME>
+          <KMS>1.06</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.049964,41.392475 2.049245,41.382947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35442">
+          <NODE1_ID>40026</NODE1_ID>
+          <NODE1_NAME>TDLSantPau23</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981686,41.357420 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35538">
+          <NODE1_ID>32771</NODE1_ID>
+          <NODE1_NAME>TDLPi1</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978003,41.355700 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35597">
+          <NODE1_ID>40127</NODE1_ID>
+          <NODE1_NAME>TDLRavalRoig161</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.984175,41.364302 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35653">
+          <NODE1_ID>13907</NODE1_ID>
+          <NODE1_NAME>MdRAvdaBcn123</NODE1_NAME>
+          <NODE2_ID>31020</NODE2_ID>
+          <NODE2_NAME>MdRLaMola</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.023126,41.407010 2.021322,41.407416</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35955">
+          <NODE1_ID>38939</NODE1_ID>
+          <NODE1_NAME>TDeL</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.027</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.992943,41.362054 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37083">
+          <NODE1_ID>40328</NODE1_ID>
+          <NODE1_NAME>TDLMasGelat19</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.071</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.989722,41.362469 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38108">
+          <NODE1_ID>42218</NODE1_ID>
+          <NODE1_NAME>TDLMasgelat21</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.803</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.989850,41.362436 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38194">
+          <NODE1_ID>42287</NODE1_ID>
+          <NODE1_NAME>TDLMajor44</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980117,41.356206 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38200">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>42304</NODE2_ID>
+          <NODE2_NAME>TDLFCoromines23</NODE2_NAME>
+          <KMS>0.622</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.980901,41.353599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38237">
+          <NODE1_ID>42341</NODE1_ID>
+          <NODE1_NAME>TDLJVerdaguer5</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.427</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982005,41.357216 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38886">
+          <NODE1_ID>42839</NODE1_ID>
+          <NODE1_NAME>TDLMajor4512</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981093,41.357889 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38907">
+          <NODE1_ID>42254</NODE1_ID>
+          <NODE1_NAME>TDLQtrv65</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>3.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.948500,41.355868 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40238">
+          <NODE1_ID>23044</NODE1_ID>
+          <NODE1_NAME>CBLLMestral12</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>11.615</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900667,41.428337 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40556">
+          <NODE1_ID>39147</NODE1_ID>
+          <NODE1_NAME>SfllCastellbell79</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.527</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.047893,41.385475 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40561">
+          <NODE1_ID>44019</NODE1_ID>
+          <NODE1_NAME>TDLSantJoan6</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983579,41.355398 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40663">
+          <NODE1_ID>44166</NODE1_ID>
+          <NODE1_NAME>TDLJvrdgr7</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.223</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982115,41.357287 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40878">
+          <NODE1_ID>44309</NODE1_ID>
+          <NODE1_NAME>TDLEsglesia1</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982038,41.359140 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41380">
+          <NODE1_ID>44752</NODE1_ID>
+          <NODE1_NAME>TDLCanCarnero</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.963047,41.343385 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41494">
+          <NODE1_ID>42820</NODE1_ID>
+          <NODE1_NAME>TDLAvQuatre43</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>3.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.948813,41.358127 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42256">
+          <NODE1_ID>44749</NODE1_ID>
+          <NODE1_NAME>SBDL_AteneuSantboia</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.043489,41.347804 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42445">
+          <NODE1_ID>45683</NODE1_ID>
+          <NODE1_NAME>SFLLHasan</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042760,41.382069 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42519">
+          <NODE1_ID>45746</NODE1_ID>
+          <NODE1_NAME>TDLSegonaAv68</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.957219,41.352257 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42733">
+          <NODE1_ID>45916</NODE1_ID>
+          <NODE1_NAME>TDLDolcaProve1-11</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.485</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.985575,41.362122 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42917">
+          <NODE1_ID>46062</NODE1_ID>
+          <NODE1_NAME>SFLLjuanra</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.408</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045471,41.384622 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43014">
+          <NODE1_ID>46145</NODE1_ID>
+          <NODE1_NAME>SVicDH-CPins30</NODE1_NAME>
+          <NODE2_ID>31031</NODE2_ID>
+          <NODE2_NAME>SVicDH-SantAntoni92</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.994587,41.376612 1.994177,41.379133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43258">
+          <NODE1_ID>46327</NODE1_ID>
+          <NODE1_NAME>TDLOlivereta2</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.335</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.974916,41.354536 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43384">
+          <NODE1_ID>46404</NODE1_ID>
+          <NODE1_NAME>TDLPMarxant2</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981727,41.358370 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44097">
+          <NODE1_ID>46899</NODE1_ID>
+          <NODE1_NAME>TDLMajor52-54</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980895,41.357669 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44520">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>47133</NODE2_ID>
+          <NODE2_NAME>TDLAvTorrelles5</NODE2_NAME>
+          <KMS>0.918</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.975045,41.349664</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44836">
+          <NODE1_ID>46204</NODE1_ID>
+          <NODE1_NAME>OliBoi</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.974862,41.354671 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45479">
+          <NODE1_ID>47914</NODE1_ID>
+          <NODE1_NAME>TDLNostrasenyoraespe</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.539</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982619,41.354988 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45867">
+          <NODE1_ID>48066</NODE1_ID>
+          <NODE1_NAME>SFLLpla8</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.583</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.040228,41.377952 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46330">
+          <NODE1_ID>48515</NODE1_ID>
+          <NODE1_NAME>PCervantes-K1bis</NODE1_NAME>
+          <NODE2_ID>42274</NODE2_ID>
+          <NODE2_NAME>LPalDC-PCervantes-K1</NODE2_NAME>
+          <KMS>0.006</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.965716,41.413051 1.965740,41.413101</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46334">
+          <NODE1_ID>48519</NODE1_ID>
+          <NODE1_NAME>LPalDC-AvdaCatalunya</NODE1_NAME>
+          <NODE2_ID>42274</NODE2_ID>
+          <NODE2_NAME>LPalDC-PCervantes-K1</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.966247,41.413392 1.965740,41.413101</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48652">
+          <NODE1_ID>42427</NODE1_ID>
+          <NODE1_NAME>CorSIfons</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>2.476</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.085026,41.360848 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48780">
+          <NODE1_ID>50283</NODE1_ID>
+          <NODE1_NAME>SBoiDLAMachado4</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.568</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.029900,41.351199 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49158">
+          <NODE1_ID>50588</NODE1_ID>
+          <NODE1_NAME>TDLSantJoan24</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983305,41.357303 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49542">
+          <NODE1_ID>33189</NODE1_ID>
+          <NODE1_NAME>TDLSantJoan7</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.349</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983197,41.356398 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49674">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>50340</NODE2_ID>
+          <NODE2_NAME>TDLAv636</NODE2_NAME>
+          <KMS>2.856</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.954830,41.358342</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50485">
+          <NODE1_ID>51669</NODE1_ID>
+          <NODE1_NAME>TDLAv636-B</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.954927,41.358394 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50599">
+          <NODE1_ID>51769</NODE1_ID>
+          <NODE1_NAME>TDLrondadelmoli2</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.773</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977503,41.348396 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50740">
+          <NODE1_ID>51747</NODE1_ID>
+          <NODE1_NAME>TDLRflCsnvs2</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980653,41.359311 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50935">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>51781</NODE2_ID>
+          <NODE2_NAME>TDLMontpedros31</NODE2_NAME>
+          <KMS>2.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.995554,41.364365</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51274">
+          <NODE1_ID>50714</NODE1_ID>
+          <NODE1_NAME>SFLLGemma</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.052021,41.381978 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53037">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>53495</NODE2_ID>
+          <NODE2_NAME>TDLPlAjuntament2F</NODE2_NAME>
+          <KMS>0.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.980947,41.359065</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53627">
+          <NODE1_ID>53950</NODE1_ID>
+          <NODE1_NAME>TDLAmadeuVives21</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.179</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980650,41.354810 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53981">
+          <NODE1_ID>34530</NODE1_ID>
+          <NODE1_NAME>VLDCgava70</NODE1_NAME>
+          <NODE2_ID>43240</NODE2_ID>
+          <NODE2_NAME>ViladecansLlorenPui</NODE2_NAME>
+          <KMS>1.783</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010099,41.308139 2.016234,41.323512</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53982">
+          <NODE1_ID>34530</NODE1_ID>
+          <NODE1_NAME>VLDCgava70</NODE1_NAME>
+          <NODE2_ID>54130</NODE2_ID>
+          <NODE2_NAME>MasiaCamprubi</NODE2_NAME>
+          <KMS>2.95</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010099,41.308139 1.977349,41.317923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54138">
+          <NODE1_ID>54259</NODE1_ID>
+          <NODE1_NAME>TDLCanColl19a</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.31</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977743,41.355382 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54507">
+          <NODE1_ID>54501</NODE1_ID>
+          <NODE1_NAME>TDLCarrer2111</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>2.731</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.953936,41.354778 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54638">
+          <NODE1_ID>44055</NODE1_ID>
+          <NODE1_NAME>Stvi126</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>3.158</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.012217,41.393762 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55310">
+          <NODE1_ID>55007</NODE1_ID>
+          <NODE1_NAME>TDLNsmontserrat</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982238,41.357589 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56101">
+          <NODE1_ID>55590</NODE1_ID>
+          <NODE1_NAME>TDLMajor763</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977711,41.355000 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56880">
+          <NODE1_ID>56176</NODE1_ID>
+          <NODE1_NAME>EsparragEToldra14</NODE1_NAME>
+          <NODE2_ID>44427</NODE2_ID>
+          <NODE2_NAME>CTBB-CanSegarra</NODE2_NAME>
+          <KMS>7.957</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.857344,41.528271 1.945036,41.500201</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58845">
+          <NODE1_ID>57508</NODE1_ID>
+          <NODE1_NAME>Pllj-AntGaud</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>6.333</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.992624,41.421466 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59160">
+          <NODE1_ID>32747</NODE1_ID>
+          <NODE1_NAME>TDLfcoromines15</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.979569,41.353810 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59374">
+          <NODE1_ID>52942</NODE1_ID>
+          <NODE1_NAME>TDLMontserratRoig7C</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.603</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980010,41.358603 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59630">
+          <NODE1_ID>57467</NODE1_ID>
+          <NODE1_NAME>TDLlaplana10</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.982621,41.355171 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59693">
+          <NODE1_ID>38564</NODE1_ID>
+          <NODE1_NAME>TDLAlbers5</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.867</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.976965,41.347505 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60007">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>19.61</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60026">
+          <NODE1_ID>22228</NODE1_ID>
+          <NODE1_NAME>CBLLMestral10</NODE1_NAME>
+          <NODE2_ID>27237</NODE2_ID>
+          <NODE2_NAME>CBLLCanRafel</NODE2_NAME>
+          <KMS>3.444</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900455,41.428380 1.932113,41.408540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60256">
+          <NODE1_ID>58534</NODE1_ID>
+          <NODE1_NAME>TDLBoscAnimes17</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.175</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980514,41.354748 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60357">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>11.613</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60504">
+          <NODE1_ID>22655</NODE1_ID>
+          <NODE1_NAME>CBLLMestral14</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>9.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900833,41.428390 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61480">
+          <NODE1_ID>59485</NODE1_ID>
+          <NODE1_NAME>TDLRocaBlanca5</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>0.863</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.973907,41.341614 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61769">
+          <NODE1_ID>59676</NODE1_ID>
+          <NODE1_NAME>Nodito</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>1.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.978175,41.345648 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61985">
+          <NODE1_ID>59835</NODE1_ID>
+          <NODE1_NAME>TDLRondadelMoli5</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>0.689</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977444,41.349156 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62053">
+          <NODE1_ID>37561</NODE1_ID>
+          <NODE1_NAME>TDLCanNicolau</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.978</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.959979,41.345929 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62417">
+          <NODE1_ID>22655</NODE1_ID>
+          <NODE1_NAME>CBLLMestral14</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>9.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900833,41.428390 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62743">
+          <NODE1_ID>37169</NODE1_ID>
+          <NODE1_NAME>TDLCarrer431</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>3.16</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.948518,41.355076 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63255">
+          <NODE1_ID>29827</NODE1_ID>
+          <NODE1_NAME>CBLLGregal6</NODE1_NAME>
+          <NODE2_ID>38759</NODE2_ID>
+          <NODE2_NAME>VILCastellRistol</NODE2_NAME>
+          <KMS>16.383</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902620,41.431607 1.950234,41.574704</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63655">
+          <NODE1_ID>61015</NODE1_ID>
+          <NODE1_NAME>TDLGinesta25</NODE1_NAME>
+          <NODE2_ID>30650</NODE2_ID>
+          <NODE2_NAME>TDLCanColl</NODE2_NAME>
+          <KMS>1.428</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.975812,41.342431 1.976190,41.355286</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64906">
+          <NODE1_ID>60755</NODE1_ID>
+          <NODE1_NAME>TDLmasgelat7</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>1.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.992722,41.362181 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65360">
+          <NODE1_ID>56405</NODE1_ID>
+          <NODE1_NAME>PLvPrmvr11</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>8.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.951700,41.419825 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65864">
+          <NODE1_ID>62775</NODE1_ID>
+          <NODE1_NAME>SFLLNoelia</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.478</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042832,41.377355 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65871">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>62776</NODE2_ID>
+          <NODE2_NAME>SFLLMssns</NODE2_NAME>
+          <KMS>0.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.051818,41.384655</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66609">
+          <NODE1_ID>7746</NODE1_ID>
+          <NODE1_NAME>SFLLCampanar</NODE1_NAME>
+          <NODE2_ID>63148</NODE2_ID>
+          <NODE2_NAME>SBoiCamiVell6</NODE2_NAME>
+          <KMS>3.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.045936,41.380964 2.030354,41.355494</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69623">
+          <NODE1_ID>65523</NODE1_ID>
+          <NODE1_NAME>TDLcarrer288</NODE1_NAME>
+          <NODE2_ID>30649</NODE2_ID>
+          <NODE2_NAME>TDLLCementiri</NODE2_NAME>
+          <KMS>1.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.957634,41.354958 1.968580,41.359795</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70149">
+          <NODE1_ID>39596</NODE1_ID>
+          <NODE1_NAME>TDLPlCatalunya4b</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>1.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980822,41.355170 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70307">
+          <NODE1_ID>64667</NODE1_ID>
+          <NODE1_NAME>SJD240-RamblaJujol54</NODE1_NAME>
+          <NODE2_ID>63895</NODE2_ID>
+          <NODE2_NAME>SJD-JoanMaragall27</NODE2_NAME>
+          <KMS>4.517</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.052387,41.366962 1.998831,41.361822</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70308">
+          <NODE1_ID>66068</NODE1_ID>
+          <NODE1_NAME>SJD-CanVoki</NODE1_NAME>
+          <NODE2_ID>48156</NODE2_ID>
+          <NODE2_NAME>SJD-Ermita11</NODE2_NAME>
+          <KMS>9.453</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.997839,41.361617 2.109340,41.347942</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70609">
+          <NODE1_ID>66268</NODE1_ID>
+          <NODE1_NAME>CstlldflsPiedad30</NODE1_NAME>
+          <NODE2_ID>61866</NODE2_ID>
+          <NODE2_NAME>CstlldflsMNG26</NODE2_NAME>
+          <KMS>0.571</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.975938,41.286199 1.982702,41.285599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70610">
+          <NODE1_ID>66269</NODE1_ID>
+          <NODE1_NAME>CstlldflsPalafox</NODE1_NAME>
+          <NODE2_ID>61866</NODE2_ID>
+          <NODE2_NAME>CstlldflsMNG26</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983321,41.286706 1.982702,41.285599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70695">
+          <NODE1_ID>43701</NODE1_ID>
+          <NODE1_NAME>BCNmtjJardiBotanic</NODE1_NAME>
+          <NODE2_ID>63224</NODE2_ID>
+          <NODE2_NAME>SBoiCalNotari</NODE2_NAME>
+          <KMS>10.246</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.160519,41.361906 2.052516,41.318476</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73107">
+          <NODE1_ID>64029</NODE1_ID>
+          <NODE1_NAME>SBoiDLMFortuny10</NODE1_NAME>
+          <NODE2_ID>54710</NODE2_ID>
+          <NODE2_NAME>ElPapiolDiputacio16</NODE2_NAME>
+          <KMS>10.999</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042630,41.343880 2.012009,41.440192</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73168">
+          <NODE1_ID>67081</NODE1_ID>
+          <NODE1_NAME>CstlldflsBellamar</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>8.531</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.950590,41.271732 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73600">
+          <NODE1_ID>68664</NODE1_ID>
+          <NODE1_NAME>MdRMorato</NODE1_NAME>
+          <NODE2_ID>30648</NODE2_ID>
+          <NODE2_NAME>TDLCampanar</NODE2_NAME>
+          <KMS>7.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.020841,41.415436 1.981278,41.359191</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73755">
+          <NODE1_ID>68938</NODE1_ID>
+          <NODE1_NAME>avcuarta69</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>3.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.948723,41.355497 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73907">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>67815</NODE2_ID>
+          <NODE2_NAME>TDLDolcaProve117</NODE2_NAME>
+          <KMS>1.231</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.995585,41.361788</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74250">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>69430</NODE2_ID>
+          <NODE2_NAME>TDLParcCanSostres</NODE2_NAME>
+          <KMS>0.28</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.982347,41.356799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75494">
+          <NODE1_ID>41741</NODE1_ID>
+          <NODE1_NAME>ribesblavesprin</NODE1_NAME>
+          <NODE2_ID>38759</NODE2_ID>
+          <NODE2_NAME>VILCastellRistol</NODE2_NAME>
+          <KMS>4.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.917955,41.547044 1.950234,41.574704</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76124">
+          <NODE1_ID>42665</NODE1_ID>
+          <NODE1_NAME>CTBB-SantMarc</NODE1_NAME>
+          <NODE2_ID>69166</NODE2_ID>
+          <NODE2_NAME>ESPARRPrinEspanya77</NODE2_NAME>
+          <KMS>11.969</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.980795,41.474629 1.863035,41.536088</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76248">
+          <NODE1_ID>44077</NODE1_ID>
+          <NODE1_NAME>SFLLRamon</NODE1_NAME>
+          <NODE2_ID>17726</NODE2_ID>
+          <NODE2_NAME>SFLLTorredelRoser</NODE2_NAME>
+          <KMS>0.356</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.052121,41.380579 2.049245,41.382947</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76655">
+          <NODE1_ID>61062</NODE1_ID>
+          <NODE1_NAME>CBLLMestral3</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.062</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900206,41.427854 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76657">
+          <NODE1_ID>67640</NODE1_ID>
+          <NODE1_NAME>CBLLMestral15</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900852,41.428801 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76916">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>11.613</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76970">
+          <NODE1_ID>71832</NODE1_ID>
+          <NODE1_NAME>CBLLGrb9</NODE1_NAME>
+          <NODE2_ID>22228</NODE2_ID>
+          <NODE2_NAME>CBLLMestral10</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901203,41.428196 1.900455,41.428380</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77226">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>67815</NODE2_ID>
+          <NODE2_NAME>TDLDolcaProve117</NODE2_NAME>
+          <KMS>2.177</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.995585,41.361788</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77296">
+          <NODE1_ID>22859</NODE1_ID>
+          <NODE1_NAME>CBLLGregal8</NODE1_NAME>
+          <NODE2_ID>27237</NODE2_ID>
+          <NODE2_NAME>CBLLCanRafel</NODE2_NAME>
+          <KMS>3.586</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902107,41.431620 1.932113,41.408540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77333">
+          <NODE1_ID>29827</NODE1_ID>
+          <NODE1_NAME>CBLLGregal6</NODE1_NAME>
+          <NODE2_ID>22859</NODE2_ID>
+          <NODE2_NAME>CBLLGregal8</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.902620,41.431607 1.902107,41.431620</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77737">
+          <NODE1_ID>30648</NODE1_ID>
+          <NODE1_NAME>TDLCampanar</NODE1_NAME>
+          <NODE2_ID>72363</NODE2_ID>
+          <NODE2_NAME>TDLGinesta24bRc</NODE2_NAME>
+          <KMS>1.905</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.981278,41.359191 1.974510,41.342818</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77949">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>72720</NODE2_ID>
+          <NODE2_NAME>TDLMontserratroig22a</NODE2_NAME>
+          <KMS>1.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.979517,41.356318</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78687">
+          <NODE1_ID>73184</NODE1_ID>
+          <NODE1_NAME>TDLTassili</NODE1_NAME>
+          <NODE2_ID>30647</NODE2_ID>
+          <NODE2_NAME>TDLTaborDip</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983323,41.345232 1.983526,41.344417</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78748">
+          <NODE1_ID>64029</NODE1_ID>
+          <NODE1_NAME>SBoiDLMFortuny10</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>5.59</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042630,41.343880 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78800">
+          <NODE1_ID>62752</NODE1_ID>
+          <NODE1_NAME>Saula</NODE1_NAME>
+          <NODE2_ID>64029</NODE2_ID>
+          <NODE2_NAME>SBoiDLMFortuny10</NODE2_NAME>
+          <KMS>5.582</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.035058,41.393816 2.042630,41.343880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80235">
+          <NODE1_ID>63865</NODE1_ID>
+          <NODE1_NAME>SBoiDLCamiVell15</NODE1_NAME>
+          <NODE2_ID>64029</NODE2_ID>
+          <NODE2_NAME>SBoiDLMFortuny10</NODE2_NAME>
+          <KMS>1.629</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030898,41.355588 2.042630,41.343880</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81177">
+          <NODE1_ID>35097</NODE1_ID>
+          <NODE1_NAME>CORctraHospitalet406</NODE1_NAME>
+          <NODE2_ID>42427</NODE2_ID>
+          <NODE2_NAME>CorSIfons</NODE2_NAME>
+          <KMS>0.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.094993,41.358660 2.085026,41.360848</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121325">
+          <NODE1_ID>30647</NODE1_ID>
+          <NODE1_NAME>TDLTaborDip</NODE1_NAME>
+          <NODE2_ID>32189</NODE2_ID>
+          <NODE2_NAME>TDLBellavista3</NODE2_NAME>
+          <KMS>1.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.983526,41.344417 1.978977,41.356526</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121481">
+          <NODE1_ID>75755</NODE1_ID>
+          <NODE1_NAME>SFLLElizondo</NODE1_NAME>
+          <NODE2_ID>7746</NODE2_ID>
+          <NODE2_NAME>SFLLCampanar</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.043606,41.380710 2.045936,41.380964</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122253">
+          <NODE1_ID>76295</NODE1_ID>
+          <NODE1_NAME>CstlldflsMNG85</NODE1_NAME>
+          <NODE2_ID>61866</NODE2_ID>
+          <NODE2_NAME>CstlldflsMNG26</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.977751,41.285380 1.982702,41.285599</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122555">
+          <NODE1_ID>66547</NODE1_ID>
+          <NODE1_NAME>SVicDHSalesians</NODE1_NAME>
+          <NODE2_ID>62752</NODE2_ID>
+          <NODE2_NAME>Saula</NODE2_NAME>
+          <KMS>2.284</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.008161,41.390280 2.035058,41.393816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122578">
+          <NODE1_ID>63148</NODE1_ID>
+          <NODE1_NAME>SBoiCamiVell6</NODE1_NAME>
+          <NODE2_ID>62752</NODE2_ID>
+          <NODE2_NAME>Saula</NODE2_NAME>
+          <KMS>4.274</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030354,41.355494 2.035058,41.393816</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122580">
+          <NODE1_ID>63148</NODE1_ID>
+          <NODE1_NAME>SBoiCamiVell6</NODE1_NAME>
+          <NODE2_ID>66548</NODE2_ID>
+          <NODE2_NAME>SBoiDLASalesians</NODE2_NAME>
+          <KMS>0.873</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030354,41.355494 2.035848,41.348815</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122751">
+          <NODE1_ID>35723</NODE1_ID>
+          <NODE1_NAME>LPalDC-DipAigua-K2</NODE1_NAME>
+          <NODE2_ID>42274</NODE2_ID>
+          <NODE2_NAME>LPalDC-PCervantes-K1</NODE2_NAME>
+          <KMS>0.389</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.966402,41.416564 1.965740,41.413101</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

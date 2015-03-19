@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.568516</gml:X><gml:Y>42.229709</gml:Y></gml:coord>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>42.258552</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="8462">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>11884</NODE2_ID>
+          <NODE2_NAME>TortellaAjuntament</NODE2_NAME>
+          <KMS>0.043</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.629610,42.232871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8629">
+          <NODE1_ID>11884</NODE1_ID>
+          <NODE1_NAME>TortellaAjuntament</NODE1_NAME>
+          <NODE2_ID>12073</NODE2_ID>
+          <NODE2_NAME>TortellaMossen</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629610,42.232871 2.629390,42.233003</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9602">
+          <NODE1_ID>13275</NODE1_ID>
+          <NODE1_NAME>TortellaCamalo</NODE1_NAME>
+          <NODE2_ID>11884</NODE2_ID>
+          <NODE2_NAME>TortellaAjuntament</NODE2_NAME>
+          <KMS>0.074</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.628776,42.233126 2.629610,42.232871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="9623">
+          <NODE1_ID>13295</NODE1_ID>
+          <NODE1_NAME>TortellaLoli</NODE1_NAME>
+          <NODE2_ID>11884</NODE2_ID>
+          <NODE2_NAME>TortellaAjuntament</NODE2_NAME>
+          <KMS>0.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630904,42.235109 2.629610,42.232871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10008">
+          <NODE1_ID>13753</NODE1_ID>
+          <NODE1_NAME>TortellaIAyats</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630785,42.233133 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10012">
+          <NODE1_ID>13762</NODE1_ID>
+          <NODE1_NAME>TortellaMAyats</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631118,42.233600 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10242">
+          <NODE1_ID>14046</NODE1_ID>
+          <NODE1_NAME>TortellaACordon</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.123</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631297,42.233630 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10244">
+          <NODE1_ID>14049</NODE1_ID>
+          <NODE1_NAME>TortellaJPages</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631219,42.233614 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10256">
+          <NODE1_ID>14061</NODE1_ID>
+          <NODE1_NAME>TortellaMCordon</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630164,42.234428 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10396">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>14135</NODE2_ID>
+          <NODE2_NAME>TortellaCanCamo</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.629273,42.233514</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10583">
+          <NODE1_ID>14509</NODE1_ID>
+          <NODE1_NAME>TortellaXGiralt</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629009,42.233948 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10672">
+          <NODE1_ID>14591</NODE1_ID>
+          <NODE1_NAME>TortellaJReig</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.081</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629102,42.233529 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10720">
+          <NODE1_ID>14658</NODE1_ID>
+          <NODE1_NAME>TortellaJColomer</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631545,42.237089 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="10740">
+          <NODE1_ID>14673</NODE1_ID>
+          <NODE1_NAME>TortellaLRodriguez</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.632242,42.231086 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11207">
+          <NODE1_ID>15145</NODE1_ID>
+          <NODE1_NAME>TortellaMBaraldes</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.066</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630459,42.233614 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11708">
+          <NODE1_ID>15586</NODE1_ID>
+          <NODE1_NAME>TortellaTCaulas</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629072,42.233771 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12102">
+          <NODE1_ID>15972</NODE1_ID>
+          <NODE1_NAME>TortellaJSerra</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.633143,42.230296 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12147">
+          <NODE1_ID>16034</NODE1_ID>
+          <NODE1_NAME>TortellaJSague</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>1.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.617337,42.232840 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12227">
+          <NODE1_ID>16111</NODE1_ID>
+          <NODE1_NAME>TortellaLlTo</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630629,42.233574 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12419">
+          <NODE1_ID>11884</NODE1_ID>
+          <NODE1_NAME>TortellaAjuntament</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.979</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629610,42.232871 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12443">
+          <NODE1_ID>16301</NODE1_ID>
+          <NODE1_NAME>TortellaJPuig</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631669,42.233646 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12487">
+          <NODE1_ID>16345</NODE1_ID>
+          <NODE1_NAME>TortellaAGil</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.605</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.628016,42.238409 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12777">
+          <NODE1_ID>16745</NODE1_ID>
+          <NODE1_NAME>TorTellaF679</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.149</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631751,42.233188 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12995">
+          <NODE1_ID>17037</NODE1_ID>
+          <NODE1_NAME>TortellaPPicart</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.299</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631419,42.230694 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13039">
+          <NODE1_ID>17088</NODE1_ID>
+          <NODE1_NAME>TortellaMFauria</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629938,42.234618 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13040">
+          <NODE1_ID>17089</NODE1_ID>
+          <NODE1_NAME>TortellaDSubiros</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631805,42.233872 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13999">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>18331</NODE2_ID>
+          <NODE2_NAME>TorTellaF287</NODE2_NAME>
+          <KMS>0.538</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.635818,42.231044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14106">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>18334</NODE2_ID>
+          <NODE2_NAME>TorTellaF1495</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.628973,42.234271</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14107">
+          <NODE1_ID>16872</NODE1_ID>
+          <NODE1_NAME>TorTellaF609</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630937,42.233035 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14122">
+          <NODE1_ID>18444</NODE1_ID>
+          <NODE1_NAME>TortellaLlNogue</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631065,42.232593 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14217">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>18490</NODE2_ID>
+          <NODE2_NAME>tortellagcarbonell</NODE2_NAME>
+          <KMS>0.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.631218,42.230462</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14795">
+          <NODE1_ID>19241</NODE1_ID>
+          <NODE1_NAME>TortellaABuixeda</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.298</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.632143,42.231027 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14888">
+          <NODE1_ID>19356</NODE1_ID>
+          <NODE1_NAME>TotellaCanRoca</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.672</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.616313,42.233335 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14983">
+          <NODE1_ID>19474</NODE1_ID>
+          <NODE1_NAME>TortellaLNoguer</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>4.469</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.625491,42.236929 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15197">
+          <NODE1_ID>14699</NODE1_ID>
+          <NODE1_NAME>TortellaJAyats</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.447</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.633529,42.230140 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15198">
+          <NODE1_ID>19752</NODE1_ID>
+          <NODE1_NAME>TortellaSCortada</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.632095,42.235373 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15535">
+          <NODE1_ID>14644</NODE1_ID>
+          <NODE1_NAME>TortellaFValero</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631545,42.230497 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15536">
+          <NODE1_ID>20094</NODE1_ID>
+          <NODE1_NAME>TortellaPBarret</NODE1_NAME>
+          <NODE2_ID>11884</NODE2_ID>
+          <NODE2_NAME>TortellaAjuntament</NODE2_NAME>
+          <KMS>0.396</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.625368,42.231203 2.629610,42.232871</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16079">
+          <NODE1_ID>13802</NODE1_ID>
+          <NODE1_NAME>TortellaFDurante</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631545,42.230947 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17754">
+          <NODE1_ID>22300</NODE1_ID>
+          <NODE1_NAME>TortellaCalaseque</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.632320,42.232948 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18266">
+          <NODE1_ID>22907</NODE1_ID>
+          <NODE1_NAME>TortellaAAlba</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631462,42.230805 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18351">
+          <NODE1_ID>22999</NODE1_ID>
+          <NODE1_NAME>TortellaEVehils</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.334</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.633986,42.232997 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18364">
+          <NODE1_ID>23014</NODE1_ID>
+          <NODE1_NAME>TortellaFGispert</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.628594,42.233649 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18619">
+          <NODE1_ID>23287</NODE1_ID>
+          <NODE1_NAME>TortellaSales17</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631226,42.233694 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18765">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>13788</NODE2_ID>
+          <NODE2_NAME>TortellaJFreixes</NODE2_NAME>
+          <KMS>0.079</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.630870,42.232970</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18766">
+          <NODE1_ID>23431</NODE1_ID>
+          <NODE1_NAME>TortellaJdeCruz</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630434,42.234566 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18771">
+          <NODE1_ID>14186</NODE1_ID>
+          <NODE1_NAME>TortellaLaCalma</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.283</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631669,42.230955 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18772">
+          <NODE1_ID>23430</NODE1_ID>
+          <NODE1_NAME>TortellaMAguilo</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630944,42.233113 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18979">
+          <NODE1_ID>23687</NODE1_ID>
+          <NODE1_NAME>TortellaMPararols</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630901,42.233589 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20557">
+          <NODE1_ID>25654</NODE1_ID>
+          <NODE1_NAME>TortellaFSubiras</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.54</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.634906,42.236333 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20558">
+          <NODE1_ID>14507</NODE1_ID>
+          <NODE1_NAME>TortellaJInverno</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631979,42.231025 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21586">
+          <NODE1_ID>26772</NODE1_ID>
+          <NODE1_NAME>TortellaelSegal</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.611270,42.237021 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21800">
+          <NODE1_ID>26993</NODE1_ID>
+          <NODE1_NAME>TortellaMGiralt</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.106</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631126,42.232767 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22249">
+          <NODE1_ID>27465</NODE1_ID>
+          <NODE1_NAME>TortellaStMiquel8</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>6.679</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.633500,42.233044 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22294">
+          <NODE1_ID>27515</NODE1_ID>
+          <NODE1_NAME>TortellaNVerges</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630241,42.233200 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22524">
+          <NODE1_ID>11884</NODE1_ID>
+          <NODE1_NAME>TortellaAjuntament</NODE1_NAME>
+          <NODE2_ID>27761</NODE2_ID>
+          <NODE2_NAME>TortellaXPalomino</NODE2_NAME>
+          <KMS>0.03</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629610,42.232871 2.629372,42.233081</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23214">
+          <NODE1_ID>28429</NODE1_ID>
+          <NODE1_NAME>TortellaBirgit</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.134</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.628959,42.234114 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23325">
+          <NODE1_ID>28535</NODE1_ID>
+          <NODE1_NAME>tortellaVjuanola</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.329</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.633900,42.232799 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23613">
+          <NODE1_ID>28797</NODE1_ID>
+          <NODE1_NAME>TortellaRNaspleda</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.056</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630563,42.232950 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24692">
+          <NODE1_ID>30010</NODE1_ID>
+          <NODE1_NAME>TrrllS32</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631983,42.233632 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26439">
+          <NODE1_ID>31811</NODE1_ID>
+          <NODE1_NAME>TortellaJColomer2</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.422</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631352,42.236814 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26604">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>31712</NODE2_ID>
+          <NODE2_NAME>TortellaCanjordi</NODE2_NAME>
+          <KMS>1.66</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.644572,42.243416</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26832">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>32174</NODE2_ID>
+          <NODE2_NAME>Tortellasp37</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.632249,42.233004</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26842">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>32183</NODE2_ID>
+          <NODE2_NAME>TortellaAPages</NODE2_NAME>
+          <KMS>0.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.631395,42.233577</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26872">
+          <NODE1_ID>32210</NODE1_ID>
+          <NODE1_NAME>TortellaJFrences</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.207</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630855,42.234896 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27821">
+          <NODE1_ID>33163</NODE1_ID>
+          <NODE1_NAME>TortellaJcastella</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.204</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.632422,42.233204 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30262">
+          <NODE1_ID>26238</NODE1_ID>
+          <NODE1_NAME>MntgEsp</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>5.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.568516,42.251328 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31477">
+          <NODE1_ID>36562</NODE1_ID>
+          <NODE1_NAME>TortellaGEhric</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>5.42</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.637585,42.229709 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32233">
+          <NODE1_ID>37273</NODE1_ID>
+          <NODE1_NAME>TortellaXAyats</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630998,42.233724 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32683">
+          <NODE1_ID>37706</NODE1_ID>
+          <NODE1_NAME>TortellaJSerrat</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.078</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630324,42.233804 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34062">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>38952</NODE2_ID>
+          <NODE2_NAME>TortellaPpuig</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.630316,42.232521</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34422">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>39198</NODE2_ID>
+          <NODE2_NAME>TortellaJDiaz</NODE2_NAME>
+          <KMS>0.095</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.631097,42.233109</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34933">
+          <NODE1_ID>39608</NODE1_ID>
+          <NODE1_NAME>TortellaSFuste</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.159</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630080,42.234591 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35511">
+          <NODE1_ID>40081</NODE1_ID>
+          <NODE1_NAME>TortellaRTorregrosa</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.316</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631467,42.230552 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36857">
+          <NODE1_ID>41125</NODE1_ID>
+          <NODE1_NAME>TortellaERodriguez</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631459,42.233638 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37688">
+          <NODE1_ID>41806</NODE1_ID>
+          <NODE1_NAME>Tortellamasoliver</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631150,42.232760 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40411">
+          <NODE1_ID>11885</NODE1_ID>
+          <NODE1_NAME>TortellaEsglesia</NODE1_NAME>
+          <NODE2_ID>43970</NODE2_ID>
+          <NODE2_NAME>TortellaFerriol</NODE2_NAME>
+          <KMS>0.26</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629949,42.233159 2.633062,42.232776</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40412">
+          <NODE1_ID>43972</NODE1_ID>
+          <NODE1_NAME>TortellaFerriol2</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630279,42.233562 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44155">
+          <NODE1_ID>34317</NODE1_ID>
+          <NODE1_NAME>Tortellasp27</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>4.687</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.627707,42.238927 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44987">
+          <NODE1_ID>47487</NODE1_ID>
+          <NODE1_NAME>TortellaDBernis</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630504,42.234174 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46276">
+          <NODE1_ID>48444</NODE1_ID>
+          <NODE1_NAME>SallesLlitipi</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>1.911</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.649786,42.242035 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49984">
+          <NODE1_ID>51241</NODE1_ID>
+          <NODE1_NAME>TortellaAmaru</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.077</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630821,42.232913 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55696">
+          <NODE1_ID>55368</NODE1_ID>
+          <NODE1_NAME>TrtFrn25</NODE1_NAME>
+          <NODE2_ID>26476</NODE2_ID>
+          <NODE2_NAME>SalesLLStMiquel</NODE2_NAME>
+          <KMS>4.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630990,42.234618 2.672912,42.254510</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58476">
+          <NODE1_ID>23431</NODE1_ID>
+          <NODE1_NAME>TortellaJdeCruz</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630434,42.234566 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58568">
+          <NODE1_ID>17815</NODE1_ID>
+          <NODE1_NAME>TortellaJBassas</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.139</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.630507,42.234340 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58976">
+          <NODE1_ID>31712</NODE1_ID>
+          <NODE1_NAME>TortellaCanjordi</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>0.016</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.644572,42.243416 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59890">
+          <NODE1_ID>58338</NODE1_ID>
+          <NODE1_NAME>TrrtSantjaume5</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629587,42.234720 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69829">
+          <NODE1_ID>65711</NODE1_ID>
+          <NODE1_NAME>TortellaQReixach</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629970,42.234783 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73709">
+          <NODE1_ID>69025</NODE1_ID>
+          <NODE1_NAME>Trtlllt10</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.629308,42.233594 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74662">
+          <NODE1_ID>69700</NODE1_ID>
+          <NODE1_NAME>TortellaBJuanola</NODE1_NAME>
+          <NODE2_ID>11885</NODE2_ID>
+          <NODE2_NAME>TortellaEsglesia</NODE2_NAME>
+          <KMS>0.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.631869,42.233616 2.629949,42.233159</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.818012</gml:X><gml:Y>41.415738</gml:Y></gml:coord>
+<gml:coord><gml:X>2.110695</gml:X><gml:Y>41.590318</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="17668">
+          <NODE1_ID>21940</NODE1_ID>
+          <NODE1_NAME>TRSATorrePalau</NODE1_NAME>
+          <NODE2_ID>17914</NODE2_ID>
+          <NODE2_NAME>TRSACEIPMariaGali</NODE2_NAME>
+          <KMS>0.79</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.999072,41.576356 1.994450,41.570144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25094">
+          <NODE1_ID>30324</NODE1_ID>
+          <NODE1_NAME>TRSAUPC2</NODE1_NAME>
+          <NODE2_ID>24977</NODE2_ID>
+          <NODE2_NAME>TRSAUPC</NODE2_NAME>
+          <KMS>0.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.022064,41.563773 2.023358,41.563595</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25461">
+          <NODE1_ID>28524</NODE1_ID>
+          <NODE1_NAME>TRSAMajor15</NODE1_NAME>
+          <NODE2_ID>30082</NODE2_ID>
+          <NODE2_NAME>TRSACarrerBaix</NODE2_NAME>
+          <KMS>0.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010109,41.561219 2.010072,41.561030</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27466">
+          <NODE1_ID>30083</NODE1_ID>
+          <NODE1_NAME>TRSASantLeopold</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.011989,41.567623 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27610">
+          <NODE1_ID>29272</NODE1_ID>
+          <NODE1_NAME>TRSAmina8</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.013972,41.566764 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28301">
+          <NODE1_ID>30084</NODE1_ID>
+          <NODE1_NAME>TRSASocietatNord</NODE1_NAME>
+          <NODE2_ID>29273</NODE2_ID>
+          <NODE2_NAME>TRSASantGaieta73</NODE2_NAME>
+          <KMS>0.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.013899,41.567826 2.008910,41.567673</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29155">
+          <NODE1_ID>33375</NODE1_ID>
+          <NODE1_NAME>TRSASalvadorSegui7</NODE1_NAME>
+          <NODE2_ID>15840</NODE2_ID>
+          <NODE2_NAME>TRSASantMateo39</NODE2_NAME>
+          <KMS>0.4</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.993215,41.557304 1.996024,41.560226</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29958">
+          <NODE1_ID>35205</NODE1_ID>
+          <NODE1_NAME>TRSANord80</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.018</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.013778,41.567962 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31609">
+          <NODE1_ID>36076</NODE1_ID>
+          <NODE1_NAME>TRSACrGrn39</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.208</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.015310,41.566280 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32894">
+          <NODE1_ID>21940</NODE1_ID>
+          <NODE1_NAME>TRSATorrePalau</NODE1_NAME>
+          <NODE2_ID>36286</NODE2_ID>
+          <NODE2_NAME>TRSAGabrielQuerol2</NODE2_NAME>
+          <KMS>1.363</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.999072,41.576356 2.007159,41.565695</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33972">
+          <NODE1_ID>31629</NODE1_ID>
+          <NODE1_NAME>TRSAAngelSallent134</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.668</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.999603,41.559253 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33974">
+          <NODE1_ID>27708</NODE1_ID>
+          <NODE1_NAME>TRSA-JAC!</NODE1_NAME>
+          <NODE2_ID>34161</NODE2_ID>
+          <NODE2_NAME>TRSAFaraday90</NODE2_NAME>
+          <KMS>0.592</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.001007,41.553335 2.003928,41.558192</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33978">
+          <NODE1_ID>37796</NODE1_ID>
+          <NODE1_NAME>TRSASantLluisADD</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.397</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.998226,41.556240 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33979">
+          <NODE1_ID>24000</NODE1_ID>
+          <NODE1_NAME>TRSACogullada</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.002922,41.554368 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33980">
+          <NODE1_ID>34338</NODE1_ID>
+          <NODE1_NAME>TRSAMestreTrias130</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.871</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.011195,41.551635 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34164">
+          <NODE1_ID>39021</NODE1_ID>
+          <NODE1_NAME>TRSABartomeuAmat</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.012772,41.570563 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36120">
+          <NODE1_ID>40541</NODE1_ID>
+          <NODE1_NAME>TRSlmpc</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>1.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.017811,41.577401 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36295">
+          <NODE1_ID>40459</NODE1_ID>
+          <NODE1_NAME>TRSAmasia15B</NODE1_NAME>
+          <NODE2_ID>13502</NODE2_ID>
+          <NODE2_NAME>TRSA-NicolauCopernic</NODE2_NAME>
+          <KMS>0.121</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.997129,41.570685 1.996634,41.569663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37782">
+          <NODE1_ID>35694</NODE1_ID>
+          <NODE1_NAME>RbCastella2</NODE1_NAME>
+          <NODE2_ID>36461</NODE2_ID>
+          <NODE2_NAME>TRSASantPereNord</NODE2_NAME>
+          <KMS>8.471</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.035919,41.497840 2.026355,41.573771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38063">
+          <NODE1_ID>40147</NODE1_ID>
+          <NODE1_NAME>TRSACtrn</NODE1_NAME>
+          <NODE2_ID>35694</NODE2_ID>
+          <NODE2_NAME>RbCastella2</NODE2_NAME>
+          <KMS>3.384</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.035809,41.528311 2.035919,41.497840</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38083">
+          <NODE1_ID>41547</NODE1_ID>
+          <NODE1_NAME>TRSAFronto16</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.015798,41.568895 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38376">
+          <NODE1_ID>39060</NODE1_ID>
+          <NODE1_NAME>TRSArellinars68</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>0.945</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.009176,41.572505 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38550">
+          <NODE1_ID>42464</NODE1_ID>
+          <NODE1_NAME>TRSArenysdemar13_jd</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>1.359</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.014157,41.580990 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40872">
+          <NODE1_ID>30084</NODE1_ID>
+          <NODE1_NAME>TRSASocietatNord</NODE1_NAME>
+          <NODE2_ID>44307</NODE2_ID>
+          <NODE2_NAME>TRSAEmiliBad61</NODE2_NAME>
+          <KMS>0.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.013899,41.567826 2.014996,41.574769</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40999">
+          <NODE1_ID>33674</NODE1_ID>
+          <NODE1_NAME>TRSAInfantMarti2</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.713</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.007011,41.557902 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41448">
+          <NODE1_ID>44789</NODE1_ID>
+          <NODE1_NAME>TRSAManuelFalla65ADD</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>0.493</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.003155,41.579571 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42013">
+          <NODE1_ID>37946</NODE1_ID>
+          <NODE1_NAME>TRSA-ZonaOlimpicaADD</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>1.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.016034,41.577339 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47283">
+          <NODE1_ID>27708</NODE1_ID>
+          <NODE1_NAME>TRSA-JAC!</NODE1_NAME>
+          <NODE2_ID>15840</NODE2_ID>
+          <NODE2_NAME>TRSASantMateo39</NODE2_NAME>
+          <KMS>0.871</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.001007,41.553335 1.996024,41.560226</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47337">
+          <NODE1_ID>27708</NODE1_ID>
+          <NODE1_NAME>TRSA-JAC!</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>2.562</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.001007,41.553335 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47902">
+          <NODE1_ID>49407</NODE1_ID>
+          <NODE1_NAME>TRSAMasAdei1</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.015949,41.566583 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48812">
+          <NODE1_ID>49183</NODE1_ID>
+          <NODE1_NAME>TRSAAbadMarcet223</NODE1_NAME>
+          <NODE2_ID>31629</NODE2_ID>
+          <NODE2_NAME>TRSAAngelSallent134</NODE2_NAME>
+          <KMS>1.84</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.008384,41.574447 1.999603,41.559253</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55948">
+          <NODE1_ID>55333</NODE1_ID>
+          <NODE1_NAME>TrrssSlvdrSg</NODE1_NAME>
+          <NODE2_ID>15840</NODE2_ID>
+          <NODE2_NAME>TRSASantMateo39</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.993821,41.557649 1.996024,41.560226</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57001">
+          <NODE1_ID>55598</NODE1_ID>
+          <NODE1_NAME>TRSFtm81</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>1.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.009937,41.580601 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57838">
+          <NODE1_ID>48458</NODE1_ID>
+          <NODE1_NAME>TRSAPardal6</NODE1_NAME>
+          <NODE2_ID>15840</NODE2_ID>
+          <NODE2_NAME>TRSASantMateo39</NODE2_NAME>
+          <KMS>1.561</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.988473,41.547362 1.996024,41.560226</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58396">
+          <NODE1_ID>39747</NODE1_ID>
+          <NODE1_NAME>TRSLltrs9</NODE1_NAME>
+          <NODE2_ID>38737</NODE2_ID>
+          <NODE2_NAME>TRSJll330</NODE2_NAME>
+          <KMS>0.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.009459,41.569875 2.010262,41.569981</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59636">
+          <NODE1_ID>53808</NODE1_ID>
+          <NODE1_NAME>TRSAArquimedes191</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>2.255</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.006309,41.562619 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59868">
+          <NODE1_ID>51773</NODE1_ID>
+          <NODE1_NAME>TRSA22juliol459</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.020665,41.569513 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60599">
+          <NODE1_ID>58713</NODE1_ID>
+          <NODE1_NAME>TRSFerCasablancas</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>1.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.009361,41.581841 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60921">
+          <NODE1_ID>27708</NODE1_ID>
+          <NODE1_NAME>TRSA-JAC!</NODE1_NAME>
+          <NODE2_ID>38759</NODE2_ID>
+          <NODE2_NAME>VILCastellRistol</NODE2_NAME>
+          <KMS>4.855</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.001007,41.553335 1.950234,41.574704</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61307">
+          <NODE1_ID>58298</NODE1_ID>
+          <NODE1_NAME>NodoTRSApere</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>1.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.007679,41.564060 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61753">
+          <NODE1_ID>59688</NODE1_ID>
+          <NODE1_NAME>TRSAGasometre51</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.911</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.011421,41.555812 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62081">
+          <NODE1_ID>21940</NODE1_ID>
+          <NODE1_NAME>TRSATorrePalau</NODE1_NAME>
+          <NODE2_ID>57573</NODE2_ID>
+          <NODE2_NAME>TRSACAusiasMarc9</NODE2_NAME>
+          <KMS>1.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.999072,41.576356 2.004058,41.567838</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62140">
+          <NODE1_ID>58951</NODE1_ID>
+          <NODE1_NAME>TRSAWOficina</NODE1_NAME>
+          <NODE2_ID>58949</NODE2_ID>
+          <NODE2_NAME>TRSAAPMGestio</NODE2_NAME>
+          <KMS>4.953</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.034886,41.532112 1.996847,41.566355</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62518">
+          <NODE1_ID>60070</NODE1_ID>
+          <NODE1_NAME>TRSAJoanAustria</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>0.674</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.000039,41.570333 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62869">
+          <NODE1_ID>13502</NODE1_ID>
+          <NODE1_NAME>TRSA-NicolauCopernic</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>0.771</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.996634,41.569663 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63646">
+          <NODE1_ID>54937</NODE1_ID>
+          <NODE1_NAME>TRSA-RPonent-164</NODE1_NAME>
+          <NODE2_ID>50109</NODE2_ID>
+          <NODE2_NAME>TRSAnordBonAire</NODE2_NAME>
+          <KMS>2.411</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.001379,41.572256 2.017461,41.590291</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63650">
+          <NODE1_ID>50109</NODE1_ID>
+          <NODE1_NAME>TRSAnordBonAire</NODE1_NAME>
+          <NODE2_ID>58620</NODE2_ID>
+          <NODE2_NAME>TRSAAmetllers20</NODE2_NAME>
+          <KMS>0.264</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.017461,41.590291 2.016565,41.588008</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63651">
+          <NODE1_ID>60209</NODE1_ID>
+          <NODE1_NAME>TRSACanCarbonell8</NODE1_NAME>
+          <NODE2_ID>50109</NODE2_ID>
+          <NODE2_NAME>TRSAnordBonAire</NODE2_NAME>
+          <KMS>0.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.017764,41.590318 2.017461,41.590291</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63797">
+          <NODE1_ID>38759</NODE1_ID>
+          <NODE1_NAME>VILCastellRistol</NODE1_NAME>
+          <NODE2_ID>38737</NODE2_ID>
+          <NODE2_NAME>TRSJll330</NODE2_NAME>
+          <KMS>5.034</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.950234,41.574704 2.010262,41.569981</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63798">
+          <NODE1_ID>46858</NODE1_ID>
+          <NODE1_NAME>TRSALasNubes</NODE1_NAME>
+          <NODE2_ID>38759</NODE2_ID>
+          <NODE2_NAME>VILCastellRistol</NODE2_NAME>
+          <KMS>1.229</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.964074,41.578511 1.950234,41.574704</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63924">
+          <NODE1_ID>61154</NODE1_ID>
+          <NODE1_NAME>TrrCrtMtdpr106</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>1.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.017951,41.572687 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65059">
+          <NODE1_ID>62041</NODE1_ID>
+          <NODE1_NAME>TRSAAMar15</NODE1_NAME>
+          <NODE2_ID>21940</NODE2_ID>
+          <NODE2_NAME>TRSATorrePalau</NODE2_NAME>
+          <KMS>1.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.014868,41.581016 1.999072,41.576356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65972">
+          <NODE1_ID>48458</NODE1_ID>
+          <NODE1_NAME>TRSAPardal6</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>3.109</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.988473,41.547362 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65976">
+          <NODE1_ID>61857</NODE1_ID>
+          <NODE1_NAME>TRSAPareLlaurador16</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>2.417</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.007069,41.564050 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66168">
+          <NODE1_ID>12981</NODE1_ID>
+          <NODE1_NAME>SBDAlfonsXIII</NODE1_NAME>
+          <NODE2_ID>61717</NODE2_ID>
+          <NODE2_NAME>TRSA-CCV</NODE2_NAME>
+          <KMS>4.462</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.110695,41.545991 2.058622,41.555155</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66172">
+          <NODE1_ID>37407</NODE1_ID>
+          <NODE1_NAME>TRSACtraCastellar362</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>4.561</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.030558,41.573580 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66388">
+          <NODE1_ID>22881</NODE1_ID>
+          <NODE1_NAME>TRSARocaiRoca</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>4.012</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.020842,41.574084 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66907">
+          <NODE1_ID>22952</NODE1_ID>
+          <NODE1_NAME>TRSAEuropa</NODE1_NAME>
+          <NODE2_ID>58951</NODE2_ID>
+          <NODE2_NAME>TRSAWOficina</NODE2_NAME>
+          <KMS>0.688</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042542,41.534409 2.034886,41.532112</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67788">
+          <NODE1_ID>63214</NODE1_ID>
+          <NODE1_NAME>TRSAStLlorenc92</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.011285,41.567362 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67995">
+          <NODE1_ID>63914</NODE1_ID>
+          <NODE1_NAME>TRSAMasAdei26</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.157</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.015726,41.567496 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68035">
+          <NODE1_ID>51773</NODE1_ID>
+          <NODE1_NAME>TRSA22juliol459</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.595</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.020665,41.569513 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69571">
+          <NODE1_ID>65519</NODE1_ID>
+          <NODE1_NAME>TRSPrLlrdr258</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>2.031</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.997828,41.564241 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69599">
+          <NODE1_ID>48458</NODE1_ID>
+          <NODE1_NAME>TRSAPardal6</NODE1_NAME>
+          <NODE2_ID>40031</NODE2_ID>
+          <NODE2_NAME>VILPabloPicasso24</NODE2_NAME>
+          <KMS>1.465</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.988473,41.547362 1.985924,41.560414</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70846">
+          <NODE1_ID>30086</NODE1_ID>
+          <NODE1_NAME>TRSAKasalet</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.17</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.014790,41.566453 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71991">
+          <NODE1_ID>29273</NODE1_ID>
+          <NODE1_NAME>TRSASantGaieta73</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.416</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.008910,41.567673 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72984">
+          <NODE1_ID>53808</NODE1_ID>
+          <NODE1_NAME>TRSAArquimedes191</NODE1_NAME>
+          <NODE2_ID>66336</NODE2_ID>
+          <NODE2_NAME>TRSARambla179</NODE2_NAME>
+          <KMS>0.116</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.006309,41.562619 2.007659,41.562351</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73210">
+          <NODE1_ID>28524</NODE1_ID>
+          <NODE1_NAME>TRSAMajor15</NODE1_NAME>
+          <NODE2_ID>66336</NODE2_ID>
+          <NODE2_NAME>TRSARambla179</NODE2_NAME>
+          <KMS>0.24</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010109,41.561219 2.007659,41.562351</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73217">
+          <NODE1_ID>68576</NODE1_ID>
+          <NODE1_NAME>TRSAComtedEgara28</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.589</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.016169,41.562804 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73557">
+          <NODE1_ID>28524</NODE1_ID>
+          <NODE1_NAME>TRSAMajor15</NODE1_NAME>
+          <NODE2_ID>67638</NODE2_ID>
+          <NODE2_NAME>TRSACamiFontBoada8</NODE2_NAME>
+          <KMS>2.563</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010109,41.561219 2.001084,41.539158</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73592">
+          <NODE1_ID>67637</NODE1_ID>
+          <NODE1_NAME>TRSAConciliEgarenc60</NODE1_NAME>
+          <NODE2_ID>27708</NODE2_ID>
+          <NODE2_NAME>TRSA-JAC!</NODE2_NAME>
+          <KMS>0.518</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.007126,41.554107 2.001007,41.553335</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74001">
+          <NODE1_ID>69258</NODE1_ID>
+          <NODE1_NAME>TrssCavallBernat25</NODE1_NAME>
+          <NODE2_ID>36461</NODE2_ID>
+          <NODE2_NAME>TRSASantPereNord</NODE2_NAME>
+          <KMS>0.732</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.031866,41.578904 2.026355,41.573771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76339">
+          <NODE1_ID>71429</NODE1_ID>
+          <NODE1_NAME>TRSAStValenti49</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.014804,41.568365 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78466">
+          <NODE1_ID>72702</NODE1_ID>
+          <NODE1_NAME>TRSPnt63</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>2.764</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.010227,41.566138 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79587">
+          <NODE1_ID>49407</NODE1_ID>
+          <NODE1_NAME>TRSAMasAdei1</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.22</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.015949,41.566583 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81043">
+          <NODE1_ID>50109</NODE1_ID>
+          <NODE1_NAME>TRSAnordBonAire</NODE1_NAME>
+          <NODE2_ID>28137</NODE2_ID>
+          <NODE2_NAME>SUB-Castell</NODE2_NAME>
+          <KMS>25.557</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.017461,41.590291 1.818012,41.415738</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121483">
+          <NODE1_ID>8832</NODE1_ID>
+          <NODE1_NAME>TRSAJuliol22</NODE1_NAME>
+          <NODE2_ID>54937</NODE2_ID>
+          <NODE2_NAME>TRSA-RPonent-164</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.005174,41.569320 2.001379,41.572256</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121484">
+          <NODE1_ID>8832</NODE1_ID>
+          <NODE1_NAME>TRSAJuliol22</NODE1_NAME>
+          <NODE2_ID>30084</NODE2_ID>
+          <NODE2_NAME>TRSASocietatNord</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.005174,41.569320 2.013899,41.567826</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121505">
+          <NODE1_ID>36461</NODE1_ID>
+          <NODE1_NAME>TRSASantPereNord</NODE1_NAME>
+          <NODE2_ID>75769</NODE2_ID>
+          <NODE2_NAME>TRSAMasiaCanAnglada</NODE2_NAME>
+          <KMS>1.444</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.026355,41.573771 2.030139,41.561083</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123217">
+          <NODE1_ID>33674</NODE1_ID>
+          <NODE1_NAME>TRSAInfantMarti2</NODE1_NAME>
+          <NODE2_ID>48458</NODE2_ID>
+          <NODE2_NAME>TRSAPardal6</NODE2_NAME>
+          <KMS>1.94</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.007011,41.557902 1.988473,41.547362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

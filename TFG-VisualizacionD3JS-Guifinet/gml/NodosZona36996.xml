@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.645213</gml:X><gml:Y>41.308575</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.665869</gml:X><gml:Y>41.336852</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="21065">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.647617,41.308575</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>21065</NODE_ID>
+      <NODE_NAME>rapitenc</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43451">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.665869,41.328269</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43451</NODE_ID>
+      <NODE_NAME>SMfoix8</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66253">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.649364,41.333061</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66253</NODE_ID>
+      <NODE_NAME>SMM-GabrielL</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66458">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.653432,41.314463</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66458</NODE_ID>
+      <NODE_NAME>SMM-H</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62236">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.645213,41.309526</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62236</NODE_ID>
+      <NODE_NAME>M2</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63816">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.651361,41.336718</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63816</NODE_ID>
+      <NODE_NAME>SMM-JlGranados</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64733">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.658826,41.319238</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64733</NODE_ID>
+      <NODE_NAME>SMM-JoanRosell</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69400">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.646968,41.317548</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69400</NODE_ID>
+      <NODE_NAME>SMM-FrancescXdelAmor</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72548">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.651602,41.336852</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72548</NODE_ID>
+      <NODE_NAME>SMM-MireiaC</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72991">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.649360,41.330826</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72991</NODE_ID>
+      <NODE_NAME>SMM-JosepSoler</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74210">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.656097,41.326380</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74210</NODE_ID>
+      <NODE_NAME>SMM-Sandhar</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.485920</gml:X><gml:Y>41.230768</gml:Y></gml:coord>
+<gml:coord><gml:X>1.675375</gml:X><gml:Y>41.356655</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="27419">
+          <NODE1_ID>32751</NODE1_ID>
+          <NODE1_NAME>SOLstflorencio4Senao</NODE1_NAME>
+          <NODE2_ID>23475</NODE2_ID>
+          <NODE2_NAME>LB-DLaBisbal</NODE2_NAME>
+          <KMS>6.494</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.536184,41.241423 1.485920,41.285924</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29180">
+          <NODE1_ID>34258</NODE1_ID>
+          <NODE1_NAME>NodeJMMele</NODE1_NAME>
+          <NODE2_ID>23475</NODE2_ID>
+          <NODE2_NAME>LB-DLaBisbal</NODE2_NAME>
+          <KMS>6.62</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.536257,41.239980 1.485920,41.285924</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31046">
+          <NODE1_ID>36169</NODE1_ID>
+          <NODE1_NAME>SO-Moreras</NODE1_NAME>
+          <NODE2_ID>23475</NODE2_ID>
+          <NODE2_NAME>LB-DLaBisbal</NODE2_NAME>
+          <KMS>6.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.532695,41.241636 1.485920,41.285924</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44440">
+          <NODE1_ID>37680</NODE1_ID>
+          <NODE1_NAME>LB-CasaEntitats</NODE1_NAME>
+          <NODE2_ID>29689</NODE2_ID>
+          <NODE2_NAME>SANTAOLIVAoliveras3</NODE2_NAME>
+          <KMS>5.682</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.487575,41.281096 1.530831,41.241697</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58649">
+          <NODE1_ID>50399</NODE1_ID>
+          <NODE1_NAME>SO-PI-Torrent-n9</NODE1_NAME>
+          <NODE2_ID>17021</NODE2_ID>
+          <NODE2_NAME>CG-URB-Valldemar</NODE2_NAME>
+          <KMS>6.019</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.542640,41.231612 1.614419,41.230768</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72042">
+          <NODE1_ID>64550</NODE1_ID>
+          <NODE1_NAME>ARB-CentrePolivalent</NODE1_NAME>
+          <NODE2_ID>67249</NODE2_ID>
+          <NODE2_NAME>SO-P</NODE2_NAME>
+          <KMS>6.526</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.600705,41.269319 1.523108,41.264331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75043">
+          <NODE1_ID>34882</NODE1_ID>
+          <NODE1_NAME>VF-SantPau</NODE1_NAME>
+          <NODE2_ID>67249</NODE2_ID>
+          <NODE2_NAME>SO-P</NODE2_NAME>
+          <KMS>16.362</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.675375,41.356655 1.523108,41.264331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78866">
+          <NODE1_ID>73478</NODE1_ID>
+          <NODE1_NAME>LB-Poli4</NODE1_NAME>
+          <NODE2_ID>67249</NODE2_ID>
+          <NODE2_NAME>SO-P</NODE2_NAME>
+          <KMS>1.292</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.510813,41.271346 1.523108,41.264331</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79555">
+          <NODE1_ID>74151</NODE1_ID>
+          <NODE1_NAME>SO-SheetPack</NODE1_NAME>
+          <NODE2_ID>32538</NODE2_ID>
+          <NODE2_NAME>SJ-CampF</NODE2_NAME>
+          <KMS>4.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.520940,41.269314 1.560289,41.296230</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81275">
+          <NODE1_ID>75382</NODE1_ID>
+          <NODE1_NAME>SO-JosepMariaJP</NODE1_NAME>
+          <NODE2_ID>23475</NODE2_ID>
+          <NODE2_NAME>LB-DLaBisbal</NODE2_NAME>
+          <KMS>6.419</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.549197,41.253349 1.485920,41.285924</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122759">
+          <NODE1_ID>76364</NODE1_ID>
+          <NODE1_NAME>SOL-Joan</NODE1_NAME>
+          <NODE2_ID>23298</NODE2_ID>
+          <NODE2_NAME>SJ-Papagai</NODE2_NAME>
+          <KMS>6.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.534654,41.239082 1.517787,41.298214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123214">
+          <NODE1_ID>29689</NODE1_ID>
+          <NODE1_NAME>SANTAOLIVAoliveras3</NODE1_NAME>
+          <NODE2_ID>37680</NODE2_ID>
+          <NODE2_NAME>LB-CasaEntitats</NODE2_NAME>
+          <KMS>5.682</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.530831,41.241697 1.487575,41.281096</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123458">
+          <NODE1_ID>23475</NODE1_ID>
+          <NODE1_NAME>LB-DLaBisbal</NODE1_NAME>
+          <NODE2_ID>29689</NODE2_ID>
+          <NODE2_NAME>SANTAOLIVAoliveras3</NODE2_NAME>
+          <KMS>6.188</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.485920,41.285924 1.530831,41.241697</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

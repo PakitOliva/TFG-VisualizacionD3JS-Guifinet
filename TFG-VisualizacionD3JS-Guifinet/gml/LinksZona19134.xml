@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.175164</gml:X><gml:Y>41.594062</gml:Y></gml:coord>
+<gml:coord><gml:X>2.406888</gml:X><gml:Y>41.719862</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="53310">
+          <NODE1_ID>53715</NODE1_ID>
+          <NODE1_NAME>CardeADMarina</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>4.339</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.361029,41.634285 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60089">
+          <NODE1_ID>58323</NODE1_ID>
+          <NODE1_NAME>C10Oriol</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>5.402</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.359609,41.643907 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72298">
+          <NODE1_ID>67307</NODE1_ID>
+          <NODE1_NAME>CRD10SN01</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374334,41.618121 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72399">
+          <NODE1_ID>54468</NODE1_ID>
+          <NODE1_NAME>BiRLledoner</NODE1_NAME>
+          <NODE2_ID>67307</NODE2_ID>
+          <NODE2_NAME>CRD10SN01</NODE2_NAME>
+          <KMS>16.466</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.187161,41.665721 2.374334,41.618121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72563">
+          <NODE1_ID>67296</NODE1_ID>
+          <NODE1_NAME>CRD10FN01</NODE1_NAME>
+          <NODE2_ID>67307</NODE2_ID>
+          <NODE2_NAME>CRD10SN01</NODE2_NAME>
+          <KMS>2.782</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353888,41.637923 2.374334,41.618121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72564">
+          <NODE1_ID>67308</NODE1_ID>
+          <NODE1_NAME>CRD10SN02</NODE1_NAME>
+          <NODE2_ID>67296</NODE2_ID>
+          <NODE2_NAME>CRD10FN01</NODE2_NAME>
+          <KMS>2.812</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374209,41.617713 2.353888,41.637923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72839">
+          <NODE1_ID>20711</NODE1_ID>
+          <NODE1_NAME>CRD10canxpow</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>2.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.361508,41.635995 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73123">
+          <NODE1_ID>68389</NODE1_ID>
+          <NODE1_NAME>LldVExkalsa</NODE1_NAME>
+          <NODE2_ID>67307</NODE2_ID>
+          <NODE2_NAME>CRD10SN01</NODE2_NAME>
+          <KMS>1.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.375124,41.628631 2.374334,41.618121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73443">
+          <NODE1_ID>68808</NODE1_ID>
+          <NODE1_NAME>CRD10SantaAgnes8</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.371</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.360756,41.624818 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73839">
+          <NODE1_ID>69141</NODE1_ID>
+          <NODE1_NAME>CRD10NarcisMont2</NODE1_NAME>
+          <NODE2_ID>67296</NODE2_ID>
+          <NODE2_NAME>CRD10FN01</NODE2_NAME>
+          <KMS>0.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.351592,41.637231 2.353888,41.637923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73875">
+          <NODE1_ID>20742</NODE1_ID>
+          <NODE1_NAME>LDelVcastellvell</NODE1_NAME>
+          <NODE2_ID>67296</NODE2_ID>
+          <NODE2_NAME>CRD10FN01</NODE2_NAME>
+          <KMS>4.591</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.406888,41.626635 2.353888,41.637923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73955">
+          <NODE1_ID>67308</NODE1_ID>
+          <NODE1_NAME>CRD10SN02</NODE1_NAME>
+          <NODE2_ID>69224</NODE2_ID>
+          <NODE2_NAME>CRD10OrfeoCat1315</NODE2_NAME>
+          <KMS>1.569</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374209,41.617713 2.361630,41.628220</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73998">
+          <NODE1_ID>69256</NODE1_ID>
+          <NODE1_NAME>LDelVTecnologia80</NODE1_NAME>
+          <NODE2_ID>67307</NODE2_ID>
+          <NODE2_NAME>CRD10SN01</NODE2_NAME>
+          <KMS>1.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.379873,41.630744 2.374334,41.618121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75208">
+          <NODE1_ID>70101</NODE1_ID>
+          <NODE1_NAME>CRD10PlaMarcell</NODE1_NAME>
+          <NODE2_ID>67307</NODE2_ID>
+          <NODE2_NAME>CRD10SN01</NODE2_NAME>
+          <KMS>2.087</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.365448,41.635693 2.374334,41.618121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75405">
+          <NODE1_ID>67307</NODE1_ID>
+          <NODE1_NAME>CRD10SN01</NODE1_NAME>
+          <NODE2_ID>49653</NODE2_ID>
+          <NODE2_NAME>ViverBellLloc</NODE2_NAME>
+          <KMS>5.486</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374334,41.618121 2.363807,41.666879</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76166">
+          <NODE1_ID>70933</NODE1_ID>
+          <NODE1_NAME>CRD10Ramonycajal6</NODE1_NAME>
+          <NODE2_ID>70101</NODE2_ID>
+          <NODE2_NAME>CRD10PlaMarcell</NODE2_NAME>
+          <KMS>0.166</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363490,41.635415 2.365448,41.635693</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76280">
+          <NODE1_ID>67517</NODE1_ID>
+          <NODE1_NAME>CRDManuelR23</NODE1_NAME>
+          <NODE2_ID>52630</NODE2_ID>
+          <NODE2_NAME>SAMSantCarles</NODE2_NAME>
+          <KMS>4.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.360237,41.634556 2.375472,41.596749</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77031">
+          <NODE1_ID>67307</NODE1_ID>
+          <NODE1_NAME>CRD10SN01</NODE1_NAME>
+          <NODE2_ID>28276</NODE2_ID>
+          <NODE2_NAME>CRD10Estalvis</NODE2_NAME>
+          <KMS>2.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374334,41.618121 2.363026,41.642547</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77231">
+          <NODE1_ID>28276</NODE1_ID>
+          <NODE1_NAME>CRD10Estalvis</NODE1_NAME>
+          <NODE2_ID>28309</NODE2_ID>
+          <NODE2_NAME>CiSRosaleda</NODE2_NAME>
+          <KMS>5.19</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363026,41.642547 2.353676,41.688751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77563">
+          <NODE1_ID>72489</NODE1_ID>
+          <NODE1_NAME>CRD10VicensBou5</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.345</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.361336,41.625021 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77572">
+          <NODE1_ID>72492</NODE1_ID>
+          <NODE1_NAME>CRD10Dosrius254</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364057,41.625570 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77773">
+          <NODE1_ID>72663</NODE1_ID>
+          <NODE1_NAME>CRD10AmadeuVives8</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.466</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.362345,41.627460 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77999">
+          <NODE1_ID>28276</NODE1_ID>
+          <NODE1_NAME>CRD10Estalvis</NODE1_NAME>
+          <NODE2_ID>55616</NODE2_ID>
+          <NODE2_NAME>CRD10PlAlsina</NODE2_NAME>
+          <KMS>0.115</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363026,41.642547 2.361646,41.642576</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78286">
+          <NODE1_ID>73046</NODE1_ID>
+          <NODE1_NAME>LdelVPsgTecnologia22</NODE1_NAME>
+          <NODE2_ID>67307</NODE2_ID>
+          <NODE2_NAME>CRD10SN01</NODE2_NAME>
+          <KMS>1.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.376204,41.628969 2.374334,41.618121</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79126">
+          <NODE1_ID>73647</NODE1_ID>
+          <NODE1_NAME>CRD10AvDelValles30</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.41</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.359327,41.623755 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80970">
+          <NODE1_ID>67296</NODE1_ID>
+          <NODE1_NAME>CRD10FN01</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>5.933</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353888,41.637923 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121186">
+          <NODE1_ID>75496</NODE1_ID>
+          <NODE1_NAME>TicaeHQ</NODE1_NAME>
+          <NODE2_ID>67296</NODE2_ID>
+          <NODE2_NAME>CRD10FN01</NODE2_NAME>
+          <KMS>0.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353820,41.637981 2.353888,41.637923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121453">
+          <NODE1_ID>75737</NODE1_ID>
+          <NODE1_NAME>CRD10NodeFalsSN02Ap3</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.71</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353980,41.620268 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121454">
+          <NODE1_ID>72664</NODE1_ID>
+          <NODE1_NAME>LDelVMareDelColl50</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>0.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.369807,41.617169 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121462">
+          <NODE1_ID>67308</NODE1_ID>
+          <NODE1_NAME>CRD10SN02</NODE1_NAME>
+          <NODE2_ID>72782</NODE2_ID>
+          <NODE2_NAME>RDVLupo</NODE2_NAME>
+          <KMS>2.759</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374209,41.617713 2.342827,41.609810</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121463">
+          <NODE1_ID>67308</NODE1_ID>
+          <NODE1_NAME>CRD10SN02</NODE1_NAME>
+          <NODE2_ID>75743</NODE2_ID>
+          <NODE2_NAME>CRD10GolfVilalba</NODE2_NAME>
+          <KMS>2.476</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374209,41.617713 2.347455,41.627409</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121465">
+          <NODE1_ID>24664</NODE1_ID>
+          <NODE1_NAME>CiSCMorera</NODE1_NAME>
+          <NODE2_ID>67296</NODE2_ID>
+          <NODE2_NAME>CRD10FN01</NODE2_NAME>
+          <KMS>9.102</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.352208,41.719862 2.353888,41.637923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121466">
+          <NODE1_ID>75745</NODE1_ID>
+          <NODE1_NAME>CRD10NodeFalsSN02Ap2</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.586</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.358871,41.626167 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121468">
+          <NODE1_ID>68811</NODE1_ID>
+          <NODE1_NAME>CRD10PepVentura10</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.497</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.361694,41.627376 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121469">
+          <NODE1_ID>75746</NODE1_ID>
+          <NODE1_NAME>CRD10AvCatalunya173</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>1.425</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.358573,41.622902 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122248">
+          <NODE1_ID>67307</NODE1_ID>
+          <NODE1_NAME>CRD10SN01</NODE1_NAME>
+          <NODE2_ID>74477</NODE2_ID>
+          <NODE2_NAME>SAntDVPirineus13</NODE2_NAME>
+          <KMS>5.318</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374334,41.618121 2.368433,41.665799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122326">
+          <NODE1_ID>76359</NODE1_ID>
+          <NODE1_NAME>CanBiel</NODE1_NAME>
+          <NODE2_ID>70101</NODE2_ID>
+          <NODE2_NAME>CRD10PlaMarcell</NODE2_NAME>
+          <KMS>1.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374852,41.621307 2.365448,41.635693</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122345">
+          <NODE1_ID>67307</NODE1_ID>
+          <NODE1_NAME>CRD10SN01</NODE1_NAME>
+          <NODE2_ID>75936</NODE2_ID>
+          <NODE2_NAME>BiRCastMontbui</NODE2_NAME>
+          <KMS>17.466</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374334,41.618121 2.175164,41.667218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123445">
+          <NODE1_ID>77154</NODE1_ID>
+          <NODE1_NAME>AlfredNovel16</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>6.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308577,41.594062 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123456">
+          <NODE1_ID>67308</NODE1_ID>
+          <NODE1_NAME>CRD10SN02</NODE1_NAME>
+          <NODE2_ID>76665</NODE2_ID>
+          <NODE2_NAME>CRD10GARSA20</NODE2_NAME>
+          <KMS>0.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.374209,41.617713 2.364582,41.620500</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123663">
+          <NODE1_ID>67296</NODE1_ID>
+          <NODE1_NAME>CRD10FN01</NODE1_NAME>
+          <NODE2_ID>77272</NODE2_ID>
+          <NODE2_NAME>CRD10LluisLlibre5</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353888,41.637923 2.354186,41.639556</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123768">
+          <NODE1_ID>77154</NODE1_ID>
+          <NODE1_NAME>AlfredNovel16</NODE1_NAME>
+          <NODE2_ID>67308</NODE2_ID>
+          <NODE2_NAME>CRD10SN02</NODE2_NAME>
+          <KMS>6.069</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308577,41.594062 2.374209,41.617713</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

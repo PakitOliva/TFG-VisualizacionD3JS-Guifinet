@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-0.274980</gml:X><gml:Y>40.427463</gml:Y></gml:coord>
+<gml:coord><gml:X>-0.188372</gml:X><gml:Y>40.655850</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="28287">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>1.2</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29356">
+          <NODE1_ID>34749</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Muro9</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190909,40.501196 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29605">
+          <NODE1_ID>34907</NODE1_ID>
+          <NODE1_NAME>Cstllfort-victor</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.052</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190195,40.501551 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29609">
+          <NODE1_ID>34908</NODE1_ID>
+          <NODE1_NAME>Cstllfort-pbarreda</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.168</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189058,40.500947 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30056">
+          <NODE1_ID>35291</NODE1_ID>
+          <NODE1_NAME>Cstllfort_pajun</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189160,40.500739 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30057">
+          <NODE1_ID>35292</NODE1_ID>
+          <NODE1_NAME>Cstllfort_pdipo</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190582,40.500955 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30081">
+          <NODE1_ID>35311</NODE1_ID>
+          <NODE1_NAME>Cstllfort_jrtroncho</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.188951,40.500866 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30087">
+          <NODE1_ID>35313</NODE1_ID>
+          <NODE1_NAME>Cstllfort_david</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.192245,40.502628 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30604">
+          <NODE1_ID>35757</NODE1_ID>
+          <NODE1_NAME>Cstllfort_edo</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.188779,40.500327 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30606">
+          <NODE1_ID>35758</NODE1_ID>
+          <NODE1_NAME>Cstllfort_isabel</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190796,40.501363 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30610">
+          <NODE1_ID>35760</NODE1_ID>
+          <NODE1_NAME>Cstllfort_jorge</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190228,40.501323 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30977">
+          <NODE1_ID>36100</NODE1_ID>
+          <NODE1_NAME>Cstllfort_jescuder</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189911,40.501388 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31766">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>35369</NODE2_ID>
+          <NODE2_NAME>Cstllfort_fina</NODE2_NAME>
+          <KMS>1.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.191038,40.502046</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32499">
+          <NODE1_ID>37144</NODE1_ID>
+          <NODE1_NAME>Castellfort_Ines</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189235,40.500258 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32686">
+          <NODE1_ID>37708</NODE1_ID>
+          <NODE1_NAME>Cstllfort_ramon</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.267</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.192282,40.502999 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32967">
+          <NODE1_ID>37967</NODE1_ID>
+          <NODE1_NAME>Castellfort_pepito</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.028</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190394,40.501710 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32976">
+          <NODE1_ID>37975</NODE1_ID>
+          <NODE1_NAME>Cstllfort_joan</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.191622,40.502550 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33508">
+          <NODE1_ID>38478</NODE1_ID>
+          <NODE1_NAME>Cstllfort_lausat</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190759,40.501228 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33513">
+          <NODE1_ID>38483</NODE1_ID>
+          <NODE1_NAME>Cstllfort_alejandro</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.131</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189364,40.501196 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33703">
+          <NODE1_ID>38620</NODE1_ID>
+          <NODE1_NAME>Cstllfort_querol</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189396,40.501514 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35258">
+          <NODE1_ID>39844</NODE1_ID>
+          <NODE1_NAME>Castellfort_Moli</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.109</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.188785,40.500193 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35695">
+          <NODE1_ID>33608</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Ajuntament</NODE1_NAME>
+          <NODE2_ID>37089</NODE2_ID>
+          <NODE2_NAME>Cstllfort_Enrique</NODE2_NAME>
+          <KMS>0.205</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190598,40.501906 -0.188372,40.501192</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37363">
+          <NODE1_ID>41570</NODE1_ID>
+          <NODE1_NAME>Cstllfort_barreda1</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189680,40.501347 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37378">
+          <NODE1_ID>41593</NODE1_ID>
+          <NODE1_NAME>Cstllfort_ramon2</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190271,40.501228 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37429">
+          <NODE1_ID>41629</NODE1_ID>
+          <NODE1_NAME>Castellfort_Colegi</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.083</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189402,40.500229 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40907">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>36903</NODE2_ID>
+          <NODE2_NAME>FrcllRptdr</NODE2_NAME>
+          <KMS>18.201</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.202389,40.655850</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40909">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>26374</NODE2_ID>
+          <NODE2_NAME>repVila</NODE2_NAME>
+          <KMS>9.794</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.274980,40.427463</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41780">
+          <NODE1_ID>45104</NODE1_ID>
+          <NODE1_NAME>Cstllfort_Barreda6</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189235,40.501278 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47708">
+          <NODE1_ID>49485</NODE1_ID>
+          <NODE1_NAME>Cstllfort-pabgilan</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.191597,40.502222 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48388">
+          <NODE1_ID>50037</NODE1_ID>
+          <NODE1_NAME>CstllfrtMCrmnG</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189960,40.501434 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48390">
+          <NODE1_ID>50039</NODE1_ID>
+          <NODE1_NAME>Castellfort_Gloria</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.197</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189616,40.501515 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48505">
+          <NODE1_ID>50134</NODE1_ID>
+          <NODE1_NAME>Cstllfort_victor2</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.234</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.191692,40.502558 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50148">
+          <NODE1_ID>51382</NODE1_ID>
+          <NODE1_NAME>Cstllfort-jaicrugar</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.191672,40.502244 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51996">
+          <NODE1_ID>52756</NODE1_ID>
+          <NODE1_NAME>Castellfort_Artemio</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.158</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190340,40.501398 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53319">
+          <NODE1_ID>53735</NODE1_ID>
+          <NODE1_NAME>Castellfrt_EvaPrats</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190083,40.501408 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54269">
+          <NODE1_ID>54350</NODE1_ID>
+          <NODE1_NAME>Cstellfort_APascual</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189195,40.500215 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54284">
+          <NODE1_ID>54349</NODE1_ID>
+          <NODE1_NAME>Cstllfort_JRibas</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.191826,40.502734 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58700">
+          <NODE1_ID>57518</NODE1_ID>
+          <NODE1_NAME>CstllfrtMrc</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.11</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190131,40.500833 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62145">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>59936</NODE2_ID>
+          <NODE2_NAME>Castellfort_Miralles</NODE2_NAME>
+          <KMS>1.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.188701,40.500839</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62434">
+          <NODE1_ID>35306</NODE1_ID>
+          <NODE1_NAME>Cstllfort_bellmunt</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189466,40.501469 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62825">
+          <NODE1_ID>60437</NODE1_ID>
+          <NODE1_NAME>Castellfort_JulioQue</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189952,40.501272 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62843">
+          <NODE1_ID>37144</NODE1_ID>
+          <NODE1_NAME>Castellfort_Ines</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.216</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189235,40.500258 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67520">
+          <NODE1_ID>33608</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Ajuntament</NODE1_NAME>
+          <NODE2_ID>64079</NODE2_ID>
+          <NODE2_NAME>Castellfort_CasaAjun</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190598,40.501906 -0.188616,40.501084</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67521">
+          <NODE1_ID>64080</NODE1_ID>
+          <NODE1_NAME>Castellfort_CasaDepo</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.199</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.188616,40.501084 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69776">
+          <NODE1_ID>65683</NODE1_ID>
+          <NODE1_NAME>Castellfort_JuanMer</NODE1_NAME>
+          <NODE2_ID>33608</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Ajuntament</NODE2_NAME>
+          <KMS>0.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.189187,40.499529 -0.190598,40.501906</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75844">
+          <NODE1_ID>70623</NODE1_ID>
+          <NODE1_NAME>Cstllfortquatre</NODE1_NAME>
+          <NODE2_ID>33607</NODE2_ID>
+          <NODE2_NAME>Cstllfort-Diposit</NODE2_NAME>
+          <KMS>1.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.190930,40.501643 -0.196284,40.492009</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80794">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>74274</NODE2_ID>
+          <NODE2_NAME>Castellfort_Cesar</NODE2_NAME>
+          <KMS>1.136</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.190568,40.501264</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123322">
+          <NODE1_ID>33607</NODE1_ID>
+          <NODE1_NAME>Cstllfort-Diposit</NODE1_NAME>
+          <NODE2_ID>77082</NODE2_ID>
+          <NODE2_NAME>CstllfrtCsr</NODE2_NAME>
+          <KMS>1.117</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-0.196284,40.492009 -0.190556,40.501065</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

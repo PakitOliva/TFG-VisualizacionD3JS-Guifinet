@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.768190</gml:X><gml:Y>41.984831</gml:Y></gml:coord>
+<gml:coord><gml:X>2.908840</gml:X><gml:Y>42.112039</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="26877">
+          <NODE1_ID>32217</NODE1_ID>
+          <NODE1_NAME>CrnllTrrJPoch</NODE1_NAME>
+          <NODE2_ID>29920</NODE2_ID>
+          <NODE2_NAME>CelraCRVinyes</NODE2_NAME>
+          <KMS>6.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.838163,42.070991 2.878380,42.019618</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27816">
+          <NODE1_ID>14466</NODE1_ID>
+          <NODE1_NAME>PrqrsAjuntament</NODE1_NAME>
+          <NODE2_ID>33160</NODE2_ID>
+          <NODE2_NAME>CrnllTrrCanRomans</NODE2_NAME>
+          <KMS>0.671</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.789755,42.102871 2.797630,42.101407</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46743">
+          <NODE1_ID>41824</NODE1_ID>
+          <NODE1_NAME>CrnllTrrCasesNoves</NODE1_NAME>
+          <NODE2_ID>18149</NODE2_ID>
+          <NODE2_NAME>SMVElsAngels</NODE2_NAME>
+          <KMS>14.558</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.808812,42.092622 2.908840,41.984831</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46744">
+          <NODE1_ID>41824</NODE1_ID>
+          <NODE1_NAME>CrnllTrrCasesNoves</NODE1_NAME>
+          <NODE2_ID>38567</NODE2_ID>
+          <NODE2_NAME>BnylsCamos73</NODE2_NAME>
+          <KMS>3.993</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.808812,42.092622 2.768190,42.112039</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67162">
+          <NODE1_ID>41824</NODE1_ID>
+          <NODE1_NAME>CrnllTrrCasesNoves</NODE1_NAME>
+          <NODE2_ID>49847</NODE2_ID>
+          <NODE2_NAME>CrnllTEsclsVllsBrgny</NODE2_NAME>
+          <KMS>1.172</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.808812,42.092622 2.801933,42.101848</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77446">
+          <NODE1_ID>72374</NODE1_ID>
+          <NODE1_NAME>CrnllTrrCarme15</NODE1_NAME>
+          <NODE2_ID>41824</NODE2_ID>
+          <NODE2_NAME>CrnllTrrCasesNoves</NODE2_NAME>
+          <KMS>0.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.814820,42.091204 2.808812,42.092622</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

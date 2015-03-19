@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.138018</gml:X><gml:Y>42.264685</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.158182</gml:X><gml:Y>42.271071</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="27055">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.153301,42.264776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27055</NODE_ID>
+      <NODE_NAME>SntaMrg-PuntaNorte14</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36938">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.139094,42.268475</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36938</NODE_ID>
+      <NODE_NAME>SntaMrg-CWills</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38257">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.157973,42.264685</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38257</NODE_ID>
+      <NODE_NAME>Salata-Cerv7</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="49956">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.145481,42.271071</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>49956</NODE_ID>
+      <NODE_NAME>SntaMrg-GGS</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="60947">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.148626,42.267680</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60947</NODE_ID>
+      <NODE_NAME>SantaMargarida</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66655">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.158182,42.264772</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66655</NODE_ID>
+      <NODE_NAME>Salata-Cerv5</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="68502">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.146216,42.268285</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>68502</NODE_ID>
+      <NODE_NAME>SntaMrg-AvdStM25</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="70185">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.138018,42.269759</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>70185</NODE_ID>
+      <NODE_NAME>Roses-Pastor1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72560">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.147678,42.265186</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72560</NODE_ID>
+      <NODE_NAME>StaMargarita-CapGola</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

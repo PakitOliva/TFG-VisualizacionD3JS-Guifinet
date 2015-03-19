@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.196222</gml:X><gml:Y>42.104454</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.324563</gml:X><gml:Y>42.244150</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="35871">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.324563,42.207449</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35871</NODE_ID>
+      <NODE_NAME>OrganyaElena</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43294">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.196222,42.104454</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43294</NODE_ID>
+      <NODE_NAME>GavarraObservaori</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73348">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.310648,42.244150</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73348</NODE_ID>
+      <NODE_NAME>OrganyaAM</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

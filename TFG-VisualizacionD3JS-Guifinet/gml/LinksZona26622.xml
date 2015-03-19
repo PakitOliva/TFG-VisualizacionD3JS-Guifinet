@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>3.092281</gml:X><gml:Y>41.850474</gml:Y></gml:coord>
+<gml:coord><gml:X>3.133500</gml:X><gml:Y>41.883985</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="46884">
+          <NODE1_ID>48887</NODE1_ID>
+          <NODE1_NAME>StDnielBelgrad16</NODE1_NAME>
+          <NODE2_ID>22417</NODE2_ID>
+          <NODE2_NAME>PALXaloc41</NODE2_NAME>
+          <KMS>1.753</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.113293,41.855027 3.133500,41.850474</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53963">
+          <NODE1_ID>29800</NODE1_ID>
+          <NODE1_NAME>StDnielPalafrugell2</NODE1_NAME>
+          <NODE2_ID>22417</NODE2_ID>
+          <NODE2_NAME>PALXaloc41</NODE2_NAME>
+          <KMS>2.015</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.109989,41.854955 3.133500,41.850474</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54500">
+          <NODE1_ID>20161</NODE1_ID>
+          <NODE1_NAME>PALIgnasi</NODE1_NAME>
+          <NODE2_ID>26072</NODE2_ID>
+          <NODE2_NAME>StDnielMnRas33</NODE2_NAME>
+          <KMS>1.883</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.131706,41.858183 3.109168,41.856317</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54501">
+          <NODE1_ID>30631</NODE1_ID>
+          <NODE1_NAME>StDnielVerges3</NODE1_NAME>
+          <NODE2_ID>20161</NODE2_ID>
+          <NODE2_NAME>PALIgnasi</NODE2_NAME>
+          <KMS>1.802</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.110520,41.854655 3.131706,41.858183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60513">
+          <NODE1_ID>23574</NODE1_ID>
+          <NODE1_NAME>StDnielMnRas35</NODE1_NAME>
+          <NODE2_ID>20161</NODE2_ID>
+          <NODE2_NAME>PALIgnasi</NODE2_NAME>
+          <KMS>1.881</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.109152,41.856649 3.131706,41.858183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72836">
+          <NODE1_ID>54495</NODE1_ID>
+          <NODE1_NAME>StDnielPalafrugell3</NODE1_NAME>
+          <NODE2_ID>20161</NODE2_ID>
+          <NODE2_NAME>PALIgnasi</NODE2_NAME>
+          <KMS>1.805</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.110292,41.855414 3.131706,41.858183</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77679">
+          <NODE1_ID>40715</NODE1_ID>
+          <NODE1_NAME>PALPuigCargol</NODE1_NAME>
+          <NODE2_ID>72594</NODE2_ID>
+          <NODE2_NAME>StDnielMontRas28</NODE2_NAME>
+          <KMS>3.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.092281,41.883985 3.109586,41.857892</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121418">
+          <NODE1_ID>29800</NODE1_ID>
+          <NODE1_NAME>StDnielPalafrugell2</NODE1_NAME>
+          <NODE2_ID>34641</NODE2_ID>
+          <NODE2_NAME>PALEstanyol</NODE2_NAME>
+          <KMS>1.589</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.109989,41.854955 3.128349,41.850927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

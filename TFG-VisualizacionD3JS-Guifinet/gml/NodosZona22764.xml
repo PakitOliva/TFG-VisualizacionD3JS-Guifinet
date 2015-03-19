@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7.573485</gml:X><gml:Y>42.995633</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7.548884</gml:X><gml:Y>43.013379</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="43512">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.549270,43.001332</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43512</NODE_ID>
+      <NODE_NAME>LGmadrid19</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32121">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.564334,43.013379</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32121</NODE_ID>
+      <NODE_NAME>LGcmbnlls6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32122">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.570712,43.008805</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32122</NODE_ID>
+      <NODE_NAME>LGmrcs92</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35075">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.553456,42.995633</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35075</NODE_ID>
+      <NODE_NAME>LGgrdtrn</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38703">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.548884,43.007578</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38703</NODE_ID>
+      <NODE_NAME>lugo-enlace</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="53859">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.573485,43.011365</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>53859</NODE_ID>
+      <NODE_NAME>LG-AFLL-5</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

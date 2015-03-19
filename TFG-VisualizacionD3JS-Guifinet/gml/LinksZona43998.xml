@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.330109</gml:X><gml:Y>42.322090</gml:Y></gml:coord>
+<gml:coord><gml:X>2.340978</gml:X><gml:Y>42.326478</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="40710">
+          <NODE1_ID>43930</NODE1_ID>
+          <NODE1_NAME>LaRocaCalRei</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.87</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.332240,42.322090 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77543">
+          <NODE1_ID>72467</NODE1_ID>
+          <NODE1_NAME>LaRocaJosepTriadu</NODE1_NAME>
+          <NODE2_ID>39683</NODE2_ID>
+          <NODE2_NAME>LlanarsLaCreu</NODE2_NAME>
+          <KMS>0.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330109,42.322901 2.340978,42.326478</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

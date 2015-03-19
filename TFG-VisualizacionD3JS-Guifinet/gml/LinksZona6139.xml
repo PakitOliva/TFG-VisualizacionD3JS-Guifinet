@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.294536</gml:X><gml:Y>42.101754</gml:Y></gml:coord>
+<gml:coord><gml:X>2.558779</gml:X><gml:Y>42.275220</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="5779">
+          <NODE1_ID>8157</NODE1_ID>
+          <NODE1_NAME>VidraCamping</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.575</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.318169,42.122705 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="6055">
+          <NODE1_ID>8568</NODE1_ID>
+          <NODE1_NAME>VidraAjuntament</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310383,42.122381 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="8503">
+          <NODE1_ID>11935</NODE1_ID>
+          <NODE1_NAME>VidraCPallas</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.429</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309704,42.122680 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11196">
+          <NODE1_ID>15129</NODE1_ID>
+          <NODE1_NAME>VidraCasaCamping</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315448,42.124235 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12438">
+          <NODE1_ID>16297</NODE1_ID>
+          <NODE1_NAME>VidraIFernandez</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.684</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310119,42.124105 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="13416">
+          <NODE1_ID>17634</NODE1_ID>
+          <NODE1_NAME>VidraCPrat</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.047</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.317834,42.123045 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15824">
+          <NODE1_ID>20369</NODE1_ID>
+          <NODE1_NAME>Vidra-CanFont</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>2.715</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.334402,42.144181 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16009">
+          <NODE1_ID>14522</NODE1_ID>
+          <NODE1_NAME>VidraJordina</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.368</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310202,42.123100 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17003">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>10137</NODE2_ID>
+          <NODE2_NAME>VidraCanSadurni</NODE2_NAME>
+          <KMS>0.415</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.310034,42.122670</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17661">
+          <NODE1_ID>22254</NODE1_ID>
+          <NODE1_NAME>VidraAntonioM</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.659</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310240,42.123279 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18760">
+          <NODE1_ID>23427</NODE1_ID>
+          <NODE1_NAME>VidraJVilaAbadal</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313576,42.126328 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18930">
+          <NODE1_ID>23648</NODE1_ID>
+          <NODE1_NAME>VidraEFreixes</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.191</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.314966,42.125960 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19518">
+          <NODE1_ID>24003</NODE1_ID>
+          <NODE1_NAME>VidraJoanVivetD2</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.695</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309763,42.122617 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19776">
+          <NODE1_ID>24731</NODE1_ID>
+          <NODE1_NAME>VidraJaumeSoy</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.358</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310374,42.123119 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19779">
+          <NODE1_ID>24736</NODE1_ID>
+          <NODE1_NAME>VidraJSorinach</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.653</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310315,42.123342 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24263">
+          <NODE1_ID>29363</NODE1_ID>
+          <NODE1_NAME>VidraNovaVilanova</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.27</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315342,42.123930 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25047">
+          <NODE1_ID>30321</NODE1_ID>
+          <NODE1_NAME>EDARVidra</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313969,42.120723 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25440">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>10049</NODE2_ID>
+          <NODE2_NAME>VidraRaurell</NODE2_NAME>
+          <KMS>0.111</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.312966,42.124890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25442">
+          <NODE1_ID>8157</NODE1_ID>
+          <NODE1_NAME>VidraCamping</NODE1_NAME>
+          <NODE2_ID>30718</NODE2_ID>
+          <NODE2_NAME>VidraEBasagana</NODE2_NAME>
+          <KMS>0.737</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.318169,42.122705 2.309277,42.122269</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26237">
+          <NODE1_ID>31587</NODE1_ID>
+          <NODE1_NAME>VIDRAJordiE</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.664</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310140,42.122469 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26598">
+          <NODE1_ID>8157</NODE1_ID>
+          <NODE1_NAME>VidraCamping</NODE1_NAME>
+          <NODE2_ID>31948</NODE2_ID>
+          <NODE2_NAME>VidraVilageliu</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.318169,42.122705 2.315889,42.123996</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32037">
+          <NODE1_ID>36933</NODE1_ID>
+          <NODE1_NAME>vidrapsycho</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.632</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310801,42.124227 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32145">
+          <NODE1_ID>37190</NODE1_ID>
+          <NODE1_NAME>VidraEscarra</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.711</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309570,42.122825 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32334">
+          <NODE1_ID>37380</NODE1_ID>
+          <NODE1_NAME>VidraMarina</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310224,42.123437 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32641">
+          <NODE1_ID>37669</NODE1_ID>
+          <NODE1_NAME>VidraJosepX</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.675</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310087,42.123559 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36749">
+          <NODE1_ID>41030</NODE1_ID>
+          <NODE1_NAME>VidraEliFernandez</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.243</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.314859,42.124414 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41699">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>43127</NODE2_ID>
+          <NODE2_NAME>VidraPereC</NODE2_NAME>
+          <KMS>0.226</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.311002,42.124241</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44741">
+          <NODE1_ID>47301</NODE1_ID>
+          <NODE1_NAME>VidraRectoria</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.737</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309286,42.122205 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48264">
+          <NODE1_ID>25795</NODE1_ID>
+          <NODE1_NAME>VidraBlancaV</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.198</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311247,42.124419 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48276">
+          <NODE1_ID>10039</NODE1_ID>
+          <NODE1_NAME>VidraForn</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.35</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310240,42.123279 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48692">
+          <NODE1_ID>50222</NODE1_ID>
+          <NODE1_NAME>VidraJordinaB</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310184,42.123043 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49520">
+          <NODE1_ID>40845</NODE1_ID>
+          <NODE1_NAME>VidraMRaurell</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311442,42.124555 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49646">
+          <NODE1_ID>14403</NODE1_ID>
+          <NODE1_NAME>VidraJoan</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.706</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309676,42.123322 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49647">
+          <NODE1_ID>10040</NODE1_ID>
+          <NODE1_NAME>VidraJordiAnglada</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.133</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313487,42.124834 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50401">
+          <NODE1_ID>17392</NODE1_ID>
+          <NODE1_NAME>VidraPuigCubell</NODE1_NAME>
+          <NODE2_ID>18537</NODE2_ID>
+          <NODE2_NAME>OlotcJoanet</NODE2_NAME>
+          <KMS>11.675</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.350715,42.137689 2.468748,42.195460</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50402">
+          <NODE1_ID>17392</NODE1_ID>
+          <NODE1_NAME>VidraPuigCubell</NODE1_NAME>
+          <NODE2_ID>32360</NODE2_ID>
+          <NODE2_NAME>OlotXdp</NODE2_NAME>
+          <KMS>11.725</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.350715,42.137689 2.467010,42.198167</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50524">
+          <NODE1_ID>14950</NODE1_ID>
+          <NODE1_NAME>VidraFusteriaVivet</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310765,42.123609 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50956">
+          <NODE1_ID>52031</NODE1_ID>
+          <NODE1_NAME>VdrJl</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.701</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309695,42.122985 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51092">
+          <NODE1_ID>45103</NODE1_ID>
+          <NODE1_NAME>VidraIgnasi</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312649,42.125174 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53915">
+          <NODE1_ID>14951</NODE1_ID>
+          <NODE1_NAME>VidraDavidV</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.776</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308820,42.123289 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54261">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>3.069</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54456">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>10038</NODE2_ID>
+          <NODE2_NAME>VidraRPlanas</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.313350,42.124659</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54462">
+          <NODE1_ID>11514</NODE1_ID>
+          <NODE1_NAME>VidraSerradellP</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312139,42.125125 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54472">
+          <NODE1_ID>37670</NODE1_ID>
+          <NODE1_NAME>VidraCanSanta</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.703</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309690,42.122306 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54478">
+          <NODE1_ID>54472</NODE1_ID>
+          <NODE1_NAME>VidraMAlba</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.775</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.307531,42.120023 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54531">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>9745</NODE2_ID>
+          <NODE2_NAME>VIDRACGibernau</NODE2_NAME>
+          <KMS>0.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.314669,42.124431</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54624">
+          <NODE1_ID>18296</NODE1_ID>
+          <NODE1_NAME>VidraJoanM</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.979</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.305160,42.119037 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56309">
+          <NODE1_ID>16226</NODE1_ID>
+          <NODE1_NAME>VidraMRua</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313799,42.125574 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56356">
+          <NODE1_ID>21587</NODE1_ID>
+          <NODE1_NAME>VidraRAguilera</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.746</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.307688,42.120254 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57145">
+          <NODE1_ID>56413</NODE1_ID>
+          <NODE1_NAME>VidraRaurell-Mik</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312590,42.124846 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57618">
+          <NODE1_ID>8157</NODE1_ID>
+          <NODE1_NAME>VidraCamping</NODE1_NAME>
+          <NODE2_ID>56753</NODE2_ID>
+          <NODE2_NAME>VidraLlCanyis</NODE2_NAME>
+          <KMS>0.624</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.318169,42.122705 2.310871,42.124130</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59361">
+          <NODE1_ID>4208</NODE1_ID>
+          <NODE1_NAME>SPDTBellmunt</NODE1_NAME>
+          <NODE2_ID>17392</NODE2_ID>
+          <NODE2_NAME>VidraPuigCubell</NODE2_NAME>
+          <KMS>6.125</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.294536,42.101754 2.350715,42.137689</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60689">
+          <NODE1_ID>23427</NODE1_ID>
+          <NODE1_NAME>VidraJVilaAbadal</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.313576,42.126328 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61823">
+          <NODE1_ID>59731</NODE1_ID>
+          <NODE1_NAME>VidraJavierG</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309755,42.122258 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62827">
+          <NODE1_ID>60198</NODE1_ID>
+          <NODE1_NAME>VidraElColl</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>1.976</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.302870,42.118426 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62883">
+          <NODE1_ID>60477</NODE1_ID>
+          <NODE1_NAME>VidraVerdaguerCasa</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309959,42.122304 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63578">
+          <NODE1_ID>8157</NODE1_ID>
+          <NODE1_NAME>VidraCamping</NODE1_NAME>
+          <NODE2_ID>37373</NODE2_ID>
+          <NODE2_NAME>VidraLourdes</NODE2_NAME>
+          <KMS>0.674</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.318169,42.122705 2.310042,42.123143</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65209">
+          <NODE1_ID>43372</NODE1_ID>
+          <NODE1_NAME>VidraRogerS</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.323</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310209,42.123593 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65447">
+          <NODE1_ID>37669</NODE1_ID>
+          <NODE1_NAME>VidraJosepX</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.332</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.310087,42.123559 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66673">
+          <NODE1_ID>63287</NODE1_ID>
+          <NODE1_NAME>VidraETallom</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309747,42.122420 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67121">
+          <NODE1_ID>11353</NODE1_ID>
+          <NODE1_NAME>VidraFCoromines</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.434</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309984,42.122502 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71547">
+          <NODE1_ID>31948</NODE1_ID>
+          <NODE1_NAME>VidraVilageliu</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315889,42.123996 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76720">
+          <NODE1_ID>8543</NODE1_ID>
+          <NODE1_NAME>VidraCollFred</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.315613,42.125211 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76815">
+          <NODE1_ID>47301</NODE1_ID>
+          <NODE1_NAME>VidraRectoria</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.737</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309286,42.122205 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77234">
+          <NODE1_ID>29863</NODE1_ID>
+          <NODE1_NAME>VidraCavallerBaix</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.391</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.311887,42.122392 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77770">
+          <NODE1_ID>49587</NODE1_ID>
+          <NODE1_NAME>VidraMBalcells</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.249</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.314537,42.124116 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77826">
+          <NODE1_ID>72727</NODE1_ID>
+          <NODE1_NAME>VidraACoromina</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.795</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.308556,42.122914 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78102">
+          <NODE1_ID>72944</NODE1_ID>
+          <NODE1_NAME>CiuretCalPubill</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>5.616</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.331132,42.144351 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78103">
+          <NODE1_ID>72946</NODE1_ID>
+          <NODE1_NAME>CiuretMasQuintana</NODE1_NAME>
+          <NODE2_ID>4208</NODE2_ID>
+          <NODE2_NAME>SPDTBellmunt</NODE2_NAME>
+          <KMS>5.575</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.330216,42.144341 2.294536,42.101754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79928">
+          <NODE1_ID>74350</NODE1_ID>
+          <NODE1_NAME>VidraElBartoli</NODE1_NAME>
+          <NODE2_ID>8157</NODE2_ID>
+          <NODE2_NAME>VidraCamping</NODE2_NAME>
+          <KMS>0.723</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.309564,42.123851 2.318169,42.122705</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81133">
+          <NODE1_ID>75285</NODE1_ID>
+          <NODE1_NAME>VidraJordiV</NODE1_NAME>
+          <NODE2_ID>6492</NODE2_ID>
+          <NODE2_NAME>VidraDipNord</NODE2_NAME>
+          <KMS>0.084</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312933,42.125138 2.312656,42.125861</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122565">
+          <NODE1_ID>17392</NODE1_ID>
+          <NODE1_NAME>VidraPuigCubell</NODE1_NAME>
+          <NODE2_ID>69188</NODE2_ID>
+          <NODE2_NAME>Olotpglc8</NODE2_NAME>
+          <KMS>11.86</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.350715,42.137689 2.481840,42.181077</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122566">
+          <NODE1_ID>60002</NODE1_ID>
+          <NODE1_NAME>OixStBarbara</NODE1_NAME>
+          <NODE2_ID>17392</NODE2_ID>
+          <NODE2_NAME>VidraPuigCubell</NODE2_NAME>
+          <KMS>22.991</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.558779,42.275220 2.350715,42.137689</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123342">
+          <NODE1_ID>6492</NODE1_ID>
+          <NODE1_NAME>VidraDipNord</NODE1_NAME>
+          <NODE2_ID>77095</NODE2_ID>
+          <NODE2_NAME>VidraCVila</NODE2_NAME>
+          <KMS>0.162</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.312656,42.125861 2.314345,42.126592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

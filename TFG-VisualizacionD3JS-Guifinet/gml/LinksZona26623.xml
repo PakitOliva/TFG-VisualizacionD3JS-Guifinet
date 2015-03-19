@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>3.064644</gml:X><gml:Y>41.837125</gml:Y></gml:coord>
+<gml:coord><gml:X>3.092281</gml:X><gml:Y>41.883985</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="61908">
+          <NODE1_ID>40715</NODE1_ID>
+          <NODE1_NAME>PALPuigCargol</NODE1_NAME>
+          <NODE2_ID>53924</NODE2_ID>
+          <NODE2_NAME>ClngLesFonts3</NODE2_NAME>
+          <KMS>4.958</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.092281,41.883985 3.066496,41.843725</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61940">
+          <NODE1_ID>40715</NODE1_ID>
+          <NODE1_NAME>PALPuigCargol</NODE1_NAME>
+          <NODE2_ID>58311</NODE2_ID>
+          <NODE2_NAME>ClngIsidreNonell47</NODE2_NAME>
+          <KMS>5.021</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.092281,41.883985 3.064644,41.843774</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62180">
+          <NODE1_ID>52984</NODE1_ID>
+          <NODE1_NAME>ClngAvBarcelona17</NODE1_NAME>
+          <NODE2_ID>40715</NODE2_ID>
+          <NODE2_NAME>PALPuigCargol</NODE2_NAME>
+          <KMS>5.483</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.071494,41.837125 3.092281,41.883985</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73971">
+          <NODE1_ID>69240</NODE1_ID>
+          <NODE1_NAME>ClngIsidreNonell42</NODE1_NAME>
+          <NODE2_ID>40715</NODE2_ID>
+          <NODE2_NAME>PALPuigCargol</NODE2_NAME>
+          <KMS>4.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.065164,41.843951 3.092281,41.883985</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123345">
+          <NODE1_ID>67396</NODE1_ID>
+          <NODE1_NAME>ClngVall-Llobrega15</NODE1_NAME>
+          <NODE2_ID>40715</NODE2_ID>
+          <NODE2_NAME>PALPuigCargol</NODE2_NAME>
+          <KMS>4.922</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.066233,41.844177 3.092281,41.883985</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.728948</gml:X><gml:Y>41.991304</gml:Y></gml:coord>
+<gml:coord><gml:X>1.868287</gml:X><gml:Y>42.107390</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="11624">
+          <NODE1_ID>15460</NODE1_ID>
+          <NODE1_NAME>CaskanuNode</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.518</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.838784,42.011584 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12989">
+          <NODE1_ID>16501</NODE1_ID>
+          <NODE1_NAME>CASLauNode</NODE1_NAME>
+          <NODE2_ID>8001</NODE2_ID>
+          <NODE2_NAME>CAPCPiuet</NODE2_NAME>
+          <KMS>10.414</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.841937,42.013903 1.780692,42.095800</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17432">
+          <NODE1_ID>22028</NODE1_ID>
+          <NODE1_NAME>CASJudit</NODE1_NAME>
+          <NODE2_ID>6479</NODE2_ID>
+          <NODE2_NAME>CAPTossals</NODE2_NAME>
+          <KMS>10.852</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.838247,42.013725 1.753647,42.088356</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29392">
+          <NODE1_ID>6479</NODE1_ID>
+          <NODE1_NAME>CAPTossals</NODE1_NAME>
+          <NODE2_ID>34783</NODE2_ID>
+          <NODE2_NAME>CASsantaprop</NODE2_NAME>
+          <KMS>8.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.753647,42.088356 1.816188,42.031805</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30764">
+          <NODE1_ID>34783</NODE1_ID>
+          <NODE1_NAME>CASsantaprop</NODE1_NAME>
+          <NODE2_ID>28440</NODE2_ID>
+          <NODE2_NAME>MTCStPonsDip</NODE2_NAME>
+          <KMS>3.425</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.816188,42.031805 1.774831,42.031771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30854">
+          <NODE1_ID>22028</NODE1_ID>
+          <NODE1_NAME>CASJudit</NODE1_NAME>
+          <NODE2_ID>28440</NODE2_ID>
+          <NODE2_NAME>MTCStPonsDip</NODE2_NAME>
+          <KMS>5.622</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.838247,42.013725 1.774831,42.031771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30935">
+          <NODE1_ID>28591</NODE1_ID>
+          <NODE1_NAME>MTMJTorredelfoc</NODE1_NAME>
+          <NODE2_ID>34783</NODE2_ID>
+          <NODE2_NAME>CASsantaprop</NODE2_NAME>
+          <KMS>7.544</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728948,42.012265 1.816188,42.031805</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="39318">
+          <NODE1_ID>42060</NODE1_ID>
+          <NODE1_NAME>CASCalPascual</NODE1_NAME>
+          <NODE2_ID>28440</NODE2_ID>
+          <NODE2_NAME>MTCStPonsDip</NODE2_NAME>
+          <KMS>5.4</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.821235,41.997626 1.774831,42.031771</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45013">
+          <NODE1_ID>47514</NODE1_ID>
+          <NODE1_NAME>CASLaSaleta</NODE1_NAME>
+          <NODE2_ID>28591</NODE2_ID>
+          <NODE2_NAME>MTMJTorredelfoc</NODE2_NAME>
+          <KMS>8.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.833692,41.991304 1.728948,42.012265</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61390">
+          <NODE1_ID>59418</NODE1_ID>
+          <NODE1_NAME>CASMenudells</NODE1_NAME>
+          <NODE2_ID>11246</NODE2_ID>
+          <NODE2_NAME>BRGQueralt</NODE2_NAME>
+          <KMS>9.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.868287,42.030829 1.827558,42.107390</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71917">
+          <NODE1_ID>66882</NODE1_ID>
+          <NODE1_NAME>CAScasanovapujol</NODE1_NAME>
+          <NODE2_ID>22966</NODE2_ID>
+          <NODE2_NAME>AVSerrapinyana</NODE2_NAME>
+          <KMS>4.215</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.822519,42.036733 1.802251,42.071540</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80744">
+          <NODE1_ID>8001</NODE1_ID>
+          <NODE1_NAME>CAPCPiuet</NODE1_NAME>
+          <NODE2_ID>74967</NODE2_ID>
+          <NODE2_NAME>CASPtgeCardona3</NODE2_NAME>
+          <KMS>10.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.780692,42.095800 1.841109,42.013726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122002">
+          <NODE1_ID>28591</NODE1_ID>
+          <NODE1_NAME>MTMJTorredelfoc</NODE1_NAME>
+          <NODE2_ID>60917</NODE2_ID>
+          <NODE2_NAME>CAStonis</NODE2_NAME>
+          <KMS>8.619</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.728948,42.012265 1.832717,42.006611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

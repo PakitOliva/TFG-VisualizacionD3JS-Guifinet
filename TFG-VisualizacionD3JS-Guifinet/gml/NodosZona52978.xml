@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-8.781105</gml:X><gml:Y>42.718728</gml:Y></gml:coord>
+      <gml:coord><gml:X>-8.774783</gml:X><gml:Y>42.737879</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="52981">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.781105,42.718728</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52981</NODE_ID>
+      <NODE_NAME>BARcerqueiras</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52979">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.774783,42.737560</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52979</NODE_ID>
+      <NODE_NAME>BARcampelo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52980">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.779356,42.724438</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52980</NODE_ID>
+      <NODE_NAME>BARvilar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52982">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-8.777736,42.737879</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52982</NODE_ID>
+      <NODE_NAME>BARvarela</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

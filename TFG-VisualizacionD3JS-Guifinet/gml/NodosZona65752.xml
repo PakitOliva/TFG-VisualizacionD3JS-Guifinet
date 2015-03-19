@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.138474</gml:X><gml:Y>42.176753</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.172415</gml:X><gml:Y>42.184944</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="66929">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.138474,42.176753</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66929</NODE_ID>
+      <NODE_NAME>Brucs-Rectoria</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65753">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.170406,42.184256</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65753</NODE_ID>
+      <NODE_NAME>Brucs-Albert</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="74939">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.172415,42.184944</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>74939</NODE_ID>
+      <NODE_NAME>Brucs-Amagat</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

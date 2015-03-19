@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.077440</gml:X><gml:Y>42.315511</gml:Y></gml:coord>
+<gml:coord><gml:X>2.114342</gml:X><gml:Y>42.321299</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="12206">
+          <NODE1_ID>15333</NODE1_ID>
+          <NODE1_NAME>PlanolesCasal</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.126</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105457,42.316671 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12259">
+          <NODE1_ID>15334</NODE1_ID>
+          <NODE1_NAME>PlanolesDiposit</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.273</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103409,42.318754 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17568">
+          <NODE1_ID>16147</NODE1_ID>
+          <NODE1_NAME>Planoles-Gracia</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.178</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105861,42.317135 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18363">
+          <NODE1_ID>15334</NODE1_ID>
+          <NODE1_NAME>PlanolesDiposit</NODE1_NAME>
+          <NODE2_ID>23013</NODE2_ID>
+          <NODE2_NAME>PlanolesLlogari</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103409,42.318754 2.098732,42.319047</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18380">
+          <NODE1_ID>23028</NODE1_ID>
+          <NODE1_NAME>PlanolesJosepLopez</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.147</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104762,42.317889 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18381">
+          <NODE1_ID>23029</NODE1_ID>
+          <NODE1_NAME>PlanolesMateu</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.017</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103788,42.316360 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18559">
+          <NODE1_ID>23213</NODE1_ID>
+          <NODE1_NAME>PlanolesDomingu</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.454</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.098356,42.317134 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18720">
+          <NODE1_ID>23382</NODE1_ID>
+          <NODE1_NAME>PlanolesJoanIsabel</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.088</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102989,42.316054 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18838">
+          <NODE1_ID>23530</NODE1_ID>
+          <NODE1_NAME>PlanolesJAntonio</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.046</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104035,42.316751 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18848">
+          <NODE1_ID>23409</NODE1_ID>
+          <NODE1_NAME>PlanolesMartaLopez</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.225</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104670,42.320554 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19043">
+          <NODE1_ID>23658</NODE1_ID>
+          <NODE1_NAME>PlanolesCasadella</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.233</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.106779,42.316660 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21812">
+          <NODE1_ID>27002</NODE1_ID>
+          <NODE1_NAME>PlanolesEstacio23</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.106113,42.315533 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21813">
+          <NODE1_ID>27003</NODE1_ID>
+          <NODE1_NAME>PlanolesJCLopez</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097933,42.319651 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21838">
+          <NODE1_ID>27028</NODE1_ID>
+          <NODE1_NAME>PlanolesXeviP</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.295</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102951,42.316122 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22628">
+          <NODE1_ID>16149</NODE1_ID>
+          <NODE1_NAME>Planoles-CalBartomeu</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103087,42.317028 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23925">
+          <NODE1_ID>29145</NODE1_ID>
+          <NODE1_NAME>PlanersJGuardia</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.569</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.096683,42.319896 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25642">
+          <NODE1_ID>15332</NODE1_ID>
+          <NODE1_NAME>PlanolesAjuntament</NODE1_NAME>
+          <NODE2_ID>30815</NODE2_ID>
+          <NODE2_NAME>PlanolesMBlanes</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103991,42.316336 2.107036,42.315962</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25795">
+          <NODE1_ID>15334</NODE1_ID>
+          <NODE1_NAME>PlanolesDiposit</NODE1_NAME>
+          <NODE2_ID>31126</NODE2_ID>
+          <NODE2_NAME>PlanolesCalSerrat</NODE2_NAME>
+          <KMS>0.917</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103409,42.318754 2.114342,42.317224</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25913">
+          <NODE1_ID>31266</NODE1_ID>
+          <NODE1_NAME>PlanolesASanchez</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.022</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103930,42.316526 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26071">
+          <NODE1_ID>31497</NODE1_ID>
+          <NODE1_NAME>PlanolesJaume</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.341</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.106253,42.316530 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27082">
+          <NODE1_ID>15334</NODE1_ID>
+          <NODE1_NAME>PlanolesDiposit</NODE1_NAME>
+          <NODE2_ID>32431</NODE2_ID>
+          <NODE2_NAME>PlanolesCoromines</NODE2_NAME>
+          <KMS>0.329</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103409,42.318754 2.106564,42.316934</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27497">
+          <NODE1_ID>31478</NODE1_ID>
+          <NODE1_NAME>PlanolesAForras</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.048</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103769,42.316732 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31038">
+          <NODE1_ID>36158</NODE1_ID>
+          <NODE1_NAME>PlanolesBerta</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102546,42.316559 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36925">
+          <NODE1_ID>41191</NODE1_ID>
+          <NODE1_NAME>Planoles-Dani</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.102948,42.317444 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="41711">
+          <NODE1_ID>31741</NODE1_ID>
+          <NODE1_NAME>NevaParatjeBalloAMar</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>1.622</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.083797,42.319925 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48257">
+          <NODE1_ID>15332</NODE1_ID>
+          <NODE1_NAME>PlanolesAjuntament</NODE1_NAME>
+          <NODE2_ID>49929</NODE2_ID>
+          <NODE2_NAME>Planoles-Ferret</NODE2_NAME>
+          <KMS>0.089</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103991,42.316336 2.104686,42.316949</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49990">
+          <NODE1_ID>51245</NODE1_ID>
+          <NODE1_NAME>NevaJosepPous</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>2.161</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.077440,42.316108 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="50272">
+          <NODE1_ID>51507</NODE1_ID>
+          <NODE1_NAME>Planoles-LluisBerta</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.108</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104941,42.317006 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51753">
+          <NODE1_ID>52531</NODE1_ID>
+          <NODE1_NAME>PlanolesAGuerrero</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.105700,42.321299 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63039">
+          <NODE1_ID>60595</NODE1_ID>
+          <NODE1_NAME>Planoles-Foment</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.517</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.097681,42.320649 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64893">
+          <NODE1_ID>41523</NODE1_ID>
+          <NODE1_NAME>PlanolesNuriaMartin</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.297</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.107584,42.316152 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65104">
+          <NODE1_ID>62200</NODE1_ID>
+          <NODE1_NAME>PlanolesPlaca10</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103107,42.316285 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67530">
+          <NODE1_ID>64092</NODE1_ID>
+          <NODE1_NAME>Planoles-Casutxa</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.034</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103587,42.316270 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68372">
+          <NODE1_ID>64592</NODE1_ID>
+          <NODE1_NAME>Planolesadam</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104314,42.315696 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69495">
+          <NODE1_ID>65460</NODE1_ID>
+          <NODE1_NAME>Planoles-Esglesia9</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.023</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104214,42.316463 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74234">
+          <NODE1_ID>69420</NODE1_ID>
+          <NODE1_NAME>Planoles-ComaArmada</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.374</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.104611,42.315511 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76603">
+          <NODE1_ID>71640</NODE1_ID>
+          <NODE1_NAME>Planoles-JSalinas</NODE1_NAME>
+          <NODE2_ID>15332</NODE2_ID>
+          <NODE2_NAME>PlanolesAjuntament</NODE2_NAME>
+          <KMS>0.145</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.103050,42.317434 2.103991,42.316336</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76641">
+          <NODE1_ID>71659</NODE1_ID>
+          <NODE1_NAME>PlanolesLlibre</NODE1_NAME>
+          <NODE2_ID>15334</NODE2_ID>
+          <NODE2_NAME>PlanolesDiposit</NODE2_NAME>
+          <KMS>0.366</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.106581,42.316444 2.103409,42.318754</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

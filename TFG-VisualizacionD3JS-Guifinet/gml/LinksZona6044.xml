@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.587170</gml:X><gml:Y>41.670700</gml:Y></gml:coord>
+<gml:coord><gml:X>1.977370</gml:X><gml:Y>41.786475</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="9696">
+          <NODE1_ID>13087</NODE1_ID>
+          <NODE1_NAME>FON-Papirot</NODE1_NAME>
+          <NODE2_ID>13086</NODE2_ID>
+          <NODE2_NAME>FON-Goscan</NODE2_NAME>
+          <KMS>0.059</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.782577,41.753845 1.783047,41.753449</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19731">
+          <NODE1_ID>19309</NODE1_ID>
+          <NODE1_NAME>FONDominiAmbiental</NODE1_NAME>
+          <NODE2_ID>19023</NODE2_ID>
+          <NODE2_NAME>FONAjuntament</NODE2_NAME>
+          <KMS>0.822</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674718,41.757044 1.669053,41.763114</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19732">
+          <NODE1_ID>19021</NODE1_ID>
+          <NODE1_NAME>FONCamps-Casal</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>2.395</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.686267,41.776799 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19733">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>2.23</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19734">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>3.67</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22178">
+          <NODE1_ID>27414</NODE1_ID>
+          <NODE1_NAME>FONClosa</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.835</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668836,41.763134 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22900">
+          <NODE1_ID>28131</NODE1_ID>
+          <NODE1_NAME>FONCalFelip</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718420,41.740968 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23219">
+          <NODE1_ID>27369</NODE1_ID>
+          <NODE1_NAME>FONPladelaVila22</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>3.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743045,41.761229 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23565">
+          <NODE1_ID>13644</NODE1_ID>
+          <NODE1_NAME>RubioPedrafita</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>14.383</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.587170,41.670700 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23832">
+          <NODE1_ID>29016</NODE1_ID>
+          <NODE1_NAME>FONGrau</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>1.496</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.708975,41.750488 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23834">
+          <NODE1_ID>29018</NODE1_ID>
+          <NODE1_NAME>FONRGOC</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>3.317</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744946,41.758955 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23835">
+          <NODE1_ID>29021</NODE1_ID>
+          <NODE1_NAME>FONXERINGO</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>2.466</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.733042,41.760499 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23836">
+          <NODE1_ID>29022</NODE1_ID>
+          <NODE1_NAME>FONVilagra</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>2.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.737176,41.759884 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23837">
+          <NODE1_ID>29023</NODE1_ID>
+          <NODE1_NAME>FONpins21</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>3.068</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743393,41.761163 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23838">
+          <NODE1_ID>29025</NODE1_ID>
+          <NODE1_NAME>FONComas</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.715463,41.743441 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23867">
+          <NODE1_ID>29061</NODE1_ID>
+          <NODE1_NAME>FONCanCalmet</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.77</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.667615,41.761495 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23869">
+          <NODE1_ID>29064</NODE1_ID>
+          <NODE1_NAME>FONCalGrane</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>2.671</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.682861,41.780311 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23908">
+          <NODE1_ID>29117</NODE1_ID>
+          <NODE1_NAME>FONCalxic</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.759</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718849,41.740559 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23917">
+          <NODE1_ID>29128</NODE1_ID>
+          <NODE1_NAME>FONElCollet</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>0.452</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.681091,41.775541 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23926">
+          <NODE1_ID>28131</NODE1_ID>
+          <NODE1_NAME>FONCalFelip</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718420,41.740968 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23927">
+          <NODE1_ID>28131</NODE1_ID>
+          <NODE1_NAME>FONCalFelip</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.756</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718420,41.740968 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23934">
+          <NODE1_ID>29141</NODE1_ID>
+          <NODE1_NAME>FONFusteriaClosa</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668830,41.762254 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23946">
+          <NODE1_ID>29160</NODE1_ID>
+          <NODE1_NAME>FONCalJoan</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.882</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718765,41.751339 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23952">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>29017</NODE2_ID>
+          <NODE2_NAME>FONAntoniaMS</NODE2_NAME>
+          <KMS>3.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.742638,41.758751</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24066">
+          <NODE1_ID>29278</NODE1_ID>
+          <NODE1_NAME>FONPins46</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>2.928</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742706,41.762666 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24074">
+          <NODE1_ID>29314</NODE1_ID>
+          <NODE1_NAME>FONCalTeixido</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>2.785</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.682303,41.781470 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24093">
+          <NODE1_ID>29020</NODE1_ID>
+          <NODE1_NAME>FONcasalot</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>3.271</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.676209,41.786475 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24094">
+          <NODE1_ID>29336</NODE1_ID>
+          <NODE1_NAME>FONGuillemCervera46</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>2.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.735132,41.761074 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24102">
+          <NODE1_ID>19019</NODE1_ID>
+          <NODE1_NAME>FONFals-Tagore</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.882</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.715176,41.743494 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24218">
+          <NODE1_ID>19309</NODE1_ID>
+          <NODE1_NAME>FONDominiAmbiental</NODE1_NAME>
+          <NODE2_ID>29472</NODE2_ID>
+          <NODE2_NAME>FONCalFrancisco</NODE2_NAME>
+          <KMS>0.486</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674718,41.757044 1.670169,41.759785</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24221">
+          <NODE1_ID>29474</NODE1_ID>
+          <NODE1_NAME>FONCasaPantine</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.878</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.662895,41.771453 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24222">
+          <NODE1_ID>29477</NODE1_ID>
+          <NODE1_NAME>FONCalXisco</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>0.954</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.684677,41.768292 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24353">
+          <NODE1_ID>29610</NODE1_ID>
+          <NODE1_NAME>FONCalBisbe</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.446</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.677142,41.769934 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24374">
+          <NODE1_ID>19309</NODE1_ID>
+          <NODE1_NAME>FONDominiAmbiental</NODE1_NAME>
+          <NODE2_ID>29631</NODE2_ID>
+          <NODE2_NAME>FONPlacaMajor2</NODE2_NAME>
+          <KMS>0.872</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674718,41.757044 1.668876,41.763560</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24680">
+          <NODE1_ID>19021</NODE1_ID>
+          <NODE1_NAME>FONCamps-Casal</NODE1_NAME>
+          <NODE2_ID>30004</NODE2_ID>
+          <NODE2_NAME>FONCanPelfort</NODE2_NAME>
+          <KMS>1.328</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.686267,41.776799 1.670470,41.775035</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24688">
+          <NODE1_ID>30006</NODE1_ID>
+          <NODE1_NAME>FONCanJapic</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.922</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.718255,41.751493 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24712">
+          <NODE1_ID>30033</NODE1_ID>
+          <NODE1_NAME>FONSolivent</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.45</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.659569,41.763500 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24715">
+          <NODE1_ID>30038</NODE1_ID>
+          <NODE1_NAME>FONGarrguesNoves</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.981</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.661473,41.771866 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25624">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>30942</NODE2_ID>
+          <NODE2_NAME>FON_CanDomingo</NODE2_NAME>
+          <KMS>3.833</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.736741,41.747310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25939">
+          <NODE1_ID>19309</NODE1_ID>
+          <NODE1_NAME>FONDominiAmbiental</NODE1_NAME>
+          <NODE2_ID>31395</NODE2_ID>
+          <NODE2_NAME>FONCalTomas</NODE2_NAME>
+          <KMS>0.996</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674718,41.757044 1.670136,41.765328</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26147">
+          <NODE1_ID>31556</NODE1_ID>
+          <NODE1_NAME>FONBagesCargol</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.883</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668940,41.763714 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26152">
+          <NODE1_ID>31562</NODE1_ID>
+          <NODE1_NAME>FONCalMesXic</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>1.032</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.686863,41.767514 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26161">
+          <NODE1_ID>31567</NODE1_ID>
+          <NODE1_NAME>FONElPadro</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.443</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.672990,41.753273 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26791">
+          <NODE1_ID>19021</NODE1_ID>
+          <NODE1_NAME>FONCamps-Casal</NODE1_NAME>
+          <NODE2_ID>32120</NODE2_ID>
+          <NODE2_NAME>FONCalSebastia</NODE2_NAME>
+          <KMS>1.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.686267,41.776799 1.686970,41.767131</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27014">
+          <NODE1_ID>32350</NODE1_ID>
+          <NODE1_NAME>FONGisbertRibelles8</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>2.604</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.736923,41.761714 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27127">
+          <NODE1_ID>32482</NODE1_ID>
+          <NODE1_NAME>FONEscoles</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.985</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.665716,41.762804 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28864">
+          <NODE1_ID>34100</NODE1_ID>
+          <NODE1_NAME>FonCanRiva</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.054</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668838,41.765450 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28869">
+          <NODE1_ID>34107</NODE1_ID>
+          <NODE1_NAME>FONStVicens810</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.974</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.714559,41.742129 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29239">
+          <NODE1_ID>34566</NODE1_ID>
+          <NODE1_NAME>FONTorrent15</NODE1_NAME>
+          <NODE2_ID>24683</NODE2_ID>
+          <NODE2_NAME>FONUmac</NODE2_NAME>
+          <KMS>0.974</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.714189,41.743025 1.725521,41.745219</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35144">
+          <NODE1_ID>19309</NODE1_ID>
+          <NODE1_NAME>FONDominiAmbiental</NODE1_NAME>
+          <NODE2_ID>39758</NODE2_ID>
+          <NODE2_NAME>FONVinyaTeixido</NODE2_NAME>
+          <KMS>1.25</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674718,41.757044 1.663592,41.764606</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37019">
+          <NODE1_ID>41258</NODE1_ID>
+          <NODE1_NAME>FONCasaNova</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>0.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.683913,41.777858 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38233">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>42340</NODE2_ID>
+          <NODE2_NAME>FONLapicer14</NODE2_NAME>
+          <KMS>2.462</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.732621,41.760268</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40057">
+          <NODE1_ID>43729</NODE1_ID>
+          <NODE1_NAME>FONCanPutxo</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>4.932</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.654167,41.782133 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40059">
+          <NODE1_ID>19309</NODE1_ID>
+          <NODE1_NAME>FONDominiAmbiental</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>3.269</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674718,41.757044 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40396">
+          <NODE1_ID>43256</NODE1_ID>
+          <NODE1_NAME>FONElectricaPinto</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>2.497</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.669021,41.762591 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40397">
+          <NODE1_ID>43256</NODE1_ID>
+          <NODE1_NAME>FONElectricaPinto</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>2.497</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.669021,41.762591 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="40431">
+          <NODE1_ID>43256</NODE1_ID>
+          <NODE1_NAME>FONElectricaPinto</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>2.497</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.669021,41.762591 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="42642">
+          <NODE1_ID>45840</NODE1_ID>
+          <NODE1_NAME>FONBruquesses</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>3.955</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.671059,41.748847 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44101">
+          <NODE1_ID>46906</NODE1_ID>
+          <NODE1_NAME>FONMajor6</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668870,41.762497 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46170">
+          <NODE1_ID>48363</NODE1_ID>
+          <NODE1_NAME>FONBarcons</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>0.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.688987,41.777615 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49278">
+          <NODE1_ID>50673</NODE1_ID>
+          <NODE1_NAME>FONStRoc</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>2.931</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.678205,41.783305 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52829">
+          <NODE1_ID>53343</NODE1_ID>
+          <NODE1_NAME>FONRecus</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.39</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.660821,41.763998 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61331">
+          <NODE1_ID>58537</NODE1_ID>
+          <NODE1_NAME>FONMasiaCaselles</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.680889,41.767353 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62241">
+          <NODE1_ID>58537</NODE1_ID>
+          <NODE1_NAME>FONMasiaCaselles</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>1.255</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.680889,41.767353 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62995">
+          <NODE1_ID>27414</NODE1_ID>
+          <NODE1_NAME>FONClosa</NODE1_NAME>
+          <NODE2_ID>19309</NODE2_ID>
+          <NODE2_NAME>FONDominiAmbiental</NODE2_NAME>
+          <KMS>0.835</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668836,41.763134 1.674718,41.757044</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65892">
+          <NODE1_ID>43255</NODE1_ID>
+          <NODE1_NAME>STPCatalana</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>17.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.858717,41.778025 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65893">
+          <NODE1_ID>43255</NODE1_ID>
+          <NODE1_NAME>STPCatalana</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>17.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.858717,41.778025 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65902">
+          <NODE1_ID>43729</NODE1_ID>
+          <NODE1_NAME>FONCanPutxo</NODE1_NAME>
+          <NODE2_ID>62803</NODE2_ID>
+          <NODE2_NAME>FONMajor3</NODE2_NAME>
+          <KMS>2.507</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.654167,41.782133 1.668818,41.762408</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66497">
+          <NODE1_ID>43729</NODE1_ID>
+          <NODE1_NAME>FONCanPutxo</NODE1_NAME>
+          <NODE2_ID>63182</NODE2_ID>
+          <NODE2_NAME>FONCamps</NODE2_NAME>
+          <KMS>1.352</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.654167,41.782133 1.665763,41.773601</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66707">
+          <NODE1_ID>63185</NODE1_ID>
+          <NODE1_NAME>FONCanFeixes</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>1.82</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.674917,41.776920 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67229">
+          <NODE1_ID>63815</NODE1_ID>
+          <NODE1_NAME>FONPMajor4</NODE1_NAME>
+          <NODE2_ID>43729</NODE2_ID>
+          <NODE2_NAME>FONCanPutxo</NODE2_NAME>
+          <KMS>2.411</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.668885,41.763426 1.654167,41.782133</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67651">
+          <NODE1_ID>19012</NODE1_ID>
+          <NODE1_NAME>FONBatlem</NODE1_NAME>
+          <NODE2_ID>62756</NODE2_ID>
+          <NODE2_NAME>TALKouten</NODE2_NAME>
+          <KMS>22.425</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.713087,41.776927 1.977370,41.736890</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68452">
+          <NODE1_ID>64739</NODE1_ID>
+          <NODE1_NAME>FONElSoler</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>0.968</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.689620,41.768455 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75520">
+          <NODE1_ID>70361</NODE1_ID>
+          <NODE1_NAME>FONMiradorCanet62Rd1</NODE1_NAME>
+          <NODE2_ID>42812</NODE2_ID>
+          <NODE2_NAME>MNPalauFiral</NODE2_NAME>
+          <KMS>8.781</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744914,41.758940 1.846948,41.738661</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78714">
+          <NODE1_ID>70361</NODE1_ID>
+          <NODE1_NAME>FONMiradorCanet62Rd1</NODE1_NAME>
+          <NODE2_ID>71738</NODE2_ID>
+          <NODE2_NAME>RiverPark-ST</NODE2_NAME>
+          <KMS>13.927</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.744914,41.758940 1.902327,41.716259</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81111">
+          <NODE1_ID>67351</NODE1_ID>
+          <NODE1_NAME>FONsabines11</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>3.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.742605,41.759998 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81113">
+          <NODE1_ID>70440</NODE1_ID>
+          <NODE1_NAME>FONBatlemcasa</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.714739,41.777778 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81114">
+          <NODE1_ID>27369</NODE1_ID>
+          <NODE1_NAME>FONPladelaVila22</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>3.041</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.743045,41.761229 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81240">
+          <NODE1_ID>75362</NODE1_ID>
+          <NODE1_NAME>SFBPinedaAvBgs7</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>10.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.833104,41.761395 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121261">
+          <NODE1_ID>43729</NODE1_ID>
+          <NODE1_NAME>FONCanPutxo</NODE1_NAME>
+          <NODE2_ID>75545</NODE2_ID>
+          <NODE2_NAME>FONCanSaladich</NODE2_NAME>
+          <KMS>2.309</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.654167,41.782133 1.681933,41.781692</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121708">
+          <NODE1_ID>73575</NODE1_ID>
+          <NODE1_NAME>FONhostal</NODE1_NAME>
+          <NODE2_ID>74482</NODE2_ID>
+          <NODE2_NAME>FONSirola</NODE2_NAME>
+          <KMS>0.351</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.692788,41.763381 1.689250,41.761660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121709">
+          <NODE1_ID>72900</NODE1_ID>
+          <NODE1_NAME>FONesquerra</NODE1_NAME>
+          <NODE2_ID>74482</NODE2_ID>
+          <NODE2_NAME>FONSirola</NODE2_NAME>
+          <KMS>0.372</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.693692,41.761232 1.689250,41.761660</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121943">
+          <NODE1_ID>47836</NODE1_ID>
+          <NODE1_NAME>FONCanetGuifre</NODE1_NAME>
+          <NODE2_ID>19012</NODE2_ID>
+          <NODE2_NAME>FONBatlem</NODE2_NAME>
+          <KMS>2.727</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.740029,41.762925 1.713087,41.776927</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

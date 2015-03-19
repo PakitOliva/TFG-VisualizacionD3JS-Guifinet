@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-1.795669</gml:X><gml:Y>43.342362</gml:Y></gml:coord>
+<gml:coord><gml:X>-1.786644</gml:X><gml:Y>43.362378</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="70498">
+          <NODE1_ID>59704</NODE1_ID>
+          <NODE1_NAME>HONDhaizeder</NODE1_NAME>
+          <NODE2_ID>65865</NODE2_ID>
+          <NODE2_NAME>IRUNSantiago51</NODE2_NAME>
+          <KMS>2.341</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-1.795669,43.362378 -1.786644,43.342362</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

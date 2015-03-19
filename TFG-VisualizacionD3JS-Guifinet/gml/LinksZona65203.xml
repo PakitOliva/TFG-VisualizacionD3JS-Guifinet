@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.412190</gml:X><gml:Y>41.248930</gml:Y></gml:coord>
+<gml:coord><gml:X>1.701850</gml:X><gml:Y>41.352988</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="76547">
+          <NODE1_ID>46383</NODE1_ID>
+          <NODE1_NAME>VF-BaltadeCela</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>23.88</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701850,41.352988 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77213">
+          <NODE1_ID>71809</NODE1_ID>
+          <NODE1_NAME>MSLL-Masllorenc</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>1.824</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.416909,41.268273 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77214">
+          <NODE1_ID>71808</NODE1_ID>
+          <NODE1_NAME>MSLL-Masarbones</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>1.078</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437895,41.260859 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79627">
+          <NODE1_ID>37680</NODE1_ID>
+          <NODE1_NAME>LB-CasaEntitats</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>4.278</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.487575,41.281096 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80142">
+          <NODE1_ID>74622</NODE1_ID>
+          <NODE1_NAME>MLL-FranciscoJC</NODE1_NAME>
+          <NODE2_ID>71809</NODE2_ID>
+          <NODE2_NAME>MSLL-Masllorenc</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.413400,41.269490 1.416909,41.268273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80143">
+          <NODE1_ID>74624</NODE1_ID>
+          <NODE1_NAME>MLL-MarcianoDP</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>0.195</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.438400,41.268800 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80146">
+          <NODE1_ID>74626</NODE1_ID>
+          <NODE1_NAME>MLL.AntoniF</NODE1_NAME>
+          <NODE2_ID>71808</NODE2_ID>
+          <NODE2_NAME>MSLL-Masarbones</NODE2_NAME>
+          <KMS>0.053</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437863,41.260380 1.437895,41.260859</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80812">
+          <NODE1_ID>71808</NODE1_ID>
+          <NODE1_NAME>MSLL-Masarbones</NODE1_NAME>
+          <NODE2_ID>75043</NODE2_ID>
+          <NODE2_NAME>MLL-GianlucaB</NODE2_NAME>
+          <KMS>0.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437895,41.260859 1.438006,41.260903</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80985">
+          <NODE1_ID>71809</NODE1_ID>
+          <NODE1_NAME>MSLL-Masllorenc</NODE1_NAME>
+          <NODE2_ID>68251</NODE2_ID>
+          <NODE2_NAME>Mll-MQuer</NODE2_NAME>
+          <KMS>0.48</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.416909,41.268273 1.418309,41.272467</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121455">
+          <NODE1_ID>71808</NODE1_ID>
+          <NODE1_NAME>MSLL-Masarbones</NODE1_NAME>
+          <NODE2_ID>75738</NODE2_ID>
+          <NODE2_NAME>MLL-SantiagoCM</NODE2_NAME>
+          <KMS>0.15</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437895,41.260859 1.437387,41.262151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121471">
+          <NODE1_ID>75747</NODE1_ID>
+          <NODE1_NAME>MLL-XavierAM</NODE1_NAME>
+          <NODE2_ID>71809</NODE2_ID>
+          <NODE2_NAME>MSLL-Masllorenc</NODE2_NAME>
+          <KMS>0.382</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.412346,41.268260 1.416909,41.268273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121472">
+          <NODE1_ID>75748</NODE1_ID>
+          <NODE1_NAME>MLL-EulaliaSP</NODE1_NAME>
+          <NODE2_ID>71808</NODE2_ID>
+          <NODE2_NAME>MSLL-Masarbones</NODE2_NAME>
+          <KMS>0.08</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.438138,41.260163 1.437895,41.260859</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121475">
+          <NODE1_ID>75750</NODE1_ID>
+          <NODE1_NAME>MLL-AngelaJS</NODE1_NAME>
+          <NODE2_ID>71808</NODE2_ID>
+          <NODE2_NAME>MSLL-Masarbones</NODE2_NAME>
+          <KMS>0.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437934,41.259838 1.437895,41.260859</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121476">
+          <NODE1_ID>75751</NODE1_ID>
+          <NODE1_NAME>MLL-JosepMariaBG</NODE1_NAME>
+          <NODE2_ID>71808</NODE2_ID>
+          <NODE2_NAME>MSLL-Masarbones</NODE2_NAME>
+          <KMS>0.118</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.438977,41.260173 1.437895,41.260859</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121477">
+          <NODE1_ID>75752</NODE1_ID>
+          <NODE1_NAME>MLL-SandraRA</NODE1_NAME>
+          <NODE2_ID>71808</NODE2_ID>
+          <NODE2_NAME>MSLL-Masarbones</NODE2_NAME>
+          <KMS>0.509</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437561,41.265435 1.437895,41.260859</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121661">
+          <NODE1_ID>74390</NODE1_ID>
+          <NODE1_NAME>LB-MarcosRiu</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>1.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.436110,41.284070 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122840">
+          <NODE1_ID>71942</NODE1_ID>
+          <NODE1_NAME>MLL-JuanCarlosG</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>0.694</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.433169,41.265750 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122923">
+          <NODE1_ID>76816</NODE1_ID>
+          <NODE1_NAME>MLL-Ajuntament</NODE1_NAME>
+          <NODE2_ID>71809</NODE2_ID>
+          <NODE2_NAME>MSLL-Masllorenc</NODE2_NAME>
+          <KMS>0.323</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.413127,41.268821 1.416909,41.268273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122984">
+          <NODE1_ID>71808</NODE1_ID>
+          <NODE1_NAME>MSLL-Masarbones</NODE1_NAME>
+          <NODE2_ID>76859</NODE2_ID>
+          <NODE2_NAME>LB-FranciscoJavierHS</NODE2_NAME>
+          <KMS>2.539</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437895,41.260859 1.463740,41.248930</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122988">
+          <NODE1_ID>71809</NODE1_ID>
+          <NODE1_NAME>MSLL-Masllorenc</NODE1_NAME>
+          <NODE2_ID>76863</NODE2_ID>
+          <NODE2_NAME>MSLL-Consultori</NODE2_NAME>
+          <KMS>0.361</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.416909,41.268273 1.412673,41.267699</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122990">
+          <NODE1_ID>71809</NODE1_ID>
+          <NODE1_NAME>MSLL-Masllorenc</NODE1_NAME>
+          <NODE2_ID>76864</NODE2_ID>
+          <NODE2_NAME>MSLL-LlarInfants</NODE2_NAME>
+          <KMS>0.237</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.416909,41.268273 1.417219,41.270393</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123044">
+          <NODE1_ID>71809</NODE1_ID>
+          <NODE1_NAME>MSLL-Masllorenc</NODE1_NAME>
+          <NODE2_ID>76895</NODE2_ID>
+          <NODE2_NAME>MLL-Escola</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.416909,41.268273 1.417109,41.270812</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123085">
+          <NODE1_ID>55396</NODE1_ID>
+          <NODE1_NAME>LBmiradorsito</NODE1_NAME>
+          <NODE2_ID>71809</NODE2_ID>
+          <NODE2_NAME>MSLL-Masllorenc</NODE2_NAME>
+          <KMS>3.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.422121,41.297864 1.416909,41.268273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123187">
+          <NODE1_ID>74627</NODE1_ID>
+          <NODE1_NAME>MLL-JoseAntonioG</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>0.333</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.438310,41.267560 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123188">
+          <NODE1_ID>74625</NODE1_ID>
+          <NODE1_NAME>MLL-JosepMS</NODE1_NAME>
+          <NODE2_ID>68267</NODE2_ID>
+          <NODE2_NAME>MSLL-FTallo</NODE2_NAME>
+          <KMS>1.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.437732,41.259816 1.438469,41.270552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123703">
+          <NODE1_ID>71809</NODE1_ID>
+          <NODE1_NAME>MSLL-Masllorenc</NODE1_NAME>
+          <NODE2_ID>77303</NODE2_ID>
+          <NODE2_NAME>MLL-MIsabelRB</NODE2_NAME>
+          <KMS>0.398</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.416909,41.268273 1.412190,41.267870</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

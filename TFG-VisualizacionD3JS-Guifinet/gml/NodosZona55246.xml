@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-2.008744</gml:X><gml:Y>43.297364</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.961223</gml:X><gml:Y>43.330531</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="36999">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.980339,43.314906</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36999</NODE_ID>
+      <NODE_NAME>SSurbieta64</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63521">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.978253,43.302705</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63521</NODE_ID>
+      <NODE_NAME>Nudo</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55205">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-2.008744,43.297364</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55205</NODE_ID>
+      <NODE_NAME>DNSTZuatzu4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="58074">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.968339,43.330531</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58074</NODE_ID>
+      <NODE_NAME>DNSTUlia</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62838">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.961223,43.323018</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62838</NODE_ID>
+      <NODE_NAME>Don_Rodil110</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65735">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.988831,43.325039</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65735</NODE_ID>
+      <NODE_NAME>DNSTUrgull</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="66086">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.968071,43.330531</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>66086</NODE_ID>
+      <NODE_NAME>DNSTUlia-bis</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67072">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.972572,43.316279</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67072</NODE_ID>
+      <NODE_NAME>reflex-don</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67510">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.965547,43.325298</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67510</NODE_ID>
+      <NODE_NAME>DNSTKortxoEnea</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

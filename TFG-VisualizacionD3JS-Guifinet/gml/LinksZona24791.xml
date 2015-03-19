@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.540401</gml:X><gml:Y>41.270337</gml:Y></gml:coord>
+<gml:coord><gml:X>1.560289</gml:X><gml:Y>41.296230</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="62036">
+          <NODE1_ID>59870</NODE1_ID>
+          <NODE1_NAME>LLP-Sabarters</NODE1_NAME>
+          <NODE2_ID>32538</NODE2_ID>
+          <NODE2_NAME>SJ-CampF</NODE2_NAME>
+          <KMS>2.329</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554160,41.275772 1.560289,41.296230</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80591">
+          <NODE1_ID>64764</NODE1_ID>
+          <NODE1_NAME>LLP-ConstantinI</NODE1_NAME>
+          <NODE2_ID>68861</NODE2_ID>
+          <NODE2_NAME>BdP-Nutripack</NODE2_NAME>
+          <KMS>1.631</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.540401,41.280098 1.554953,41.270337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

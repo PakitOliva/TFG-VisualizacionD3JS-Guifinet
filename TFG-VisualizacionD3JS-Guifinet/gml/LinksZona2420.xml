@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.578339</gml:X><gml:Y>41.500680</gml:Y></gml:coord>
+<gml:coord><gml:X>1.814607</gml:X><gml:Y>41.575854</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="18080">
+          <NODE1_ID>12211</NODE1_ID>
+          <NODE1_NAME>CplldsJausol</NODE1_NAME>
+          <NODE2_ID>7881</NODE2_ID>
+          <NODE2_NAME>CplldsMasTeixidor</NODE2_NAME>
+          <KMS>0</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.681319,41.527343 1.681318,41.527343</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18331">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>22975</NODE2_ID>
+          <NODE2_NAME>CplldsMunichOficina</NODE2_NAME>
+          <KMS>1.548</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.685259,41.529817</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18332">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>22084</NODE2_ID>
+          <NODE2_NAME>MunichMagatzem</NODE2_NAME>
+          <KMS>4.568</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.667878,41.568337</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18333">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>22083</NODE2_ID>
+          <NODE2_NAME>MunichFabrica</NODE2_NAME>
+          <KMS>5.18</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.648105,41.512723</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18335">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>22975</NODE2_ID>
+          <NODE2_NAME>CplldsMunichOficina</NODE2_NAME>
+          <KMS>1.548</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.685259,41.529817</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19068">
+          <NODE1_ID>23417</NODE1_ID>
+          <NODE1_NAME>CapelladesNuriaC</NODE1_NAME>
+          <NODE2_ID>7881</NODE2_ID>
+          <NODE2_NAME>CplldsMasTeixidor</NODE2_NAME>
+          <KMS>0.609</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.687254,41.530535 1.681318,41.527343</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26970">
+          <NODE1_ID>32243</NODE1_ID>
+          <NODE1_NAME>MunichGavarreres</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>5.862</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.654471,41.575070 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27225">
+          <NODE1_ID>7881</NODE1_ID>
+          <NODE1_NAME>CplldsMasTeixidor</NODE1_NAME>
+          <NODE2_ID>30206</NODE2_ID>
+          <NODE2_NAME>CplldsPiscinaBlava</NODE2_NAME>
+          <KMS>0.259</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.681318,41.527343 1.683716,41.528829</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27239">
+          <NODE1_ID>7881</NODE1_ID>
+          <NODE1_NAME>CplldsMasTeixidor</NODE1_NAME>
+          <NODE2_ID>15557</NODE2_ID>
+          <NODE2_NAME>CapelladesPonet</NODE2_NAME>
+          <KMS>0.626</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.681318,41.527343 1.687678,41.530339</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27240">
+          <NODE1_ID>1759</NODE1_ID>
+          <NODE1_NAME>CapelladesCampanar</NODE1_NAME>
+          <NODE2_ID>7881</NODE2_ID>
+          <NODE2_NAME>CplldsMasTeixidor</NODE2_NAME>
+          <KMS>0.606</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.686385,41.531248 1.681318,41.527343</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27585">
+          <NODE1_ID>15557</NODE1_ID>
+          <NODE1_NAME>CapelladesPonet</NODE1_NAME>
+          <NODE2_ID>1759</NODE2_ID>
+          <NODE2_NAME>CapelladesCampanar</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.687678,41.530339 1.686385,41.531248</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29736">
+          <NODE1_ID>16645</NODE1_ID>
+          <NODE1_NAME>PieraSanahuja</NODE1_NAME>
+          <NODE2_ID>7881</NODE2_ID>
+          <NODE2_NAME>CplldsMasTeixidor</NODE2_NAME>
+          <KMS>5.673</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.748908,41.521983 1.681318,41.527343</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34706">
+          <NODE1_ID>1553</NODE1_ID>
+          <NODE1_NAME>MontbuiLaTossa</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>10.487</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.578339,41.553631 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37981">
+          <NODE1_ID>33940</NODE1_ID>
+          <NODE1_NAME>VallbonaCalafou</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>2.815</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.702540,41.510736 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43461">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>16645</NODE2_ID>
+          <NODE2_NAME>PieraSanahuja</NODE2_NAME>
+          <KMS>4.229</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.748908,41.521983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44136">
+          <NODE1_ID>30013</NODE1_ID>
+          <NODE1_NAME>CTC-HUB</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>10.202</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.814607,41.500680 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44137">
+          <NODE1_ID>30013</NODE1_ID>
+          <NODE1_NAME>CTC-HUB</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>10.202</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.814607,41.500680 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51365">
+          <NODE1_ID>20708</NODE1_ID>
+          <NODE1_NAME>CapelladesMiramar</NODE1_NAME>
+          <NODE2_ID>51084</NODE2_ID>
+          <NODE2_NAME>PieraCanMarti</NODE2_NAME>
+          <KMS>5.348</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.701829,41.536073 1.737943,41.575854</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55354">
+          <NODE1_ID>55037</NODE1_ID>
+          <NODE1_NAME>CplldsAnnaT5GHZ</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>1.865</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.680876,41.530232 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73120">
+          <NODE1_ID>68194</NODE1_ID>
+          <NODE1_NAME>LaTorreCLocalSocial</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>3.57</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.659112,41.534292 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73805">
+          <NODE1_ID>68447</NODE1_ID>
+          <NODE1_NAME>CapelladesAlfred</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>1.55</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.686741,41.527928 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121244">
+          <NODE1_ID>75435</NODE1_ID>
+          <NODE1_NAME>PCnMtSntg19</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>3.521</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.727298,41.510804 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123449">
+          <NODE1_ID>77157</NODE1_ID>
+          <NODE1_NAME>LTorDCCDF</NODE1_NAME>
+          <NODE2_ID>20708</NODE2_ID>
+          <NODE2_NAME>CapelladesMiramar</NODE2_NAME>
+          <KMS>3.14</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.664491,41.539587 1.701829,41.536073</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

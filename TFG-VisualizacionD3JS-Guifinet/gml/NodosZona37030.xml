@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.662379</gml:X><gml:Y>42.826879</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.540280</gml:X><gml:Y>42.948888</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="37032">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.541020,42.948888</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37032</NODE_ID>
+      <NODE_NAME>INBSISsnodoAP_01</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37533">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.541557,42.924865</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37533</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_01</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37534">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.540693,42.923034</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37534</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_02</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37535">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.540967,42.923985</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37535</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_03</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37536">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.541449,42.923843</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37536</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_04</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37537">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.542254,42.924735</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37537</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_05</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37538">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.540280,42.924429</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37538</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_06</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37539">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.541562,42.924487</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37539</NODE_ID>
+      <NODE_NAME>INBSanMartinSIScl_07</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="37540">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.541589,42.924857</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37540</NODE_ID>
+      <NODE_NAME>INBSISsnodoAP_02</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="76355">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.662379,42.826879</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>76355</NODE_ID>
+      <NODE_NAME>buztintxuri</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

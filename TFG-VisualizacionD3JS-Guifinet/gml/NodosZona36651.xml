@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.687511</gml:X><gml:Y>41.622768</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.690661</gml:X><gml:Y>41.628065</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="29612">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.689295,41.628065</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29612</NODE_ID>
+      <NODE_NAME>PdM-Montp18</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="32280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.689182,41.626358</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>32280</NODE_ID>
+      <NODE_NAME>PdM-Melies</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="35400">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.690661,41.623936</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>35400</NODE_ID>
+      <NODE_NAME>PdM-Baires</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36044">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.689159,41.624269</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36044</NODE_ID>
+      <NODE_NAME>PdMVergeMontserrat44</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="36767">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.687651,41.627122</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>36767</NODE_ID>
+      <NODE_NAME>PdM-Major</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="44478">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.688904,41.626695</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44478</NODE_ID>
+      <NODE_NAME>PdM-SDS</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="52551">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.687511,41.622768</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>52551</NODE_ID>
+      <NODE_NAME>PdMjusticia37</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

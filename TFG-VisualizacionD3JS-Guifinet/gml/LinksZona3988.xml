@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.900257</gml:X><gml:Y>41.343880</gml:Y></gml:coord>
+<gml:coord><gml:X>2.199393</gml:X><gml:Y>41.431488</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="10806">
+          <NODE1_ID>14733</NODE1_ID>
+          <NODE1_NAME>HW-Rossello</NODE1_NAME>
+          <NODE2_ID>6149</NODE2_ID>
+          <NODE2_NAME>HW-Jis</NODE2_NAME>
+          <KMS>0.238</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.127812,41.369931 2.125498,41.368683</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="11440">
+          <NODE1_ID>6149</NODE1_ID>
+          <NODE1_NAME>HW-Jis</NODE1_NAME>
+          <NODE2_ID>5738</NODE2_ID>
+          <NODE2_NAME>HW-AvCarrilet2</NODE2_NAME>
+          <KMS>1.435</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.125498,41.368683 2.111285,41.361445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12201">
+          <NODE1_ID>5737</NODE1_ID>
+          <NODE1_NAME>HW-AvCarrilet</NODE1_NAME>
+          <NODE2_ID>5738</NODE2_ID>
+          <NODE2_NAME>HW-AvCarrilet2</NODE2_NAME>
+          <KMS>0.175</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.109370,41.360802 2.111285,41.361445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12289">
+          <NODE1_ID>5738</NODE1_ID>
+          <NODE1_NAME>HW-AvCarrilet2</NODE1_NAME>
+          <NODE2_ID>6148</NODE2_ID>
+          <NODE2_NAME>HW-Migdia</NODE2_NAME>
+          <KMS>0.308</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.111285,41.361445 2.107642,41.361061</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="12407">
+          <NODE1_ID>7505</NODE1_ID>
+          <NODE1_NAME>BCNSett</NODE1_NAME>
+          <NODE2_ID>6149</NODE2_ID>
+          <NODE2_NAME>HW-Jis</NODE2_NAME>
+          <KMS>3.216</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.159019,41.382869 2.125498,41.368683</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17235">
+          <NODE1_ID>14717</NODE1_ID>
+          <NODE1_NAME>CBLLGregal10</NODE1_NAME>
+          <NODE2_ID>15274</NODE2_ID>
+          <NODE2_NAME>HW-Badalona</NODE2_NAME>
+          <KMS>20.096</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.901552,41.431488 2.123333,41.361823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17751">
+          <NODE1_ID>15274</NODE1_ID>
+          <NODE1_NAME>HW-Badalona</NODE1_NAME>
+          <NODE2_ID>5738</NODE2_ID>
+          <NODE2_NAME>HW-AvCarrilet2</NODE2_NAME>
+          <KMS>1.009</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.123333,41.361823 2.111285,41.361445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17845">
+          <NODE1_ID>5738</NODE1_ID>
+          <NODE1_NAME>HW-AvCarrilet2</NODE1_NAME>
+          <NODE2_ID>7996</NODE2_ID>
+          <NODE2_NAME>HW-SJosTar</NODE2_NAME>
+          <KMS>0.376</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.111285,41.361445 2.108340,41.363998</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23923">
+          <NODE1_ID>25710</NODE1_ID>
+          <NODE1_NAME>BCNmariaVictoria5</NODE1_NAME>
+          <NODE2_ID>6149</NODE2_ID>
+          <NODE2_NAME>HW-Jis</NODE2_NAME>
+          <KMS>1.153</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.138085,41.372918 2.125498,41.368683</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="26149">
+          <NODE1_ID>6149</NODE1_ID>
+          <NODE1_NAME>HW-Jis</NODE1_NAME>
+          <NODE2_ID>29243</NODE2_ID>
+          <NODE2_NAME>HW-Alhmbr8</NODE2_NAME>
+          <KMS>0.681</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.125498,41.368683 2.128869,41.363103</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29194">
+          <NODE1_ID>34529</NODE1_ID>
+          <NODE1_NAME>HW-AmadeuTorner5</NODE1_NAME>
+          <NODE2_ID>5975</NODE2_ID>
+          <NODE2_NAME>HW-Aprestadora</NODE2_NAME>
+          <KMS>0.315</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.122955,41.359812 2.119214,41.360141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="30949">
+          <NODE1_ID>35220</NODE1_ID>
+          <NODE1_NAME>HW-mdMerce</NODE1_NAME>
+          <NODE2_ID>5975</NODE2_ID>
+          <NODE2_NAME>HW-Aprestadora</NODE2_NAME>
+          <KMS>0.604</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.112591,41.362307 2.119214,41.360141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31006">
+          <NODE1_ID>36118</NODE1_ID>
+          <NODE1_NAME>HW-Acer</NODE1_NAME>
+          <NODE2_ID>29243</NODE2_ID>
+          <NODE2_NAME>HW-Alhmbr8</NODE2_NAME>
+          <KMS>1.449</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.137601,41.351832 2.128869,41.363103</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36215">
+          <NODE1_ID>40538</NODE1_ID>
+          <NODE1_NAME>HW-Balague</NODE1_NAME>
+          <NODE2_ID>30132</NODE2_ID>
+          <NODE2_NAME>BCN-UPC-H</NODE2_NAME>
+          <KMS>3.869</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Inactive</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.121869,41.349807 2.116014,41.384363</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46259">
+          <NODE1_ID>49474</NODE1_ID>
+          <NODE1_NAME>UPC-CN-C6-E104</NODE1_NAME>
+          <NODE2_ID>36118</NODE2_ID>
+          <NODE2_NAME>HW-Acer</NODE2_NAME>
+          <KMS>4.681</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.113007,41.389688 2.137601,41.351832</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47714">
+          <NODE1_ID>43631</NODE1_ID>
+          <NODE1_NAME>HW-ErmitaBellvitge</NODE1_NAME>
+          <NODE2_ID>49565</NODE2_ID>
+          <NODE2_NAME>HW-Ermta-InfraBgMesh</NODE2_NAME>
+          <KMS>0</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.109195,41.347983 2.109197,41.347982</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48652">
+          <NODE1_ID>42427</NODE1_ID>
+          <NODE1_NAME>CorSIfons</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>2.476</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.085026,41.360848 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60007">
+          <NODE1_ID>19346</NODE1_ID>
+          <NODE1_NAME>CBLLMestral8</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>19.61</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.900257,41.428093 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60182">
+          <NODE1_ID>58272</NODE1_ID>
+          <NODE1_NAME>HW-Corominas19</NODE1_NAME>
+          <NODE2_ID>6149</NODE2_ID>
+          <NODE2_NAME>HW-Jis</NODE2_NAME>
+          <KMS>0.442</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.120745,41.366953 2.125498,41.368683</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61785">
+          <NODE1_ID>15274</NODE1_ID>
+          <NODE1_NAME>HW-Badalona</NODE1_NAME>
+          <NODE2_ID>5975</NODE2_ID>
+          <NODE2_NAME>HW-Aprestadora</NODE2_NAME>
+          <KMS>0.392</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.123333,41.361823 2.119214,41.360141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61786">
+          <NODE1_ID>58953</NODE1_ID>
+          <NODE1_NAME>HW-AmadeuTorner75</NODE1_NAME>
+          <NODE2_ID>5975</NODE2_ID>
+          <NODE2_NAME>HW-Aprestadora</NODE2_NAME>
+          <KMS>0.274</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.122191,41.361158 2.119214,41.360141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63075">
+          <NODE1_ID>6149</NODE1_ID>
+          <NODE1_NAME>HW-Jis</NODE1_NAME>
+          <NODE2_ID>36118</NODE2_ID>
+          <NODE2_NAME>HW-Acer</NODE2_NAME>
+          <KMS>2.128</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.125498,41.368683 2.137601,41.351832</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65523">
+          <NODE1_ID>55218</NODE1_ID>
+          <NODE1_NAME>NogueraPallaresa15</NODE1_NAME>
+          <NODE2_ID>6149</NODE2_ID>
+          <NODE2_NAME>HW-Jis</NODE2_NAME>
+          <KMS>0.993</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.136734,41.371555 2.125498,41.368683</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67727">
+          <NODE1_ID>64185</NODE1_ID>
+          <NODE1_NAME>HW-PlzaQuart4</NODE1_NAME>
+          <NODE2_ID>5975</NODE2_ID>
+          <NODE2_NAME>HW-Aprestadora</NODE2_NAME>
+          <KMS>0.076</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.119566,41.360775 2.119214,41.360141</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70308">
+          <NODE1_ID>66068</NODE1_ID>
+          <NODE1_NAME>SJD-CanVoki</NODE1_NAME>
+          <NODE2_ID>48156</NODE2_ID>
+          <NODE2_NAME>SJD-Ermita11</NODE2_NAME>
+          <KMS>9.453</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.997839,41.361617 2.109340,41.347942</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71769">
+          <NODE1_ID>36118</NODE1_ID>
+          <NODE1_NAME>HW-Acer</NODE1_NAME>
+          <NODE2_ID>9838</NODE2_ID>
+          <NODE2_NAME>BCNhangar</NODE2_NAME>
+          <KMS>8.155</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.137601,41.351832 2.199393,41.408621</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78748">
+          <NODE1_ID>64029</NODE1_ID>
+          <NODE1_NAME>SBoiDLMFortuny10</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>5.59</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.042630,41.343880 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123216">
+          <NODE1_ID>49809</NODE1_ID>
+          <NODE1_NAME>BCNcastillejos352</NODE1_NAME>
+          <NODE2_ID>43631</NODE2_ID>
+          <NODE2_NAME>HW-ErmitaBellvitge</NODE2_NAME>
+          <KMS>8.793</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.172493,41.411197 2.109195,41.347983</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123526">
+          <NODE1_ID>43631</NODE1_ID>
+          <NODE1_NAME>HW-ErmitaBellvitge</NODE1_NAME>
+          <NODE2_ID>36118</NODE2_ID>
+          <NODE2_NAME>HW-Acer</NODE2_NAME>
+          <KMS>2.415</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.109195,41.347983 2.137601,41.351832</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

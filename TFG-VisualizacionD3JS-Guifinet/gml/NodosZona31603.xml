@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.611050</gml:X><gml:Y>43.513856</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.593333</gml:X><gml:Y>43.524825</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="58219">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.610015,43.515088</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>58219</NODE_ID>
+      <NODE_NAME>GJNcabuenes1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="59279">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.593333,43.518169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>59279</NODE_ID>
+      <NODE_NAME>GJNCabuenes2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61337">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.611050,43.513856</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61337</NODE_ID>
+      <NODE_NAME>GJNcolandolina</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="69180">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.602296,43.518175</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>69180</NODE_ID>
+      <NODE_NAME>GJNcaminxigal347</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71950">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.602166,43.524825</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71950</NODE_ID>
+      <NODE_NAME>GJNCabuenesN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="72763">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.601042,43.519467</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>72763</NODE_ID>
+      <NODE_NAME>GJNcammangada526</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73556">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.598532,43.524675</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73556</NODE_ID>
+      <NODE_NAME>GJNCamContrucu134b</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

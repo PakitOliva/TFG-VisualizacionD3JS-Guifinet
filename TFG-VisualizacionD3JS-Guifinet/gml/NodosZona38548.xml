@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7.558790</gml:X><gml:Y>43.112689</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7.412547</gml:X><gml:Y>43.205690</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="22756">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.428968,43.112689</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>22756</NODE_ID>
+      <NODE_NAME>Lud_jtosar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38549">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.412547,43.205690</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38549</NODE_ID>
+      <NODE_NAME>CDRSantalocaia</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="55518">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7.558790,43.160980</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>55518</NODE_ID>
+      <NODE_NAME>CScr4</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

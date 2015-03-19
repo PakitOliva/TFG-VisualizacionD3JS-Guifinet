@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-8.417099</gml:X><gml:Y>43.328421</gml:Y></gml:coord>
+<gml:coord><gml:X>-8.371711</gml:X><gml:Y>43.374298</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="37609">
+          <NODE1_ID>41754</NODE1_ID>
+          <NODE1_NAME>OLRCubelos21B</NODE1_NAME>
+          <NODE2_ID>41743</NODE2_ID>
+          <NODE2_NAME>CRNrioquintas27</NODE2_NAME>
+          <KMS>1.56</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-8.371711,43.336499 -8.387445,43.328421</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37756">
+          <NODE1_ID>35449</NODE1_ID>
+          <NODE1_NAME>CRNSnJs15</NODE1_NAME>
+          <NODE2_ID>31857</NODE2_ID>
+          <NODE2_NAME>CRNRondaOuteiro198</NODE2_NAME>
+          <KMS>2.57</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-8.396119,43.374298 -8.417099,43.356957</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.978341</gml:X><gml:Y>42.282641</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.983840</gml:X><gml:Y>42.284147</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="9690">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.980439,42.283164</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>9690</NODE_ID>
+      <NODE_NAME>VilabertranGiroMarti</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="27417">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.978341,42.282909</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>27417</NODE_ID>
+      <NODE_NAME>VilabertranAbadia12</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39207">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.983687,42.283908</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39207</NODE_ID>
+      <NODE_NAME>VlbrtrnPerelada4</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="41257">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.982317,42.284102</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>41257</NODE_ID>
+      <NODE_NAME>VlbrtrnJRP60A</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42231">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.983840,42.282641</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42231</NODE_ID>
+      <NODE_NAME>vlbtrnATPKabr</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Inactive</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="61705">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.982426,42.284147</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>61705</NODE_ID>
+      <NODE_NAME>VlbrtrnJRP60C</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

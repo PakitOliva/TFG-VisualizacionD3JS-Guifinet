@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>1.465651</gml:X><gml:Y>41.553631</gml:Y></gml:coord>
+<gml:coord><gml:X>1.686267</gml:X><gml:Y>41.776799</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="12972">
+          <NODE1_ID>17003</NODE1_ID>
+          <NODE1_NAME>CalXesc</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>1.589</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.543461,41.617460 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15730">
+          <NODE1_ID>16585</NODE1_ID>
+          <NODE1_NAME>RubioRosaMaria</NODE1_NAME>
+          <NODE2_ID>13645</NODE2_ID>
+          <NODE2_NAME>RubioCampanarMassana</NODE2_NAME>
+          <KMS>1.464</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.610291,41.699207 1.603660,41.687000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15733">
+          <NODE1_ID>13641</NODE1_ID>
+          <NODE1_NAME>RubioDipositSud</NODE1_NAME>
+          <NODE2_ID>16584</NODE2_ID>
+          <NODE2_NAME>RubioCalMiquel</NODE2_NAME>
+          <KMS>0.779</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.548257,41.631310 1.553353,41.625435</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16856">
+          <NODE1_ID>13641</NODE1_ID>
+          <NODE1_NAME>RubioDipositSud</NODE1_NAME>
+          <NODE2_ID>16586</NODE2_ID>
+          <NODE2_NAME>RubioLocalSocial</NODE2_NAME>
+          <KMS>0.677</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.548257,41.631310 1.550928,41.625556</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22561">
+          <NODE1_ID>27797</NODE1_ID>
+          <NODE1_NAME>Rbm</NODE1_NAME>
+          <NODE2_ID>13645</NODE2_ID>
+          <NODE2_NAME>RubioCampanarMassana</NODE2_NAME>
+          <KMS>2.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.615091,41.670708 1.603660,41.687000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22562">
+          <NODE1_ID>27798</NODE1_ID>
+          <NODE1_NAME>RbrmtMssn</NODE1_NAME>
+          <NODE2_ID>13644</NODE2_ID>
+          <NODE2_NAME>RubioPedrafita</NODE2_NAME>
+          <KMS>2.128</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604498,41.684786 1.587170,41.670700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22746">
+          <NODE1_ID>27960</NODE1_ID>
+          <NODE1_NAME>RbCnll</NODE1_NAME>
+          <NODE2_ID>13644</NODE2_ID>
+          <NODE2_NAME>RubioPedrafita</NODE2_NAME>
+          <KMS>1.451</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.584958,41.683658 1.587170,41.670700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22973">
+          <NODE1_ID>28210</NODE1_ID>
+          <NODE1_NAME>RbCnRg</NODE1_NAME>
+          <NODE2_ID>13645</NODE2_ID>
+          <NODE2_NAME>RubioCampanarMassana</NODE2_NAME>
+          <KMS>0.496</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.604452,41.691425 1.603660,41.687000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22974">
+          <NODE1_ID>28211</NODE1_ID>
+          <NODE1_NAME>RbClMt</NODE1_NAME>
+          <NODE2_ID>13645</NODE2_ID>
+          <NODE2_NAME>RubioCampanarMassana</NODE2_NAME>
+          <KMS>1.624</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.605530,41.672449 1.603660,41.687000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22975">
+          <NODE1_ID>28212</NODE1_ID>
+          <NODE1_NAME>RbClMrr</NODE1_NAME>
+          <NODE2_ID>13642</NODE2_ID>
+          <NODE2_NAME>RubioAjuntament</NODE2_NAME>
+          <KMS>1.505</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.572558,41.657584 1.569740,41.644200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22976">
+          <NODE1_ID>28213</NODE1_ID>
+          <NODE1_NAME>RbPlcCstllSn</NODE1_NAME>
+          <NODE2_ID>13642</NODE2_ID>
+          <NODE2_NAME>RubioAjuntament</NODE2_NAME>
+          <KMS>0.033</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.569406,41.644043 1.569740,41.644200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22977">
+          <NODE1_ID>28214</NODE1_ID>
+          <NODE1_NAME>RbMsClLlzn</NODE1_NAME>
+          <NODE2_ID>13642</NODE2_ID>
+          <NODE2_NAME>RubioAjuntament</NODE2_NAME>
+          <KMS>0.52</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.565325,41.640893 1.569740,41.644200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22978">
+          <NODE1_ID>28215</NODE1_ID>
+          <NODE1_NAME>RbMsDlTrnc</NODE1_NAME>
+          <NODE2_ID>13645</NODE2_ID>
+          <NODE2_NAME>RubioCampanarMassana</NODE2_NAME>
+          <KMS>1.848</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.614025,41.672283 1.603660,41.687000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22979">
+          <NODE1_ID>28216</NODE1_ID>
+          <NODE1_NAME>RbClMrt</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>0.585</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.548130,41.626045 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22980">
+          <NODE1_ID>28217</NODE1_ID>
+          <NODE1_NAME>RbClCdnlls</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>1.014</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.557894,41.625741 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22981">
+          <NODE1_ID>28218</NODE1_ID>
+          <NODE1_NAME>RbCsJrdnbscl</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>1.067</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.551756,41.622073 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22982">
+          <NODE1_ID>28219</NODE1_ID>
+          <NODE1_NAME>RbClBrtrn</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>0.5</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.554236,41.630907 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22983">
+          <NODE1_ID>28220</NODE1_ID>
+          <NODE1_NAME>RbCsPllrls</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>0.905</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.556108,41.625680 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22984">
+          <NODE1_ID>28221</NODE1_ID>
+          <NODE1_NAME>RbClTms</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>0.607</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.551863,41.626565 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22985">
+          <NODE1_ID>28222</NODE1_ID>
+          <NODE1_NAME>RbClLr</NODE1_NAME>
+          <NODE2_ID>13644</NODE2_ID>
+          <NODE2_NAME>RubioPedrafita</NODE2_NAME>
+          <KMS>3.093</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.550608,41.665821 1.587170,41.670700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23014">
+          <NODE1_ID>28253</NODE1_ID>
+          <NODE1_NAME>RbCnMsCr</NODE1_NAME>
+          <NODE2_ID>13642</NODE2_ID>
+          <NODE2_NAME>RubioAjuntament</NODE2_NAME>
+          <KMS>0.918</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.564234,41.651364 1.569740,41.644200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23269">
+          <NODE1_ID>28489</NODE1_ID>
+          <NODE1_NAME>rgnlCN2</NODE1_NAME>
+          <NODE2_ID>13644</NODE2_ID>
+          <NODE2_NAME>RubioPedrafita</NODE2_NAME>
+          <KMS>14.718</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.465651,41.574548 1.587170,41.670700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23565">
+          <NODE1_ID>13644</NODE1_ID>
+          <NODE1_NAME>RubioPedrafita</NODE1_NAME>
+          <NODE2_ID>19021</NODE2_ID>
+          <NODE2_NAME>FONCamps-Casal</NODE2_NAME>
+          <KMS>14.383</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.587170,41.670700 1.686267,41.776799</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25420">
+          <NODE1_ID>13641</NODE1_ID>
+          <NODE1_NAME>RubioDipositSud</NODE1_NAME>
+          <NODE2_ID>30689</NODE2_ID>
+          <NODE2_NAME>RubioStPere</NODE2_NAME>
+          <KMS>2.75</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.548257,41.631310 1.580991,41.634486</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29763">
+          <NODE1_ID>13642</NODE1_ID>
+          <NODE1_NAME>RubioAjuntament</NODE1_NAME>
+          <NODE2_ID>31123</NODE2_ID>
+          <NODE2_NAME>RubioCalTudori</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.569740,41.644200 1.570346,41.644937</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34722">
+          <NODE1_ID>13641</NODE1_ID>
+          <NODE1_NAME>RubioDipositSud</NODE1_NAME>
+          <NODE2_ID>1553</NODE2_ID>
+          <NODE2_NAME>MontbuiLaTossa</NODE2_NAME>
+          <KMS>8.985</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.548257,41.631310 1.578339,41.553631</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35403">
+          <NODE1_ID>13642</NODE1_ID>
+          <NODE1_NAME>RubioAjuntament</NODE1_NAME>
+          <NODE2_ID>13641</NODE2_ID>
+          <NODE2_NAME>RubioDipositSud</NODE2_NAME>
+          <KMS>2.292</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.569740,41.644200 1.548257,41.631310</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38030">
+          <NODE1_ID>13642</NODE1_ID>
+          <NODE1_NAME>RubioAjuntament</NODE1_NAME>
+          <NODE2_ID>15865</NODE2_ID>
+          <NODE2_NAME>ArgencolaToniLloret</NODE2_NAME>
+          <KMS>8.867</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.569740,41.644200 1.495761,41.586825</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46501">
+          <NODE1_ID>48680</NODE1_ID>
+          <NODE1_NAME>VecianaCalGarsa</NODE1_NAME>
+          <NODE2_ID>13644</NODE2_ID>
+          <NODE2_NAME>RubioPedrafita</NODE2_NAME>
+          <KMS>5.514</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.521529,41.664184 1.587170,41.670700</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46909">
+          <NODE1_ID>13644</NODE1_ID>
+          <NODE1_NAME>RubioPedrafita</NODE1_NAME>
+          <NODE2_ID>13642</NODE2_ID>
+          <NODE2_NAME>RubioAjuntament</NODE2_NAME>
+          <KMS>3.282</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.587170,41.670700 1.569740,41.644200</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="46910">
+          <NODE1_ID>13644</NODE1_ID>
+          <NODE1_NAME>RubioPedrafita</NODE1_NAME>
+          <NODE2_ID>13645</NODE2_ID>
+          <NODE2_NAME>RubioCampanarMassana</NODE2_NAME>
+          <KMS>2.272</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>1.587170,41.670700 1.603660,41.687000</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

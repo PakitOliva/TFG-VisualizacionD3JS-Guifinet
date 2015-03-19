@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-1.826332</gml:X><gml:Y>43.324924</gml:Y></gml:coord>
+      <gml:coord><gml:X>-1.786644</gml:X><gml:Y>43.342362</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="44256">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.826332,43.324924</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>44256</NODE_ID>
+      <NODE_NAME>IRUNBidUre</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46220">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.799271,43.341360</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46220</NODE_ID>
+      <NODE_NAME>IRUNindart1</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56068">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.790055,43.334363</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56068</NODE_ID>
+      <NODE_NAME>IRUNloiola17</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62240">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.797949,43.338880</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62240</NODE_ID>
+      <NODE_NAME>Nido</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="65865">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-1.786644,43.342362</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65865</NODE_ID>
+      <NODE_NAME>IRUNSantiago51</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Building</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

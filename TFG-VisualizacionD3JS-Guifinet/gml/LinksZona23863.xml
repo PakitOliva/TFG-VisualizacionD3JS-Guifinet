@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.791085</gml:X><gml:Y>42.271433</gml:Y></gml:coord>
+<gml:coord><gml:X>3.192226</gml:X><gml:Y>42.399151</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="16386">
+          <NODE1_ID>20961</NODE1_ID>
+          <NODE1_NAME>skaules-can_calic</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>11.344</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.879491,42.320855 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19308">
+          <NODE1_ID>23864</NODE1_ID>
+          <NODE1_NAME>skaules_wifi</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>11.348</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.879416,42.320757 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19400">
+          <NODE1_ID>24200</NODE1_ID>
+          <NODE1_NAME>skaules-escoles</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.296</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.882718,42.319707 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19438">
+          <NODE1_ID>14762</NODE1_ID>
+          <NODE1_NAME>skaules-gavaitx</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.455</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.878849,42.324835 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19475">
+          <NODE1_ID>24362</NODE1_ID>
+          <NODE1_NAME>skaules-Alegri</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.036</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.879853,42.320750 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19701">
+          <NODE1_ID>24644</NODE1_ID>
+          <NODE1_NAME>skaules-can_Calandri</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.882514,42.319902 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19783">
+          <NODE1_ID>24201</NODE1_ID>
+          <NODE1_NAME>skaules-Barrancot</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.878732,42.320705 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20300">
+          <NODE1_ID>16415</NODE1_ID>
+          <NODE1_NAME>skaules-Can_quilos</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.882082,42.320480 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21073">
+          <NODE1_ID>25991</NODE1_ID>
+          <NODE1_NAME>skaules-can_burfo</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.156</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.881304,42.320693 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22221">
+          <NODE1_ID>27261</NODE1_ID>
+          <NODE1_NAME>Roses-MasOliva</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>26.371</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192226,42.271433 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23547">
+          <NODE1_ID>28725</NODE1_ID>
+          <NODE1_NAME>skaules-estanc</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.882484,42.320320 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24624">
+          <NODE1_ID>29915</NODE1_ID>
+          <NODE1_NAME>skaules-CalSabater</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.101</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.880644,42.320750 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24762">
+          <NODE1_ID>30077</NODE1_ID>
+          <NODE1_NAME>skaules-Cal_Pintor</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.881111,42.320747 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27360">
+          <NODE1_ID>32714</NODE1_ID>
+          <NODE1_NAME>skaules-societat</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.189</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.881645,42.320354 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="28063">
+          <NODE1_ID>33421</NODE1_ID>
+          <NODE1_NAME>skaules-processo3</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.252</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.882409,42.320308 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29143">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>22.575</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="51858">
+          <NODE1_ID>52658</NODE1_ID>
+          <NODE1_NAME>skaules-Central</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>0.472</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.874572,42.323024 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

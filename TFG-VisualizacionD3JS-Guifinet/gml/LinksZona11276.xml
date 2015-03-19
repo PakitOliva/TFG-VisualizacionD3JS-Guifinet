@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.719643</gml:X><gml:Y>40.659731</gml:Y></gml:coord>
+<gml:coord><gml:X>0.785890</gml:X><gml:Y>40.724001</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="23371">
+          <NODE1_ID>28549</NODE1_ID>
+          <NODE1_NAME>XalemGirona1</NODE1_NAME>
+          <NODE2_ID>28550</NODE2_ID>
+          <NODE2_NAME>XalemSandraSanti</NODE2_NAME>
+          <KMS>0.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.748849,40.671446 0.746716,40.671729</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23373">
+          <NODE1_ID>28549</NODE1_ID>
+          <NODE1_NAME>XalemGirona1</NODE1_NAME>
+          <NODE2_ID>28570</NODE2_ID>
+          <NODE2_NAME>XalemPiusXII</NODE2_NAME>
+          <KMS>0.035</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.748849,40.671446 0.749243,40.671346</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23566">
+          <NODE1_ID>28753</NODE1_ID>
+          <NODE1_NAME>XalemPiscJPorres</NODE1_NAME>
+          <NODE2_ID>28549</NODE2_ID>
+          <NODE2_NAME>XalemGirona1</NODE2_NAME>
+          <KMS>2.673</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.779037,40.664288 0.748849,40.671446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23567">
+          <NODE1_ID>28757</NODE1_ID>
+          <NODE1_NAME>UEucEucaliptus114</NODE1_NAME>
+          <NODE2_ID>28753</NODE2_ID>
+          <NODE2_NAME>XalemPiscJPorres</NODE2_NAME>
+          <KMS>0.769</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.785890,40.659731 0.779037,40.664288</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="24027">
+          <NODE1_ID>25001</NODE1_ID>
+          <NODE1_NAME>XalemEA3AKA</NODE1_NAME>
+          <NODE2_ID>28549</NODE2_ID>
+          <NODE2_NAME>XalemGirona1</NODE2_NAME>
+          <KMS>0.64</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.755948,40.669441 0.748849,40.671446</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48636">
+          <NODE1_ID>33178</NODE1_ID>
+          <NODE1_NAME>DeltComRegants</NODE1_NAME>
+          <NODE2_ID>50192</NODE2_ID>
+          <NODE2_NAME>XalemPoble</NODE2_NAME>
+          <KMS>6.342</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.733987,40.724001 0.755004,40.669173</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81024">
+          <NODE1_ID>75192</NODE1_ID>
+          <NODE1_NAME>MuntellsAmposta8</NODE1_NAME>
+          <NODE2_ID>74293</NODE2_ID>
+          <NODE2_NAME>EbrecomSantJaume</NODE2_NAME>
+          <KMS>4.513</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.747307,40.671287 0.719643,40.706042</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

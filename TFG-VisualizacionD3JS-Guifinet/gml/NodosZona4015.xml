@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>3.248128</gml:X><gml:Y>42.291175</gml:Y></gml:coord>
+      <gml:coord><gml:X>3.285615</gml:X><gml:Y>42.301238</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="4010">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.272703,42.292403</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>4010</NODE_ID>
+      <NODE_NAME>CdqsDiposits</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="20176">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.248128,42.301238</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>20176</NODE_ID>
+      <NODE_NAME>CcreusTORRES</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="29550">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.280881,42.291175</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29550</NODE_ID>
+      <NODE_NAME>Cdqfig</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46276">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>3.285615,42.293614</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46276</NODE_ID>
+      <NODE_NAME>CdqsAvgSalDali</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>0.173043</gml:X><gml:Y>40.416842</gml:Y></gml:coord>
+<gml:coord><gml:X>0.175726</gml:X><gml:Y>40.419950</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="66547">
+          <NODE1_ID>63124</NODE1_ID>
+          <NODE1_NAME>LSdaAjuntament</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.1</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174086,40.418274 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68927">
+          <NODE1_ID>63195</NODE1_ID>
+          <NODE1_NAME>LSdaCampanar</NODE1_NAME>
+          <NODE2_ID>65043</NODE2_ID>
+          <NODE2_NAME>LSdaMajor8</NODE2_NAME>
+          <KMS>0.092</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174848,40.417583 0.174165,40.418228</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69296">
+          <NODE1_ID>63195</NODE1_ID>
+          <NODE1_NAME>LSdaCampanar</NODE1_NAME>
+          <NODE2_ID>65311</NODE2_ID>
+          <NODE2_NAME>LaSalzadella-SBlai20</NODE2_NAME>
+          <KMS>0.075</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174848,40.417583 0.175726,40.417670</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69653">
+          <NODE1_ID>65584</NODE1_ID>
+          <NODE1_NAME>LSdaDanielMotull</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.272</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.175679,40.419950 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69654">
+          <NODE1_ID>65585</NODE1_ID>
+          <NODE1_NAME>LSdaPlMajor9</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174121,40.417936 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70839">
+          <NODE1_ID>64998</NODE1_ID>
+          <NODE1_NAME>LSALsantonio_Ad</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.011</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174730,40.417612 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70921">
+          <NODE1_ID>66525</NODE1_ID>
+          <NODE1_NAME>LsdaFedericoGarcia4</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.29</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.173043,40.419799 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71127">
+          <NODE1_ID>63195</NODE1_ID>
+          <NODE1_NAME>LSdaCampanar</NODE1_NAME>
+          <NODE2_ID>66668</NODE2_ID>
+          <NODE2_NAME>LSdaSantAntoni2</NODE2_NAME>
+          <KMS>0.064</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174848,40.417583 0.174153,40.417818</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71388">
+          <NODE1_ID>66925</NODE1_ID>
+          <NODE1_NAME>LSdaConstitucio27</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.194</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174985,40.419329 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71663">
+          <NODE1_ID>67137</NODE1_ID>
+          <NODE1_NAME>LSdaSantBlai20</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.072</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.175693,40.417593 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71665">
+          <NODE1_ID>67138</NODE1_ID>
+          <NODE1_NAME>LSdaSantVicent16</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.082</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174514,40.418277 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71846">
+          <NODE1_ID>67274</NODE1_ID>
+          <NODE1_NAME>LSda-StaBarbara35</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174048,40.419336 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73713">
+          <NODE1_ID>63195</NODE1_ID>
+          <NODE1_NAME>LSdaCampanar</NODE1_NAME>
+          <NODE2_ID>69045</NODE2_ID>
+          <NODE2_NAME>LSdaSantaMagdalena3</NODE2_NAME>
+          <KMS>0.142</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174848,40.417583 0.175591,40.418725</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75073">
+          <NODE1_ID>63195</NODE1_ID>
+          <NODE1_NAME>LSdaCampanar</NODE1_NAME>
+          <NODE2_ID>70025</NODE2_ID>
+          <NODE2_NAME>LSdaSanJose54</NODE2_NAME>
+          <KMS>0.086</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174848,40.417583 0.175124,40.416842</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75342">
+          <NODE1_ID>70198</NODE1_ID>
+          <NODE1_NAME>LSsanantonio14</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.045</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174340,40.417481 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77230">
+          <NODE1_ID>72183</NODE1_ID>
+          <NODE1_NAME>LSdaMajor1</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.173928,40.418080 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77593">
+          <NODE1_ID>72507</NODE1_ID>
+          <NODE1_NAME>LsdaDanielMontull22-</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.242</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.175580,40.419693 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80784">
+          <NODE1_ID>75008</NODE1_ID>
+          <NODE1_NAME>LSdaSantAntoni7</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.174394,40.417782 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81032">
+          <NODE1_ID>75203</NODE1_ID>
+          <NODE1_NAME>LSdaSol1</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.175391,40.419353 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121159">
+          <NODE1_ID>75324</NODE1_ID>
+          <NODE1_NAME>LSdaJesus7</NODE1_NAME>
+          <NODE2_ID>63195</NODE2_ID>
+          <NODE2_NAME>LSdaCampanar</NODE2_NAME>
+          <KMS>0.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>0.173429,40.417863 0.174848,40.417583</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

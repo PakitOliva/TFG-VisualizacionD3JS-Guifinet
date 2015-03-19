@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-3.014407</gml:X><gml:Y>42.988247</gml:Y></gml:coord>
+      <gml:coord><gml:X>-3.009510</gml:X><gml:Y>42.994846</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="57120">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.010533,42.994846</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57120</NODE_ID>
+      <NODE_NAME>RDNaisiaorduna</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57121">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.014407,42.993781</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57121</NODE_ID>
+      <NODE_NAME>RDNlaantigua9</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57280">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.009510,42.992658</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57280</NODE_ID>
+      <NODE_NAME>RDNsanfrantzisko</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Dropped</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57282">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.011381,42.991528</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57282</NODE_ID>
+      <NODE_NAME>RDNakanpalekua1</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57283">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.011734,42.990837</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57283</NODE_ID>
+      <NODE_NAME>RDNakanpalekua2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57284">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.013151,42.988247</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57284</NODE_ID>
+      <NODE_NAME>RDNkarpa</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="57290">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-3.014354,42.993779</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>57290</NODE_ID>
+      <NODE_NAME>RDNlaantigua9-reserv</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

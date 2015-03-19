@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.998828</gml:X><gml:Y>41.360540</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.020654</gml:X><gml:Y>41.380182</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="29860">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.020654,41.369972</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>29860</NODE_ID>
+      <NODE_NAME>scdcOriolMartorell2</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Testing</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="33321">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.019927,41.369497</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>33321</NODE_ID>
+      <NODE_NAME>SCCervelloAPaisosCat</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43302">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.008985,41.377976</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43302</NODE_ID>
+      <NODE_NAME>SCCBonavista</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46629">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.999367,41.360540</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46629</NODE_ID>
+      <NODE_NAME>CanCantro</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48290">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.011791,41.364545</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48290</NODE_ID>
+      <NODE_NAME>SCdCPicot5</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63895">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.998831,41.361822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63895</NODE_ID>
+      <NODE_NAME>SJD-JoanMaragall27</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="63897">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.998828,41.361822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>63897</NODE_ID>
+      <NODE_NAME>SCC-JoanMaragall27</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="71607">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.018468,41.380182</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>71607</NODE_ID>
+      <NODE_NAME>SCdCAvngBarcelona6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

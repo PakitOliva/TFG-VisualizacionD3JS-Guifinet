@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-5.942801</gml:X><gml:Y>43.469103</gml:Y></gml:coord>
+<gml:coord><gml:X>-5.707148</gml:X><gml:Y>43.570284</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="53673">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>53963</NODE2_ID>
+          <NODE2_NAME>SOLISPosteTaujo</NODE2_NAME>
+          <KMS>0.686</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.867057,43.494272</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53674">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>3.164</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53689">
+          <NODE1_ID>53981</NODE1_ID>
+          <NODE1_NAME>SOLISPosteLaSota</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>1.269</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.851910,43.488823 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53700">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.491</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54695">
+          <NODE1_ID>54601</NODE1_ID>
+          <NODE1_NAME>MOLLEDALaTrapa</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.888</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.897695,43.520602 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54719">
+          <NODE1_ID>54354</NODE1_ID>
+          <NODE1_NAME>CMPNAsociacion</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>3.846</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.828526,43.489311 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54727">
+          <NODE1_ID>54627</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujobis</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.012</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875156,43.496040 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54728">
+          <NODE1_ID>54627</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujobis</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.012</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875156,43.496040 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54729">
+          <NODE1_ID>52683</NODE1_ID>
+          <NODE1_NAME>CMPNEscuelas</NODE1_NAME>
+          <NODE2_ID>54628</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelasBis</NODE2_NAME>
+          <KMS>0.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.836597,43.491285 -5.836498,43.491314</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="54731">
+          <NODE1_ID>54628</NODE1_ID>
+          <NODE1_NAME>CMPNEscuelasBis</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.009</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.836498,43.491314 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55813">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>55416</NODE2_ID>
+          <NODE2_NAME>SOLISElPonton9C</NODE2_NAME>
+          <KMS>0.739</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.866958,43.493171</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55972">
+          <NODE1_ID>55490</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota4</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.458</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.851349,43.492928 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55978">
+          <NODE1_ID>55493</NODE1_ID>
+          <NODE1_NAME>SOLISAguera3</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.098</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.849238,43.495071 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56018">
+          <NODE1_ID>55525</NODE1_ID>
+          <NODE1_NAME>SOLISSamaDeAbajo8</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.865691,43.504492 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56023">
+          <NODE1_ID>55530</NODE1_ID>
+          <NODE1_NAME>SOLISElPonton7</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.766</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.866817,43.492861 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56055">
+          <NODE1_ID>55551</NODE1_ID>
+          <NODE1_NAME>SOLISElPonton7B</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.708</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.867525,43.493003 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56061">
+          <NODE1_ID>55557</NODE1_ID>
+          <NODE1_NAME>SOLISAguera1</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.531</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.849648,43.493314 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56065">
+          <NODE1_ID>55561</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota1</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.676</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.854431,43.494624 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56069">
+          <NODE1_ID>55565</NODE1_ID>
+          <NODE1_NAME>SOLISTaujo5bis</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.872176,43.495612 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56070">
+          <NODE1_ID>55566</NODE1_ID>
+          <NODE1_NAME>SOLISTaujo2bis</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.235</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.872246,43.496371 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56078">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>55575</NODE2_ID>
+          <NODE2_NAME>SOLISCasaPiedad</NODE2_NAME>
+          <KMS>1.509</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.856491,43.496663</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56148">
+          <NODE1_ID>55623</NODE1_ID>
+          <NODE1_NAME>CMPN31A</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>3.919</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.828113,43.487640 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56153">
+          <NODE1_ID>55633</NODE1_ID>
+          <NODE1_NAME>SOLISCalabaza14bis</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.173</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.850965,43.487431 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56154">
+          <NODE1_ID>53981</NODE1_ID>
+          <NODE1_NAME>SOLISPosteLaSota</NODE1_NAME>
+          <NODE2_ID>55634</NODE2_ID>
+          <NODE2_NAME>SOLISAguera15</NODE2_NAME>
+          <KMS>0.777</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.851910,43.488823 -5.849445,43.495581</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56155">
+          <NODE1_ID>55635</NODE1_ID>
+          <NODE1_NAME>CMPN19</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>3.613</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.830892,43.491680 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56261">
+          <NODE1_ID>55707</NODE1_ID>
+          <NODE1_NAME>CMPN24</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>3.005</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.838018,43.497266 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56262">
+          <NODE1_ID>55708</NODE1_ID>
+          <NODE1_NAME>CMPNAlvares4</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>3.736</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.832131,43.483881 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56263">
+          <NODE1_ID>55709</NODE1_ID>
+          <NODE1_NAME>CMPN1</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.845</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.841254,43.489280 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56293">
+          <NODE1_ID>55734</NODE1_ID>
+          <NODE1_NAME>SOLISAguera18</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.848299,43.494760 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56355">
+          <NODE1_ID>55780</NODE1_ID>
+          <NODE1_NAME>SOLISTarano2</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>3.073</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.874499,43.489341 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56364">
+          <NODE1_ID>55784</NODE1_ID>
+          <NODE1_NAME>SOLISTarano5</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>3.039</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.874124,43.489981 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56383">
+          <NODE1_ID>55790</NODE1_ID>
+          <NODE1_NAME>SOLISElLlano2</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>2.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.860738,43.499116 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56386">
+          <NODE1_ID>55795</NODE1_ID>
+          <NODE1_NAME>SOLISElLlano1</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>2.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.860750,43.499328 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56679">
+          <NODE1_ID>47047</NODE1_ID>
+          <NODE1_NAME>GJNRubin</NODE1_NAME>
+          <NODE2_ID>52682</NODE2_ID>
+          <NODE2_NAME>CMPNDepCampa</NODE2_NAME>
+          <KMS>11.278</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.707148,43.539467 -5.826855,43.487368</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56691">
+          <NODE1_ID>55606</NODE1_ID>
+          <NODE1_NAME>SOLISAguera3bis</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.727</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.849721,43.495168 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56710">
+          <NODE1_ID>56055</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota11</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.279</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.850212,43.491011 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56833">
+          <NODE1_ID>56141</NODE1_ID>
+          <NODE1_NAME>CMPN1bis</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.75</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.842752,43.488603 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56885">
+          <NODE1_ID>56183</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota20bis</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.512</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.845853,43.487482 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56891">
+          <NODE1_ID>56188</NODE1_ID>
+          <NODE1_NAME>SOLISRodiles11</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.887</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.852146,43.499017 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56923">
+          <NODE1_ID>56237</NODE1_ID>
+          <NODE1_NAME>SOLISTarano4</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.78</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.871763,43.484915 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56934">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>55621</NODE2_ID>
+          <NODE2_NAME>SOLISTarano3</NODE2_NAME>
+          <KMS>5.542</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.874349,43.487701</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56984">
+          <NODE1_ID>56276</NODE1_ID>
+          <NODE1_NAME>SOLISSamaDeAbajo4</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.265</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.866565,43.505671 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56985">
+          <NODE1_ID>56277</NODE1_ID>
+          <NODE1_NAME>CMPN2bis</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.840456,43.490487 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="56986">
+          <NODE1_ID>56279</NODE1_ID>
+          <NODE1_NAME>SOLISRodiles1</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.626</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.855123,43.497530 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57123">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>56364</NODE2_ID>
+          <NODE2_NAME>SOLISElLlano8</NODE2_NAME>
+          <KMS>1.287</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.859227,43.496067</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57207">
+          <NODE1_ID>56463</NODE1_ID>
+          <NODE1_NAME>SOLISElPonton20</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.871291,43.495345 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57256">
+          <NODE1_ID>56309</NODE1_ID>
+          <NODE1_NAME>ARLOSLavares71</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.377</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.901053,43.488945 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57470">
+          <NODE1_ID>56666</NODE1_ID>
+          <NODE1_NAME>SOLISAguera5bis</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.98</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.850686,43.495316 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57474">
+          <NODE1_ID>48187</NODE1_ID>
+          <NODE1_NAME>CMPNcalin</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.522</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.830189,43.490720 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57683">
+          <NODE1_ID>56810</NODE1_ID>
+          <NODE1_NAME>CMPN10</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.065</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.835859,43.491047 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="57689">
+          <NODE1_ID>56820</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota13</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.247</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.849581,43.490260 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58089">
+          <NODE1_ID>57100</NODE1_ID>
+          <NODE1_NAME>CMPN21</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.43</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.832775,43.493969 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58886">
+          <NODE1_ID>57254</NODE1_ID>
+          <NODE1_NAME>CMPN8</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.838348,43.491776 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="58900">
+          <NODE1_ID>57257</NODE1_ID>
+          <NODE1_NAME>CMPN4</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.284</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.840102,43.491407 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="59609">
+          <NODE1_ID>57258</NODE1_ID>
+          <NODE1_NAME>CMPN6</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.95</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.839199,43.491644 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61432">
+          <NODE1_ID>59446</NODE1_ID>
+          <NODE1_NAME>ARLOSLavares101</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>4.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.895214,43.487748 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61499">
+          <NODE1_ID>57259</NODE1_ID>
+          <NODE1_NAME>CMPN16</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.832608,43.491531 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62922">
+          <NODE1_ID>60503</NODE1_ID>
+          <NODE1_NAME>SOLISElPonton6C</NODE1_NAME>
+          <NODE2_ID>53963</NODE2_ID>
+          <NODE2_NAME>SOLISPosteTaujo</NODE2_NAME>
+          <KMS>0.107</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.866655,43.493354 -5.867057,43.494272</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62988">
+          <NODE1_ID>60553</NODE1_ID>
+          <NODE1_NAME>SOLISAguera15bis</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.895</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.845555,43.495417 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63001">
+          <NODE1_ID>60566</NODE1_ID>
+          <NODE1_NAME>SOLISPosteTaujobis</NODE1_NAME>
+          <NODE2_ID>53963</NODE2_ID>
+          <NODE2_NAME>SOLISPosteTaujo</NODE2_NAME>
+          <KMS>0.003</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.867024,43.494279 -5.867057,43.494272</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63024">
+          <NODE1_ID>60587</NODE1_ID>
+          <NODE1_NAME>SOLISTaujo2</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.872608,43.497501 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63187">
+          <NODE1_ID>60684</NODE1_ID>
+          <NODE1_NAME>SOLISRodilesAV</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.649</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.854871,43.497727 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64320">
+          <NODE1_ID>61523</NODE1_ID>
+          <NODE1_NAME>SOLISPosteLaSotabis</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.008</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.851842,43.488769 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="64323">
+          <NODE1_ID>53981</NODE1_ID>
+          <NODE1_NAME>SOLISPosteLaSota</NODE1_NAME>
+          <NODE2_ID>61526</NODE2_ID>
+          <NODE2_NAME>SOLISLaSota5</NODE2_NAME>
+          <KMS>0.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.851910,43.488823 -5.851378,43.492341</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66456">
+          <NODE1_ID>63159</NODE1_ID>
+          <NODE1_NAME>SOLISTaujo1</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>0.302</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.872007,43.494669 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="67276">
+          <NODE1_ID>55710</NODE1_ID>
+          <NODE1_NAME>CMPN12</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>3.467</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.833263,43.489474 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68182">
+          <NODE1_ID>60549</NODE1_ID>
+          <NODE1_NAME>SOLISVillar54</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>1.122</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.843995,43.482738 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68188">
+          <NODE1_ID>56310</NODE1_ID>
+          <NODE1_NAME>ARLOSMarta</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>6.342</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.914303,43.483730 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68275">
+          <NODE1_ID>57256</NODE1_ID>
+          <NODE1_NAME>CMPNFaemi</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.224</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.839370,43.491328 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68277">
+          <NODE1_ID>64584</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota2</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.651</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.853878,43.494501 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68292">
+          <NODE1_ID>52683</NODE1_ID>
+          <NODE1_NAME>CMPNEscuelas</NODE1_NAME>
+          <NODE2_ID>57255</NODE2_ID>
+          <NODE2_NAME>CMPN5</NODE2_NAME>
+          <KMS>0.282</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.836597,43.491285 -5.840019,43.491782</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68293">
+          <NODE1_ID>56671</NODE1_ID>
+          <NODE1_NAME>SOLISAguera10bis</NODE1_NAME>
+          <NODE2_ID>53981</NODE2_ID>
+          <NODE2_NAME>SOLISPosteLaSota</NODE2_NAME>
+          <KMS>0.874</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.848535,43.496297 -5.851910,43.488823</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68294">
+          <NODE1_ID>57260</NODE1_ID>
+          <NODE1_NAME>CMPN11</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.029</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.836235,43.491317 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68541">
+          <NODE1_ID>56039</NODE1_ID>
+          <NODE1_NAME>SOLISAguera17</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.848669,43.494784 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="68695">
+          <NODE1_ID>60512</NODE1_ID>
+          <NODE1_NAME>SOLISCalabaza13</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>1.36</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.852210,43.486741 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70484">
+          <NODE1_ID>65632</NODE1_ID>
+          <NODE1_NAME>NUNEZ17</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>5.057</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.886188,43.510714 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70542">
+          <NODE1_ID>65698</NODE1_ID>
+          <NODE1_NAME>LOSCAMPOSSantaCruz7</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>6.836</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.889503,43.539051 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73644">
+          <NODE1_ID>60688</NODE1_ID>
+          <NODE1_NAME>SOLISCampoLaVega11</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>1.146</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.877897,43.506264 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75295">
+          <NODE1_ID>70108</NODE1_ID>
+          <NODE1_NAME>ARLOSLavares47</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.749</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.896632,43.487455 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76211">
+          <NODE1_ID>55966</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota19</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.774</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.845048,43.488009 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76217">
+          <NODE1_ID>52682</NODE1_ID>
+          <NODE1_NAME>CMPNDepCampa</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>0.9</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.826855,43.487368 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76330">
+          <NODE1_ID>65259</NODE1_ID>
+          <NODE1_NAME>VILLALlamera1</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.137</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.938062,43.528298 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76331">
+          <NODE1_ID>46747</NODE1_ID>
+          <NODE1_NAME>AVIGorfoli</NODE1_NAME>
+          <NODE2_ID>66403</NODE2_ID>
+          <NODE2_NAME>VILLAAAVVElSucu7</NODE2_NAME>
+          <KMS>3.758</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942688,43.491218 -5.941270,43.525031</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77200">
+          <NODE1_ID>60632</NODE1_ID>
+          <NODE1_NAME>SOLISLaCruzada3</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>8.293</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.842482,43.507055 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77229">
+          <NODE1_ID>70606</NODE1_ID>
+          <NODE1_NAME>GZNPerdonesCLaBule</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>8.244</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.870963,43.570284 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="78524">
+          <NODE1_ID>72387</NODE1_ID>
+          <NODE1_NAME>VILLALlamera1c</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.222</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.937112,43.528999 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79859">
+          <NODE1_ID>74367</NODE1_ID>
+          <NODE1_NAME>VILLACapiellu13</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>3.324</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.942801,43.521137 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80067">
+          <NODE1_ID>74581</NODE1_ID>
+          <NODE1_NAME>SOLISElLlano20</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>1.669</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.856064,43.496260 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80787">
+          <NODE1_ID>74729</NODE1_ID>
+          <NODE1_NAME>ARLOS26</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>6.202</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.912721,43.484605 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121787">
+          <NODE1_ID>75987</NODE1_ID>
+          <NODE1_NAME>SOLISLaSota3</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>1.501</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.854790,43.493960 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123012">
+          <NODE1_ID>52681</NODE1_ID>
+          <NODE1_NAME>SOLISDepTaujo</NODE1_NAME>
+          <NODE2_ID>74796</NODE2_ID>
+          <NODE2_NAME>ARLOSLavaresX</NODE2_NAME>
+          <KMS>1.869</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.875138,43.496144 -5.890628,43.483661</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123101">
+          <NODE1_ID>76534</NODE1_ID>
+          <NODE1_NAME>LLNRFerrones4</NODE1_NAME>
+          <NODE2_ID>52681</NODE2_ID>
+          <NODE2_NAME>SOLISDepTaujo</NODE2_NAME>
+          <KMS>2.812</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.864476,43.472057 -5.875138,43.496144</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123461">
+          <NODE1_ID>77169</NODE1_ID>
+          <NODE1_NAME>LLNRFerrones6</NODE1_NAME>
+          <NODE2_ID>52683</NODE2_ID>
+          <NODE2_NAME>CMPNEscuelas</NODE2_NAME>
+          <KMS>3.23</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.862411,43.469103 -5.836597,43.491285</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123530">
+          <NODE1_ID>76889</NODE1_ID>
+          <NODE1_NAME>NUNEZNubledo16</NODE1_NAME>
+          <NODE2_ID>46747</NODE2_ID>
+          <NODE2_NAME>AVIGorfoli</NODE2_NAME>
+          <KMS>4.937</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-5.887502,43.510205 -5.942688,43.491218</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

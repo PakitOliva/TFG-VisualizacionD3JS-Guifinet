@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>2.810559</gml:X><gml:Y>42.139204</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.821531</gml:X><gml:Y>42.142636</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="60666">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.820611,42.139204</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>60666</NODE_ID>
+      <NODE_NAME>VlvntVila</NODE_NAME>
+      <NODE_TYPE>ap</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64286">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.810559,42.142636</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64286</NODE_ID>
+      <NODE_NAME>VlvntCanJoan</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="64715">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.821531,42.140662</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>64715</NODE_ID>
+      <NODE_NAME>VlntCanTia</NODE_NAME>
+      <NODE_TYPE>client</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

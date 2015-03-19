@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>-2.139900</gml:X><gml:Y>43.072030</gml:Y></gml:coord>
+<gml:coord><gml:X>-2.081920</gml:X><gml:Y>43.146330</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="55796">
+          <NODE1_ID>55347</NODE1_ID>
+          <NODE1_NAME>ORENTanga</NODE1_NAME>
+          <NODE2_ID>55356</NODE2_ID>
+          <NODE2_NAME>ALBIAldaba</NODE2_NAME>
+          <KMS>5.877</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.104030,43.072030 -2.139900,43.117940</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55797">
+          <NODE1_ID>55395</NODE1_ID>
+          <NODE1_NAME>TOLOOiaun</NODE1_NAME>
+          <NODE2_ID>55356</NODE2_ID>
+          <NODE2_NAME>ALBIAldaba</NODE2_NAME>
+          <KMS>4.772</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.081920,43.111530 -2.139900,43.117940</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="55897">
+          <NODE1_ID>55349</NODE1_ID>
+          <NODE1_NAME>TOLOArtzubi</NODE1_NAME>
+          <NODE2_ID>55356</NODE2_ID>
+          <NODE2_NAME>ALBIAldaba</NODE2_NAME>
+          <KMS>3.696</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Building</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>-2.116230,43.146330 -2.139900,43.117940</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

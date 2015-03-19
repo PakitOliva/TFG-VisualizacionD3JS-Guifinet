@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.977349</gml:X><gml:Y>41.272396</gml:Y></gml:coord>
+      <gml:coord><gml:X>2.010183</gml:X><gml:Y>41.317923</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="18405">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.009659,41.303536</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>18405</NODE_ID>
+      <NODE_NAME>GAVRamonLluc</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="16762">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.995124,41.306722</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>16762</NODE_ID>
+      <NODE_NAME>GavaSantLluis</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="31490">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.999827,41.300273</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>31490</NODE_ID>
+      <NODE_NAME>GAV-Pza1deMaig</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38432">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.992860,41.311146</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38432</NODE_ID>
+      <NODE_NAME>GAVCanTrias6</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="46693">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.001964,41.303479</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>46693</NODE_ID>
+      <NODE_NAME>GvMont3</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="42524">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.997765,41.304419</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42524</NODE_ID>
+      <NODE_NAME>BonsaiNode</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="47263">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.001008,41.272396</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>47263</NODE_ID>
+      <NODE_NAME>gavamarBS</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54130">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.977349,41.317923</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54130</NODE_ID>
+      <NODE_NAME>MasiaCamprubi</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="54603">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>2.010183,41.306229</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>54603</NODE_ID>
+      <NODE_NAME>GvVictorBalaguer8</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

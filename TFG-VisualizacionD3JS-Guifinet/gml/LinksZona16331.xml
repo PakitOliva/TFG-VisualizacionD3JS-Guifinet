@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.571947</gml:X><gml:Y>42.186738</gml:Y></gml:coord>
+<gml:coord><gml:X>2.706790</gml:X><gml:Y>42.258552</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="12890">
+          <NODE1_ID>16332</NODE1_ID>
+          <NODE1_NAME>SJLliercaAjuntament</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.566</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.606816,42.212038 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14701">
+          <NODE1_ID>19111</NODE1_ID>
+          <NODE1_NAME>SJLLAReyes</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.135</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607279,42.213206 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14702">
+          <NODE1_ID>19112</NODE1_ID>
+          <NODE1_NAME>SJLLEJove</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.105</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607450,42.211220 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="14708">
+          <NODE1_ID>19110</NODE1_ID>
+          <NODE1_NAME>SJLLJFormatger</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.602869,42.213969 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15223">
+          <NODE1_ID>19789</NODE1_ID>
+          <NODE1_NAME>SJLLJDarne</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.087</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605779,42.211901 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="15838">
+          <NODE1_ID>20382</NODE1_ID>
+          <NODE1_NAME>SJLLPOrellana</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605809,42.210870 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16360">
+          <NODE1_ID>20936</NODE1_ID>
+          <NODE1_NAME>SJLLXHurtos</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.167</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605981,42.210671 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16951">
+          <NODE1_ID>21556</NODE1_ID>
+          <NODE1_NAME>SJDLLcogoll</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>4.809</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.585220,42.188820 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="16970">
+          <NODE1_ID>21568</NODE1_ID>
+          <NODE1_NAME>SJdLLCLlanders</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.73</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.602773,42.206427 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="17892">
+          <NODE1_ID>22453</NODE1_ID>
+          <NODE1_NAME>SJDLLEAlcaniz</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.141</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605240,42.212519 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18725">
+          <NODE1_ID>23385</NODE1_ID>
+          <NODE1_NAME>SJLLRVila</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.183</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.602306,42.213322 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18962">
+          <NODE1_ID>23672</NODE1_ID>
+          <NODE1_NAME>SJLLJTorrent</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.094</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607507,42.212712 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="18984">
+          <NODE1_ID>23695</NODE1_ID>
+          <NODE1_NAME>SJLLNVila</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.127</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607123,42.210922 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19096">
+          <NODE1_ID>23854</NODE1_ID>
+          <NODE1_NAME>SJLLJBoix</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.18</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.602711,42.213753 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19265">
+          <NODE1_ID>24114</NODE1_ID>
+          <NODE1_NAME>SJDLLETorres</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.148</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.606246,42.213300 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19267">
+          <NODE1_ID>24113</NODE1_ID>
+          <NODE1_NAME>SJDLLAVela</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.387</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.603371,42.214401 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19387">
+          <NODE1_ID>23865</NODE1_ID>
+          <NODE1_NAME>SJLLTORR</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>2.214</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.596046,42.222225 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="19683">
+          <NODE1_ID>24614</NODE1_ID>
+          <NODE1_NAME>SJDLLMato</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.789</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.610953,42.213012 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21766">
+          <NODE1_ID>26963</NODE1_ID>
+          <NODE1_NAME>SJDLLNacho</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.192</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.608652,42.210975 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="21817">
+          <NODE1_ID>27010</NODE1_ID>
+          <NODE1_NAME>SJDLLCanVetre</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.096</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605884,42.211522 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22106">
+          <NODE1_ID>14992</NODE1_ID>
+          <NODE1_NAME>ElCos</NODE1_NAME>
+          <NODE2_ID>27324</NODE2_ID>
+          <NODE2_NAME>SJdLLSUlloa</NODE2_NAME>
+          <KMS>3.816</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.571947,42.230978 2.611189,42.212834</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22245">
+          <NODE1_ID>27435</NODE1_ID>
+          <NODE1_NAME>SJDLLTBru</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.393</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605039,42.212863 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22939">
+          <NODE1_ID>28177</NODE1_ID>
+          <NODE1_NAME>SJDLLCoguleras2</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>5.042</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.585612,42.186738 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22964">
+          <NODE1_ID>28198</NODE1_ID>
+          <NODE1_NAME>SJDLLJVila</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.606113,42.211808 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="23778">
+          <NODE1_ID>28949</NODE1_ID>
+          <NODE1_NAME>SJDLLCoguleras3</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>4.982</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.590622,42.188327 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27216">
+          <NODE1_ID>32569</NODE1_ID>
+          <NODE1_NAME>SJDLLPFontaniol</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.605313,42.211229 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="27277">
+          <NODE1_ID>32641</NODE1_ID>
+          <NODE1_NAME>SJDLLCogulerasindio</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>4.984</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.589984,42.188160 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="37436">
+          <NODE1_ID>41636</NODE1_ID>
+          <NODE1_NAME>SJDLLSusanna</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.104</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607378,42.212877 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53944">
+          <NODE1_ID>54131</NODE1_ID>
+          <NODE1_NAME>SJDllBoscdecanpuig21</NODE1_NAME>
+          <NODE2_ID>14992</NODE2_ID>
+          <NODE2_NAME>ElCos</NODE2_NAME>
+          <KMS>3.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.603051,42.213785 2.571947,42.230978</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60907">
+          <NODE1_ID>14992</NODE1_ID>
+          <NODE1_NAME>ElCos</NODE1_NAME>
+          <NODE2_ID>29096</NODE2_ID>
+          <NODE2_NAME>SJDLLCoguleras4</NODE2_NAME>
+          <KMS>4.874</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.571947,42.230978 2.590048,42.189214</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65327">
+          <NODE1_ID>62367</NODE1_ID>
+          <NODE1_NAME>SjDLLsantjaume14</NODE1_NAME>
+          <NODE2_ID>16332</NODE2_ID>
+          <NODE2_NAME>SJLliercaAjuntament</NODE2_NAME>
+          <KMS>0.152</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607214,42.213374 2.606816,42.212038</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65329">
+          <NODE1_ID>62367</NODE1_ID>
+          <NODE1_NAME>SjDLLsantjaume14</NODE1_NAME>
+          <NODE2_ID>24322</NODE2_ID>
+          <NODE2_NAME>SalesLLCastell</NODE2_NAME>
+          <KMS>4.556</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607214,42.213374 2.644760,42.243433</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="65330">
+          <NODE1_ID>62367</NODE1_ID>
+          <NODE1_NAME>SjDLLsantjaume14</NODE1_NAME>
+          <NODE2_ID>9170</NODE2_ID>
+          <NODE2_NAME>AlbMMont</NODE2_NAME>
+          <KMS>9.63</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.607214,42.213374 2.706790,42.258552</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

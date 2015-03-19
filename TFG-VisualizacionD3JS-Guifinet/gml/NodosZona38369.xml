@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.014302</gml:X><gml:Y>41.555341</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.022421</gml:X><gml:Y>41.563331</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="37270">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.022421,41.555341</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>37270</NODE_ID>
+      <NODE_NAME>BLNDiposit</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="38221">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.017410,41.561376</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>38221</NODE_ID>
+      <NODE_NAME>BLNCampanar</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39496">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.017676,41.561818</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39496</NODE_ID>
+      <NODE_NAME>BLNAjuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39497">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.014302,41.563331</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39497</NODE_ID>
+      <NODE_NAME>BLNSitgesAltes</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39778">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.016278,41.562776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39778</NODE_ID>
+      <NODE_NAME>BLNEscoles</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="39780">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.018118,41.559573</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>39780</NODE_ID>
+      <NODE_NAME>BLNPiscines</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

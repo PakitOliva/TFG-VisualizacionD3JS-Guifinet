@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.791085</gml:X><gml:Y>41.969162</gml:Y></gml:coord>
+<gml:coord><gml:X>3.243640</gml:X><gml:Y>42.399151</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="20722">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>21265</NODE2_ID>
+          <NODE2_NAME>pau-</NODE2_NAME>
+          <KMS>5.088</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 3.116904,42.316013</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="20724">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>19982</NODE2_ID>
+          <NODE2_NAME>vajolNegrin</NODE2_NAME>
+          <KMS>32.329</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 2.791085,42.399151</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22079">
+          <NODE1_ID>27261</NODE1_ID>
+          <NODE1_NAME>Roses-MasOliva</NODE1_NAME>
+          <NODE2_ID>23467</NODE2_ID>
+          <NODE2_NAME>Roses-Badia</NODE2_NAME>
+          <KMS>3.813</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192226,42.271433 3.146381,42.275769</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="22221">
+          <NODE1_ID>27261</NODE1_ID>
+          <NODE1_NAME>Roses-MasOliva</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>26.371</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.192226,42.271433 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="25050">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>29559</NODE2_ID>
+          <NODE2_NAME>Fgrs-Monturiol</NODE2_NAME>
+          <KMS>14.534</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 2.970301,42.271353</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="29143">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>23864</NODE2_ID>
+          <NODE2_NAME>skaules_wifi</NODE2_NAME>
+          <KMS>22.575</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 2.879416,42.320757</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="31709">
+          <NODE1_ID>35321</NODE1_ID>
+          <NODE1_NAME>Mas_FumatsJMapra</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.528</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173925,42.290440 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32129">
+          <NODE1_ID>37170</NODE1_ID>
+          <NODE1_NAME>Mas_FumatsJGroenenbe</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.614</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175080,42.288224 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32336">
+          <NODE1_ID>37386</NODE1_ID>
+          <NODE1_NAME>Mas_FumatsWTijssink</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.686</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.172862,42.289005 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32361">
+          <NODE1_ID>37417</NODE1_ID>
+          <NODE1_NAME>Mas_FumatsBHaygarth</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.67</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173166,42.288944 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="32617">
+          <NODE1_ID>27873</NODE1_ID>
+          <NODE1_NAME>Roseswireless</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>2.514</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.165479,42.272546 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="33110">
+          <NODE1_ID>29500</NODE1_ID>
+          <NODE1_NAME>SPPmmsfrrr</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>16.42</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.091819,42.185222 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34272">
+          <NODE1_ID>34737</NODE1_ID>
+          <NODE1_NAME>MasFumats1</NODE1_NAME>
+          <NODE2_ID>39072</NODE2_ID>
+          <NODE2_NAME>Mas_BoscaRMichel</NODE2_NAME>
+          <KMS>1.427</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.179633,42.292592 3.166666,42.284082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="34972">
+          <NODE1_ID>32512</NODE1_ID>
+          <NODE1_NAME>RosesElsVilars</NODE1_NAME>
+          <NODE2_ID>38949</NODE2_ID>
+          <NODE2_NAME>RS-PRepe</NODE2_NAME>
+          <KMS>0.463</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.189780,42.254244 3.189700,42.250079</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="35269">
+          <NODE1_ID>39510</NODE1_ID>
+          <NODE1_NAME>Emprbrv-uniquesat</NODE1_NAME>
+          <NODE2_ID>38949</NODE2_ID>
+          <NODE2_NAME>RS-PRepe</NODE2_NAME>
+          <KMS>7.466</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Dropped</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.100408,42.260894 3.189700,42.250079</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36655">
+          <NODE1_ID>19377</NODE1_ID>
+          <NODE1_NAME>MsPCrepuscle</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>28.069</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.908287,42.238302 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="36789">
+          <NODE1_ID>23467</NODE1_ID>
+          <NODE1_NAME>Roses-Badia</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>3.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146381,42.275769 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38218">
+          <NODE1_ID>42326</NODE1_ID>
+          <NODE1_NAME>Roses-llimoner12</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>3.063</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.151950,42.274215 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="38288">
+          <NODE1_ID>34737</NODE1_ID>
+          <NODE1_NAME>MasFumats1</NODE1_NAME>
+          <NODE2_ID>42308</NODE2_ID>
+          <NODE2_NAME>Mas_FumatsDBeniga</NODE2_NAME>
+          <KMS>0.289</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.179633,42.292592 3.177527,42.294675</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="43851">
+          <NODE1_ID>46694</NODE1_ID>
+          <NODE1_NAME>EscSantpere</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>18.977</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.134902,42.125017 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="44806">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>20641</NODE2_ID>
+          <NODE2_NAME>BegurSaNauPerduda</NODE2_NAME>
+          <KMS>34.626</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.229691,41.969162</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="45517">
+          <NODE1_ID>47935</NODE1_ID>
+          <NODE1_NAME>Mas_BoscaGAndres</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>1.456</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.166203,42.284087 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="47103">
+          <NODE1_ID>47489</NODE1_ID>
+          <NODE1_NAME>EmpbrvEbre28-7</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>6.919</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.118525,42.249930 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="48404">
+          <NODE1_ID>28377</NODE1_ID>
+          <NODE1_NAME>FgrsRocaberti31</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>22.841</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.968100,42.260608 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="49592">
+          <NODE1_ID>50361</NODE1_ID>
+          <NODE1_NAME>Emprbrv_ALDI</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>7.091</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.107489,42.257878 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="52791">
+          <NODE1_ID>52059</NODE1_ID>
+          <NODE1_NAME>Roses-GI610Km2</NODE1_NAME>
+          <NODE2_ID>28377</NODE2_ID>
+          <NODE2_NAME>FgrsRocaberti31</NODE2_NAME>
+          <KMS>15.583</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.154629,42.282743 2.968100,42.260608</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53753">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>40402</NODE2_ID>
+          <NODE2_NAME>Fortia-SDali</NODE2_NAME>
+          <KMS>17.11</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.042764,42.242504</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="53934">
+          <NODE1_ID>54079</NODE1_ID>
+          <NODE1_NAME>Mas_FumatsMLong</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.392</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175805,42.290505 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60144">
+          <NODE1_ID>58511</NODE1_ID>
+          <NODE1_NAME>Emprbrv-Montgri</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>11.425</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114613,42.243403 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60145">
+          <NODE1_ID>58510</NODE1_ID>
+          <NODE1_NAME>Emprbrv-LaSardana</NODE1_NAME>
+          <NODE2_ID>38945</NODE2_ID>
+          <NODE2_NAME>Roses-Pescadors</NODE2_NAME>
+          <KMS>4.171</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.133598,42.249184 3.182484,42.258715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="60146">
+          <NODE1_ID>58510</NODE1_ID>
+          <NODE1_NAME>Emprbrv-LaSardana</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>9.732</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.133598,42.249184 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="61267">
+          <NODE1_ID>36938</NODE1_ID>
+          <NODE1_NAME>SntaMrg-CWills</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.038</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.139094,42.268475 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62002">
+          <NODE1_ID>34737</NODE1_ID>
+          <NODE1_NAME>MasFumats1</NODE1_NAME>
+          <NODE2_ID>59832</NODE2_ID>
+          <NODE2_NAME>RSMrgrtLW</NODE2_NAME>
+          <KMS>2.576</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.179633,42.292592 3.163097,42.272923</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="62208">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>57927</NODE2_ID>
+          <NODE2_NAME>Emprbrv-SpuigDn20</NODE2_NAME>
+          <KMS>12.266</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.099852,42.252641</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63089">
+          <NODE1_ID>50775</NODE1_ID>
+          <NODE1_NAME>Pau-Nord20</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>4.457</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.129687,42.318336 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63114">
+          <NODE1_ID>37429</NODE1_ID>
+          <NODE1_NAME>RosesPeni</NODE1_NAME>
+          <NODE2_ID>41621</NODE2_ID>
+          <NODE2_NAME>StMdE-Antoon</NODE2_NAME>
+          <KMS>18.677</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.243640,42.280726 3.114660,42.142602</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63304">
+          <NODE1_ID>58802</NODE1_ID>
+          <NODE1_NAME>Fortia-Campanar</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>17.272</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.040897,42.242031 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63555">
+          <NODE1_ID>38257</NODE1_ID>
+          <NODE1_NAME>Salata-Cerv7</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.025</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.157973,42.264685 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="63606">
+          <NODE1_ID>61003</NODE1_ID>
+          <NODE1_NAME>Roses-PescadorsDavid</NODE1_NAME>
+          <NODE2_ID>38945</NODE2_ID>
+          <NODE2_NAME>Roses-Pescadors</NODE2_NAME>
+          <KMS>0.05</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.181917,42.258866 3.182484,42.258715</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="66808">
+          <NODE1_ID>63401</NODE1_ID>
+          <NODE1_NAME>rosesmfATPKnavarra59</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.303</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.178319,42.293724 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69375">
+          <NODE1_ID>65367</NODE1_ID>
+          <NODE1_NAME>Roses-HM</NODE1_NAME>
+          <NODE2_ID>37429</NODE2_ID>
+          <NODE2_NAME>RosesPeni</NODE2_NAME>
+          <KMS>7.035</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Reserved</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.160526,42.266566 3.243640,42.280726</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69937">
+          <NODE1_ID>65820</NODE1_ID>
+          <NODE1_NAME>MasBoscaUrgell5</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>1.488</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.166224,42.283635 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="69967">
+          <NODE1_ID>55217</NODE1_ID>
+          <NODE1_NAME>CbnsCampanar</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>16.729</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.977719,42.307239 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70296">
+          <NODE1_ID>52059</NODE1_ID>
+          <NODE1_NAME>Roses-GI610Km2</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>2.334</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.154629,42.282743 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70458">
+          <NODE1_ID>65367</NODE1_ID>
+          <NODE1_NAME>Roses-HM</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>3.293</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.160526,42.266566 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70692">
+          <NODE1_ID>66330</NODE1_ID>
+          <NODE1_NAME>RssMrcRdrd</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>2.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.182603,42.253847 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="70781">
+          <NODE1_ID>52059</NODE1_ID>
+          <NODE1_NAME>Roses-GI610Km2</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>1.862</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.154629,42.282743 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71004">
+          <NODE1_ID>66444</NODE1_ID>
+          <NODE1_NAME>Roses-PortEsportiu12</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>1.985</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.180089,42.256172 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71018">
+          <NODE1_ID>66598</NODE1_ID>
+          <NODE1_NAME>Mas_FumatsEspanya57</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.669</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.173187,42.288934 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71036">
+          <NODE1_ID>66610</NODE1_ID>
+          <NODE1_NAME>CanIsaac-Alemany1</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>3.665</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.134975,42.312338 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71066">
+          <NODE1_ID>66622</NODE1_ID>
+          <NODE1_NAME>MasFumatsSoria1</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.258</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.176567,42.293059 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71110">
+          <NODE1_ID>66655</NODE1_ID>
+          <NODE1_NAME>Salata-Cerv5</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>0.278</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.158182,42.264772 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71248">
+          <NODE1_ID>66785</NODE1_ID>
+          <NODE1_NAME>MasFumatsBilbao16</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.492</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.174050,42.291023 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="71324">
+          <NODE1_ID>66873</NODE1_ID>
+          <NODE1_NAME>MasFumatsSlmnca39</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.34</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.176613,42.294671 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72218">
+          <NODE1_ID>52059</NODE1_ID>
+          <NODE1_NAME>Roses-GI610Km2</NODE1_NAME>
+          <NODE2_ID>67577</NODE2_ID>
+          <NODE2_NAME>PauGarbi26</NODE2_NAME>
+          <KMS>4.227</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.154629,42.282743 3.129870,42.316059</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="72412">
+          <NODE1_ID>66587</NODE1_ID>
+          <NODE1_NAME>Roses-CapPonent</NODE1_NAME>
+          <NODE2_ID>58510</NODE2_ID>
+          <NODE2_NAME>Emprbrv-LaSardana</NODE2_NAME>
+          <KMS>1.86</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147436,42.262404 3.133598,42.249184</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73277">
+          <NODE1_ID>68197</NODE1_ID>
+          <NODE1_NAME>StyxMotor</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>1.685</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.141052,42.271409 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73327">
+          <NODE1_ID>68701</NODE1_ID>
+          <NODE1_NAME>Rhodes173</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>0.61</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.176644,42.261027 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73605">
+          <NODE1_ID>68502</NODE1_ID>
+          <NODE1_NAME>SntaMrg-AvdStM25</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>1.196</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.146216,42.268285 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73811">
+          <NODE1_ID>68954</NODE1_ID>
+          <NODE1_NAME>StaMargaritaStyx</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>2.505</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.150149,42.259886 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73929">
+          <NODE1_ID>57927</NODE1_ID>
+          <NODE1_NAME>Emprbrv-SpuigDn20</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>5.24</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.099852,42.252641 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="73931">
+          <NODE1_ID>57927</NODE1_ID>
+          <NODE1_NAME>Emprbrv-SpuigDn20</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>5.622</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.099852,42.252641 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74113">
+          <NODE1_ID>58510</NODE1_ID>
+          <NODE1_NAME>Emprbrv-LaSardana</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>3.914</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.133598,42.249184 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74121">
+          <NODE1_ID>69340</NODE1_ID>
+          <NODE1_NAME>RosesCalderonBarca26</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>0.169</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.159369,42.265309 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74178">
+          <NODE1_ID>58511</NODE1_ID>
+          <NODE1_NAME>Emprbrv-Montgri</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>7.657</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.114613,42.243403 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="74637">
+          <NODE1_ID>69684</NODE1_ID>
+          <NODE1_NAME>Emprbrv-ICartago19</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>6.682</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.125672,42.247731 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75483">
+          <NODE1_ID>70332</NODE1_ID>
+          <NODE1_NAME>AVRhodeCaseta1</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>1.375</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.175594,42.261285 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="75484">
+          <NODE1_ID>70334</NODE1_ID>
+          <NODE1_NAME>StaMargaritaCaseta2</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>2.31</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.153082,42.261649 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76244">
+          <NODE1_ID>71011</NODE1_ID>
+          <NODE1_NAME>MerceRodoreda48</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>0.353</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.183067,42.253896 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76245">
+          <NODE1_ID>69536</NODE1_ID>
+          <NODE1_NAME>Emprbrv-DeltaMuga</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>5.043</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.124094,42.237988 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="76925">
+          <NODE1_ID>65367</NODE1_ID>
+          <NODE1_NAME>Roses-HM</NODE1_NAME>
+          <NODE2_ID>71771</NODE2_ID>
+          <NODE2_NAME>pitagores</NODE2_NAME>
+          <KMS>2.07</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.160526,42.266566 3.185477,42.264603</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77252">
+          <NODE1_ID>48268</NODE1_ID>
+          <NODE1_NAME>MasFumatsTOP</NODE1_NAME>
+          <NODE2_ID>19377</NODE2_ID>
+          <NODE2_NAME>MsPCrepuscle</NODE2_NAME>
+          <KMS>23.412</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.181370,42.295611 2.908287,42.238302</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77253">
+          <NODE1_ID>20641</NODE1_ID>
+          <NODE1_NAME>BegurSaNauPerduda</NODE1_NAME>
+          <NODE2_ID>48268</NODE2_ID>
+          <NODE2_NAME>MasFumatsTOP</NODE2_NAME>
+          <KMS>36.48</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.229691,41.969162 3.181370,42.295611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77314">
+          <NODE1_ID>39276</NODE1_ID>
+          <NODE1_NAME>Mas_Fumats-RWhichers</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>0.413</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.176695,42.295602 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77440">
+          <NODE1_ID>72370</NODE1_ID>
+          <NODE1_NAME>AVRhodeRA</NODE1_NAME>
+          <NODE2_ID>66444</NODE2_ID>
+          <NODE2_NAME>Roses-PortEsportiu12</NODE2_NAME>
+          <KMS>0.505</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.178543,42.260574 3.180089,42.256172</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77647">
+          <NODE1_ID>72560</NODE1_ID>
+          <NODE1_NAME>StaMargarita-CapGola</NODE1_NAME>
+          <NODE2_ID>58510</NODE2_ID>
+          <NODE2_NAME>Emprbrv-LaSardana</NODE2_NAME>
+          <KMS>2.124</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.147678,42.265186 3.133598,42.249184</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77888">
+          <NODE1_ID>69109</NODE1_ID>
+          <NODE1_NAME>MasBoscaMaresme4</NODE1_NAME>
+          <NODE2_ID>48268</NODE2_ID>
+          <NODE2_NAME>MasFumatsTOP</NODE2_NAME>
+          <KMS>1.976</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.165382,42.282357 3.181370,42.295611</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79214">
+          <NODE1_ID>73841</NODE1_ID>
+          <NODE1_NAME>PauBotiga</NODE1_NAME>
+          <NODE2_ID>65367</NODE2_ID>
+          <NODE2_NAME>Roses-HM</NODE2_NAME>
+          <KMS>6.55</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.118940,42.316806 3.160526,42.266566</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79399">
+          <NODE1_ID>70185</NODE1_ID>
+          <NODE1_NAME>Roses-Pastor1</NODE1_NAME>
+          <NODE2_ID>34737</NODE2_ID>
+          <NODE2_NAME>MasFumats1</NODE2_NAME>
+          <KMS>4.268</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.138018,42.269759 3.179633,42.292592</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="79646">
+          <NODE1_ID>73508</NODE1_ID>
+          <NODE1_NAME>PSVCanigo</NODE1_NAME>
+          <NODE2_ID>52059</NODE2_ID>
+          <NODE2_NAME>Roses-GI610Km2</NODE2_NAME>
+          <KMS>2.961</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.152058,42.309332 3.154629,42.282743</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80767">
+          <NODE1_ID>58510</NODE1_ID>
+          <NODE1_NAME>Emprbrv-LaSardana</NODE1_NAME>
+          <NODE2_ID>75017</NODE2_ID>
+          <NODE2_NAME>RosesCaLisip5</NODE2_NAME>
+          <KMS>4.6</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Testing</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.133598,42.249184 3.186695,42.261807</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122571">
+          <NODE1_ID>65367</NODE1_ID>
+          <NODE1_NAME>Roses-HM</NODE1_NAME>
+          <NODE2_ID>74903</NODE2_ID>
+          <NODE2_NAME>RosesAvDeRhode7</NODE2_NAME>
+          <KMS>0.333</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>3.160526,42.266566 3.164502,42.267082</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>1.097624</gml:X><gml:Y>41.787025</gml:Y></gml:coord>
+      <gml:coord><gml:X>1.098920</gml:X><gml:Y>41.789249</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="42069">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.098920,41.787025</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>42069</NODE_ID>
+      <NODE_NAME>AgrmAjuntament</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="43374">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>1.097624,41.789249</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>43374</NODE_ID>
+      <NODE_NAME>AGRBegudes</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

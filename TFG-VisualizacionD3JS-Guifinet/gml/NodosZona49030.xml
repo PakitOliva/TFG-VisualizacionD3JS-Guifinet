@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dnodes.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-5.472196</gml:X><gml:Y>43.390641</gml:Y></gml:coord>
+      <gml:coord><gml:X>-5.384752</gml:X><gml:Y>43.431820</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <dnodes fid="65015">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.384752,43.391412</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>65015</NODE_ID>
+      <NODE_NAME>CBRNSMntIncos</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="48373">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.393273,43.415312</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>48373</NODE_ID>
+      <NODE_NAME>MDIEUmadieu</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="50898">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.454109,43.390641</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>50898</NODE_ID>
+      <NODE_NAME>CamasRiegu</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56755">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.409366,43.421574</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56755</NODE_ID>
+      <NODE_NAME>CABRANESSantolaya</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="56758">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.429295,43.410059</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>56758</NODE_ID>
+      <NODE_NAME>CABRANESCamas</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="62863">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.472196,43.414259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>62863</NODE_ID>
+      <NODE_NAME>CBRNSPandenes</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Working</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67088">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.416812,43.431820</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67088</NODE_ID>
+      <NODE_NAME>CBRNSNiaoElcorralon</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="67196">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.430674,43.420463</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>67196</NODE_ID>
+      <NODE_NAME>CBRNSLapuertaSN</NODE_NAME>
+      <NODE_TYPE>N_A</NODE_TYPE>
+      <STATUS>Planned</STATUS>
+    </dnodes>
+  </gml:featureMember>
+  <gml:featureMember>
+    <dnodes fid="73602">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-5.472109,43.414406</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <NODE_ID>73602</NODE_ID>
+      <NODE_NAME>CBRNSPandenesBis</NODE_NAME>
+      <NODE_TYPE>Supernode</NODE_TYPE>
+      <STATUS>Reserved</STATUS>
+    </dnodes>
+  </gml:featureMember>
+</ogr:FeatureCollection>

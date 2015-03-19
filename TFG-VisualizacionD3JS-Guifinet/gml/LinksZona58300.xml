@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3c.org/2001/XMLSchema-instance"
+     xsi:schemaLocation=". dlinks.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+<gml:coord><gml:X>2.353888</gml:X><gml:Y>41.626635</gml:Y></gml:coord>
+<gml:coord><gml:X>2.406888</gml:X><gml:Y>41.697257</gml:Y></gml:coord>
+   </gml:Box>
+</gml:boundedBy>
+          <gml:featureMember>
+          <dlinks fid="69170">
+          <NODE1_ID>49653</NODE1_ID>
+          <NODE1_NAME>ViverBellLloc</NODE1_NAME>
+          <NODE2_ID>65040</NODE2_ID>
+          <NODE2_NAME>CiSSPVQC8</NODE2_NAME>
+          <KMS>2.755</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.363807,41.666879 2.388051,41.683761</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="77609">
+          <NODE1_ID>48502</NODE1_ID>
+          <NODE1_NAME>SpvGatell8</NODE1_NAME>
+          <NODE2_ID>20742</NODE2_ID>
+          <NODE2_NAME>LDelVcastellvell</NODE2_NAME>
+          <KMS>7.484</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.372494,41.688890 2.406888,41.626635</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="80970">
+          <NODE1_ID>67296</NODE1_ID>
+          <NODE1_NAME>CRD10FN01</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>5.933</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.353888,41.637923 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="81236">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.436</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121139">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>75459</NODE2_ID>
+          <NODE2_NAME>SpvNodeFals1</NODE2_NAME>
+          <KMS>0.228</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.363795,41.686681</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121140">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>75461</NODE2_ID>
+          <NODE2_NAME>SpvNodeFals2</NODE2_NAME>
+          <KMS>0.336</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.366509,41.684077</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121141">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>75464</NODE2_ID>
+          <NODE2_NAME>SpvNodeFals4</NODE2_NAME>
+          <KMS>0.574</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.366660,41.692273</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121142">
+          <NODE1_ID>75463</NODE1_ID>
+          <NODE1_NAME>SpvNodeFals3</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.212</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.369006,41.686907 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121145">
+          <NODE1_ID>75467</NODE1_ID>
+          <NODE1_NAME>SpvNodeFals5</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.099</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.382503,41.686350 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121147">
+          <NODE1_ID>75468</NODE1_ID>
+          <NODE1_NAME>SpvNodeFals6</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.085</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.383719,41.685679 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121148">
+          <NODE1_ID>75469</NODE1_ID>
+          <NODE1_NAME>SpvNodeFals7</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.112</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.385027,41.686520 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121149">
+          <NODE1_ID>75471</NODE1_ID>
+          <NODE1_NAME>SpvNodeFals8</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.113</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.383665,41.687458 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121252">
+          <NODE1_ID>75344</NODE1_ID>
+          <NODE1_NAME>SpvGatell7</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.929</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.373057,41.688981 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121256">
+          <NODE1_ID>75542</NODE1_ID>
+          <NODE1_NAME>SpvAntoniGaudi7</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.323</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.365022,41.689798 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121258">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>75343</NODE2_ID>
+          <NODE2_NAME>SpvAssociacio25</NODE2_NAME>
+          <KMS>0.044</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.366948,41.686937</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121265">
+          <NODE1_ID>75546</NODE1_ID>
+          <NODE1_NAME>SpvOrenetes23</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.103</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.371224,41.689809 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121266">
+          <NODE1_ID>75547</NODE1_ID>
+          <NODE1_NAME>SpvPirineus12</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.511</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.367703,41.692878 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121268">
+          <NODE1_ID>75548</NODE1_ID>
+          <NODE1_NAME>SpvAger20</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.176</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364677,41.686274 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121310">
+          <NODE1_ID>75585</NODE1_ID>
+          <NODE1_NAME>SpvCanigo7</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.209</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.365020,41.685570 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121313">
+          <NODE1_ID>75593</NODE1_ID>
+          <NODE1_NAME>SpvPrunera12</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.277</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.368448,41.685142 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121315">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>75594</NODE2_ID>
+          <NODE2_NAME>SpvCanigo39</NODE2_NAME>
+          <KMS>0.181</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.365083,41.688361</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121400">
+          <NODE1_ID>75699</NODE1_ID>
+          <NODE1_NAME>SpvGatell26</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.138</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.370980,41.690219 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121431">
+          <NODE1_ID>75714</NODE1_ID>
+          <NODE1_NAME>SpvGranollers18</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.061</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366376,41.686560 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121432">
+          <NODE1_ID>75717</NODE1_ID>
+          <NODE1_NAME>SpvGranollers17</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.364</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.367314,41.686829 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121442">
+          <NODE1_ID>75727</NODE1_ID>
+          <NODE1_NAME>SpvLaPau14</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.294</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364197,41.685082 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121470">
+          <NODE1_ID>63428</NODE1_ID>
+          <NODE1_NAME>SpvAssociacio4</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.154</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366528,41.685717 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121531">
+          <NODE1_ID>75804</NODE1_ID>
+          <NODE1_NAME>SpvDelPrat33</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>1.153</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.369356,41.697257 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121564">
+          <NODE1_ID>73449</NODE1_ID>
+          <NODE1_NAME>SpvLocalSocialLesFal</NODE1_NAME>
+          <NODE2_ID>75550</NODE2_ID>
+          <NODE2_NAME>SpvCardedeu2</NODE2_NAME>
+          <KMS>0.2</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.366471,41.687104 2.366623,41.685309</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121655">
+          <NODE1_ID>61916</NODE1_ID>
+          <NODE1_NAME>SPVprunera9</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.32</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.368691,41.684750 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121854">
+          <NODE1_ID>75694</NODE1_ID>
+          <NODE1_NAME>SpvMatagalls81</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.391</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.368373,41.691451 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121857">
+          <NODE1_ID>76046</NODE1_ID>
+          <NODE1_NAME>SpvAntoniGaudi53</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.114</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.370958,41.689538 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121863">
+          <NODE1_ID>76048</NODE1_ID>
+          <NODE1_NAME>SpvCirerer15</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.254</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.369528,41.690290 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121867">
+          <NODE1_ID>76054</NODE1_ID>
+          <NODE1_NAME>SpvMatagalls18</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.305</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.368020,41.686048 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121869">
+          <NODE1_ID>76055</NODE1_ID>
+          <NODE1_NAME>SpvPauCasals82</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.433</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.367461,41.690743 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121872">
+          <NODE1_ID>76058</NODE1_ID>
+          <NODE1_NAME>SpvColobor7</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.163</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.370234,41.689269 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="121888">
+          <NODE1_ID>76068</NODE1_ID>
+          <NODE1_NAME>SpvCanigo12</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.14</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.365442,41.686109 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122088">
+          <NODE1_ID>76194</NODE1_ID>
+          <NODE1_NAME>SpvAger21</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.206</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.364303,41.686209 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122098">
+          <NODE1_ID>76201</NODE1_ID>
+          <NODE1_NAME>SpvCanMet</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.664</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.380490,41.680965 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122099">
+          <NODE1_ID>76203</NODE1_ID>
+          <NODE1_NAME>SpvMatagalls8</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>1.319</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.367914,41.685371 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122138">
+          <NODE1_ID>73341</NODE1_ID>
+          <NODE1_NAME>SpvDiposit4Camins</NODE1_NAME>
+          <NODE2_ID>76060</NODE2_ID>
+          <NODE2_NAME>SpvTillers6</NODE2_NAME>
+          <KMS>1.467</KMS>
+          <LINK_TYPE>wds</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.383691,41.686445 2.370377,41.695102</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122463">
+          <NODE1_ID>76060</NODE1_ID>
+          <NODE1_NAME>SpvTillers6</NODE1_NAME>
+          <NODE2_ID>75807</NODE2_ID>
+          <NODE2_NAME>SpvTillers3</NODE2_NAME>
+          <KMS>0.058</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.370377,41.695102 2.369681,41.695102</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="122514">
+          <NODE1_ID>76493</NODE1_ID>
+          <NODE1_NAME>SpvPirineus16</NODE1_NAME>
+          <NODE2_ID>76060</NODE2_ID>
+          <NODE2_NAME>SpvTillers6</NODE2_NAME>
+          <KMS>0.306</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Planned</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.367631,41.693275 2.370377,41.695102</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123389">
+          <NODE1_ID>71840</NODE1_ID>
+          <NODE1_NAME>SpvGatell9</NODE1_NAME>
+          <NODE2_ID>73449</NODE2_ID>
+          <NODE2_NAME>SpvLocalSocialLesFal</NODE2_NAME>
+          <KMS>0.576</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.372838,41.689137 2.366471,41.687104</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember>
+          <gml:featureMember>
+          <dlinks fid="123702">
+          <NODE1_ID>75014</NODE1_ID>
+          <NODE1_NAME>SpvPareraFont</NODE1_NAME>
+          <NODE2_ID>73341</NODE2_ID>
+          <NODE2_NAME>SpvDiposit4Camins</NODE2_NAME>
+          <KMS>0.667</KMS>
+          <LINK_TYPE>ap/client</LINK_TYPE>
+          <STATUS>Working</STATUS>
+          <ogr:geometryProperty><gml:LineString><gml:coordinates>2.376303,41.684121 2.383691,41.686445</gml:coordinates></gml:LineString></ogr:geometryProperty>
+          </dlinks>
+          </gml:featureMember></ogr:FeatureCollection>

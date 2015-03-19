@@ -18,28 +18,8 @@ import org.xml.sax.helpers.NamespaceSupport;
 public class MainGmlToJson {
 
 	public static void main(String[] args) {
-		SAXBuilder builder = new SAXBuilder();
-	 	//World http://guifi.net/es/guifi/cnml/3671/zones
-	    File xmlFileNodes = new File( "nodes.xml" );
-	    try
-	    {
-	        //Se crea el documento a traves del archivo
-	        Document documentNodes = (Document) builder.build( xmlFileNodes );
-	 
-	        //Se obtiene la raiz 'cnml'
-	        Element rootNodes = documentNodes.getRootElement();
-	        
-	        //System.out.println(rootNode.getChild("network").getChild("zone").toString());	       
-	        List<Element> elementZonaNodes=rootNodes.getChildren("featureMember",Namespace.getNamespace("http://www.opengis.net/gml"));
-	        //Zona Abla http://www.opengis.net/gml
-	        Zona zona=new Zona(elementZonaNodes, 31453);
-	        System.out.println(zona.zonaJSONtoString());
-	        
-	    }catch ( IOException io ) {
-	        System.out.println( io.getMessage() );
-	    }catch ( JDOMException jdomex ) {
-	        System.out.println( jdomex.getMessage() );
-	    }
+		jsonPorZona generen=new jsonPorZona("nodes.xml", "links.xml", 312456);
+		generen.generarJSON();
 	}
 
 }

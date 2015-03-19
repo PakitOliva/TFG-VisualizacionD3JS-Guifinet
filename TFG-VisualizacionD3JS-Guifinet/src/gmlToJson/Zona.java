@@ -14,11 +14,14 @@ public class Zona {
 	private JSONArray nodes;
 	private JSONArray links;
 	
-	public Zona(List<Element> elementZonaNode, int id) {
+	public Zona(List<Element> elementZonaNode,List<Element> elementZonaLink , int id) {
 		nodes=new JSONArray();
 		links=new JSONArray();
 		for(int i=0; i<elementZonaNode.size();i++){
 			nodes.add(new Nodo(elementZonaNode.get(i)));
+		}
+		for(int i=0; i<elementZonaLink.size(); i++){
+			links.add(new Link(elementZonaLink.get(i)));
 		}
 	}
 	public String zonaJSONtoString(){
@@ -33,6 +36,7 @@ public class Zona {
 			e.printStackTrace();
 		}
 		return out.toString();
+		//return obj.toJSONString();
 	}
 
 }

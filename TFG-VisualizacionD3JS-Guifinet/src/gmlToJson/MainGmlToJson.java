@@ -33,7 +33,7 @@ public class MainGmlToJson {
 	        List<Element> elementZonaNodes=rootNodes.getChildren("featureMember",Namespace.getNamespace("http://www.opengis.net/gml"));
 	        //Zona Abla http://www.opengis.net/gml
 	        Zona zona=new Zona(elementZonaNodes, 31453);
-	        
+	        System.out.println(zona.zonaJSONtoString());
 	        
 	    }catch ( IOException io ) {
 	        System.out.println( io.getMessage() );

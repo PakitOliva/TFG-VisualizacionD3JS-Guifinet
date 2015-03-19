@@ -1,5 +1,7 @@
 package ejecutarProyecto;
 
+import generarIndex.generarIndex;
+import generarIndex.mainMenu;
 import gmlToJson.jsonPorZona;
 
 import java.util.ArrayList;
@@ -8,7 +10,7 @@ import cnmlToJSON.cnmlToJSON;
 import descargarCNMLyGML.CNMLdownload;
 import descargarCNMLyGML.GMLdownload;
 
-public class MainEjecutarProyecto implements Runnable{
+public class MainEjecutarProyecto{
 	public static ArrayList<Integer> todasZonas;
 	public static int i=0;
 	public static void main(String[] args) {
@@ -23,12 +25,10 @@ public class MainEjecutarProyecto implements Runnable{
 		cnml.generarJSON();
 		
 		//Descargar todos los archivos GML de las zonas
-		//MainEjecutarProyecto mep=new MainEjecutarProyecto();
 		for( i =1600; i<todasZonas.size();i++){
 			GMLdownload gmlDown =new GMLdownload("http://guifi.net/es/guifi/gml/", "gml", todasZonas.get(i));
 			gmlDown.descargarGML();
 			System.out.println(todasZonas.get(i));
-			//Thread t=new Thread(mep);
 		}
 		
 		//Genero los JSON de cada zona
@@ -37,15 +37,16 @@ public class MainEjecutarProyecto implements Runnable{
 			jspz.generarJSON();
 			System.out.println(todasZonas.get(i));
 		}
+
+		//Generar Menu
+		mainMenu mm = new mainMenu();
+		mm.ejecutarMenu();
 		
+		//Generar inex.html con menú
+		generarIndex gi=new generarIndex();
+		gi.unirPublicar();
 				
 	}
 
-	@Override
-	public void run() {
-		GMLdownload gmlDown =new GMLdownload("http://guifi.net/es/guifi/gml/", "gml", todasZonas.get(i));
-		gmlDown.descargarGML();
-		System.out.println(todasZonas.get(i));
-	}
 
 }

@@ -1,4 +1,5 @@
-var dataset = "barcelones"
+//Antes var dataset = "barcelones"
+var dataset = "31453"
 var client = null // var client = 'client'
 var ap = null // var ap = 'ap'
 var Supernode = null // var Supernode = 'Supernode'
@@ -26,7 +27,7 @@ redraw = function() {
 
 function init() {
 
-	d3.json("data/guifi-d3-" + dataset + ".min.json",
+	d3.json("datos/guifi-zona-" + dataset + ".json",
 			function(data) {
 				var width = 1420, height = 1000;
 

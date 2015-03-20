@@ -15,7 +15,7 @@ public class MainEjecutarProyecto{
 	public static int i=0;
 	public static void main(String[] args) {
 		//Primer paso descargo el cnml World de guifi
-		CNMLdownload cnmlWorld=new CNMLdownload("http://guifi.net/es/guifi/cnml/", "cnml", 3671);
+		CNMLdownload cnmlWorld=new CNMLdownload("http://test.guifi.net/es/guifi/cnml/", "cnml", 3671);
 		cnmlWorld.descargarCNML();
 		
 		//****No está terminado, falta generar el json para crear el menú.****
@@ -26,7 +26,7 @@ public class MainEjecutarProyecto{
 		
 		//Descargar todos los archivos GML de las zonas
 		for( i =1600; i<todasZonas.size();i++){
-			GMLdownload gmlDown =new GMLdownload("http://guifi.net/es/guifi/gml/", "gml", todasZonas.get(i));
+			GMLdownload gmlDown =new GMLdownload("http://test.guifi.net/es/guifi/gml/", "gml", todasZonas.get(i));
 			gmlDown.descargarGML();
 			System.out.println(todasZonas.get(i));
 		}
